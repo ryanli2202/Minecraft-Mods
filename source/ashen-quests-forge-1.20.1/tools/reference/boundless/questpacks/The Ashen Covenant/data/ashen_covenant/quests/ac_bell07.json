@@ -1,0 +1,39 @@
+{
+  "id": "ac_bell07",
+  "name": "Provision the Descent",
+  "icon": "minecraft:bell",
+  "description": "Tamsin sees your new route and counts how far it is from help. Her supply list is more persuasive than any warning.\n\nDonate 16 bread and 16 coal to establish a relay store. Carry your own separate expedition supplies.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_bell06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:bread",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:coal",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

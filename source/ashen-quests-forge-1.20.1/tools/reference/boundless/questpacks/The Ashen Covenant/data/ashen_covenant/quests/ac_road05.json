@@ -1,0 +1,43 @@
+{
+  "id": "ac_road05",
+  "name": "A Road beneath Their Feet",
+  "icon": "minecraft:lantern",
+  "description": "The dead wait beneath the bridge supports. Elian thinks they are drawn to the travelers above; Sera suspects the old burial ground predates the river.\n\nReach 8 drowned kills and 12 zombie kills in your tracked totals. Previous kills count; do not treat these as a fresh wave defense.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_road04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:drowned",
+        "count": 8
+      },
+      {
+        "kill": "minecraft:zombie",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

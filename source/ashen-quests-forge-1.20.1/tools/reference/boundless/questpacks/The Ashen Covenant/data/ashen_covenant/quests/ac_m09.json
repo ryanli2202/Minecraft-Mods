@@ -1,0 +1,43 @@
+{
+  "id": "ac_m09",
+  "name": "09 | Armor for the Watch",
+  "icon": "minecraft:book",
+  "description": "Mara cannot arm everyone with legends. She can arm them with iron. While the scouts hunt the raiders, her forge works through the night.\n\nDonate 16 iron ingots and 12 leather to equip the watch. This supply mission and the roadblock hunt can be completed in either order.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_act2",
+  "dependencies": [
+    "ac_m07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:leather",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 5
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 45
+  }
+}

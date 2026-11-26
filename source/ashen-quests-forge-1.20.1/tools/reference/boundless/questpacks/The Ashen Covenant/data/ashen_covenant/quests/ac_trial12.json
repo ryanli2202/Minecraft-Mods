@@ -1,0 +1,38 @@
+{
+  "id": "ac_trial12",
+  "name": "An Unlikely Homecoming",
+  "icon": "minecraft:compass",
+  "description": "Fen wagers that every lost traveler wants to go home. Sera points out that a ghast may have a very different understanding of home.\n\nEarn Uneasy Alliance by bringing a ghast to the Overworld and killing it there under vanilla conditions. This difficult expedition is entirely optional.",
+  "category": "ac_trials",
+  "sub-category": "ac_mastertrials",
+  "dependencies": [
+    "ac_m48"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:nether/uneasy_alliance"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 160
+  }
+}

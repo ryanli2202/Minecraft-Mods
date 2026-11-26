@@ -1,0 +1,35 @@
+{
+  "id": "ac_ember05",
+  "name": "The Flame of a Dead Promise",
+  "icon": "minecraft:blaze_powder",
+  "description": "Sera has learned the final loyalist rite. It calls not for a new king but for someone willing to burn the world until the old one returns.\n\nAcquire a Cataclysm Burning Ashes offering. Verify the altar recipe and use before proceeding; this item is kept for the boss summon.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_ember04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:burning_ashes",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

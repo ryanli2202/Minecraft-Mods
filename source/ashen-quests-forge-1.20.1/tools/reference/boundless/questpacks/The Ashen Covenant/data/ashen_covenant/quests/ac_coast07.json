@@ -1,0 +1,39 @@
+{
+  "id": "ac_coast07",
+  "name": "Soundings for a New Harbor",
+  "icon": "minecraft:prismarine",
+  "description": "Iona and Fen chart routes by measuring what is there, not what a dead admiral ordered them to expect. The first revised chart is ugly and useful.\n\nDonate 24 paper and 16 prismarine shards to the coastal restoration fund.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_coast",
+  "dependencies": [
+    "ac_coast06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:paper",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:prismarine_shard",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="transmogifyarmour"
+version="${file.jarVersion}"
+displayName="Transmogify Armour"
+authors="Ryan"
+description='''Press = to give your armour the appearance of any installed armour piece. Search modded sets, preview your outfit, and keep your real stats and enchantments.'''
+[[dependencies.transmogifyarmour]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,48)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.transmogifyarmour]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

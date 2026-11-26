@@ -1,0 +1,29 @@
+{
+  "id": "takearms",
+  "name": "Take Arms",
+  "icon": "valarian_conquest:barathian_shield",
+  "description": "Cut down 20 soldiers serving the kingdoms of men as the war spreads across the realm.",
+  "category": "paragonofday",
+  "sub-category": "nationsofman",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "medievalcraftweapons:soldier",
+        "count": 40
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "cataclysm:ring_of_grudged",
+        "count": 1
+      }
+    ]
+  }
+}

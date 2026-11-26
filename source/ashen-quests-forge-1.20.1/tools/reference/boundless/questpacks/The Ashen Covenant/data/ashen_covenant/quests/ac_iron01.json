@@ -1,0 +1,39 @@
+{
+  "id": "ac_iron01",
+  "name": "A Captain's Missing Company",
+  "icon": "minecraft:iron_helmet",
+  "description": "Elian recognizes a name in the necromancer's records: the regiment he was ordered to abandon. He asks you to investigate before he calls himself fit to lead another expedition.\n\nAcquire a spyglass and 16 torches for the search. Plan a route through caves and ruins where the old war left its defenders.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_m18"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:spyglass",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:torch",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

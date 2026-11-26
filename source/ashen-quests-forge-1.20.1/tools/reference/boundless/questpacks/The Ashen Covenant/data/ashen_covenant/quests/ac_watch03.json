@@ -1,0 +1,39 @@
+{
+  "id": "ac_watch03",
+  "name": "The Colors Come Down",
+  "icon": "minecraft:shield",
+  "description": "A sorcerer is recruiting villages under the old sun banner. The watch cannot let fear restore the kingdom you already broke.\n\nDefeat 2 Illager Invasion sorcerers during your border expeditions.",
+  "category": "ac_guilds",
+  "sub-category": "ac_watch",
+  "dependencies": [
+    "ac_watch01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "illagerinvasion:sorcerer",
+        "count": 2
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

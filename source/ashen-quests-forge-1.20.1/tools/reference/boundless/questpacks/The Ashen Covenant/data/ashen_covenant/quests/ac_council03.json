@@ -1,0 +1,39 @@
+{
+  "id": "ac_council03",
+  "name": "The Machine beneath the Charter",
+  "icon": "minecraft:redstone_block",
+  "description": "Mara discovers that an automated arsenal continues issuing royal equipment to anyone carrying the old seal. A dead king can still purchase a civil war.\n\nAcquire Cataclysm's Mech Eye and 16 redstone. Consult JEI for the locator recipe and prepare to explore the Ancient Factory.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_council01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:mech_eye",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:redstone",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

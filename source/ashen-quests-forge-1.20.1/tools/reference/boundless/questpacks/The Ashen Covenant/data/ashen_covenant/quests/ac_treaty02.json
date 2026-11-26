@@ -1,0 +1,39 @@
+{
+  "id": "ac_treaty02",
+  "name": "Mara's Final Fitting",
+  "icon": "minecraft:writable_book",
+  "description": "Mara will not insist on a favorite weapon. She insists that you test a complete set of serious protection before crossing.\n\nAcquire netherite boots and a diamond helmet. These are gear milestones, not mandatory combat equipment.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_treaty01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:netherite_boots",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:diamond_helmet",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

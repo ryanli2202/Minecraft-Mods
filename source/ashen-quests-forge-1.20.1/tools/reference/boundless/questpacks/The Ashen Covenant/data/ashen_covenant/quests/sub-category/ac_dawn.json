@@ -1,0 +1,8 @@
+{
+  "id": "ac_dawn",
+  "category": "ac_reckoning",
+  "name": "XIV | A Kingdom without a Master",
+  "icon": "minecraft:beacon",
+  "order": 60,
+  "default_open": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_legend03",
+  "name": "The Prison of Winter",
+  "icon": "minecraft:soul_lantern",
+  "description": "Ysolde finds a prison built to hold a curse, with every cell door facing inward.\n\nUse Cataclysm's Cursed Eye to find the Frosted Prison and resolve the Maledictus encounter. Defeat the named boss once; tracked earlier kills may count.\n\nLegacy commendation: a victory or advancement earned on another story path can satisfy this record. This does not create a separate instance of the encounter.",
+  "category": "ac_legends",
+  "sub-category": "ac_afterdawn",
+  "dependencies": [
+    "ac_legend02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:maledictus",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 250
+  }
+}

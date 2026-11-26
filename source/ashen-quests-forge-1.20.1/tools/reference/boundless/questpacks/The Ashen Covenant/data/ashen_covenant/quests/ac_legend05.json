@@ -1,0 +1,39 @@
+{
+  "id": "ac_legend05",
+  "name": "A City beneath the Sound",
+  "icon": "minecraft:heart_of_the_sea",
+  "description": "Fen hears a bell below water too deep for anchors. He asks you to answer it before the next storm.\n\nUse Cataclysm's Abyss Eye to seek the Sunken City. Prepare underwater survival and the required offering for the Leviathan. Defeat the named boss once; tracked earlier kills may count.\n\nLegacy commendation: a victory or advancement earned on another story path can satisfy this record. This does not create a separate instance of the encounter.",
+  "category": "ac_legends",
+  "sub-category": "ac_afterdawn",
+  "dependencies": [
+    "ac_legend02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:the_leviathan",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 250
+  }
+}

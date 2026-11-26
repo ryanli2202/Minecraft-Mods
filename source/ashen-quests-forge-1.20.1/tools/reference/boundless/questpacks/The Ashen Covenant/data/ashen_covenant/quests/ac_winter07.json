@@ -1,0 +1,39 @@
+{
+  "id": "ac_winter07",
+  "name": "A Kingdom Remembered Incorrectly",
+  "icon": "minecraft:snowball",
+  "description": "Sera compares the northern testimonies with the official history. The golden age lasted only because its victims were removed from the record.\n\nDonate 12 paper and 8 ink sacs to publish the recovered testimonies before another ruler can suppress them.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_winter06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:paper",
+        "count": 12
+      },
+      {
+        "submit": "minecraft:ink_sac",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_winter05",
+  "name": "The Cabinet of Last Words",
+  "icon": "minecraft:snowball",
+  "description": "Inside the surviving records, the king's first subjects describe the covenant as a rescue. The later entries use a different word: ransom.\n\nAcquire 16 bookshelves and 4 lecterns to house the recovered testimony. Place them at your archive if desired; the tracked check is inventory.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_winter04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:bookshelf",
+        "count": 16
+      },
+      {
+        "collect": "minecraft:lectern",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "thepillagers",
+  "category": "paragonofday",
+  "name": "Pillagers and Raiders",
+  "icon": "majruszsdifficulty:pillager_treasure_bag",
+  "order": 1,
+  "default_open": true
+}

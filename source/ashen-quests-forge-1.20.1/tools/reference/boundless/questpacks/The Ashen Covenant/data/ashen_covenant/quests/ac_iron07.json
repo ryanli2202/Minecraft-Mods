@@ -1,0 +1,39 @@
+{
+  "id": "ac_iron07",
+  "name": "Orders Rescinded",
+  "icon": "minecraft:iron_helmet",
+  "description": "Elian writes his first honest dispatch: the regiment is released from service. He addresses it to the dead because he has no right to demand that the living forgive him yet.\n\nDonate 16 stone bricks and 4 lanterns for a regimental memorial. You may place a memorial in the world; completion checks the donation.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_iron06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:stone_bricks",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:lantern",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

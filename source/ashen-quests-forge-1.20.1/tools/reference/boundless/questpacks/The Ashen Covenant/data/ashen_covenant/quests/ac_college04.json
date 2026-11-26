@@ -1,0 +1,40 @@
+{
+  "id": "ac_college04",
+  "name": "A Lecturer with an Army",
+  "icon": "minecraft:enchanted_book",
+  "description": "An archevoker sends the library a demand for its unlicensed students. Sera replies with a reading list; Elian prepares for the less scholarly response.\n\nDefeat one Iron's Spellbooks archevoker. Explore its associated hostile structures and encounters.",
+  "category": "ac_guilds",
+  "sub-category": "ac_college",
+  "dependencies": [
+    "ac_college02",
+    "ac_college03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "irons_spellbooks:archevoker",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

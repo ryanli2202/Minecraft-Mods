@@ -1,0 +1,39 @@
+{
+  "id": "ac_trial07",
+  "name": "A Wager Nobody Else Pays",
+  "icon": "minecraft:iron_sword",
+  "description": "Dame Fortuna's invitation promises a shortcut to prosperity. Rowan asks that any wager you make be paid from your own purse.\n\nAcquire the Devil's Ante through JEI and use Meet Your Fight's normal summoning method, then defeat Dame Fortuna.",
+  "category": "ac_trials",
+  "sub-category": "ac_hunttrials",
+  "dependencies": [
+    "ac_m48"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "meetyourfight:dame_fortuna",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

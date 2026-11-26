@@ -1,0 +1,34 @@
+{
+  "id": "ac_m14",
+  "name": "14 | The First Ward",
+  "icon": "minecraft:enchanted_book",
+  "description": "Mara refuses to send you against a king's curse in untested equipment. \"Whatever weapon you favor,\" she says, \"give it a reason to survive.\"\n\nComplete the vanilla Enchanter advancement by enchanting an item. Use the Arcane College side story if you also want to develop spellcasting.",
+  "category": "ac_story",
+  "sub-category": "ac_act3",
+  "dependencies": [
+    "ac_m13"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:story/enchant_item"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 60
+  }
+}

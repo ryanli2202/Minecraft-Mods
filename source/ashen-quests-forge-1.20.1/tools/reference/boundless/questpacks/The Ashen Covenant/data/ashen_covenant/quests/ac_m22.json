@@ -1,0 +1,39 @@
+{
+  "id": "ac_m22",
+  "name": "22 | The Red Witness",
+  "icon": "iceandfire:fire_dragon_heart",
+  "description": "The fire dragon remembers the first king, or so Ysolde believes. It guards the scar where his soldiers stole the flame that sealed the bargain. You go there as the heir to their debt.\n\nDefeat one Ice and Fire fire dragon. Any stage that credits the fire_dragon kill counts. Bring serious equipment; this is the first major expedition boss.",
+  "category": "ac_story",
+  "sub-category": "ac_act4",
+  "dependencies": [
+    "ac_m21"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:fire_dragon",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 180
+  }
+}

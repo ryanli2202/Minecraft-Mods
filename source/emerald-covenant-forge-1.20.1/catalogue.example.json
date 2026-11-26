@@ -1,0 +1,35 @@
+{
+  "minecraft:bread": {
+    "price": 2
+  },
+  "minecraft:diamond_sword": {
+    "price": 120,
+    "requiredBearings": 1
+  },
+  "minecraft:diamond_helmet": {
+    "armorSet": "minecraft:diamond",
+    "setProtection": 20
+  },
+  "spell:irons_spellbooks:fireball:1": {
+    "price": 35
+  },
+  "yourmod:unusual_weapon": {
+    "category": "WEAPONS",
+    "attackDamage": 12,
+    "rarity": 2,
+    "price": 450
+  },
+  "yourmod:unwanted_item": {
+    "disabled": true
+  },
+  "extraOffers": [
+    {
+      "key": "example_named_sword",
+      "item": "minecraft:iron_sword",
+      "category": "WEAPONS",
+      "nbt": "{display:{Name:'{\"text\":\"Guild Initiate Blade\"}'}}",
+      "price": 90,
+      "requiredBearings": 0
+    }
+  ]
+}

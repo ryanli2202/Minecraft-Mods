@@ -1,0 +1,8 @@
+{
+  "id": "ac_board",
+  "category": "ac_contracts",
+  "name": "Dawnstead Relief Contracts",
+  "icon": "minecraft:paper",
+  "order": 1,
+  "default_open": true
+}

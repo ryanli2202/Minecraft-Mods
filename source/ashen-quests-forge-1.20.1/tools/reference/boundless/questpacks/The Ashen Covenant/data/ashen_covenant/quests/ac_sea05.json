@@ -1,0 +1,39 @@
+{
+  "id": "ac_sea05",
+  "name": "A Light below the Waves",
+  "icon": "minecraft:fishing_rod",
+  "description": "Fen draws up a new chart with a harbor no storm can extinguish. He marks it with your name, then agrees to use Dawnstead instead.\n\nAcquire a conduit. Build its underwater frame when ready; the objective checks the conduit item, not frame placement.",
+  "category": "ac_guilds",
+  "sub-category": "ac_sea",
+  "dependencies": [
+    "ac_sea04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:conduit",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 20
+      },
+      {
+        "item": "minecraft:prismarine",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

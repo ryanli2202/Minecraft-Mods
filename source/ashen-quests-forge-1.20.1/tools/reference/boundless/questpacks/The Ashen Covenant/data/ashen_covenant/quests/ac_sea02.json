@@ -1,0 +1,35 @@
+{
+  "id": "ac_sea02",
+  "name": "What the Tide Brings Back",
+  "icon": "minecraft:fishing_rod",
+  "description": "The drowned are gathering beside the moorings. Fen refuses to lose another passenger before the voyage even begins.\n\nDefeat 12 drowned total. Scout the shoreline and deal with trident carriers before entering deep water.",
+  "category": "ac_guilds",
+  "sub-category": "ac_sea",
+  "dependencies": [
+    "ac_sea01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:drowned",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 70
+  }
+}

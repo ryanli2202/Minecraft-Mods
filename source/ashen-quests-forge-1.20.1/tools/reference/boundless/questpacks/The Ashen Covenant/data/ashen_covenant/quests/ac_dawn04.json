@@ -1,0 +1,36 @@
+{
+  "id": "ac_dawn04",
+  "name": "The Offer of Perfect Peace",
+  "icon": "minecraft:beacon",
+  "description": "The ancient court offers to remove every difficult choice the council has faced. Elian calls it the same covenant written in kinder ink.\n\nEnter \"peace must leave us free\" to refuse the offer. This is the campaign's fixed position, not a promise of dynamically branching world states.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_dawn",
+  "dependencies": [
+    "ac_dawn02",
+    "ac_dawn03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "peace must leave us free",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

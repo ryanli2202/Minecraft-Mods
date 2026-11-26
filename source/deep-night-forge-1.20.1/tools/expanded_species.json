@@ -1,0 +1,7010 @@
+[
+  {
+    "id": "ashen_knight",
+    "title": "Ashen Knight",
+    "kind": "BOSS",
+    "stats": [
+      360,
+      12.0,
+      6.0,
+      0.28,
+      0.8,
+      2.6,
+      0.62
+    ],
+    "pack": "souls",
+    "model": "blackknight",
+    "texture": "blackknight",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\blackknight.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\blackknight.png",
+    "clips": 4,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "thorn_tyrant",
+    "title": "Thorn Tyrant",
+    "kind": "BOSS",
+    "stats": [
+      440,
+      13.6,
+      6.75,
+      0.29,
+      2.4,
+      2.8,
+      0.9
+    ],
+    "pack": "aerlunerpg",
+    "model": "boarboss",
+    "texture": "boarboss",
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\boarboss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\boarboss.png",
+    "clips": 5,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "hollow_colossus",
+    "title": "Hollow Colossus",
+    "kind": "BOSS",
+    "stats": [
+      520,
+      15.2,
+      7.5,
+      0.27,
+      2.4,
+      5.0,
+      0.95
+    ],
+    "pack": "world",
+    "model": "giant",
+    "texture": "giant",
+    "style": 2,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\giant.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\giant.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "cinder_gargoyle",
+    "title": "Cinder Gargoyle",
+    "kind": "BOSS",
+    "stats": [
+      600,
+      16.8,
+      8.25,
+      0.31,
+      1.5,
+      3.2,
+      0.62
+    ],
+    "pack": "souls",
+    "model": "gargoyle",
+    "texture": "gargoyle",
+    "style": 3,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\gargoyle.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\gargoyle.png",
+    "clips": 4,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "rootbound_ancient",
+    "title": "Rootbound Ancient",
+    "kind": "BOSS",
+    "stats": [
+      680,
+      18.4,
+      9.0,
+      0.27,
+      2.5,
+      4.5,
+      0.66
+    ],
+    "pack": "world",
+    "model": "entb",
+    "texture": "entb",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\entb.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\entb.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "abyssal_demon",
+    "title": "Abyssal Demon",
+    "kind": "BOSS",
+    "stats": [
+      760,
+      20.0,
+      9.75,
+      0.3,
+      2.6,
+      4.0,
+      0.64
+    ],
+    "pack": "souls",
+    "model": "asylumdemon",
+    "texture": "asylum_demon",
+    "style": 5,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\asylumdemon.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\asylum_demon.png",
+    "clips": 4,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "storm_herald",
+    "title": "Storm Herald",
+    "kind": "BOSS",
+    "stats": [
+      840,
+      21.6,
+      10.5,
+      0.33,
+      1.6,
+      3.4,
+      0.6
+    ],
+    "pack": "aerlunerpg",
+    "model": "air_elemental",
+    "texture": "air_elemental",
+    "style": 6,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\air_elemental.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\air_elemental.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "blood_sovereign",
+    "title": "Blood Sovereign",
+    "kind": "BOSS",
+    "stats": [
+      920,
+      23.200000000000003,
+      11.25,
+      0.34,
+      1.1,
+      2.8,
+      0.77
+    ],
+    "pack": "world",
+    "model": "vampire",
+    "texture": "vampire",
+    "style": 7,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\vampire.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\vampire.png",
+    "clips": 4,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "eclipse_wyrm",
+    "title": "Eclipse Wyrm",
+    "kind": "BOSS",
+    "stats": [
+      1000,
+      24.8,
+      12.0,
+      0.29,
+      3,
+      4,
+      0.79136
+    ],
+    "pack": "dragonfire",
+    "model": "endprowler",
+    "texture": null,
+    "style": 8,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\dragonfire-forge-1.20.1\\src\\main\\resources\\assets\\dragonfire\\geo\\endprowler.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\dragonfire-forge-1.20.1\\src\\main\\resources\\assets\\dragonfire\\textures\\entity\\endprowler.png",
+    "clips": 8,
+    "lift": 0.61133,
+    "ranged": false
+  },
+  {
+    "id": "stone_cyclops",
+    "pack": "world",
+    "model": "cyclops01",
+    "texture": "cyclops01",
+    "kind": "BOSS",
+    "title": "Stone Cyclops",
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\cyclops01.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\cyclops01.png",
+    "clips": 3,
+    "stats": [
+      1080,
+      26.4,
+      12.75,
+      0.29,
+      3,
+      4,
+      0.68824
+    ],
+    "lift": 0.4258,
+    "ranged": false
+  },
+  {
+    "id": "elder_cyclops",
+    "pack": "world",
+    "model": "cyclops1",
+    "texture": "cyclops1",
+    "kind": "BOSS",
+    "title": "Elder Cyclops",
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\cyclops1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\cyclops1.png",
+    "clips": 3,
+    "stats": [
+      1160,
+      28.0,
+      13.5,
+      0.29,
+      3,
+      4,
+      0.75211
+    ],
+    "lift": 0.094,
+    "ranged": false
+  },
+  {
+    "id": "abyssal_kraken",
+    "pack": "world",
+    "model": "kraken",
+    "texture": "kraken",
+    "kind": "BOSS",
+    "title": "Abyssal Kraken",
+    "style": 1,
+    "passive": false,
+    "aquatic": true,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\kraken.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\kraken.png",
+    "clips": 1,
+    "stats": [
+      1240,
+      29.6,
+      14.25,
+      0.29,
+      3,
+      4,
+      0.64083
+    ],
+    "lift": 2.1546,
+    "ranged": false
+  },
+  {
+    "id": "elder_nosferatu",
+    "pack": "world",
+    "model": "vampire_old",
+    "texture": "vampire_old",
+    "kind": "BOSS",
+    "title": "Elder Nosferatu",
+    "style": 2,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\vampire_old.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\vampire_old.png",
+    "clips": 4,
+    "stats": [
+      1320,
+      31.200000000000003,
+      15.0,
+      0.29,
+      3,
+      4,
+      1.10297
+    ],
+    "lift": 0.0092,
+    "ranged": false
+  },
+  {
+    "id": "crimson_abomination",
+    "pack": "world",
+    "model": "blood_dragon1",
+    "texture": "blood_dragon1",
+    "kind": "BOSS",
+    "title": "Crimson Abomination",
+    "style": 8,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\blood_dragon1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\blood_dragon1.png",
+    "clips": 3,
+    "stats": [
+      1400,
+      32.8,
+      15.75,
+      0.29,
+      3,
+      4,
+      0.22155
+    ],
+    "lift": 0.03366,
+    "ranged": false
+  },
+  {
+    "id": "three_headed_hydra",
+    "pack": "world",
+    "model": "water_dragon1",
+    "texture": "water_dragon1",
+    "kind": "BOSS",
+    "title": "Three Headed Hydra",
+    "style": 8,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\water_dragon1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\water_dragon1.png",
+    "clips": 1,
+    "stats": [
+      1480,
+      34.400000000000006,
+      16.5,
+      0.29,
+      3,
+      4,
+      0.23534
+    ],
+    "lift": 1.36535,
+    "ranged": false
+  },
+  {
+    "id": "starborn_tyrant",
+    "pack": "aerlunerpg",
+    "model": "boss",
+    "texture": "boss",
+    "kind": "BOSS",
+    "title": "Starborn Tyrant",
+    "style": 5,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\boss.png",
+    "clips": 1,
+    "stats": [
+      1560,
+      36.0,
+      17.25,
+      0.29,
+      3,
+      4,
+      0.20153
+    ],
+    "lift": 2.0541,
+    "ranged": false
+  },
+  {
+    "id": "foreign_matriarch",
+    "pack": "aerlunerpg",
+    "model": "buterfly1",
+    "texture": "butterfly_big",
+    "kind": "BOSS",
+    "title": "Foreign Matriarch",
+    "style": 6,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\buterfly1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\butterfly_big.png",
+    "clips": 1,
+    "stats": [
+      1640,
+      37.6,
+      18.0,
+      0.29,
+      3,
+      4,
+      0.34747
+    ],
+    "lift": 1.18242,
+    "ranged": false
+  },
+  {
+    "id": "alien_centipede",
+    "pack": "aerlunerpg",
+    "model": "centipede",
+    "texture": "centipede",
+    "kind": "BOSS",
+    "title": "Alien Centipede",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\centipede.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\centipede.png",
+    "clips": 1,
+    "stats": [
+      1720,
+      39.2,
+      18.75,
+      0.29,
+      3,
+      4,
+      0.32265
+    ],
+    "lift": 0.30391,
+    "ranged": false
+  },
+  {
+    "id": "giftbound_evergreen",
+    "pack": "aerlunerpg",
+    "model": "elkabiggift",
+    "texture": "elkabiggift",
+    "kind": "BOSS",
+    "title": "Giftbound Evergreen",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\elkabiggift.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\elkabiggift.png",
+    "clips": 1,
+    "stats": [
+      1800,
+      40.8,
+      19.5,
+      0.29,
+      3,
+      4,
+      0.44022
+    ],
+    "lift": 0.4075,
+    "ranged": false
+  },
+  {
+    "id": "elder_forest_ent",
+    "pack": "aerlunerpg",
+    "model": "ent",
+    "texture": "ent",
+    "kind": "BOSS",
+    "title": "Elder Forest Ent",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\ent.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\ent.png",
+    "clips": 3,
+    "stats": [
+      1880,
+      42.400000000000006,
+      20.25,
+      0.29,
+      3,
+      4,
+      0.95531
+    ],
+    "lift": 0.1127,
+    "ranged": false
+  },
+  {
+    "id": "mithril_golem",
+    "pack": "aerlunerpg",
+    "model": "golem1",
+    "texture": "golem",
+    "kind": "BOSS",
+    "title": "Mithril Golem",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\golem1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\golem.png",
+    "clips": 4,
+    "stats": [
+      1960,
+      44.0,
+      21.0,
+      0.29,
+      3,
+      4,
+      0.77504
+    ],
+    "lift": 0.018,
+    "ranged": false
+  },
+  {
+    "id": "walking_house",
+    "pack": "aerlunerpg",
+    "model": "house",
+    "texture": "house",
+    "kind": "BOSS",
+    "title": "Walking House",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\house.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\house.png",
+    "clips": 5,
+    "stats": [
+      2040,
+      45.6,
+      21.75,
+      0.29,
+      3,
+      4,
+      0.40389
+    ],
+    "lift": 0.1319,
+    "ranged": false
+  },
+  {
+    "id": "inferno_dragon",
+    "pack": "boxx",
+    "model": "dragon/fire_dragon.json",
+    "texture": "dragon/fire_dragon.json",
+    "kind": "BOSS",
+    "title": "Inferno Dragon",
+    "style": 8,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:fire_dragon",
+      "materials": {
+        "default": "zombie"
+      },
+      "textures": {
+        "default": "textures/entity/fire_dragon"
+      },
+      "geometry": {
+        "default": "geometry.fire_dragon"
+      },
+      "animations": {
+        "charged": "controller.animation.dragon",
+        "spawn": "controller.animation.dragon_spawn",
+        "move": "animation.fire_dragon.walk_combat",
+        "eye": "animation.fire_dragon.eye",
+        "static": "animation.fire_dragon.idle_combat",
+        "shoot": "animation.fire_dragon.fireball",
+        "scratch_attack": "animation.fire_dragon.scratch_attack",
+        "fly_start": "animation.fire_dragon.takeoff",
+        "fly_idle": "animation.fire_dragon.idle_fly",
+        "move_fly": "animation.fire_dragon.move_fly",
+        "landing": "animation.fire_dragon.landing",
+        "rush_alt": "animation.fire_dragon.rush_alt",
+        "rush_end": "animation.fire_dragon.rush_end",
+        "spit_line": "animation.fire_dragon.spit_line",
+        "spawn1": "animation.fire_dragon.spawn1",
+        "spawn2": "animation.fire_dragon.spawn2",
+        "spawn3": "animation.fire_dragon.spawn3",
+        "dragon_theme": "animation.fire_dragon.theme"
+      },
+      "particle_effects": {
+        "dragon.1": "hf:dragon.1",
+        "dragon.3": "hf:dragon.3",
+        "dragon.4": "hf:dragon.4",
+        "dragon.5": "hf:dragon.5",
+        "dragon.6": "hf:dragon.6"
+      },
+      "sound_effects": {
+        "fly1": "random.dragon.fly1",
+        "fly2": "random.dragon.fly2",
+        "fly3": "random.dragon.fly3",
+        "land": "random.dragon.land",
+        "fall": "random.dragon.fall",
+        "spitline": "random.dragon.spitline",
+        "glide": "random.dragon.glide",
+        "death": "random.dragon.death"
+      },
+      "scripts": {
+        "animate": [
+          "eye",
+          {
+            "charged": "query.skin_id == 0"
+          },
+          {
+            "spawn": "query.skin_id >= 1"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.dragon"
+      ],
+      "spawn_egg": {
+        "texture": "dragon_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\dragon.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\fire_dragon.png",
+    "clips": 17,
+    "stats": [
+      2120,
+      47.2,
+      22.5,
+      0.29,
+      3,
+      4,
+      0.34166
+    ],
+    "lift": 2.55646,
+    "ranged": false
+  },
+  {
+    "id": "mountain_kong",
+    "pack": "boxx",
+    "model": "kingkong/kingkong.json",
+    "texture": "kingkong/kingkong.json",
+    "kind": "BOSS",
+    "title": "Mountain Kong",
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "ck:kingkong",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/kingkong"
+      },
+      "geometry": {
+        "default": "geometry.kingkong"
+      },
+      "render_controllers": [
+        "controller.render.kong"
+      ],
+      "spawn_egg": {
+        "texture": "kong_boss"
+      },
+      "scripts": {
+        "animate": [
+          "general"
+        ]
+      },
+      "sound_effects": {
+        "fall": "random.kingkong.fall",
+        "land": "random.kingkong.land",
+        "howl": "random.kingkong.howl",
+        "death": "random.kingkong.death",
+        "attack1": "random.kingkong.attack",
+        "attack2": "random.kingkong.ranged",
+        "kong_theme": "theme.kong"
+      },
+      "particle_effects": {
+        "kingkong.1": "hf:kingkong.1",
+        "kingkong.2": "hf:kingkong.2",
+        "kingkong.3": "hf:kingkong.3",
+        "kingkong.4": "hf:kingkong.4",
+        "kingkong.5": "hf:kingkong.5",
+        "kingkong.6": "hf:kingkong.6",
+        "kingkong.7": "hf:kingkong.7",
+        "kingkong.8": "hf:kingkong.8",
+        "kingkong.10": "hf:kingkong.10",
+        "kingkong.11": "hf:kingkong.11",
+        "kingkong.12": "hf:kingkong.12",
+        "kingkong.13": "hf:kingkong.13"
+      },
+      "animations": {
+        "spawn_animation": "animation.kingkong.spawn",
+        "idle": "animation.kingkong.idle",
+        "move": "animation.kingkong.walk",
+        "death_1": "animation.kingkong.death_1",
+        "death_2": "animation.kingkong.death_2",
+        "howl": "animation.kingkong.howl",
+        "attack_1": "animation.kingkong.attack",
+        "ranged": "animation.kingkong.ranged",
+        "jump_attack": "animation.kingkong.jump_attack",
+        "jump_a": "animation.kingkong.jump_a",
+        "jump_b": "animation.kingkong.jump_b",
+        "jump_c": "animation.kingkong.jump_c",
+        "rolling": "animation.kingkong.rolling",
+        "general": "controller.animation.kingkong.general",
+        "kong_theme": "animation.kingkong.theme"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\kingkong.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\kingkong.png",
+    "clips": 14,
+    "stats": [
+      2200,
+      48.800000000000004,
+      23.25,
+      0.29,
+      3,
+      4,
+      0.88387
+    ],
+    "lift": 0.12829,
+    "ranged": false
+  },
+  {
+    "id": "iron_overlord",
+    "pack": "boxx",
+    "model": "knight/knight_boss.entity.json",
+    "texture": "knight/knight_boss.entity.json",
+    "kind": "BOSS",
+    "title": "Iron Overlord",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "ck:knight_boss",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/knight_boss"
+      },
+      "geometry": {
+        "default": "geometry.knight_boss"
+      },
+      "animations": {
+        "idle": "animation.knight_boss.idle",
+        "move": "animation.knight_boss.walk",
+        "death": "animation.knight_boss.death",
+        "attack_1": "animation.knight_boss.attack",
+        "pre_spin_attack": "animation.knight_boss.pre_spin_attack",
+        "hold_spin_attack": "animation.knight_boss.hold_spin_attack",
+        "end_spin_attack": "animation.knight_boss.end_spin_attack",
+        "summon": "animation.knight_boss.summon",
+        "pre_spawn": "animation.knight_boss.pre_spawn",
+        "spawn_animation": "animation.knight_boss.spawn_animation",
+        "knight_theme": "animation.knight_boss.theme",
+        "general": "controller.animation.knight_boss.general"
+      },
+      "scripts": {
+        "animate": [
+          "general"
+        ]
+      },
+      "particle_effects": {
+        "knight_boss.1": "hf:knight_boss.1",
+        "knight_boss.2": "hf:knight_boss.2",
+        "knight_boss.3": "hf:knight_boss.3",
+        "knight_boss.4": "hf:knight_boss.4",
+        "knight_boss.5": "hf:knight_boss.5"
+      },
+      "sound_effects": {
+        "spawn": "mob.knight_boss.spawn",
+        "death": "mob.knight_boss.death",
+        "summon": "mob.knight_boss.summon",
+        "spin1": "mob.knight_boss.spin1",
+        "spin2": "mob.knight_boss.spin2",
+        "spin3": "mob.knight_boss.spin3",
+        "knight_theme": "theme.knight"
+      },
+      "render_controllers": [
+        "controller.render.knight_boss"
+      ],
+      "spawn_egg": {
+        "texture": "knight_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\knight_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\knight_boss.png",
+    "clips": 11,
+    "stats": [
+      2280,
+      50.400000000000006,
+      24.0,
+      0.29,
+      3,
+      4,
+      0.61141
+    ],
+    "lift": 0.2385,
+    "ranged": false
+  },
+  {
+    "id": "sandstorm_lizard",
+    "pack": "boxx",
+    "model": "lizard/lizard.json",
+    "texture": "lizard/lizard.json",
+    "kind": "BOSS",
+    "title": "Sandstorm Lizard",
+    "style": 6,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:lizard",
+      "materials": {
+        "default": "zombie"
+      },
+      "textures": {
+        "default": "textures/entity/lizard"
+      },
+      "geometry": {
+        "default": "geometry.lizard"
+      },
+      "animations": {
+        "general": "controller.animation.lizard",
+        "static": "animation.lizard.idle",
+        "attack1": "animation.lizard.attack1",
+        "attack2": "animation.lizard.attack2",
+        "attract": "animation.lizard.attract1",
+        "push": "animation.lizard.push_away1",
+        "spit_fire": "animation.lizard.spit2",
+        "summon": "animation.lizard.summon",
+        "spawn": "animation.lizard.spawn",
+        "fly1": "animation.lizard.fly1",
+        "fly2": "animation.lizard.fly2",
+        "fly3": "animation.lizard.fly3",
+        "lizard_theme": "animation.lizard.theme"
+      },
+      "sound_effects": {
+        "attract": "random.lizard.attract",
+        "pushaway": "random.lizard.push_away",
+        "spit2": "random.lizard.spit",
+        "spawn": "random.lizard.spawn",
+        "summon": "random.lizard.summon",
+        "lizard_theme": "theme.lizard",
+        "death": "random.lizard.death"
+      },
+      "particle_effects": {
+        "lizard_attack.1": "hf:lizard_attack.1",
+        "lizard_attack.2": "hf:lizard_attack.2",
+        "lizard_attract.1": "hf:lizard_attract.1",
+        "lizard_attract.2": "hf:lizard_attract.2",
+        "lizard_push.1": "hf:lizard_push.1",
+        "lizard_push.2": "hf:lizard_push.2",
+        "lizard_push.3": "hf:lizard_push.3",
+        "lizard_push.4": "hf:lizard_push.4",
+        "lizard_push.5": "hf:lizard_push.5",
+        "lizard_push.6": "hf:lizard_push.6",
+        "lizard_spawn.1": "hf:lizard_spawn.1",
+        "lizard_spawn.2": "hf:lizard_spawn.2",
+        "lizard_spawn.3": "hf:lizard_spawn.3",
+        "lizard_spawn.4": "hf:lizard_spawn.4",
+        "lizard_spawn.5": "hf:lizard_spawn.5",
+        "lizard_spawn.6": "hf:lizard_spawn.6",
+        "lizard_spawn.7": "hf:lizard_spawn.7",
+        "lizard_spawn.8": "hf:lizard_spawn.8",
+        "lizard_spit.1": "hf:lizard_spit.1",
+        "lizard_spit.2": "hf:lizard_spit.2",
+        "lizard_spit.3": "hf:lizard_spit.3",
+        "lizard_spit.4": "hf:lizard_spit.4",
+        "lizard_spit.5": "hf:lizard_spit.5",
+        "lizard_spit.6": "hf:lizard_spit.6",
+        "lizard_spit.7": "hf:lizard_spit.7",
+        "lizard_spit.8": "hf:lizard_spit.8",
+        "lizard_spit.9": "hf:lizard_spit.9",
+        "lizard_spit.10": "hf:lizard_spit.10",
+        "lizard_summon.1": "hf:lizard_summon.1",
+        "lizard_summon.2": "hf:lizard_summon.2",
+        "lizard_summon.3": "hf:lizard_summon.3"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned"
+          },
+          {
+            "spawn": "query.is_stunned"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.lizard"
+      ],
+      "spawn_egg": {
+        "texture": "lizard_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\lizard.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\lizard.png",
+    "clips": 13,
+    "stats": [
+      2360,
+      52.0,
+      24.75,
+      0.29,
+      3,
+      4,
+      0.5063
+    ],
+    "lift": 1.2233,
+    "ranged": false
+  },
+  {
+    "id": "arcane_mecha",
+    "pack": "boxx",
+    "model": "mecha/mecha.entity.json",
+    "texture": "mecha/mecha.entity.json",
+    "kind": "BOSS",
+    "title": "Arcane Mecha",
+    "style": 6,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "ck:mecha",
+      "materials": {
+        "default": "phantom"
+      },
+      "textures": {
+        "default": "textures/entity/mecha"
+      },
+      "geometry": {
+        "default": "geometry.mecha"
+      },
+      "animations": {
+        "hide": "animation.mecha.hide_shield",
+        "laser_attack": "animation.mecha.laser_attack",
+        "idle": "animation.mecha.idle",
+        "move": "animation.mecha.walk",
+        "attack_1": "animation.mecha.attack_1",
+        "attack_2": "animation.mecha.attack_2",
+        "pre_buff": "animation.mecha.pre_buff",
+        "hold_buff": "animation.mecha.hold_buff",
+        "end_buff": "animation.mecha.end_buff",
+        "pre_sprint": "animation.mecha.pre_sprint",
+        "hold_sprint": "animation.mecha.hold_sprint",
+        "end_sprint": "animation.mecha.end_sprint",
+        "shield": "controller.animation.mecha.shield",
+        "spawn": "animation.mecha.spawn",
+        "spawn_pose": "animation.mecha.spawn_pose",
+        "mecha_theme": "animation.mecha.theme",
+        "general": "controller.animation.mecha.general"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_ignited && !query.is_stunned"
+          },
+          "shield",
+          {
+            "spawn": "!query.is_ignited && query.is_stunned"
+          },
+          {
+            "spawn_pose": "query.is_ignited"
+          }
+        ]
+      },
+      "sound_effects": {
+        "buff1": "random.mecha.buff1",
+        "buff2": "random.mecha.buff2",
+        "buff3": "random.mecha.buff3",
+        "sprint1": "mecha.sprint1",
+        "sprint2": "mecha.sprint2",
+        "sprint3": "mecha.sprint3",
+        "laser_attack": "random.mecha.laser_attack",
+        "spawn": "random.mecha.spawn",
+        "mecha_theme": "theme.mecha",
+        "death": "random.mecha.death"
+      },
+      "particle_effects": {
+        "mecha.laser.1": "hf:mecha.laser.1",
+        "mecha.laser.2": "hf:mecha.laser.2",
+        "mecha.laser.3": "hf:mecha.laser.3",
+        "mecha.laser.4": "hf:mecha.laser.4",
+        "mecha.laser.5": "hf:mecha.laser.5",
+        "mecha.laser.6": "hf:mecha.laser.6",
+        "mecha.laser.7": "hf:mecha.laser.7",
+        "mecha.laser.8": "hf:mecha.laser.8",
+        "mecha.laser.9": "hf:mecha.laser.9",
+        "mecha.laser.10": "hf:mecha.laser.10",
+        "mecha.laser.11": "hf:mecha.laser.11",
+        "mecha.laser.12": "hf:mecha.laser.12",
+        "mecha.laser.13": "hf:mecha.laser.13",
+        "mecha.laser.14": "hf:mecha.laser.14",
+        "mecha.laser.15": "hf:mecha.laser.15",
+        "mecha.laser.16": "hf:mecha.laser.16",
+        "mecha.laser.17": "hf:mecha.laser.17"
+      },
+      "render_controllers": [
+        "controller.render.mecha"
+      ],
+      "spawn_egg": {
+        "texture": "mecha_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\mecha.feo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\mecha.png",
+    "clips": 16,
+    "stats": [
+      2440,
+      53.6,
+      25.5,
+      0.29,
+      3,
+      4,
+      0.39392
+    ],
+    "lift": 0.01159,
+    "ranged": false
+  },
+  {
+    "id": "leviathan",
+    "pack": "boxx",
+    "model": "sea_snake/sea_snake.json",
+    "texture": "sea_snake/sea_snake.json",
+    "kind": "BOSS",
+    "title": "Leviathan",
+    "style": 7,
+    "passive": false,
+    "aquatic": true,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:sea_snake",
+      "materials": {
+        "default": "zombie"
+      },
+      "textures": {
+        "default": "textures/entity/sea_snake"
+      },
+      "geometry": {
+        "default": "geometry.sea_snake"
+      },
+      "sound_effects": {
+        "spawn": "random.sea_snake.spawn",
+        "attack_onwater": "random.sea_snake.attack_onwater",
+        "attack_underwater": "random.sea_snake.attack_underwater",
+        "seasnake_theme": "theme.seasnake",
+        "death": "random.sea_snake.death"
+      },
+      "animations": {
+        "general": "controller.animation.sea_snake",
+        "move": "animation.sea_snake.move",
+        "static": "animation.sea_snake.idle",
+        "attack_underwater": "animation.sea_snake.attack_underwater",
+        "attack_outwater": "animation.sea_snake.attack_outwater",
+        "pre_idle_ranged": "animation.sea_snake.idle_outwater",
+        "idle_ranged": "animation.sea_snake.idle_outwater_loop",
+        "end_idle_ranged": "animation.sea_snake.idle_outwater_end",
+        "spawn": "animation.sea_snake.spawn",
+        "seasnake_theme": "animation.sea_snake.theme"
+      },
+      "particle_effects": {
+        "serpent_attack.1": "hf:serpent_attack.1",
+        "serpent_attack.2": "hf:serpent_attack.2",
+        "serpent_attack.3": "hf:serpent_attack.3",
+        "serpent.1": "hf:serpent.1",
+        "serpent.2": "hf:serpent.2",
+        "serpent.3": "hf:serpent.3",
+        "serpent.4": "hf:serpent.4",
+        "serpent.5": "hf:serpent.5",
+        "serpent.6": "hf:serpent.6",
+        "serpent.7": "hf:serpent.7",
+        "serpent.8": "hf:serpent.8",
+        "serpent.9": "hf:serpent.9",
+        "serpent.10": "hf:serpent.10",
+        "serpent.11": "hf:serpent.11",
+        "serpent.12": "hf:serpent.12",
+        "serpent.13": "hf:serpent.13",
+        "serpent.14": "hf:serpent.14"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned"
+          },
+          {
+            "spawn": "query.is_stunned"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.seasnake"
+      ],
+      "spawn_egg": {
+        "texture": "snake_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\sea_snake.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\sea_snake.png",
+    "clips": 10,
+    "stats": [
+      2520,
+      55.2,
+      26.25,
+      0.29,
+      3,
+      4,
+      1.25494
+    ],
+    "lift": 1.18906,
+    "ranged": false
+  },
+  {
+    "id": "thunder_lord",
+    "pack": "boxx",
+    "model": "thunder_lord/thunder_lord.json",
+    "texture": "thunder_lord/thunder_lord.json",
+    "kind": "BOSS",
+    "title": "Thunder Lord",
+    "style": 6,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:thunder_lord",
+      "materials": {
+        "default": "zombie"
+      },
+      "textures": {
+        "default": "textures/entity/thunder_lord"
+      },
+      "geometry": {
+        "default": "geometry.thunder_lord"
+      },
+      "animations": {
+        "general": "controller.animation.thunder_lord",
+        "move": "animation.thunder_lord.walk",
+        "static": "animation.thunder_lord.idle",
+        "static_sound": "animation.thunder_lord.idle_sound",
+        "attack": "animation.thunder_lord.attack",
+        "light": "animation.thunder_lord.light",
+        "spawn": "animation.thunder_lord.spawn",
+        "pre_spawn": "animation.thunder_lord.pre_spawn",
+        "summon": "animation.thunder_lord.summon",
+        "throwing": "animation.thunder_lord.throwing_test"
+      },
+      "particle_effects": {
+        "thunder_lord.1": "hf:thunder_lord.1",
+        "thunder_lord.2": "hf:thunder_lord.2",
+        "thunder_lord.3": "hf:thunder_lord.3",
+        "thunder_lord.4": "hf:thunder_lord.4",
+        "thunder_lord.5": "hf:thunder_lord.5",
+        "thunder_lord.6": "hf:thunder_lord.6",
+        "thunder_lord.7": "hf:thunder_lord.7"
+      },
+      "sound_effects": {
+        "spawn": "random.thunder_lord.spawn",
+        "idle": "random.thunder_lord.idle",
+        "summon": "random.thunder_lord.summon",
+        "throw1": "random.thunder_lord.throw1",
+        "throw2": "random.thunder_lord.throw2",
+        "throw3": "random.thunder_lord.throw3",
+        "death": "random.thunder_lord.death"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned && !query.is_baby"
+          },
+          "light",
+          {
+            "spawn": "query.is_stunned"
+          },
+          {
+            "pre_spawn": "query.is_baby"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.thunder_lord"
+      ],
+      "spawn_egg": {
+        "texture": "thunder_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\thunder_lord.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\thunder_lord.png",
+    "clips": 10,
+    "stats": [
+      2600,
+      56.800000000000004,
+      27.0,
+      0.29,
+      3,
+      4,
+      0.4333
+    ],
+    "lift": 0.3824,
+    "ranged": false
+  },
+  {
+    "id": "frost_king",
+    "pack": "boxx",
+    "model": "yeti/yeti_boss.json",
+    "texture": "yeti/yeti_boss.json",
+    "kind": "BOSS",
+    "title": "Frost King",
+    "style": 6,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "mob:yeti_boss",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/boss/yeti_boss"
+      },
+      "geometry": {
+        "default": "geometry.yeti_boss"
+      },
+      "scripts": {
+        "animate": [
+          "root"
+        ]
+      },
+      "animations": {
+        "root": "controller.animation.yeti.root",
+        "root_attack": "controller.animation.yeti.root_attack",
+        "pose": "animation.yeti.pose",
+        "idle": "animation.yeti.idle",
+        "walk": "animation.yeti.walk",
+        "jump_A": "animation.yeti.jump_A",
+        "jump_B": "animation.yeti.jump_B",
+        "jump_C": "animation.yeti.jump_C",
+        "attack": "animation.yeti.attack",
+        "rolling": "animation.yeti.rolling",
+        "roll_offset": "animation.yeti.roll_offset",
+        "throw": "animation.yeti.throw",
+        "death1": "animation.yeti.death1",
+        "yeti_theme": "animation.yeti_boss.theme",
+        "death2": "animation.yeti.death2"
+      },
+      "sound_effects": {
+        "yeti.attack": "yeti.attack",
+        "yeti.death": "yeti.death",
+        "yeti.freeze": "yeti.freeze",
+        "yeti.step": "yeti.step",
+        "yeti.spin": "yeti.spin",
+        "yeti.land": "yeti.land",
+        "yeti.fall": "yeti.fall"
+      },
+      "spawn_egg": {
+        "texture": "yeti_boss"
+      },
+      "render_controllers": [
+        "controller.render.yeti_boss"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\yeti_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\boss\\yeti_boss.png",
+    "clips": 14,
+    "stats": [
+      2680,
+      58.400000000000006,
+      27.75,
+      0.29,
+      3,
+      4,
+      0.75992
+    ],
+    "lift": 0.1249,
+    "ranged": false
+  },
+  {
+    "id": "goblin_warlord",
+    "pack": "boxx",
+    "model": "goblin/goblin_alone.json",
+    "texture": "goblin/goblin_alone.json",
+    "kind": "BOSS",
+    "title": "Goblin Warlord",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:goblin_alone",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/goblin_alone",
+        "mount": "textures/entity/goblin_mount"
+      },
+      "geometry": {
+        "default": "geometry.goblin_alone",
+        "mount": "geometry.goblin_mount"
+      },
+      "sound_effects": {
+        "spawn": "random.goblin_mount.spawn",
+        "summon": "random.goblin_mount.summon",
+        "death": "random.goblin_mount.death"
+      },
+      "animations": {
+        "general": "controller.animation.goblin",
+        "spawn": "animation.goblin.spawn",
+        "attack1": "animation.goblin.attack1",
+        "attack2": "animation.goblin.attack2",
+        "attack3": "animation.goblin.attack3",
+        "summon": "animation.goblin.summon",
+        "static": "animation.goblin.idle",
+        "walk": "animation.goblin.walk",
+        "despawn_mount": "animation.goblin_mount.despawn",
+        "general_mount": "controller.animation.goblin_mount",
+        "spawn_mount": "animation.goblin_mount.spawn",
+        "attack1_mount": "animation.goblin_mount.attack1",
+        "attack2_mount": "animation.goblin_mount.attack2",
+        "attack3_mount": "animation.goblin_mount.attack3",
+        "summon_mount": "animation.goblin_mount.summon",
+        "static_mount": "animation.goblin_mount.idle",
+        "walk_mount": "animation.goblin_mount.walk"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned && !query.is_ignited"
+          },
+          {
+            "general_mount": "!query.is_stunned && query.is_ignited"
+          },
+          {
+            "spawn": "query.is_stunned && !query.is_ignited"
+          },
+          {
+            "spawn_mount": "query.is_stunned && query.is_ignited"
+          }
+        ]
+      },
+      "particle_effects": {
+        "goblin.1": "hf:goblin.1",
+        "goblin.2": "hf:goblin.2",
+        "goblin.3": "hf:goblin.3",
+        "goblin.4": "hf:goblin.4",
+        "goblin.5": "hf:goblin.5",
+        "goblin.6": "hf:goblin.6",
+        "goblin.7": "hf:goblin.7",
+        "goblin.8": "hf:goblin.8",
+        "goblin_hog.1": "hf:goblin_hog.1",
+        "goblin_hog.2": "hf:goblin_hog.2",
+        "goblin_hog.3": "hf:goblin_hog.3",
+        "goblin_hog.4": "hf:goblin_hog.4",
+        "goblin_hog.5": "hf:goblin_hog.5",
+        "goblin_hog.6": "hf:goblin_hog.6",
+        "goblin_hog.7": "hf:goblin_hog.7",
+        "goblin_hog.8": "hf:goblin_hog.8",
+        "goblin_hog.9": "hf:goblin_hog.9",
+        "goblin_hog.10": "hf:goblin_hog.10"
+      },
+      "render_controllers": [
+        "controller.render.goblin"
+      ],
+      "spawn_egg": {
+        "texture": "goblin_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\goblin1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\goblin_alone.png",
+    "clips": 16,
+    "stats": [
+      2760,
+      60.0,
+      28.5,
+      0.29,
+      3,
+      4,
+      0.82106
+    ],
+    "lift": 0.367,
+    "ranged": false
+  },
+  {
+    "id": "goblin_ravager",
+    "pack": "boxx",
+    "model": "goblin/goblin_alone.json",
+    "texture": "goblin/goblin_alone.json",
+    "kind": "BOSS",
+    "title": "Goblin Ravager",
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:goblin_alone",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/goblin_mount"
+      },
+      "geometry": {
+        "default": "geometry.goblin_mount"
+      },
+      "sound_effects": {
+        "spawn": "random.goblin_mount.spawn",
+        "summon": "random.goblin_mount.summon"
+      },
+      "animations": {
+        "despawn": "animation.goblin_mount.despawn",
+        "general": "controller.animation.goblin_mount",
+        "spawn": "animation.goblin_mount.spawn",
+        "attack1": "animation.goblin_mount.attack1",
+        "attack2": "animation.goblin_mount.attack2",
+        "attack3": "animation.goblin_mount.attack3",
+        "summon": "animation.goblin_mount.summon",
+        "static": "animation.goblin_mount.idle",
+        "walk": "animation.goblin_mount.walk"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned && !query.is_ignited"
+          },
+          {
+            "general_mount": "!query.is_stunned && query.is_ignited"
+          },
+          {
+            "spawn": "query.is_stunned && !query.is_ignited"
+          },
+          {
+            "spawn_mount": "query.is_stunned && query.is_ignited"
+          }
+        ]
+      },
+      "particle_effects": {
+        "goblin.1": "hf:goblin.1",
+        "goblin.2": "hf:goblin.2",
+        "goblin.3": "hf:goblin.3",
+        "goblin.4": "hf:goblin.4",
+        "goblin.5": "hf:goblin.5",
+        "goblin.6": "hf:goblin.6",
+        "goblin.7": "hf:goblin.7",
+        "goblin.8": "hf:goblin.8",
+        "goblin_hog.1": "hf:goblin_hog.1",
+        "goblin_hog.2": "hf:goblin_hog.2",
+        "goblin_hog.3": "hf:goblin_hog.3",
+        "goblin_hog.4": "hf:goblin_hog.4",
+        "goblin_hog.5": "hf:goblin_hog.5",
+        "goblin_hog.6": "hf:goblin_hog.6",
+        "goblin_hog.7": "hf:goblin_hog.7",
+        "goblin_hog.8": "hf:goblin_hog.8",
+        "goblin_hog.9": "hf:goblin_hog.9",
+        "goblin_hog.10": "hf:goblin_hog.10"
+      },
+      "render_controllers": [
+        "controller.render.goblin"
+      ],
+      "spawn_egg": {
+        "texture": "goblin_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\goblin_mount.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\goblin_mount.png",
+    "clips": 8,
+    "stats": [
+      2840,
+      61.6,
+      29.25,
+      0.29,
+      3,
+      4,
+      0.63814
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ancient_endershulk",
+    "pack": "bosses+",
+    "model": "endershulk",
+    "texture": "endershulk",
+    "kind": "BOSS",
+    "title": "Endershulk Regent",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\endershulk_boss\\endershulk.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\endershulk_boss\\endershulk.png",
+    "clips": 18,
+    "stats": [
+      2920,
+      63.2,
+      30,
+      0.29,
+      3,
+      4,
+      1.03226
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ancient_frog_boss",
+    "pack": "bosses+",
+    "model": "frog_boss",
+    "texture": "frog_boss",
+    "kind": "BOSS",
+    "title": "Bog Sovereign",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\frog_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\frog_boss.png",
+    "clips": 34,
+    "stats": [
+      3000,
+      64.80000000000001,
+      30,
+      0.29,
+      3,
+      4,
+      1.15766
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ancient_golem_boss",
+    "pack": "bosses+",
+    "model": "golem_boss",
+    "texture": "golem_boss",
+    "kind": "BOSS",
+    "title": "Runic Golem",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\golem_boss\\golem_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\golem_boss\\golem_boss.png",
+    "clips": 11,
+    "stats": [
+      3080,
+      66.4,
+      30,
+      0.29,
+      3,
+      4,
+      1.45024
+    ],
+    "lift": -0.72635,
+    "ranged": false
+  },
+  {
+    "id": "ancient_mammoth_boss",
+    "pack": "bosses+",
+    "model": "mammoth_boss",
+    "texture": "mammoth_boss",
+    "kind": "BOSS",
+    "title": "Glacial Mammoth",
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\mammoth_boss\\mammoth_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\mammoth_boss\\mammoth_boss_1.png",
+    "clips": 17,
+    "stats": [
+      3160,
+      68.0,
+      30,
+      0.29,
+      3,
+      4,
+      0.82919
+    ],
+    "lift": 0.0095,
+    "ranged": false
+  },
+  {
+    "id": "ancient_phantom_boss",
+    "pack": "bosses+",
+    "model": "phantom_boss",
+    "texture": "phantom_boss",
+    "kind": "BOSS",
+    "title": "Phantom Monarch",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\phantom_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\phantom_boss\\phantom_boss.png",
+    "clips": 7,
+    "stats": [
+      3240,
+      69.6,
+      30,
+      0.29,
+      3,
+      4,
+      1.09981
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ancient_piglin_boss",
+    "pack": "bosses+",
+    "model": "piglin_boss",
+    "texture": "piglin_boss",
+    "kind": "BOSS",
+    "title": "Piglin Warchief",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\piglin_boss\\piglin_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\piglin_boss\\piglin_boss.png",
+    "clips": 14,
+    "stats": [
+      3320,
+      71.2,
+      30,
+      0.29,
+      3,
+      4,
+      0.61168
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ancient_sculkpion_boss",
+    "pack": "bosses+",
+    "model": "sculkpion_boss",
+    "texture": "sculkpion_boss",
+    "kind": "BOSS",
+    "title": "Sculkpion",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\sculkpion_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\sculkpion_boss.png",
+    "clips": 13,
+    "stats": [
+      3400,
+      72.80000000000001,
+      30,
+      0.29,
+      3,
+      4,
+      0.8042
+    ],
+    "lift": 0.16814,
+    "ranged": false
+  },
+  {
+    "id": "ancient_yeti_boss",
+    "pack": "bosses+",
+    "model": "yeti_boss",
+    "texture": "yeti_boss",
+    "kind": "BOSS",
+    "title": "Rimefang Yeti",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\yeti_boss\\yeti_boss.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\yeti_boss.png",
+    "clips": 10,
+    "stats": [
+      3480,
+      74.4,
+      30,
+      0.29,
+      3,
+      4,
+      0.74419
+    ],
+    "lift": 0.9302,
+    "ranged": false
+  },
+  {
+    "id": "the_deep_night",
+    "title": "The Deep Night",
+    "kind": "BOSS",
+    "stats": [
+      3560,
+      76.0,
+      30,
+      0.3,
+      3.5,
+      6.0,
+      0.145
+    ],
+    "pack": "aerlunerpg",
+    "model": "cthulhu",
+    "texture": "cthulhu",
+    "style": 9,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\cthulhu.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\cthulhu.png",
+    "clips": 1,
+    "lift": 3.5,
+    "ranged": false
+  },
+  {
+    "id": "ember_drake",
+    "title": "Ember Drake",
+    "kind": "PET",
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      3.75,
+      3.75,
+      0.4766
+    ],
+    "pack": "dragonfire",
+    "model": "searclaw",
+    "texture": null,
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\dragonfire-forge-1.20.1\\src\\main\\resources\\assets\\dragonfire\\geo\\searclaw.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\dragonfire-forge-1.20.1\\src\\main\\resources\\assets\\dragonfire\\textures\\entity\\searclaw.png",
+    "clips": 8,
+    "lift": 1.34075,
+    "ranged": false
+  },
+  {
+    "id": "tide_drake",
+    "title": "Tide Drake",
+    "kind": "PET",
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      3.75,
+      3.75,
+      0.45895
+    ],
+    "pack": "dragonfire",
+    "model": "tidewing",
+    "texture": null,
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\dragonfire-forge-1.20.1\\src\\main\\resources\\assets\\dragonfire\\geo\\tidewing.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\dragonfire-forge-1.20.1\\src\\main\\resources\\assets\\dragonfire\\textures\\entity\\tidewing.png",
+    "clips": 8,
+    "lift": 1.291,
+    "ranged": false
+  },
+  {
+    "id": "dusk_drake",
+    "title": "Dusk Drake",
+    "kind": "PET",
+    "stats": [
+      90.0,
+      10.0,
+      5.0,
+      0.32,
+      4.0,
+      4.5,
+      3.375
+    ],
+    "pack": "world",
+    "model": "flydragon",
+    "texture": "flydragon",
+    "style": 2,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\flydragon.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\flydragon.png",
+    "clips": 3,
+    "lift": 0.0,
+    "ranged": false
+  },
+  {
+    "id": "dire_boar",
+    "title": "Dire Boar",
+    "kind": "PET",
+    "stats": [
+      70.0,
+      8.0,
+      8.0,
+      0.3,
+      1.3,
+      1.4,
+      0.48
+    ],
+    "pack": "aerlunerpg",
+    "model": "boar",
+    "texture": "boar",
+    "style": 3,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\boar.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\boar.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "moon_stag",
+    "title": "Moon Stag",
+    "kind": "PET",
+    "stats": [
+      65.0,
+      7.0,
+      4.0,
+      0.36,
+      1.1,
+      2.0,
+      0.38
+    ],
+    "pack": "aerlunerpg",
+    "model": "deerbig",
+    "texture": "deerbig",
+    "style": 4,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\deerbig.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\deerbig.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "star_unicorn",
+    "title": "Star Unicorn",
+    "kind": "PET",
+    "stats": [
+      80.0,
+      6.0,
+      5.0,
+      0.34,
+      1.3,
+      1.8,
+      0.66
+    ],
+    "pack": "world",
+    "model": "unicorn",
+    "texture": "unicorn",
+    "style": 5,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\unicorn.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\unicorn.png",
+    "clips": 2,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "meadow_butterfly",
+    "pack": "world",
+    "model": "butterfly",
+    "texture": "butterfly",
+    "kind": "PET",
+    "title": "Meadow Butterfly",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\butterfly.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\block\\butterfly_blue.png",
+    "clips": 1,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.54526
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "forest_butterfly",
+    "pack": "world",
+    "model": "butterfly1",
+    "texture": "butterfly",
+    "kind": "PET",
+    "title": "Forest Butterfly",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\butterfly1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\block\\butterfly_blue.png",
+    "clips": 1,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.54526
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ocean_whale",
+    "pack": "world",
+    "model": "whale1",
+    "texture": "whale",
+    "kind": "PET",
+    "title": "Ocean Whale",
+    "style": 0,
+    "passive": false,
+    "aquatic": true,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\whale1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\whale.png",
+    "clips": 2,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.6,
+      2.5,
+      0.13103
+    ],
+    "lift": 1.5784,
+    "ranged": false
+  },
+  {
+    "id": "silver_whale",
+    "pack": "world",
+    "model": "whal2e",
+    "texture": "whale",
+    "kind": "PET",
+    "title": "Silver Whale",
+    "style": 0,
+    "passive": false,
+    "aquatic": true,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\whal2e.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\whale.png",
+    "clips": 2,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.6,
+      2.5,
+      0.13103
+    ],
+    "lift": 1.5784,
+    "ranged": false
+  },
+  {
+    "id": "candy_bear",
+    "pack": "aerlunerpg",
+    "model": "bearcandy",
+    "texture": "bearcandy",
+    "kind": "PET",
+    "title": "Candy Bear",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\bearcandy.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\bearcandy.png",
+    "clips": 3,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.5,
+      1.5,
+      1.03828
+    ],
+    "lift": 0.0133,
+    "ranged": false
+  },
+  {
+    "id": "great_boar",
+    "pack": "aerlunerpg",
+    "model": "boarbig",
+    "texture": "boarbig",
+    "kind": "PET",
+    "title": "Great Boar",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\boarbig.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\boarbig.png",
+    "clips": 3,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.5,
+      1.5,
+      0.46064
+    ],
+    "lift": 0.0189,
+    "ranged": false
+  },
+  {
+    "id": "moon_butterfly",
+    "pack": "aerlunerpg",
+    "model": "buttermini",
+    "texture": "buttermini",
+    "kind": "PET",
+    "title": "Moon Butterfly",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\buttermini.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\buttermini.png",
+    "clips": 1,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.35354
+    ],
+    "lift": 0.1143,
+    "ranged": false
+  },
+  {
+    "id": "sapling_ent",
+    "pack": "aerlunerpg",
+    "model": "ent_tree_small",
+    "texture": "tree_ent_small",
+    "kind": "PET",
+    "title": "Sapling Ent",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\ent_tree_small.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\tree_ent_small.png",
+    "clips": 2,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.5,
+      1.5,
+      0.19139
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "woodland_rabbit",
+    "pack": "aerlunerpg",
+    "model": "rabbit",
+    "texture": "rabbit",
+    "kind": "PET",
+    "title": "Woodland Rabbit",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\rabbit.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\rabbit.png",
+    "clips": 3,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.85,
+      0.85,
+      0.36918
+    ],
+    "lift": 0.0341,
+    "ranged": false
+  },
+  {
+    "id": "fluffy_hound",
+    "pack": "aerlunerpg",
+    "model": "rabbitpet",
+    "texture": "rabbitpet",
+    "kind": "PET",
+    "title": "Fluffy Hound",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\rabbitpet.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\rabbitpet.png",
+    "clips": 2,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.85,
+      0.85,
+      0.35213
+    ],
+    "lift": 0.1008,
+    "ranged": false
+  },
+  {
+    "id": "tiny_bat",
+    "pack": "aerlunerpg",
+    "model": "small_bat",
+    "texture": "small_bat",
+    "kind": "PET",
+    "title": "Tiny Bat",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\small_bat.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\block\\small_bat.png",
+    "clips": 1,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.55
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "luminous_beetle",
+    "pack": "aerlunerpg",
+    "model": "small_beatle",
+    "texture": "small_beatle",
+    "kind": "PET",
+    "title": "Luminous Beetle",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\small_beatle.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\small_beatle.png",
+    "clips": 2,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.11588
+    ],
+    "lift": 0.0542,
+    "ranged": false
+  },
+  {
+    "id": "frost_golem",
+    "pack": "aerlunerpg",
+    "model": "snowgolem",
+    "texture": "snowgolem",
+    "kind": "PET",
+    "title": "Frost Golem",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\snowgolem.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\snowgolem.png",
+    "clips": 3,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.5,
+      1.5,
+      0.65627
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "woodland_squirrel",
+    "pack": "aerlunerpg",
+    "model": "squirrel",
+    "texture": "squirrel",
+    "kind": "PET",
+    "title": "Woodland Squirrel",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\squirrel.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\block\\squirrel.png",
+    "clips": 1,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.26282
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "honey_bear",
+    "pack": "boxx",
+    "model": "bear.json",
+    "texture": "bear.json",
+    "kind": "PET",
+    "title": "Honey Bear",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "honeyfrost:bear",
+      "textures": {
+        "default": "textures/entity/bear"
+      },
+      "geometry": {
+        "default": "geometry.bear"
+      },
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "animations": {
+        "walk": "animation.bear.walk",
+        "idle": "animation.bear.idle",
+        "attack": "animation.bear.attack"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#F9F9F9",
+        "overlay_color": "#C4C4C4"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "walk": "query.modified_move_speed"
+          },
+          {
+            "attack": "variable.attack_time > 0.0"
+          }
+        ]
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bear.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\bear.png",
+    "clips": 3,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.5,
+      1.5,
+      0.5006
+    ],
+    "lift": 0.2751,
+    "ranged": false
+  },
+  {
+    "id": "pond_frog",
+    "pack": "boxx",
+    "model": "custom_frog.json",
+    "texture": "custom_frog.json",
+    "kind": "PET",
+    "title": "Pond Frog",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "honeyfrost:frog",
+      "textures": {
+        "default": "textures/entity/custom_frog"
+      },
+      "geometry": {
+        "default": "geometry.custom_frog"
+      },
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "animations": {
+        "walk": "animation.custom_frog.walk",
+        "idle": "animation.custom_frog.idle",
+        "ctrl": "controller.animation.custom_frog"
+      },
+      "spawn_egg": {
+        "base_color": "#19470E",
+        "overlay_color": "#34951D"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "scripts": {
+        "animate": [
+          "ctrl"
+        ]
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\custom_frog.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\custom_frog.png",
+    "clips": 2,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.55
+    ],
+    "lift": 0.0935,
+    "ranged": false
+  },
+  {
+    "id": "city_pigeon",
+    "pack": "boxx",
+    "model": "Pigeon.json",
+    "texture": "Pigeon.json",
+    "kind": "PET",
+    "title": "City Pigeon",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "hfrlc:pigeon",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entities/pigeon_tx"
+      },
+      "geometry": {
+        "default": "geometry.pigeon"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "animations": {
+        "pigeon_idle": "animation.pigeon.idle",
+        "pigeon_walk": "animation.pigeon.walk",
+        "pigeon_fly": "animation.pigeon.fly",
+        "controller": "controller.animation.pigeon"
+      },
+      "scripts": {
+        "animate": [
+          "controller"
+        ]
+      },
+      "sound_effects": {
+        "fly": "random.pigeon.fly"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\pigeon.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entities\\pigeon_tx.png",
+    "clips": 3,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.86625
+    ],
+    "lift": -0.0,
+    "ranged": false
+  },
+  {
+    "id": "dune_scorpion",
+    "pack": "boxx",
+    "model": "scorpion.json",
+    "texture": "scorpion.json",
+    "kind": "PET",
+    "title": "Dune Scorpion",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:scorpion",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/scorpion"
+      },
+      "geometry": {
+        "default": "geometry.scorpion"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#B6902D",
+        "overlay_color": "#F1BE3B"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\scorpion.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\scorpion.png",
+    "clips": 0,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.49363
+    ],
+    "lift": 0.157,
+    "ranged": false
+  },
+  {
+    "id": "sea_turtle",
+    "pack": "boxx",
+    "model": "sea turtle.entity.json",
+    "texture": "sea turtle.entity.json",
+    "kind": "PET",
+    "title": "Sea Turtle",
+    "style": 0,
+    "passive": false,
+    "aquatic": true,
+    "height": null,
+    "descriptor": {
+      "identifier": "pirates:sea_turtle",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/entities/sea turtle"
+      },
+      "geometry": {
+        "default": "geometry.pirates.sea_turtle"
+      },
+      "animations": {
+        "animTPose": "animation.pirates.sea_turtle_tpose",
+        "animIdle": "animation.pirates.sea_turtle_idle",
+        "animSwim": "animation.pirates.sea_turtle_swim",
+        "animAttack": "animation.pirates.sea_turtle_attack",
+        "animDead": "animation.pirates.sea_turtle_dead",
+        "animSwimSounds": "animation.pirates.sea_turtle_swim_sounds",
+        "contMovement": "controller.animation.pirates_sea_turtle_movement"
+      },
+      "scripts": {
+        "animate": [
+          "contMovement"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#1F4196",
+        "overlay_color": "#5973B3"
+      },
+      "sound_effects": {
+        "swim": "mob.pirates.sea_turtle.swim"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\sea turtle.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entities\\sea turtle.png",
+    "clips": 6,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.85,
+      0.85,
+      0.82172
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "seagull",
+    "pack": "boxx",
+    "model": "seagull.entity.json",
+    "texture": "seagull.entity.json",
+    "kind": "PET",
+    "title": "Seagull",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "pirates:seagull",
+      "materials": {
+        "default": "entity"
+      },
+      "textures": {
+        "default": "textures/entities/seagull"
+      },
+      "geometry": {
+        "default": "geometry.pirates.seagull"
+      },
+      "animations": {
+        "animFalling": "animation.pirates.seagull_falling",
+        "animFlying": "animation.pirates.seagull_flying",
+        "animLanding": "animation.pirates.seagull_landing",
+        "animWalk": "animation.pirates.seagull_walk",
+        "animRun": "animation.pirates.seagull_run",
+        "animIdle": "animation.pirates.seagull_idle",
+        "animIdleAction1": "animation.pirates.seagull_idle_action_1",
+        "animIdleAction2": "animation.pirates.seagull_idle_action_2",
+        "animDeathGround": "animation.pirates.seagull_death_ground",
+        "animFallToDeath": "animation.pirates.seagull_dying_while_flying",
+        "animDeathAir": "animation.pirates.seagull_death_in_flight",
+        "contMovement": "controller.animation.pirates_seagull_movement"
+      },
+      "scripts": {
+        "animate": [
+          "contMovement"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#1F4196",
+        "overlay_color": "#5973B3"
+      },
+      "sound_effects": {
+        "fly": "mob.pirates.seagull.fly",
+        "falling": "mob.pirates.seagull.death_fall",
+        "deadOnGround": "mob.pirates.seagull.death_ground",
+        "deadAfterLanding": "mob.pirates.seagull.death_land"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\seagull.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entities\\seagull.png",
+    "clips": 11,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.85,
+      0.85,
+      0.84233
+    ],
+    "lift": 0.0084,
+    "ranged": false
+  },
+  {
+    "id": "coastal_gull",
+    "pack": "boxx",
+    "model": "seagull_idle.json",
+    "texture": "seagull_idle.json",
+    "kind": "PET",
+    "title": "Coastal Gull",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:seagull_idle",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/entities/seagull2"
+      },
+      "geometry": {
+        "default": "geometry.seagull2"
+      },
+      "animations": {
+        "idle": "animation.seagull.idle",
+        "idle2": "animation.seagull.idle2",
+        "idle3": "animation.seagull.idle3"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "query.variant == 0"
+          },
+          {
+            "idle2": "query.variant == 1"
+          },
+          {
+            "idle3": "query.variant == 2"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#1F4196",
+        "overlay_color": "#5973B3"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\seagull2.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entities\\seagull2.png",
+    "clips": 3,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.85,
+      0.85,
+      0.84233
+    ],
+    "lift": 0.0084,
+    "ranged": false
+  },
+  {
+    "id": "pelican",
+    "pack": "boxx",
+    "model": "pelican_idle.json",
+    "texture": "pelican_idle.json",
+    "kind": "PET",
+    "title": "Pelican",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:pelican_idle",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/entities/pelican"
+      },
+      "geometry": {
+        "default": "geometry.pelican"
+      },
+      "animations": {
+        "idle": "animation.pelican.idle",
+        "idle2": "animation.pelican.idle2",
+        "idle3": "animation.pelican.idle3",
+        "idle4": "animation.pelican.idle4"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "query.variant == 0"
+          },
+          {
+            "idle2": "query.variant == 1"
+          },
+          {
+            "idle3": "query.variant == 2"
+          },
+          {
+            "idle4": "query.variant == 3"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#1F4196",
+        "overlay_color": "#5973B3"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\pelican.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entities\\pelican.png",
+    "clips": 4,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.85,
+      0.85,
+      0.59165
+    ],
+    "lift": 0.0018,
+    "ranged": false
+  },
+  {
+    "id": "jungle_snake",
+    "pack": "boxx",
+    "model": "snake.entity.json",
+    "texture": "snake.entity.json",
+    "kind": "PET",
+    "title": "Jungle Snake",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "pirates:snake",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/entities/snake"
+      },
+      "geometry": {
+        "default": "geometry.pirates.snake"
+      },
+      "animations": {
+        "animWalk": "animation.pirates.snake_walk",
+        "animIdle": "animation.pirates.snake_idle",
+        "animAttack": "animation.pirates.snake_attack",
+        "animDead": "animation.pirates.snake_dead",
+        "animIdleToWalk": "animation.pirates.snake_idle_to_walk",
+        "animWalkToIdle": "animation.pirates.snake_walk_to_idle",
+        "contMovement": "controller.animation.pirates_snake_movement"
+      },
+      "scripts": {
+        "animate": [
+          "contMovement"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#B26B1B",
+        "overlay_color": "#EA8C22"
+      },
+      "sound_effects": {
+        "walk": "mob.pirates.snake.walk"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\snake.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entities\\snake.png",
+    "clips": 6,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      0.55,
+      0.55,
+      0.49685
+    ],
+    "lift": 0.4887,
+    "ranged": false
+  },
+  {
+    "id": "young_kong",
+    "pack": "boxx",
+    "model": "kingkong/kingkong_small.json",
+    "texture": "kingkong/kingkong_small.json",
+    "kind": "PET",
+    "title": "Young Kong",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "ck:little_kingkong",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/little_kingkong"
+      },
+      "geometry": {
+        "default": "geometry.little_kingkong"
+      },
+      "render_controllers": [
+        "controller.render.little_kong"
+      ],
+      "spawn_egg": {
+        "base_color": "#4e2307",
+        "overlay_color": "#fcb545"
+      },
+      "scripts": {
+        "animate": [
+          "general"
+        ]
+      },
+      "sound_effects": {
+        "spawn": "random.kingkong.spawn"
+      },
+      "animations": {
+        "spawn": "animation.little_kingkong.spawn",
+        "idle": "animation.little_kingkong.idle",
+        "move": "animation.little_kingkong.walk",
+        "attack_1": "animation.little_kingkong.attack",
+        "death": "animation.little_kingkong.death",
+        "general": "controller.animation.little_kingkong.general"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\little_kingkong.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\little_kingkong.png",
+    "clips": 5,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.5,
+      1.5,
+      0.55461
+    ],
+    "lift": 0.02774,
+    "ranged": false
+  },
+  {
+    "id": "inferno_wyvern",
+    "pack": "boxx",
+    "model": "dragon/fire_dragon.json",
+    "texture": "dragon/fire_dragon.json",
+    "kind": "PET",
+    "title": "Inferno Wyvern",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:fire_dragon",
+      "materials": {
+        "default": "zombie"
+      },
+      "textures": {
+        "default": "textures/entity/fire_dragon"
+      },
+      "geometry": {
+        "default": "geometry.fire_dragon_saddled"
+      },
+      "animations": {
+        "charged": "controller.animation.dragon",
+        "spawn": "controller.animation.dragon_spawn",
+        "move": "animation.fire_dragon.walk_combat",
+        "eye": "animation.fire_dragon.eye",
+        "static": "animation.fire_dragon.idle_combat",
+        "shoot": "animation.fire_dragon.fireball",
+        "scratch_attack": "animation.fire_dragon.scratch_attack",
+        "fly_start": "animation.fire_dragon.takeoff",
+        "fly_idle": "animation.fire_dragon.idle_fly",
+        "move_fly": "animation.fire_dragon.move_fly",
+        "landing": "animation.fire_dragon.landing",
+        "rush_alt": "animation.fire_dragon.rush_alt",
+        "rush_end": "animation.fire_dragon.rush_end",
+        "spit_line": "animation.fire_dragon.spit_line",
+        "spawn1": "animation.fire_dragon.spawn1",
+        "spawn2": "animation.fire_dragon.spawn2",
+        "spawn3": "animation.fire_dragon.spawn3",
+        "dragon_theme": "animation.fire_dragon.theme"
+      },
+      "particle_effects": {
+        "dragon.1": "hf:dragon.1",
+        "dragon.3": "hf:dragon.3",
+        "dragon.4": "hf:dragon.4",
+        "dragon.5": "hf:dragon.5",
+        "dragon.6": "hf:dragon.6"
+      },
+      "sound_effects": {
+        "fly1": "random.dragon.fly1",
+        "fly2": "random.dragon.fly2",
+        "fly3": "random.dragon.fly3",
+        "land": "random.dragon.land",
+        "fall": "random.dragon.fall",
+        "spitline": "random.dragon.spitline",
+        "glide": "random.dragon.glide"
+      },
+      "scripts": {
+        "animate": [
+          "eye",
+          {
+            "charged": "query.skin_id == 0"
+          },
+          {
+            "spawn": "query.skin_id >= 1"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.dragon"
+      ],
+      "spawn_egg": {
+        "texture": "dragon_boss"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\dragon_saddled.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\fire_dragon.png",
+    "clips": 16,
+    "stats": [
+      90,
+      8,
+      5,
+      0.29,
+      1.5,
+      1.5,
+      0.12812
+    ],
+    "lift": 0.95867,
+    "ranged": false
+  },
+  {
+    "id": "night_goblin",
+    "title": "Night Goblin",
+    "kind": "MOB",
+    "stats": [
+      30.0,
+      5.0,
+      2.0,
+      0.29,
+      0.7,
+      1.3,
+      0.85
+    ],
+    "pack": "world",
+    "model": "goblin",
+    "texture": "goblin",
+    "style": 6,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\goblin.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\goblin.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "grave_ghoul",
+    "title": "Grave Ghoul",
+    "kind": "MOB",
+    "stats": [
+      42.0,
+      7.0,
+      3.0,
+      0.27,
+      0.8,
+      1.8,
+      0.92
+    ],
+    "pack": "world",
+    "model": "ghoul",
+    "texture": "ghoul",
+    "style": 7,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\ghoul.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\ghoul.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "serpent_guard",
+    "title": "Serpent Guard",
+    "kind": "MOB",
+    "stats": [
+      50.0,
+      8.0,
+      6.0,
+      0.28,
+      0.9,
+      2.2,
+      0.72
+    ],
+    "pack": "souls",
+    "model": "serpentman",
+    "texture": "serpentman_texture",
+    "style": 8,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\serpentman.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\serpentman_texture.png",
+    "clips": 4,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "dusk_assassin",
+    "title": "Dusk Assassin",
+    "kind": "MOB",
+    "stats": [
+      34.0,
+      9.0,
+      2.0,
+      0.34,
+      0.7,
+      1.9,
+      0.87
+    ],
+    "pack": "souls",
+    "model": "undead_assassin",
+    "texture": "undead_assassin",
+    "style": 9,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\undead_assassin.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\undead_assassin.png",
+    "clips": 3,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "bone_soldier",
+    "title": "Bone Soldier",
+    "kind": "MOB",
+    "stats": [
+      32.0,
+      6.0,
+      4.0,
+      0.26,
+      0.7,
+      1.9,
+      0.95
+    ],
+    "pack": "souls",
+    "model": "skeletonsoldier",
+    "texture": "skeleton_soldier",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\skeletonsoldier.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\skeleton_soldier.png",
+    "clips": 2,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "hungry_mimic",
+    "title": "Hungry Mimic",
+    "kind": "MOB",
+    "stats": [
+      44.0,
+      8.0,
+      5.0,
+      0.26,
+      0.9,
+      1.4,
+      1.18
+    ],
+    "pack": "souls",
+    "model": "mimic",
+    "texture": "mimic_texture",
+    "style": 1,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\mimic.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\mimic_texture.png",
+    "clips": 2,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "lost_shade",
+    "title": "Lost Shade",
+    "kind": "MOB",
+    "stats": [
+      28.0,
+      6.0,
+      1.0,
+      0.29,
+      0.8,
+      1.8,
+      0.5
+    ],
+    "pack": "aerlunerpg",
+    "model": "ghost",
+    "texture": "ghost",
+    "style": 2,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\ghost.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\ghost.png",
+    "clips": 2,
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "voidling",
+    "title": "Voidling",
+    "kind": "MOB",
+    "stats": [
+      55.0,
+      9.0,
+      5.0,
+      0.3,
+      1.2,
+      1.5,
+      0.075
+    ],
+    "pack": "aerlunerpg",
+    "model": "shoggot_small",
+    "texture": "shoggot_small",
+    "style": 3,
+    "passive": false,
+    "aquatic": false,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\shoggot_small.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\shoggot_small.png",
+    "clips": 1,
+    "lift": 0.3,
+    "ranged": false
+  },
+  {
+    "id": "cave_bat",
+    "pack": "world",
+    "model": "bat_evil",
+    "texture": "bat_evil",
+    "kind": "MOB",
+    "title": "Cave Bat",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\bat_evil.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\bat_evil.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.42776
+    ],
+    "lift": 0.27286,
+    "ranged": false
+  },
+  {
+    "id": "centaur_ranger",
+    "pack": "world",
+    "model": "centaur",
+    "texture": "centaur",
+    "kind": "PASSIVE",
+    "title": "Centaur Ranger",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\centaur.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\centaur.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.57709
+    ],
+    "lift": 0.0061,
+    "ranged": false
+  },
+  {
+    "id": "woodland_dryad",
+    "pack": "world",
+    "model": "dryad",
+    "texture": "dryad",
+    "kind": "PASSIVE",
+    "title": "Woodland Dryad",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\dryad.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\dryad.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.81537
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "verdant_dryad",
+    "pack": "world",
+    "model": "dryad2",
+    "texture": "dryad2",
+    "kind": "PASSIVE",
+    "title": "Verdant Dryad",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\dryad2.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\dryad2.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.83785
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "blossom_dryad",
+    "pack": "world",
+    "model": "dryad3",
+    "texture": "dryad3",
+    "kind": "PASSIVE",
+    "title": "Blossom Dryad",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\dryad3.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\dryad3.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.83785
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ghost_guardian",
+    "pack": "world",
+    "model": "ghost_guardian",
+    "texture": "ghost_guardian",
+    "kind": "MOB",
+    "title": "Ghost Guardian",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\ghost_guardian.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\ghost_guardian.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.58091
+    ],
+    "lift": 0.0466,
+    "ranged": false
+  },
+  {
+    "id": "goblin_swordsman",
+    "pack": "world",
+    "model": "goblin2",
+    "texture": "goblin2",
+    "kind": "MOB",
+    "title": "Goblin Swordsman",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\goblin2.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\goblin2.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.86456
+    ],
+    "lift": 0.4969,
+    "ranged": false
+  },
+  {
+    "id": "goblin_shaman",
+    "pack": "world",
+    "model": "goblin_shaman",
+    "texture": "goblin_shaman",
+    "kind": "MOB",
+    "title": "Goblin Shaman",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\goblin_shaman.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\goblin_shaman.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.09915
+    ],
+    "lift": 0.122,
+    "ranged": true
+  },
+  {
+    "id": "gravedigger",
+    "pack": "world",
+    "model": "gravedigger",
+    "texture": "gravedigger",
+    "kind": "MOB",
+    "title": "Gravedigger",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\gravedigger.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\gravedigger.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.88323
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "kraken_tentacle",
+    "pack": "world",
+    "model": "kraken_tentacle",
+    "texture": "kraken_tentacle",
+    "kind": "MOB",
+    "title": "Kraken Tentacle",
+    "style": 0,
+    "passive": false,
+    "aquatic": true,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\kraken_tentacle.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\kraken_tentacle.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.40921
+    ],
+    "lift": 0.89819,
+    "ranged": false
+  },
+  {
+    "id": "river_nymph",
+    "pack": "world",
+    "model": "nimfa",
+    "texture": "nimfa",
+    "kind": "PASSIVE",
+    "title": "River Nymph",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\nimfa.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\nimfa.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.27951
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "old_wizard",
+    "pack": "world",
+    "model": "oldman1",
+    "texture": "oldman1",
+    "kind": "PASSIVE",
+    "title": "Old Wizard",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\oldman1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\oldman1.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.42525
+    ],
+    "lift": 0.1002,
+    "ranged": true
+  },
+  {
+    "id": "winged_eye",
+    "pack": "world",
+    "model": "wings_eye",
+    "texture": "eye_wings",
+    "kind": "MOB",
+    "title": "Winged Eye",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\wings_eye.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\eye_wings.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.38993
+    ],
+    "lift": -0.00917,
+    "ranged": true
+  },
+  {
+    "id": "cave_cyclops",
+    "pack": "world",
+    "model": "cyclops10",
+    "texture": "cyclops1",
+    "kind": "MOB",
+    "title": "Cave Cyclops",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\cyclops10.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\cyclops1.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.35725
+    ],
+    "lift": 0.0447,
+    "ranged": false
+  },
+  {
+    "id": "vampire_noble",
+    "pack": "world",
+    "model": "vampire01",
+    "texture": "vampire",
+    "kind": "MOB",
+    "title": "Vampire Noble",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\vampire01.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\vampire.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.52391
+    ],
+    "lift": 0.0044,
+    "ranged": false
+  },
+  {
+    "id": "vampire_duelist",
+    "pack": "world",
+    "model": "vampire1",
+    "texture": "vampire",
+    "kind": "MOB",
+    "title": "Vampire Duelist",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\vampire1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\vampire.png",
+    "clips": 4,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.52391
+    ],
+    "lift": 0.0044,
+    "ranged": false
+  },
+  {
+    "id": "vampire_stalker",
+    "pack": "world",
+    "model": "vampireee",
+    "texture": "vampire",
+    "kind": "MOB",
+    "title": "Vampire Stalker",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\geo\\vampireee.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\world\\textures\\entities\\vampire.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.52391
+    ],
+    "lift": 0.0044,
+    "ranged": false
+  },
+  {
+    "id": "balder_knight",
+    "pack": "souls",
+    "model": "balder",
+    "texture": "balder",
+    "kind": "MOB",
+    "title": "Balder Knight",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\balder.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\balder.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.55048
+    ],
+    "lift": 0.0026,
+    "ranged": false
+  },
+  {
+    "id": "ashen_blacksmith",
+    "pack": "souls",
+    "model": "blacksmithgeo",
+    "texture": "andre_texture",
+    "kind": "PASSIVE",
+    "title": "Ashen Blacksmith",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\blacksmithgeo.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\andre_texture.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.47
+    ],
+    "lift": -0.0,
+    "ranged": false
+  },
+  {
+    "id": "soul_channeler",
+    "pack": "souls",
+    "model": "channeler",
+    "texture": "channeler",
+    "kind": "MOB",
+    "title": "Soul Channeler",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\channeler.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\channeler.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.62038
+    ],
+    "lift": 0.1996,
+    "ranged": true
+  },
+  {
+    "id": "undead_merchant",
+    "pack": "souls",
+    "model": "merchant",
+    "texture": "merchantvillager",
+    "kind": "PASSIVE",
+    "title": "Undead Merchant",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\geo\\merchant.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\souls\\textures\\entities\\merchantvillager.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.89131
+    ],
+    "lift": 0.1566,
+    "ranged": false
+  },
+  {
+    "id": "giant_bedbug",
+    "pack": "aerlunerpg",
+    "model": "bedbug1",
+    "texture": "bedbug",
+    "kind": "MOB",
+    "title": "Giant Bedbug",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\bedbug1.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\bedbug.png",
+    "clips": 4,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.71319
+    ],
+    "lift": 0.2119,
+    "ranged": false
+  },
+  {
+    "id": "cannon_gnome",
+    "pack": "aerlunerpg",
+    "model": "cannongnome",
+    "texture": "cannongnome",
+    "kind": "MOB",
+    "title": "Cannon Gnome",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\cannongnome.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\cannongnome.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.37982
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "cookie_mimic",
+    "pack": "aerlunerpg",
+    "model": "coockie",
+    "texture": "coockie",
+    "kind": "MOB",
+    "title": "Cookie Mimic",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\coockie.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\coockie.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.00982
+    ],
+    "lift": 0.0167,
+    "ranged": false
+  },
+  {
+    "id": "cookie_swarm",
+    "pack": "aerlunerpg",
+    "model": "coockies",
+    "texture": "coockie",
+    "kind": "MOB",
+    "title": "Cookie Swarm",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\coockies.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\coockie.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.53003
+    ],
+    "lift": 0.0167,
+    "ranged": false
+  },
+  {
+    "id": "the_crowd",
+    "pack": "aerlunerpg",
+    "model": "crowd",
+    "texture": "crowd",
+    "kind": "MOB",
+    "title": "The Crowd",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\crowd.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\crowd.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.1712
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "cursed_stag",
+    "pack": "aerlunerpg",
+    "model": "deerevil",
+    "texture": "deertallman",
+    "kind": "MOB",
+    "title": "Cursed Stag",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\deerevil.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\deertallman.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.29956
+    ],
+    "lift": 0.1682,
+    "ranged": false
+  },
+  {
+    "id": "tallwood_stalker",
+    "pack": "aerlunerpg",
+    "model": "deerevill",
+    "texture": "deertallman",
+    "kind": "MOB",
+    "title": "Tallwood Stalker",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\deerevill.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\deertallman.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.29956
+    ],
+    "lift": 0.1682,
+    "ranged": false
+  },
+  {
+    "id": "donut_mimic",
+    "pack": "aerlunerpg",
+    "model": "donut",
+    "texture": "donut",
+    "kind": "MOB",
+    "title": "Donut Mimic",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\donut.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\donut.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.40847
+    ],
+    "lift": 0.2532,
+    "ranged": false
+  },
+  {
+    "id": "evergreen_watcher",
+    "pack": "aerlunerpg",
+    "model": "elka",
+    "texture": "elka",
+    "kind": "MOB",
+    "title": "Evergreen Watcher",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\elka.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\elka.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.20911
+    ],
+    "lift": 0.1936,
+    "ranged": false
+  },
+  {
+    "id": "bomb_gnome",
+    "pack": "aerlunerpg",
+    "model": "evilgnomb",
+    "texture": "evilgnomb",
+    "kind": "MOB",
+    "title": "Bomb Gnome",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\evilgnomb.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\evilgnomb.png",
+    "clips": 4,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.91397
+    ],
+    "lift": 0.1013,
+    "ranged": false
+  },
+  {
+    "id": "forest_gnome",
+    "pack": "aerlunerpg",
+    "model": "evilgnome",
+    "texture": "evilgnome",
+    "kind": "MOB",
+    "title": "Forest Gnome",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\evilgnome.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\evilgnome.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.79516
+    ],
+    "lift": 0.1032,
+    "ranged": false
+  },
+  {
+    "id": "spear_gnome",
+    "pack": "aerlunerpg",
+    "model": "evilgnome2",
+    "texture": "evilgnome2",
+    "kind": "MOB",
+    "title": "Spear Gnome",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\evilgnome2.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\evilgnome2.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.78587
+    ],
+    "lift": 0.1037,
+    "ranged": false
+  },
+  {
+    "id": "shield_gnome",
+    "pack": "aerlunerpg",
+    "model": "evilgnomsh",
+    "texture": "evilgnomsh",
+    "kind": "MOB",
+    "title": "Shield Gnome",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\evilgnomsh.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\evilgnomsh.png",
+    "clips": 4,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.883
+    ],
+    "lift": 0.1022,
+    "ranged": false
+  },
+  {
+    "id": "eye_beetle",
+    "pack": "aerlunerpg",
+    "model": "eye_beatle11",
+    "texture": "eye11",
+    "kind": "MOB",
+    "title": "Eye Beetle",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\eye_beatle11.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\eye11.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.53461
+    ],
+    "lift": 0,
+    "ranged": true
+  },
+  {
+    "id": "gingerbread_brute",
+    "pack": "aerlunerpg",
+    "model": "gingbrdmanbr",
+    "texture": "gingerbreadman1",
+    "kind": "MOB",
+    "title": "Gingerbread Brute",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\gingbrdmanbr.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\gingerbreadman1.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.87016
+    ],
+    "lift": 0.2332,
+    "ranged": false
+  },
+  {
+    "id": "gingerbread_man",
+    "pack": "aerlunerpg",
+    "model": "gingerbreadman22",
+    "texture": "gingerbreadman1",
+    "kind": "MOB",
+    "title": "Gingerbread Man",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\gingerbreadman22.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\gingerbreadman1.png",
+    "clips": 4,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.45714
+    ],
+    "lift": 0.0088,
+    "ranged": false
+  },
+  {
+    "id": "cursed_gingerbread",
+    "pack": "aerlunerpg",
+    "model": "gingirmanevil",
+    "texture": "gingirmanevil",
+    "kind": "MOB",
+    "title": "Cursed Gingerbread",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\gingirmanevil.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\gingirmanevil.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.89279
+    ],
+    "lift": 0.0865,
+    "ranged": false
+  },
+  {
+    "id": "crimson_gingerbread",
+    "pack": "aerlunerpg",
+    "model": "gingirmanevilred",
+    "texture": "gingirmanevilred",
+    "kind": "MOB",
+    "title": "Crimson Gingerbread",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\gingirmanevilred.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\gingirmanevilred.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.2456
+    ],
+    "lift": 0.0637,
+    "ranged": false
+  },
+  {
+    "id": "house_gnome",
+    "pack": "aerlunerpg",
+    "model": "gnomeh",
+    "texture": "gnomehome",
+    "kind": "PASSIVE",
+    "title": "House Gnome",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\gnomeh.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\gnomehome.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.43221
+    ],
+    "lift": 0.3397,
+    "ranged": false
+  },
+  {
+    "id": "woodland_sage",
+    "pack": "aerlunerpg",
+    "model": "oldmanwood",
+    "texture": "oldmanwood",
+    "kind": "PASSIVE",
+    "title": "Woodland Sage",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\oldmanwood.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\block\\oldmanwood.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.66031
+    ],
+    "lift": 0.1777,
+    "ranged": false
+  },
+  {
+    "id": "clockwork_gnome",
+    "pack": "aerlunerpg",
+    "model": "robotgnome",
+    "texture": "robotgnoem",
+    "kind": "MOB",
+    "title": "Clockwork Gnome",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\robotgnome.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\robotgnoem.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.35548
+    ],
+    "lift": 0.0297,
+    "ranged": false
+  },
+  {
+    "id": "abyssal_shoggoth",
+    "pack": "aerlunerpg",
+    "model": "shoggot_small11",
+    "texture": "shoggot_small11",
+    "kind": "MOB",
+    "title": "Abyssal Shoggoth",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\shoggot_small11.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\shoggot_small11.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.1205
+    ],
+    "lift": 0.05331,
+    "ranged": false
+  },
+  {
+    "id": "frozen_watchman",
+    "pack": "aerlunerpg",
+    "model": "snowman",
+    "texture": "snowman",
+    "kind": "MOB",
+    "title": "Frozen Watchman",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\snowman.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\snowman.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.59868
+    ],
+    "lift": 0.1191,
+    "ranged": false
+  },
+  {
+    "id": "frozen_sentinel",
+    "pack": "aerlunerpg",
+    "model": "snowman2",
+    "texture": "snowman2",
+    "kind": "MOB",
+    "title": "Frozen Sentinel",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\snowman2.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\snowman2.png",
+    "clips": 4,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.84501
+    ],
+    "lift": 0.3369,
+    "ranged": false
+  },
+  {
+    "id": "frostbound_revenant",
+    "pack": "aerlunerpg",
+    "model": "snowman3",
+    "texture": "snowman2",
+    "kind": "MOB",
+    "title": "Frostbound Revenant",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\snowman3.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\snowman2.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.91173
+    ],
+    "lift": 0.25663,
+    "ranged": false
+  },
+  {
+    "id": "snowbound_guard",
+    "pack": "aerlunerpg",
+    "model": "snowmann",
+    "texture": "snowman",
+    "kind": "MOB",
+    "title": "Snowbound Guard",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\snowmann.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\snowman.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.59868
+    ],
+    "lift": 0.1191,
+    "ranged": false
+  },
+  {
+    "id": "living_stump",
+    "pack": "aerlunerpg",
+    "model": "stump",
+    "texture": "stump",
+    "kind": "MOB",
+    "title": "Living Stump",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\stump.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\stump.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.27172
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "ancient_stump",
+    "pack": "aerlunerpg",
+    "model": "stump2",
+    "texture": "stump2",
+    "kind": "MOB",
+    "title": "Ancient Stump",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\stump2.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\stump2.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.94748
+    ],
+    "lift": 0.0046,
+    "ranged": false
+  },
+  {
+    "id": "burrowing_worm",
+    "pack": "aerlunerpg",
+    "model": "warm",
+    "texture": "warm",
+    "kind": "MOB",
+    "title": "Burrowing Worm",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\warm.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\warm.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.18062
+    ],
+    "lift": 0.0808,
+    "ranged": false
+  },
+  {
+    "id": "forest_husk",
+    "pack": "aerlunerpg",
+    "model": "zombie",
+    "texture": "zombie",
+    "kind": "MOB",
+    "title": "Forest Husk",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\zombie.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\zombie.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.7028
+    ],
+    "lift": 0.0163,
+    "ranged": false
+  },
+  {
+    "id": "spectral_husk",
+    "pack": "aerlunerpg",
+    "model": "zombieghost",
+    "texture": "zombieghost",
+    "kind": "MOB",
+    "title": "Spectral Husk",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\geo\\zombieghost.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\aerlunerpg\\textures\\entities\\zombieghost.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.67975
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "little_knight",
+    "pack": "boxx",
+    "model": "knight/little_knight.json",
+    "texture": "knight/little_knight.json",
+    "kind": "MOB",
+    "title": "Little Knight",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "ck:little_knight",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/little_knight"
+      },
+      "geometry": {
+        "default": "geometry.little_knight"
+      },
+      "animations": {
+        "idle": "animation.little_knight.idle",
+        "move": "animation.little_knight.walk",
+        "death": "animation.little_knight.death",
+        "attack_1": "animation.little_knight.attack",
+        "spawn": "animation.little_knight.spawn",
+        "general": "controller.animation.little_knight.general"
+      },
+      "scripts": {
+        "animate": [
+          "general"
+        ]
+      },
+      "sound_effects": {
+        "spawn": "mob.little_knight.spawn",
+        "death": "mob.little_knight.death"
+      },
+      "render_controllers": [
+        "controller.render.little_knight"
+      ],
+      "spawn_egg": {
+        "base_color": "#fdf91c",
+        "overlay_color": "#7e785e"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\little_knight.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\little_knight.png",
+    "clips": 5,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.66196
+    ],
+    "lift": 0.128,
+    "ranged": false
+  },
+  {
+    "id": "poison_cactus",
+    "pack": "boxx",
+    "model": "cactus/poison_cactus.json",
+    "texture": "cactus/poison_cactus.json",
+    "kind": "MOB",
+    "title": "Poison Cactus",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "mob:poison_cactus",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/poison_cactus"
+      },
+      "geometry": {
+        "default": "geometry.poison_cactus"
+      },
+      "scripts": {
+        "animate": [
+          "ctrl"
+        ]
+      },
+      "animations": {
+        "ctrl": "controller.animation.poison_cactus",
+        "spawn": "animation.poison_cactus.spawn",
+        "idle": "animation.poison_cactus.idle",
+        "walk": "animation.poison_cactus.walk",
+        "walk2": "animation.poison_cactus.walk2",
+        "death": "animation.poison_cactus.death",
+        "attack": "animation.poison_cactus.attack",
+        "attack2": "animation.poison_cactus.attack2"
+      },
+      "render_controllers": [
+        "controller.render.poison_cactus"
+      ],
+      "sound_effects": {
+        "spawn": "mob.phantom.idle",
+        "shoot": "mob.blaze.shoot",
+        "death": "random.cactus.death"
+      },
+      "spawn_egg": {
+        "base_color": "#B6902D",
+        "overlay_color": "#F1BE3B"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\poison_cactus.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\poison_cactus.png",
+    "clips": 7,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.51467
+    ],
+    "lift": 0.0348,
+    "ranged": true
+  },
+  {
+    "id": "goblin_barbarian",
+    "pack": "boxx",
+    "model": "goblin/goblin_barbarian.json",
+    "texture": "goblin/goblin_barbarian.json",
+    "kind": "MOB",
+    "title": "Goblin Barbarian",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:goblin_barbarian",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/goblin_barbarian"
+      },
+      "geometry": {
+        "default": "geometry.goblin_barbarian"
+      },
+      "animations": {
+        "general": "controller.animation.goblin_normal",
+        "spawn": "animation.goblin_barbarian.spawn",
+        "attack": "animation.goblin_barbarian.attack",
+        "static": "animation.goblin_barbarian.idle",
+        "walk": "animation.goblin_barbarian.walk"
+      },
+      "sound_effects": {
+        "spawn": "random.goblin_normal.spawn",
+        "death": "random.goblin_normal.death"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned"
+          },
+          {
+            "spawn": "query.is_stunned"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.barbarian_goblin"
+      ],
+      "spawn_egg": {
+        "base_color": "#19470E",
+        "overlay_color": "#34951D"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\goblin_barbarian.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\goblin_barbarian.png",
+    "clips": 5,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.34001
+    ],
+    "lift": 0.1589,
+    "ranged": false
+  },
+  {
+    "id": "fire_goblin",
+    "pack": "boxx",
+    "model": "goblin/goblin_fire.json",
+    "texture": "goblin/goblin_fire.json",
+    "kind": "MOB",
+    "title": "Fire Goblin",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:goblin_fire",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/goblin_fire"
+      },
+      "geometry": {
+        "default": "geometry.goblin_fire"
+      },
+      "animations": {
+        "general": "controller.animation.goblin_fire",
+        "spawn": "animation.goblin_fire.spawn",
+        "attack": "animation.goblin_fire.attack",
+        "static": "animation.goblin_fire.idle",
+        "walk": "animation.goblin_fire.walk"
+      },
+      "sound_effects": {
+        "spawn": "random.goblin_normal.spawn",
+        "death": "random.goblin_normal.death"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned"
+          },
+          {
+            "spawn": "query.is_stunned"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.fire_goblin"
+      ],
+      "spawn_egg": {
+        "base_color": "#19470E",
+        "overlay_color": "#34951D"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\goblin_fire.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\goblin_fire.png",
+    "clips": 5,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.6163
+    ],
+    "lift": 0.0761,
+    "ranged": false
+  },
+  {
+    "id": "cave_goblin",
+    "pack": "boxx",
+    "model": "goblin/goblin_normal.json",
+    "texture": "goblin/goblin_normal.json",
+    "kind": "MOB",
+    "title": "Cave Goblin",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:goblin_normal",
+      "min_engine_version": "1.8.0",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/goblin_normal"
+      },
+      "geometry": {
+        "default": "geometry.goblin_normal"
+      },
+      "animations": {
+        "general": "controller.animation.goblin_normal",
+        "spawn": "animation.goblin_normal.spawn",
+        "attack": "animation.goblin_normal.attack",
+        "static": "animation.goblin_normal.idle",
+        "walk": "animation.goblin_normal.walk"
+      },
+      "sound_effects": {
+        "spawn": "random.goblin_normal.spawn",
+        "death": "random.goblin_normal.death"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "general": "!query.is_stunned"
+          },
+          {
+            "spawn": "query.is_stunned"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.normal_goblin"
+      ],
+      "spawn_egg": {
+        "base_color": "#19470E",
+        "overlay_color": "#34951D"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\goblin_normal.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\goblin_normal.png",
+    "clips": 5,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.61861
+    ],
+    "lift": 0.1808,
+    "ranged": false
+  },
+  {
+    "id": "piranha",
+    "pack": "boxx",
+    "model": "piranha/piranha.json",
+    "texture": "piranha/piranha.json",
+    "kind": "MOB",
+    "title": "Piranha",
+    "style": 0,
+    "passive": false,
+    "aquatic": true,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:piranha",
+      "materials": {
+        "default": "zombie",
+        "light": "entity_emissive_alpha"
+      },
+      "textures": {
+        "default": "textures/entity/piranha"
+      },
+      "geometry": {
+        "default": "geometry.piranha"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "walk": "!query.is_delayed_attacking"
+          },
+          {
+            "attack": "query.is_delayed_attacking"
+          }
+        ]
+      },
+      "animations": {
+        "walk": "animation.piranha.move",
+        "attack": "animation.piranha.attack"
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ],
+      "spawn_egg": {
+        "base_color": "#1F4196",
+        "overlay_color": "#D54638"
+      },
+      "sound_effects": {
+        "death": "random.piranha.death"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\fish.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\entity\\piranha.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      1.9
+    ],
+    "lift": 0.1332,
+    "ranged": false
+  },
+  {
+    "id": "desert_skeleton",
+    "pack": "boxx",
+    "model": "skeleton/desert_skeleton.json",
+    "texture": "skeleton/desert_skeleton.json",
+    "kind": "MOB",
+    "title": "Desert Skeleton",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:desert_skeleton",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/skeleton/spear/desert",
+        "var1": "textures/skeleton/spear2/desert",
+        "var2": "textures/skeleton/armor/desert",
+        "var3": "textures/skeleton/armor/desert_armored",
+        "var4": "textures/skeleton/armor/desert_helmet",
+        "var5": "textures/skeleton/armor2/desert",
+        "var6": "textures/skeleton/armor2/desert_armored",
+        "var7": "textures/skeleton/armor2/desert_helmet",
+        "var8": "textures/skeleton/ground/desert",
+        "var9": "textures/skeleton/ground/desert_armored",
+        "var10": "textures/skeleton/ground/desert_helmet"
+      },
+      "geometry": {
+        "default": "geometry.spear_skeleton",
+        "var1": "geometry.spear_skeleton2",
+        "var2": "geometry.no_spear",
+        "var3": "geometry.no_spear",
+        "var4": "geometry.no_spear",
+        "var5": "geometry.no_spear2",
+        "var6": "geometry.no_spear2",
+        "var7": "geometry.no_spear2",
+        "var8": "geometry.ground",
+        "var9": "geometry.ground",
+        "var10": "geometry.ground"
+      },
+      "render_controllers": [
+        "controller.render.normal_skeleton"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\skeleton\\spear_skeleton.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\skeleton\\spear\\desert.png",
+    "clips": 0,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.75712
+    ],
+    "lift": 0.1905,
+    "ranged": false
+  },
+  {
+    "id": "ice_skeleton",
+    "pack": "boxx",
+    "model": "skeleton/ice_skeleton.json",
+    "texture": "skeleton/ice_skeleton.json",
+    "kind": "MOB",
+    "title": "Ice Skeleton",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:ice_skeleton",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/skeleton/spear/ice",
+        "var1": "textures/skeleton/spear2/ice",
+        "var2": "textures/skeleton/armor/ice",
+        "var3": "textures/skeleton/armor/ice_armored",
+        "var4": "textures/skeleton/armor/ice_helmet",
+        "var5": "textures/skeleton/armor2/ice",
+        "var6": "textures/skeleton/armor2/ice_armored",
+        "var7": "textures/skeleton/armor2/ice_helmet",
+        "var8": "textures/skeleton/ground/ice",
+        "var9": "textures/skeleton/ground/ice_armored",
+        "var10": "textures/skeleton/ground/ice_helmet"
+      },
+      "geometry": {
+        "default": "geometry.spear_skeleton",
+        "var1": "geometry.spear_skeleton2",
+        "var2": "geometry.no_spear",
+        "var3": "geometry.no_spear",
+        "var4": "geometry.no_spear",
+        "var5": "geometry.no_spear2",
+        "var6": "geometry.no_spear2",
+        "var7": "geometry.no_spear2",
+        "var8": "geometry.ground",
+        "var9": "geometry.ground",
+        "var10": "geometry.ground"
+      },
+      "render_controllers": [
+        "controller.render.normal_skeleton"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\skeleton\\spear_skeleton.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\skeleton\\spear\\ice.png",
+    "clips": 0,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.75712
+    ],
+    "lift": 0.1905,
+    "ranged": false
+  },
+  {
+    "id": "iron_skeleton",
+    "pack": "boxx",
+    "model": "skeleton/iron_skeleton.json",
+    "texture": "skeleton/iron_skeleton.json",
+    "kind": "MOB",
+    "title": "Iron Skeleton",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:iron_skeleton",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/skeleton/spear/iron",
+        "var1": "textures/skeleton/spear2/iron",
+        "var2": "textures/skeleton/armor/iron",
+        "var3": "textures/skeleton/armor/iron_armored",
+        "var4": "textures/skeleton/armor/iron_helmet",
+        "var5": "textures/skeleton/armor2/iron",
+        "var6": "textures/skeleton/armor2/iron_armored",
+        "var7": "textures/skeleton/armor2/iron_helmet",
+        "var8": "textures/skeleton/ground/iron",
+        "var9": "textures/skeleton/ground/iron_armored",
+        "var10": "textures/skeleton/ground/iron_helmet"
+      },
+      "geometry": {
+        "default": "geometry.spear_skeleton",
+        "var1": "geometry.spear_skeleton2",
+        "var2": "geometry.no_spear",
+        "var3": "geometry.no_spear",
+        "var4": "geometry.no_spear",
+        "var5": "geometry.no_spear2",
+        "var6": "geometry.no_spear2",
+        "var7": "geometry.no_spear2",
+        "var8": "geometry.ground",
+        "var9": "geometry.ground",
+        "var10": "geometry.ground"
+      },
+      "render_controllers": [
+        "controller.render.normal_skeleton"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\skeleton\\spear_skeleton.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\skeleton\\spear\\iron.png",
+    "clips": 0,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.75712
+    ],
+    "lift": 0.1905,
+    "ranged": false
+  },
+  {
+    "id": "lost_skeleton",
+    "pack": "boxx",
+    "model": "skeleton/normal_skeleton.json",
+    "texture": "skeleton/normal_skeleton.json",
+    "kind": "MOB",
+    "title": "Lost Skeleton",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:normal_skeleton",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/skeleton/spear/normal",
+        "var1": "textures/skeleton/spear2/normal",
+        "var2": "textures/skeleton/armor/normal",
+        "var3": "textures/skeleton/armor/normal_armored",
+        "var4": "textures/skeleton/armor/normal_helmet",
+        "var5": "textures/skeleton/armor2/normal",
+        "var6": "textures/skeleton/armor2/normal_armored",
+        "var7": "textures/skeleton/armor2/normal_helmet",
+        "var8": "textures/skeleton/ground/normal",
+        "var9": "textures/skeleton/ground/normal_armored",
+        "var10": "textures/skeleton/ground/normal_helmet"
+      },
+      "geometry": {
+        "default": "geometry.spear_skeleton",
+        "var1": "geometry.spear_skeleton2",
+        "var2": "geometry.no_spear",
+        "var3": "geometry.no_spear",
+        "var4": "geometry.no_spear",
+        "var5": "geometry.no_spear2",
+        "var6": "geometry.no_spear2",
+        "var7": "geometry.no_spear2",
+        "var8": "geometry.ground",
+        "var9": "geometry.ground",
+        "var10": "geometry.ground"
+      },
+      "render_controllers": [
+        "controller.render.normal_skeleton"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\skeleton\\spear_skeleton.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\skeleton\\spear\\normal.png",
+    "clips": 0,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.75712
+    ],
+    "lift": 0.1905,
+    "ranged": false
+  },
+  {
+    "id": "desert_spearman",
+    "pack": "boxx",
+    "model": "skeleton/desert_skeleton.json",
+    "texture": "skeleton/desert_skeleton.json",
+    "kind": "MOB",
+    "title": "Desert Spearman",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:desert_skeleton",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/skeleton/spear/desert",
+        "var1": "textures/skeleton/spear2/desert",
+        "var2": "textures/skeleton/armor/desert",
+        "var3": "textures/skeleton/armor/desert_armored",
+        "var4": "textures/skeleton/armor/desert_helmet",
+        "var5": "textures/skeleton/armor2/desert",
+        "var6": "textures/skeleton/armor2/desert_armored",
+        "var7": "textures/skeleton/armor2/desert_helmet",
+        "var8": "textures/skeleton/ground/desert",
+        "var9": "textures/skeleton/ground/desert_armored",
+        "var10": "textures/skeleton/ground/desert_helmet"
+      },
+      "geometry": {
+        "default": "geometry.spear_skeleton2"
+      },
+      "render_controllers": [
+        "controller.render.normal_skeleton"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\skeleton\\spear_skeleton2.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\skeleton\\spear\\desert.png",
+    "clips": 0,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.73546
+    ],
+    "lift": 0.4736,
+    "ranged": false
+  },
+  {
+    "id": "desert_bladeguard",
+    "pack": "boxx",
+    "model": "skeleton/desert_skeleton.json",
+    "texture": "skeleton/desert_skeleton.json",
+    "kind": "MOB",
+    "title": "Desert Bladeguard",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:desert_skeleton",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/skeleton/spear/desert",
+        "var1": "textures/skeleton/spear2/desert",
+        "var2": "textures/skeleton/armor/desert",
+        "var3": "textures/skeleton/armor/desert_armored",
+        "var4": "textures/skeleton/armor/desert_helmet",
+        "var5": "textures/skeleton/armor2/desert",
+        "var6": "textures/skeleton/armor2/desert_armored",
+        "var7": "textures/skeleton/armor2/desert_helmet",
+        "var8": "textures/skeleton/ground/desert",
+        "var9": "textures/skeleton/ground/desert_armored",
+        "var10": "textures/skeleton/ground/desert_helmet"
+      },
+      "geometry": {
+        "default": "geometry.no_spear"
+      },
+      "render_controllers": [
+        "controller.render.normal_skeleton"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\skeleton\\no_spear.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\skeleton\\spear\\desert.png",
+    "clips": 0,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.72337
+    ],
+    "lift": 0.182,
+    "ranged": false
+  },
+  {
+    "id": "desert_revenant",
+    "pack": "boxx",
+    "model": "skeleton/desert_skeleton.json",
+    "texture": "skeleton/desert_skeleton.json",
+    "kind": "MOB",
+    "title": "Desert Revenant",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:desert_skeleton",
+      "materials": {
+        "default": "skeleton"
+      },
+      "textures": {
+        "default": "textures/skeleton/spear/desert",
+        "var1": "textures/skeleton/spear2/desert",
+        "var2": "textures/skeleton/armor/desert",
+        "var3": "textures/skeleton/armor/desert_armored",
+        "var4": "textures/skeleton/armor/desert_helmet",
+        "var5": "textures/skeleton/armor2/desert",
+        "var6": "textures/skeleton/armor2/desert_armored",
+        "var7": "textures/skeleton/armor2/desert_helmet",
+        "var8": "textures/skeleton/ground/desert",
+        "var9": "textures/skeleton/ground/desert_armored",
+        "var10": "textures/skeleton/ground/desert_helmet"
+      },
+      "geometry": {
+        "default": "geometry.no_spear2"
+      },
+      "render_controllers": [
+        "controller.render.normal_skeleton"
+      ],
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      }
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\skeleton\\no_spear2.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\skeleton\\spear\\desert.png",
+    "clips": 0,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.62432
+    ],
+    "lift": 0.4172,
+    "ranged": false
+  },
+  {
+    "id": "travelling_adventure",
+    "pack": "boxx",
+    "model": "npc/adventure.json",
+    "texture": "npc/adventure.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Adventure",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:adventure",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/adventure"
+      },
+      "geometry": {
+        "default": "geometry.adventure"
+      },
+      "animations": {
+        "idle": "animation.adventure.idle",
+        "idle2": "animation.adventure.idle2",
+        "idle3": "animation.adventure.idle3"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "idle2": "query.is_ignited"
+          },
+          {
+            "idle3": "query.is_stackable"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\adventure.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\adventure.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.65385
+    ],
+    "lift": 0.0041,
+    "ranged": false
+  },
+  {
+    "id": "travelling_archeologist",
+    "pack": "boxx",
+    "model": "npc/archeologist.json",
+    "texture": "npc/archeologist.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Archeologist",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:archeologist",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/archeologist"
+      },
+      "geometry": {
+        "default": "geometry.archeologist"
+      },
+      "animations": {
+        "idle": "animation.archeologist.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\archeologist.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\archeologist.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.63576
+    ],
+    "lift": 0.0536,
+    "ranged": false
+  },
+  {
+    "id": "travelling_arena_keeper",
+    "pack": "boxx",
+    "model": "npc/arena_keeper.json",
+    "texture": "npc/arena_keeper.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Arena Keeper",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:arena_keeper",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/arena_keeper"
+      },
+      "geometry": {
+        "default": "geometry.arena_keeper"
+      },
+      "animations": {
+        "idle": "animation.arena_keeper.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\arena-keeper-mini.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\arena_keeper.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.57914
+    ],
+    "lift": 0.2509,
+    "ranged": false
+  },
+  {
+    "id": "travelling_blacksmith",
+    "pack": "boxx",
+    "model": "npc/blacksmith.json",
+    "texture": "npc/blacksmith.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Blacksmith",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:blacksmith",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/blacksmith"
+      },
+      "geometry": {
+        "default": "geometry.blacksmith"
+      },
+      "animations": {
+        "idle": "animation.blacksmith.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\blacksmith.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\blacksmith.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.6576
+    ],
+    "lift": 0.0319,
+    "ranged": false
+  },
+  {
+    "id": "travelling_dragon_computer",
+    "pack": "boxx",
+    "model": "npc/dragon_computer.json",
+    "texture": "npc/dragon_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Dragon Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:dragon_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/dragon"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\dragon.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_dragon_hunter",
+    "pack": "boxx",
+    "model": "npc/dragon_hunter.json",
+    "texture": "npc/dragon_hunter.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Dragon Hunter",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:dragon_hunter",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/dragon_hunter"
+      },
+      "geometry": {
+        "default": "geometry.dragon_hunter"
+      },
+      "animations": {
+        "idle": "animation.dragon_hunter.idle",
+        "talk": "animation.dragon_hunter.talk"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "talk": "query.is_stackable"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\dragon_hunter.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\dragon_hunter.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.78247
+    ],
+    "lift": 0.0049,
+    "ranged": false
+  },
+  {
+    "id": "travelling_electricist",
+    "pack": "boxx",
+    "model": "npc/electricist.json",
+    "texture": "npc/electricist.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Electricist",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:electricist",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/electricits"
+      },
+      "geometry": {
+        "default": "geometry.electricist"
+      },
+      "animations": {
+        "idle": "animation.electricist.idle",
+        "idle2": "animation.electricist.idle2",
+        "talk": "animation.electricist.talk"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "idle2": "query.is_ignited"
+          },
+          {
+            "talk": "query.is_stackable"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\electricist.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\electricits.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.72612
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_experienced_miner",
+    "pack": "boxx",
+    "model": "npc/experienced_miner.json",
+    "texture": "npc/experienced_miner.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Experienced Miner",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:experienced_miner",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/experienced_miner"
+      },
+      "geometry": {
+        "default": "geometry.experienced_miner"
+      },
+      "animations": {
+        "idle": "animation.experienced_miner.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\experienced_miner.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\experienced_miner.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.68438
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_farmer",
+    "pack": "boxx",
+    "model": "npc/farmer.json",
+    "texture": "npc/farmer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Farmer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:farmer",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/farmer"
+      },
+      "geometry": {
+        "default": "geometry.farmer"
+      },
+      "animations": {
+        "idle": "animation.farmer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\farmer.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\farmer.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.657
+    ],
+    "lift": 0.0041,
+    "ranged": false
+  },
+  {
+    "id": "travelling_female_farmer",
+    "pack": "boxx",
+    "model": "npc/female_farmer.json",
+    "texture": "npc/female_farmer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Female Farmer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:female_farmer",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/female_farmer"
+      },
+      "geometry": {
+        "default": "geometry.female_farmer"
+      },
+      "animations": {
+        "idle": "animation.female_farmer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\female_farmer.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\female_farmer.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.72444
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_goblin_computer",
+    "pack": "boxx",
+    "model": "npc/goblin_computer.json",
+    "texture": "npc/goblin_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Goblin Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:goblin_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/goblin"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\goblin.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_gost",
+    "pack": "boxx",
+    "model": "npc/gost.json",
+    "texture": "npc/gost.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Gost",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:gost",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/gost"
+      },
+      "geometry": {
+        "default": "geometry.gost"
+      },
+      "animations": {
+        "idle": "animation.gost.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\gost.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\gost.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.56222
+    ],
+    "lift": 0.0387,
+    "ranged": false
+  },
+  {
+    "id": "travelling_jeweler",
+    "pack": "boxx",
+    "model": "npc/jeweler.json",
+    "texture": "npc/jeweler.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Jeweler",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:jeweler",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/jeweler"
+      },
+      "geometry": {
+        "default": "geometry.jeweler"
+      },
+      "animations": {
+        "idle": "animation.jeweler.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\jeweler.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\jeweler.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.56782
+    ],
+    "lift": 0.0279,
+    "ranged": false
+  },
+  {
+    "id": "travelling_kingkong_computer",
+    "pack": "boxx",
+    "model": "npc/kingkong_computer.json",
+    "texture": "npc/kingkong_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Kingkong Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:kingkong_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/kong"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\kong.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_knight_computer",
+    "pack": "boxx",
+    "model": "npc/knight_computer.json",
+    "texture": "npc/knight_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Knight Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:knight_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/knight"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\knight.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_laboratory_scientis",
+    "pack": "boxx",
+    "model": "npc/laboratory_scientis.json",
+    "texture": "npc/laboratory_scientis.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Laboratory Scientis",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:laboratory_scientis",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/laboratory_scientis"
+      },
+      "geometry": {
+        "default": "geometry.laboratory_scientis"
+      },
+      "animations": {
+        "idle": "animation.laboratory_scientis.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\laboratory_scientis.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\laboratory_scientis.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.58334
+    ],
+    "lift": 0.0286,
+    "ranged": false
+  },
+  {
+    "id": "travelling_librarian",
+    "pack": "boxx",
+    "model": "npc/librarian.json",
+    "texture": "npc/librarian.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Librarian",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:librarian",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/librarian"
+      },
+      "geometry": {
+        "default": "geometry.librarian"
+      },
+      "animations": {
+        "idle": "animation.librarian.idle",
+        "talk": "animation.librarian.talk"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "talk": "query.is_stackable"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\librarian.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\librarian.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.68825
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_lizard_computer",
+    "pack": "boxx",
+    "model": "npc/lizard_computer.json",
+    "texture": "npc/lizard_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Lizard Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:lizard_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/lizard"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\lizard.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_lumberjack",
+    "pack": "boxx",
+    "model": "npc/lumberjack.json",
+    "texture": "npc/lumberjack.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Lumberjack",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:lumberjack",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/lumberjack"
+      },
+      "geometry": {
+        "default": "geometry.lumberjack"
+      },
+      "animations": {
+        "idle": "animation.lumberjack.idle",
+        "talk": "animation.lumberjack.talk"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "talk": "query.is_stackable"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\lumberjack.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\lumberjack.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.7422
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_mecha_computer",
+    "pack": "boxx",
+    "model": "npc/mecha_computer.json",
+    "texture": "npc/mecha_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Mecha Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:mecha_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/mecha"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\mecha.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_miner_old",
+    "pack": "boxx",
+    "model": "npc/miner_old.json",
+    "texture": "npc/miner_old.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Miner Old",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:miner_old",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/miner_old"
+      },
+      "geometry": {
+        "default": "geometry.miner_old"
+      },
+      "animations": {
+        "idle": "animation.miner_old.idle",
+        "walk": "animation.miner_old.walk"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "walk": "query.ground_speed > 0.5"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\miner_old_npc.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\miner_old.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.69949
+    ],
+    "lift": 0.0146,
+    "ranged": false
+  },
+  {
+    "id": "travelling_pirate",
+    "pack": "boxx",
+    "model": "npc/pirate.json",
+    "texture": "npc/pirate.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Pirate",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:pirate",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/pirate"
+      },
+      "geometry": {
+        "default": "geometry.pirate"
+      },
+      "animations": {
+        "idle": "animation.pirate.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\pirate.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\pirate.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.4846
+    ],
+    "lift": 0.0185,
+    "ranged": false
+  },
+  {
+    "id": "travelling_port_sailor",
+    "pack": "boxx",
+    "model": "npc/port_sailor.json",
+    "texture": "npc/port_sailor.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Port Sailor",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:port_sailor",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/port_sailor"
+      },
+      "geometry": {
+        "default": "geometry.port_sailor"
+      },
+      "animations": {
+        "idle": "animation.port_sailor.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\port_sailor.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\port_sailor.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.69329
+    ],
+    "lift": 0.1463,
+    "ranged": false
+  },
+  {
+    "id": "travelling_robot",
+    "pack": "boxx",
+    "model": "npc/robot.json",
+    "texture": "npc/robot.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Robot",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:robot",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/robot"
+      },
+      "geometry": {
+        "default": "geometry.robot"
+      },
+      "animations": {
+        "idle": "animation.robot.idle",
+        "talk": "animation.robot.talk"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "talk": "query.is_stackable"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\robot.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\robot.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.48814
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_sea_snake_computer",
+    "pack": "boxx",
+    "model": "npc/sea_snake_computer.json",
+    "texture": "npc/sea_snake_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Sea Snake Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:sea_snake_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/sea_snake"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\sea_snake.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_sensei",
+    "pack": "boxx",
+    "model": "npc/sensei.json",
+    "texture": "npc/sensei.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Sensei",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:sensei",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/sensei"
+      },
+      "geometry": {
+        "default": "geometry.sensei"
+      },
+      "animations": {
+        "idle": "animation.sensei.idle2",
+        "talk": "animation.sensei.talk",
+        "idle2": "animation.sensei.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "talk": "query.is_stackable"
+          },
+          {
+            "idle2": "query.is_stunned"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\sensei.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\sensei.png",
+    "clips": 3,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.56007
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_thunder_lord_computer",
+    "pack": "boxx",
+    "model": "npc/thunder_lord_computer.json",
+    "texture": "npc/thunder_lord_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Thunder Lord Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:thunder_lord_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/thunder"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\thunder.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "travelling_weapons_seller",
+    "pack": "boxx",
+    "model": "npc/weapons_seller.json",
+    "texture": "npc/weapons_seller.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Weapons Seller",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:weapons_seller",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/weapons_seller"
+      },
+      "geometry": {
+        "default": "geometry.weapons_seller"
+      },
+      "animations": {
+        "idle": "animation.weapons_seller.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\weapons_seller.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\weapons_seller.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.59783
+    ],
+    "lift": 0.0327,
+    "ranged": false
+  },
+  {
+    "id": "travelling_witch",
+    "pack": "boxx",
+    "model": "npc/witch.json",
+    "texture": "npc/witch.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Witch",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:witch",
+      "materials": {
+        "default": "arrow"
+      },
+      "textures": {
+        "default": "textures/npc/witch"
+      },
+      "geometry": {
+        "default": "geometry.witch"
+      },
+      "animations": {
+        "idle": "animation.witch.idle",
+        "talk": "animation.witch.talk"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          "idle",
+          {
+            "talk": "query.is_stackable"
+          }
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\witch.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\witch.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.80369
+    ],
+    "lift": 0,
+    "ranged": false
+  },
+  {
+    "id": "travelling_yeti_computer",
+    "pack": "boxx",
+    "model": "npc/yeti_computer.json",
+    "texture": "npc/yeti_computer.json",
+    "kind": "PASSIVE",
+    "title": "Travelling Yeti Computer",
+    "style": 0,
+    "passive": true,
+    "aquatic": false,
+    "height": null,
+    "descriptor": {
+      "identifier": "new:yeti_computer",
+      "materials": {
+        "default": "spider"
+      },
+      "textures": {
+        "default": "textures/npc/yeti"
+      },
+      "geometry": {
+        "default": "geometry.computer"
+      },
+      "animations": {
+        "arrowup": "animation.computer.arrowup",
+        "general": "controller.animation.computer",
+        "idle": "animation.computer.idle"
+      },
+      "spawn_egg": {
+        "texture": "spawn_egg"
+      },
+      "scripts": {
+        "animate": [
+          {
+            "idle": "!query.is_ignited"
+          },
+          "general"
+        ]
+      },
+      "render_controllers": [
+        "controller.render.default"
+      ]
+    },
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\models\\entity\\bossselector.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\boxxexpansion\\resource_packs\\rp0\\textures\\npc\\yeti.png",
+    "clips": 2,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.49564
+    ],
+    "lift": 0.0104,
+    "ranged": false
+  },
+  {
+    "id": "phantom_ghost",
+    "pack": "bosses+",
+    "model": "phantom_ghost",
+    "texture": "phantom_ghost",
+    "kind": "MOB",
+    "title": "Phantom Ghost",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\phantom_ghost.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\phantom_ghost.png",
+    "clips": 1,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      0.29586
+    ],
+    "lift": -2.85386,
+    "ranged": false
+  },
+  {
+    "id": "sculkpion_minion",
+    "pack": "bosses+",
+    "model": "sculkpion_minion",
+    "texture": "sculkpion_minion",
+    "kind": "MOB",
+    "title": "Sculkpion Minion",
+    "style": 0,
+    "passive": false,
+    "aquatic": false,
+    "height": null,
+    "geometry_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\entity\\sculkpion_minion.geo.json",
+    "texture_source": "C:\\Users\\ryanl\\Pictures\\Minecraft\\the deep night\\mobs\\bosses+\\textures\\shapescape\\mb\\entity\\sculkpion_minion.png",
+    "clips": 7,
+    "stats": [
+      36,
+      8,
+      5,
+      0.29,
+      1.6,
+      1.9,
+      2.10531
+    ],
+    "lift": 0.06578,
+    "ranged": false
+  }
+]

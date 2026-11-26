@@ -1,0 +1,5 @@
+.gradle/
+build/
+run*/
+compat-mods/
+dist/

@@ -1,0 +1,39 @@
+{
+  "id": "ac_iron03",
+  "name": "The Roll of the Missing",
+  "icon": "minecraft:iron_helmet",
+  "description": "Sera refuses to copy \"presumed dead\" across an entire page. She asks for enough materials to record each life separately.\n\nDonate 8 books and 16 ink sacs to the memorial archive. This investigation can proceed alongside the armory work.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_iron01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:book",
+        "count": 8
+      },
+      {
+        "submit": "minecraft:ink_sac",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_ranger05",
+  "name": "The Thing above the Cliffs",
+  "icon": "minecraft:bow",
+  "description": "A naga has driven travelers from Iona's cliff road. She asks you to reclaim the sky before another caravan attempts the crossing.\n\nDefeat one Mowzie's Mobs naga. Bring ranged options and avoid fighting over a fatal drop.",
+  "category": "ac_guilds",
+  "sub-category": "ac_ranger",
+  "dependencies": [
+    "ac_ranger04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mowziesmobs:naga",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 10
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

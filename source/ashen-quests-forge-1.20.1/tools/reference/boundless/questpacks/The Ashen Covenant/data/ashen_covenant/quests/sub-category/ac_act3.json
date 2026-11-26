@@ -1,0 +1,8 @@
+{
+  "id": "ac_act3",
+  "category": "ac_story",
+  "name": "III. The Covenant of Ink",
+  "icon": "minecraft:enchanted_book",
+  "order": 60,
+  "default_open": true
+}

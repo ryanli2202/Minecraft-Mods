@@ -1,0 +1,40 @@
+{
+  "id": "ac_watch04",
+  "name": "A Spell That Claims a Province",
+  "icon": "minecraft:shield",
+  "description": "An invoker has declared a private kingdom by magical decree. Sera reads it and finds no provision for the inhabitants to disagree.\n\nDefeat one Illager Invasion invoker. Prepare for the full encounter rather than treating it as an ordinary illager.",
+  "category": "ac_guilds",
+  "sub-category": "ac_watch",
+  "dependencies": [
+    "ac_watch02",
+    "ac_watch03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "illagerinvasion:invoker",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

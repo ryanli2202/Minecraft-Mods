@@ -1,0 +1,8 @@
+{
+  "id": "ac_atlas",
+  "category": "ac_guilds",
+  "name": "Iona | The Atlas of Safe Returns",
+  "icon": "minecraft:compass",
+  "order": 103,
+  "default_open": true
+}

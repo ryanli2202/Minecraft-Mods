@@ -1,0 +1,39 @@
+{
+  "id": "ac_ember02",
+  "name": "The Price of a Safe Return",
+  "icon": "minecraft:blaze_powder",
+  "description": "Tamsin prepares the largest medical shipment since the marsh fever. She does not ask you to promise victory, only to stop treating injuries as proof of courage.\n\nDonate 24 glass bottles and 16 honey bottles for the campaign hospital.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_ember01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:glass_bottle",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:honey_bottle",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

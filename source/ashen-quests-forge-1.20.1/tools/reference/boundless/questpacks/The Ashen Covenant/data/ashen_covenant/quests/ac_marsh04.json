@@ -1,0 +1,44 @@
+{
+  "id": "ac_marsh04",
+  "name": "The Doctor's Arsenal",
+  "icon": "minecraft:lily_pad",
+  "description": "The bait is ready, and the patients can be fed. Tamsin now insists on the unheroic necessities: a way to wash wounds and a warm place to wait.\n\nAcquire a cauldron, a campfire, and 16 clean glass blocks for a field dispensary. Keep the supplies and build where you prefer.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_marsh02",
+    "ac_marsh03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:cauldron",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:campfire",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:glass",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

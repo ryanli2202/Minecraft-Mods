@@ -1,0 +1,43 @@
+{
+  "id": "ac_m05",
+  "name": "05 | What Walks After Sunset",
+  "icon": "minecraft:iron_sword",
+  "description": "There is no army coming to relieve the night watch. The dead have begun wearing strips of the old king's colors. Mara burns the scraps without speaking.\n\nDefeat 6 zombies and 4 skeletons. Kill objectives use your tracked totals; previous victories may already count.",
+  "category": "ac_story",
+  "sub-category": "ac_act1",
+  "dependencies": [
+    "ac_m04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:zombie",
+        "count": 6
+      },
+      {
+        "kill": "minecraft:skeleton",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 8
+      },
+      {
+        "item": "minecraft:coal",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 35
+  }
+}

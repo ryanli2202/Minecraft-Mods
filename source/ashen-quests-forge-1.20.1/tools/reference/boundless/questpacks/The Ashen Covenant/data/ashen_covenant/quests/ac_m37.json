@@ -1,0 +1,38 @@
+{
+  "id": "ac_m37",
+  "name": "37 | The Last Witness",
+  "icon": "minecraft:dragon_breath",
+  "description": "The dragon circles the ruined island like a thought that cannot end. It witnessed the covenant's making. It will not willingly witness its undoing.\n\nDefeat the Ender Dragon and complete Free the End. Bottle some dragon breath while the opportunity is available, or return for a respawned fight later.",
+  "category": "ac_story",
+  "sub-category": "ac_act7",
+  "dependencies": [
+    "ac_m36"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:end/kill_dragon"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 4
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 300
+  }
+}

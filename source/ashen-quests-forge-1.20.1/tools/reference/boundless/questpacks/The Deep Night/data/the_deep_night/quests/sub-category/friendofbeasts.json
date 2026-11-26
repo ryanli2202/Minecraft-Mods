@@ -1,0 +1,8 @@
+{
+  "id": "friendofbeasts",
+  "category": "naturecalls",
+  "name": "Friend of Beasts",
+  "icon": "minecraft:lead",
+  "order": 3,
+  "default_open": true
+}

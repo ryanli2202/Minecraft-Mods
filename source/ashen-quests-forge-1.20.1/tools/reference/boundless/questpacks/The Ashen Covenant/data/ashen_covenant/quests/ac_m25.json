@@ -1,0 +1,34 @@
+{
+  "id": "ac_m25",
+  "name": "25 | The Garrison Below",
+  "icon": "minecraft:nether_bricks",
+  "description": "Elian recognizes the plan of a Nether fortress from the old capital's military academy. The king copied more than architecture from the world below.\n\nFind a Nether fortress and earn A Terrible Fortress. Incendium and fortress overhauls can make the journey dangerous; retreating to re-equip is part of the expedition.",
+  "category": "ac_story",
+  "sub-category": "ac_act5",
+  "dependencies": [
+    "ac_bell08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:nether/find_fortress"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

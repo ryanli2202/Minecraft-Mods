@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:desert",
+    "minecraft:badlands"
+  ],
+  "spawners": {
+    "type": "deepnight:poison_cactus",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

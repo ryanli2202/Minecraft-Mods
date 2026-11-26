@@ -1,0 +1,8 @@
+{
+  "id": "ac_road",
+  "category": "ac_story",
+  "name": "I.b | The Long Road to Dawnstead",
+  "icon": "minecraft:lantern",
+  "order": 30,
+  "default_open": true
+}

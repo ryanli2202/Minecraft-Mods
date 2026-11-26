@@ -1,0 +1,39 @@
+{
+  "id": "ac_road02",
+  "name": "The Mill without Grain",
+  "icon": "minecraft:lantern",
+  "description": "A miller has been grinding bark into flour. Rowan asks for a harvest, not another promise that soldiers will eventually make the road safe.\n\nDonate 32 wheat and 16 carrots to the first relief caravan. Start crops if you lack a renewable supply.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_road01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:wheat",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:carrot",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

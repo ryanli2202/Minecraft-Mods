@@ -1,0 +1,957 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "idle": {
+      "loop": true,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "walk": {
+      "loop": true,
+      "animation_length": 1,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                25,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                -20,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                25,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          },
+          "position": {
+            "0.0": {
+              "vector": [
+                0,
+                2,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                0,
+                2,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                52.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                12.4,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                22.5
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                0,
+                0,
+                -30
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                0,
+                0,
+                22.5
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "attack": {
+      "loop": false,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "death": {
+      "loop": false,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "hurt": {
+      "loop": false,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "sit": {
+      "loop": true,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "fly": {
+      "loop": true,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "spawn": {
+      "loop": false,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "source.idle": {
+      "loop": true,
+      "animation_length": 6,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                2.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                15,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            },
+            "3.0": {
+              "vector": [
+                10,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "6.0": {
+              "vector": [
+                0,
+                0,
+                20
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    },
+    "source.walk": {
+      "loop": true,
+      "animation_length": 1,
+      "bones": {
+        "chest": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                25,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                -20,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                25,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          },
+          "position": {
+            "0.0": {
+              "vector": [
+                0,
+                2,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                0,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                0,
+                2,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "door": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                52.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                12.4,
+                0,
+                0
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                47.5,
+                0,
+                0
+              ],
+              "easing": "linear"
+            }
+          }
+        },
+        "tongue": {
+          "rotation": {
+            "0.0": {
+              "vector": [
+                0,
+                0,
+                22.5
+              ],
+              "easing": "linear"
+            },
+            "0.52": {
+              "vector": [
+                0,
+                0,
+                -30
+              ],
+              "easing": "linear"
+            },
+            "1.0": {
+              "vector": [
+                0,
+                0,
+                22.5
+              ],
+              "easing": "linear"
+            }
+          }
+        }
+      }
+    }
+  }
+}

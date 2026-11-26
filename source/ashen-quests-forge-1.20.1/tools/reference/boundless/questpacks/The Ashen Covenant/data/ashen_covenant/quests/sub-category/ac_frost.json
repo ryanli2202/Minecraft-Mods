@@ -1,0 +1,8 @@
+{
+  "id": "ac_frost",
+  "category": "ac_reckoning",
+  "name": "XII | The Law of Winter",
+  "icon": "minecraft:soul_lantern",
+  "order": 40,
+  "default_open": true
+}

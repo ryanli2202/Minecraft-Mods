@@ -1,0 +1,39 @@
+{
+  "id": "ac_m31",
+  "name": "31 | The Door without a Key",
+  "icon": "minecraft:ender_pearl",
+  "description": "Sera learns why the king collected relic eyes. The final witness lies beyond a door that refuses ordinary keys. The raiders were not hoarding curiosities; they were assembling a route out of the world.\n\nGather 16 ender pearls. Your instance uses End Remastered: normal Eyes of Ender cannot open or locate the portal. The Lost Eyes journal is optional help; use the mod's eligible eyes and portal rules rather than a vanilla-only route.",
+  "category": "ac_story",
+  "sub-category": "ac_act6",
+  "dependencies": [
+    "ac_winter08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:ender_pearl",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 120
+  }
+}

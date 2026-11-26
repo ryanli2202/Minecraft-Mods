@@ -1,0 +1,38 @@
+{
+  "id": "ac_dragon05",
+  "name": "The Tide Has a Friend",
+  "icon": "saintsdragons:draconic_codex",
+  "description": "A Volitans shadows a relief ship all the way to harbor. For the first time the sailors greet a silhouette in the waves with cheers.\n\nEarn Saints Dragons' tame_volitans advancement. This late fellowship goal can be finished whenever you are ready.",
+  "category": "ac_guilds",
+  "sub-category": "ac_dragon",
+  "dependencies": [
+    "ac_dragon04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "saintsdragons:tame_volitans"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 4
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

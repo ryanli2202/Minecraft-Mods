@@ -1,0 +1,34 @@
+{
+  "id": "ac_m46",
+  "name": "46 | Raise the Dawn",
+  "icon": "minecraft:beacon",
+  "description": "The beacon shines over roofs built by people who expected to die. Rowan hangs the first relief ledger beside it, open to the page where your name arrived.\n\nBuild and activate a beacon to earn Bring Home the Beacon. The previous reward supplies a minimum one-layer iron base; clear the beam's path.",
+  "category": "ac_story",
+  "sub-category": "ac_act8",
+  "dependencies": [
+    "ac_m45"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:nether/create_beacon"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 24
+      }
+    ],
+    "exp": "points",
+    "count": 180
+  }
+}

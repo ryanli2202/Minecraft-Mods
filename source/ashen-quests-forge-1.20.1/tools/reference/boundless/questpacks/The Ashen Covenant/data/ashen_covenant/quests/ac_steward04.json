@@ -1,0 +1,35 @@
+{
+  "id": "ac_steward04",
+  "name": "Twenty-Five Different Tomorrows",
+  "icon": "minecraft:oak_door",
+  "description": "At the council table Rowan reads the residents' occupations aloud. For the first time, SOLDIER is not the largest category.\n\nReach the MineColonies colony population 25 advancement. Growth, housing, and happiness follow that mod's actual systems.",
+  "category": "ac_guilds",
+  "sub-category": "ac_steward",
+  "dependencies": [
+    "ac_steward02",
+    "ac_steward03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecolonies:minecolonies/colony_population_25"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

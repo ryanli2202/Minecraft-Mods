@@ -1,0 +1,40 @@
+{
+  "id": "tameignivorus",
+  "name": "The Titan in the Sky",
+  "icon": "saintsdragons:ignivorus_heart",
+  "description": "Defeat a colossal Ignivorous Dragon and earn the loyalty of the beast through strength alone.",
+  "category": "naturecalls",
+  "sub-category": "friendofbeasts",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "achieve": "saintsdragons:tame_ignivorus"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "armoroftheages:holy_armor_head",
+        "count": 1
+      },
+      {
+        "item": "armoroftheages:holy_armor_chest",
+        "count": 1
+      },
+      {
+        "item": "armoroftheages:holy_armor_legs",
+        "count": 1
+      },
+      {
+        "item": "armoroftheages:holy_armor_feet",
+        "count": 1
+      }
+    ]
+  }
+}

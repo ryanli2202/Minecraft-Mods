@@ -1,0 +1,36 @@
+{
+  "id": "ac_m10",
+  "name": "10 | The Collector",
+  "icon": "minecraft:iron_axe",
+  "description": "The raider collector carries orders to seize books as well as grain. Elian realizes these soldiers are searching for something the kingdom buried deliberately.\n\nWith the roadblock broken and the watch supplied, defeat 2 vindicators. Search woodland mansions or other suitable illager strongholds.",
+  "category": "ac_story",
+  "sub-category": "ac_act2",
+  "dependencies": [
+    "ac_m08",
+    "ac_m09"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:vindicator",
+        "count": 2
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 60
+  }
+}

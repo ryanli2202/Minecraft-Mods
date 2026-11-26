@@ -1,0 +1,44 @@
+{
+  "id": "ac_coast04",
+  "name": "The Priests of the Undertow",
+  "icon": "minecraft:prismarine",
+  "description": "The sunken streets have new keepers. Fen recognizes none of their prayers, but recognizes the fear in the stranded sailors' reports.\n\nDefeat 8 Cataclysm deeplings and 2 deepling priests. The journal tracks those exact entities, not every sea creature.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_coast",
+  "dependencies": [
+    "ac_coast02",
+    "ac_coast03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:deepling",
+        "count": 8
+      },
+      {
+        "kill": "cataclysm:deepling_priest",
+        "count": 2
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

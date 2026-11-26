@@ -1,0 +1,39 @@
+{
+  "id": "ac_legend01",
+  "name": "The Machine under the Orchard",
+  "icon": "minecraft:redstone_block",
+  "description": "Mara receives reports of a buried engine that still obeys war orders nobody remembers issuing.\n\nUse Cataclysm's Mech Eye to seek the Ancient Factory and check the Harbinger's activation requirements before entering. Defeat the named boss once; tracked earlier kills may count.\n\nLegacy commendation: a victory or advancement earned on another story path can satisfy this record. This does not create a separate instance of the encounter.",
+  "category": "ac_legends",
+  "sub-category": "ac_afterdawn",
+  "dependencies": [
+    "ac_m48"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:the_harbinger",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 250
+  }
+}

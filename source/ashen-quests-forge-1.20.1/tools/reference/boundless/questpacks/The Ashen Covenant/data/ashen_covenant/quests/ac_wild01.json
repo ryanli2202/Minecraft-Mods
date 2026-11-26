@@ -1,0 +1,35 @@
+{
+  "id": "ac_wild01",
+  "name": "The Hunger beneath the Leaves",
+  "icon": "minecraft:iron_axe",
+  "description": "Iona has found a trail where every footprint ends beside an innocent-looking plant. She no longer trusts innocent-looking plants.\n\nDefeat 3 Mowzie's Mobs foliaaths.",
+  "category": "ac_guilds",
+  "sub-category": "ac_wild",
+  "dependencies": [
+    "ac_m18"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mowziesmobs:foliaath",
+        "count": 3
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}

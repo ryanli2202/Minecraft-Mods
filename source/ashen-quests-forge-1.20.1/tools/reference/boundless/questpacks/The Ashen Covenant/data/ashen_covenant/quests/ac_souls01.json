@@ -1,0 +1,35 @@
+{
+  "id": "ac_souls01",
+  "name": "The Compass That Remembers",
+  "icon": "minecraft:soul_torch",
+  "description": "A traveler leaves a compass that points toward unfinished battles. Sera asks whether a promise can survive long enough to become a prison.\n\nAcquire Soulslike Weaponry's Boss Compass. Consult its tooltip and installed guide for the encounters it locates.",
+  "category": "ac_guilds",
+  "sub-category": "ac_souls",
+  "dependencies": [
+    "ac_m48"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "soulsweapons:boss_compass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

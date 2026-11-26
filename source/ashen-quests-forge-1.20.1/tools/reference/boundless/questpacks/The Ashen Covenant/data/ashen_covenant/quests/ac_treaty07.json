@@ -1,0 +1,39 @@
+{
+  "id": "ac_treaty07",
+  "name": "A Map beyond Maps",
+  "icon": "minecraft:writable_book",
+  "description": "Iona hands you blank sheets. There is no point pretending that an old map can describe a place nobody has returned from.\n\nAcquire 32 scaffolding and 8 glass bottles for the End expedition. Carry additional blocks and ranged supplies of your choosing.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_treaty06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:scaffolding",
+        "count": 32
+      },
+      {
+        "collect": "minecraft:glass_bottle",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

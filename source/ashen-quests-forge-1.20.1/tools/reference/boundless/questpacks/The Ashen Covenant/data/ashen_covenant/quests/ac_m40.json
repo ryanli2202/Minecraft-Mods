@@ -1,0 +1,35 @@
+{
+  "id": "ac_m40",
+  "name": "40 | The Eye of the Gaoler",
+  "icon": "cataclysm:void_eye",
+  "description": "A citadel stands apart from the cities. Its guardian did not serve the king; it kept him to his word. With the king dead, it will hold the living realm responsible instead.\n\nAcquire Cataclysm's Void Eye and use it to seek the Ruined Citadel. Check JEI for the recipe and return home for better equipment if needed.",
+  "category": "ac_story",
+  "sub-category": "ac_act7",
+  "dependencies": [
+    "ac_m39"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:void_eye",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "eclipse_wyrm": {
+    "scale": 0.79136,
+    "lift": 0.61133
+  },
+  "crimson_abomination": {
+    "scale": 0.22155,
+    "lift": 0.03366
+  },
+  "three_headed_hydra": {
+    "scale": 0.23534,
+    "lift": 1.36535
+  },
+  "foreign_matriarch": {
+    "scale": 0.34747,
+    "lift": 1.18242
+  },
+  "alien_centipede": {
+    "scale": 0.32265,
+    "lift": 0.30391
+  },
+  "inferno_dragon": {
+    "scale": 0.34166,
+    "lift": 2.55646
+  },
+  "mountain_kong": {
+    "scale": 0.88387,
+    "lift": 0.12829
+  },
+  "arcane_mecha": {
+    "scale": 0.39392,
+    "lift": 0.01159
+  },
+  "leviathan": {
+    "scale": 1.25494,
+    "lift": 1.18906
+  },
+  "ancient_golem_boss": {
+    "scale": 1.45024,
+    "lift": -0.72635
+  },
+  "ancient_sculkpion_boss": {
+    "scale": 0.8042,
+    "lift": 0.16814
+  },
+  "city_pigeon": {
+    "scale": 0.86625,
+    "lift": -0.0
+  },
+  "young_kong": {
+    "scale": 0.55461,
+    "lift": 0.02774
+  },
+  "inferno_wyvern": {
+    "scale": 0.12812,
+    "lift": 0.95867
+  },
+  "cave_bat": {
+    "scale": 1.42776,
+    "lift": 0.27286
+  },
+  "kraken_tentacle": {
+    "scale": 0.40921,
+    "lift": 0.89819
+  },
+  "winged_eye": {
+    "scale": 0.38993,
+    "lift": -0.00917
+  },
+  "ashen_blacksmith": {
+    "scale": 0.47,
+    "lift": -0.0
+  },
+  "abyssal_shoggoth": {
+    "scale": 0.1205,
+    "lift": 0.05331
+  },
+  "frostbound_revenant": {
+    "scale": 0.91173,
+    "lift": 0.25663
+  },
+  "phantom_ghost": {
+    "scale": 0.29586,
+    "lift": -2.85386
+  },
+  "sculkpion_minion": {
+    "scale": 2.10531,
+    "lift": 0.06578
+  }
+}

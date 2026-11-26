@@ -1,0 +1,40 @@
+{
+  "id": "ac_harbor04",
+  "name": "The Reef That Became a Trap",
+  "icon": "minecraft:nautilus_shell",
+  "description": "A Coralssus has made the planned approach unsafe. Fen waits for a clear route rather than gambling another crew on speed.\n\nDefeat one Cataclysm Coralssus. Check the sea ruins and prepare for the surrounding defenders.",
+  "category": "ac_guilds",
+  "sub-category": "ac_harbor",
+  "dependencies": [
+    "ac_harbor02",
+    "ac_harbor03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:coralssus",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

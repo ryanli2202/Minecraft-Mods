@@ -1,0 +1,39 @@
+{
+  "id": "ac_treaty03",
+  "name": "Tamsin's Return Kit",
+  "icon": "minecraft:writable_book",
+  "description": "Tamsin labels the box RETURN rather than EMERGENCY. She says the difference is important and declines to explain it.\n\nAcquire 16 golden carrots and 8 phantom membranes for travel and potion preparation. Check JEI for your available fall-protection options.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_treaty01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:golden_carrot",
+        "count": 16
+      },
+      {
+        "collect": "minecraft:phantom_membrane",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,10 @@
+The eleven player skins were supplied in ../travellerscompanions. Ten 64x64 skins are copied unchanged; the legacy 64x32 Varys skin is expanded to 64x64 using Minecraft's mirrored left-limb UV convention. Original files are preserved.
+Better Combat, Iron's Spells 'n Spellbooks and Common Weapons animation data is loaded from the installed mods at runtime, not redistributed.
+Epic Knights equipment is resolved from the installed Epic Knights registry. No Epic Knights assets are redistributed.
+Iron's, Simply Swords and Common Weapons equipment is resolved from installed registries. No third-party mod JARs, textures, models or decompiled sources are bundled.
+
+Troops use their own supplied 64x64 skins: footsquire.png, footpaladin.png and footarcher.png. Each is copied byte-for-byte from ../travellerscompanions and verified against its SHA-256 digest.
+
+Serious Player Animations walking keyframes are resolved from the installed mod's PlayerAnimationRegistry at runtime. No SPA assets or code are redistributed.
+ParCool's owner FastRun capability is accessed through its installed classes. CompanionParkour and CompanionLocomotion implement original NPC movement and poses; ParCool player procedures and animation source are not bundled.
+Integration references: https://github.com/alRex-U/ParCool and https://github.com/McVader34/Serious-Player-Animations

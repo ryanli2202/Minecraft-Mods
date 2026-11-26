@@ -1,0 +1,8 @@
+{
+  "id": "ac_sea",
+  "category": "ac_guilds",
+  "name": "The Salt Road | Coastal Fellowship",
+  "icon": "minecraft:fishing_rod",
+  "order": 15,
+  "default_open": true
+}

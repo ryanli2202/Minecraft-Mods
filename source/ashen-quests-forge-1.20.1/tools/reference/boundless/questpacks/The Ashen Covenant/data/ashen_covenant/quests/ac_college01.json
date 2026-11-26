@@ -1,0 +1,39 @@
+{
+  "id": "ac_college01",
+  "name": "Books the King Would Not Shelve",
+  "icon": "minecraft:enchanted_book",
+  "description": "The open college receives a cart of censored manuscripts. Sera refuses to decide which should be burned before she has read them.\n\nAcquire 4 rare ink and 32 arcane essence from Iron's Spellbooks. Check JEI for your installed upgrading and crafting routes.",
+  "category": "ac_guilds",
+  "sub-category": "ac_college",
+  "dependencies": [
+    "ac_mage05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "irons_spellbooks:rare_ink",
+        "count": 4
+      },
+      {
+        "collect": "irons_spellbooks:arcane_essence",
+        "count": 32
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

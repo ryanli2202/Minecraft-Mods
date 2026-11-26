@@ -1,0 +1,14 @@
+{
+  "dawn": {
+    "boss": "CorruptedOgre DragonLord ElementalDeity Ent FireDragon FireGiant Herobrine IceDragon LightningDragon LostEyeOgre Martian MossGolem NineTails NotchBoss SentinelKnight Skeletonlord",
+    "pet": "TinyNecromancer Gryphon",
+    "mob": "BarrelMan BrightElemental CapedMinotaur CaveBlockhead CaveDweller CaveGolem Cultist DarkElemental Darkwerewolf Giant GiantSkele Gobber Gob Goblo Goom Graywerewolf HalfWitherDemon Hobgob ImpBomb ImpGuard ImpMelee ImpRange Minotaur Monk Ogre Patronwerewolf RatMid RatSmall SandWyrm Shade ShieldedSkeleton SkeletonDemon Vampire WeakOgre Whisperer WitherDemon",
+    "passive": "Blackmarketvillager CloakedVillager Korok1 Korok2 Korok3 Korok4 Korok5 Ibr17eem171 LordeRK"
+  },
+  "mobosses": {
+    "boss": "DemonKing DivineDragon ForestGuardian Herobrine Nil RoyalGuardian RoyalKnight",
+    "pet": "",
+    "mob": "DemonKingMinion",
+    "passive": ""
+  }
+}

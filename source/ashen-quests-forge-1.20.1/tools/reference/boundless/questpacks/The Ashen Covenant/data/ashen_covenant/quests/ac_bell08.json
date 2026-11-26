@@ -1,0 +1,43 @@
+{
+  "id": "ac_bell08",
+  "name": "Where the Accounts Balance",
+  "icon": "minecraft:bell",
+  "description": "Elian posts a copy of the missing names by the portal. Whatever waits below will have to answer to people, not numbers.\n\nAcquire a brewing stand and 8 magma cream for sustained fire-protection preparation. The fortress campaign begins next.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_bell07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:brewing_stand",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:magma_cream",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

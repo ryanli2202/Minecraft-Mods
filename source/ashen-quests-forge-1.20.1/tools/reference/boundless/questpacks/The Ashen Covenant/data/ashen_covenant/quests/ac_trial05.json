@@ -1,0 +1,39 @@
+{
+  "id": "ac_trial05",
+  "name": "The Bronze Sky",
+  "icon": "minecraft:iron_sword",
+  "description": "A flock of Stymphalian birds has closed the ridge road. Elian asks for precision; farmers are sheltering beneath those trees.\n\nDefeat 8 Ice and Fire Stymphalian birds total. Their exact target is iceandfire:stymphalian_bird.",
+  "category": "ac_trials",
+  "sub-category": "ac_hunttrials",
+  "dependencies": [
+    "ac_m30"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:stymphalian_bird",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

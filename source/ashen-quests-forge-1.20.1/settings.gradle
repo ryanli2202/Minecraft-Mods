@@ -1,0 +1,6 @@
+pluginManagement {
+    repositories { gradlePluginPortal(); maven { url = 'https://maven.minecraftforge.net/' } }
+}
+rootProject.name = 'ashen-quests-forge-1.20.1'
+include ':npcs'
+project(':npcs').projectDir = file('../thedeepnightnpcs-forge-1.20.1')

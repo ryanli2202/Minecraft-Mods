@@ -1,0 +1,29 @@
+{
+  "id": "flamedragon",
+  "name": "The Dragon of Flame",
+  "icon": "iceandfire:fire_dragon_heart",
+  "description": "Defeat a mighty fire dragon and extinguish the inferno that scorches the land.",
+  "category": "naturecalls",
+  "sub-category": "monstersofmyth",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:fire_dragon",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "dungeons_and_combat:dragon_greatsword_fire",
+        "count": 1
+      }
+    ]
+  }
+}

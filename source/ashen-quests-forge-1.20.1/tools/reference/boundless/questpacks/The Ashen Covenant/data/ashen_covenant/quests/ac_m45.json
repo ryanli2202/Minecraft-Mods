@@ -1,0 +1,35 @@
+{
+  "id": "ac_m45",
+  "name": "45 | A Light That Asks for Nothing",
+  "icon": "minecraft:beacon",
+  "description": "Mara takes the star and sketches a beacon. The king used light to demand obedience. Dawnstead will use it to help lost travelers find shelter.\n\nAcquire a beacon. Keep it to build a working monument at your refuge.",
+  "category": "ac_story",
+  "sub-category": "ac_act8",
+  "dependencies": [
+    "ac_m44"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:beacon",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:iron_block",
+        "count": 9
+      }
+    ],
+    "exp": "points",
+    "count": 160
+  }
+}

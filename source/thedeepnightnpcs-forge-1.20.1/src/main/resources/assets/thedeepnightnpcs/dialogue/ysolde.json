@@ -1,0 +1,23 @@
+{
+  "root": {
+    "title": "Warden of the Covenant of Wings",
+    "text": "Ysolde. Keep your bow lowered until you know which creature you are looking at. Eldara brings the main campaign reports; I keep the dragon fellowship and the requests that begin where an ordinary map ends.\n\nAn End portal frame already stands at the Spire. Earn its keys progressively through The Lost Eyes | NPC Trials. Start with Sera after Eldara's The First Hearth; follow each trial's named companion and story milestone. The first twelve trials award twelve different End Remastered eyes. Keep them for the Spire frame instead of throwing them to search for a stronghold.",
+    "children": [
+      "work",
+      "quests",
+      "eldara"
+    ]
+  },
+  "work": {
+    "title": "Your work",
+    "text": "Not every wing casts an enemy's shadow. Read the account, prepare the nursery, and learn a creature's habits before approaching. I once kept only a hunting ledger. The newer book has feed budgets and observations in it, and I am prouder of that one."
+  },
+  "quests": {
+    "title": "How can I help?",
+    "text": "Choose Covenant quests in our opening conversation to see my assignments. Accept one here before setting out, then return to me to turn it in and receive your emeralds. Use the minus key (-) to track its objectives while traveling. Some requests follow earlier work; your journal explains what must be finished first. If the Ashen Covenant quest mod is absent, I can still talk, but cannot offer its quests."
+  },
+  "eldara": {
+    "title": "The main chronicle",
+    "text": "Speak to Eldara and choose Main quests to continue the three books of the Ashen Covenant. She receives the expedition reports and gives the next main assignment. The rest of us have our own work, and we will ask for it in person."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ac_steward",
+  "category": "ac_guilds",
+  "name": "Rowan | A Province Worth Living In",
+  "icon": "minecraft:oak_door",
+  "order": 102,
+  "default_open": true
+}

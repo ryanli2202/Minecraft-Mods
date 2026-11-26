@@ -1,0 +1,40 @@
+{
+  "id": "ac_ember04",
+  "name": "The Ashen Honor Guard",
+  "icon": "minecraft:blaze_powder",
+  "description": "The arena's revenants still parade beneath a banner whose kingdom has vanished. They recognize no surrender but destruction.\n\nDefeat 3 Cataclysm Ignited Revenants. Gather the resources needed for the subsequent altar encounter.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_ember02",
+    "ac_ember03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:ignited_revenant",
+        "count": 3
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

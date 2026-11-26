@@ -1,0 +1,39 @@
+{
+  "id": "ac_m07",
+  "name": "07 | A Banner with No King",
+  "icon": "minecraft:compass",
+  "description": "A courier reaches Dawnstead with a warning: raiders are demanding taxes in the dead king's name. Their tribute caravans travel toward a ruined archive. Someone is paying for a war.\n\nAcquire a compass and 24 paper to begin charting the raider routes. Maps and generated structures are yours to explore; no fixed coordinates are assumed.",
+  "category": "ac_story",
+  "sub-category": "ac_act2",
+  "dependencies": [
+    "ac_road08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:compass",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:paper",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:bread",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

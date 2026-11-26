@@ -1,0 +1,70 @@
+THE DEEP NIGHT 1.3.2 - BOSS AUDIT
+
+22 / 22 boss lifecycle checks passed; 48 server GameTests passed.
+Environment: Minecraft 1.20.1, Forge 47.4.10, GeckoLib 4.8.4, Java 17.
+The supplied crash used Forge 47.4.15 with additional mods. That full modpack was not run.
+
+Each boss ran native AI in an isolated, ticking open arena against a controlled survival
+ServerPlayer, at full, 55% and 20% health. Every boss dealt damage, accepted player melee
+damage, died, advanced progression, granted exactly four first-clear sigils and completed
+its corpse cleanup. Tests waited 320 ticks after defeat for delayed callbacks.
+The target heals between hits; outgoing damage is controlled. After native dimension
+banishment, the controlled target returns to the arena. This is functional testing,
+not a balance/playability rating or exhaustive coverage of every randomized attack.
+
+RESULTS (player hits received by boss / hits dealt by boss or its lightning):
+PASS  Corrupted Ogre: 41 / 192; defeated at tick 1200
+PASS  Dragon Lord: 48 / 17; defeated at tick 1300
+PASS  Elemental Deity: 44 / 106; defeated at tick 1225
+PASS  Ent: 42 / 20; defeated at tick 1225
+PASS  Fire Dragon: 46 / 47; defeated at tick 1225
+PASS  Fire Giant: 35 / 20; defeated at tick 1400
+PASS  DawnCraft Herobrine: 48 / 93; defeated at tick 1275
+PASS  Ice Dragon: 47 / 25; defeated at tick 1250
+PASS  Lightning Dragon: 46 / 44; defeated at tick 1225
+PASS  Martian: 39 / 19; defeated at tick 1200
+PASS  Moss Golem: 49 / 395; defeated at tick 1300
+PASS  Nine Tails: 44 / 16; defeated at tick 1200
+PASS  Notch: 43 / 68; defeated at tick 1250
+PASS  Sentinel Knight: 45 / 26; defeated at tick 1225
+PASS  Lord of Sorcery, the Skeleton Overlord: 46 / 59; defeated at tick 1225
+PASS  Demon King: 47 / 6; defeated at tick 1250
+PASS  Divine Dragon: 47 / 31; defeated at tick 1250
+PASS  Forest Guardian: 46 / 3; defeated at tick 1225
+PASS  Mo’Bosses Herobrine: 48 / 43; defeated at tick 1275
+PASS  Orc Champion: 47 / 17; defeated at tick 1250
+PASS  Divine Guardian: 45 / 3; defeated at tick 1200
+PASS  Divine Knight: 45 / 6; defeated at tick 1200
+
+CLIENT CHECKS
+PASS
+Tool opened the server-backed boss screen.
+Creative Ogre kill advanced to Dragon Lord.
+Rematch and confirmed end used real server actions without advancing.
+Creative replacement selected Dragon Lord during an active future boss fight without defeat credit.
+Dragon Lord's client health bar tracks damage during NoAI and stun.
+Future creative test left progress unchanged; survival future bosses remain locked.
+All 22 native boss previews rendered in the menu.
+Search and compact window layout verified.
+Elemental Deity died, removed its corpse, cleared the encounter and awarded its delayed advancement without a client/server crash.
+DawnCraft Herobrine died, removed its corpse, cleared the encounter and awarded its delayed advancement without a client/server crash.
+
+Rendered 161 source boss/helper entities.
+
+FIXES
+- Elemental Deity and DawnCraft Herobrine: restore and safely award delayed advancements.
+- Restore DawnCraft Herobrine's missing Accursed Sword trophy drop.
+- Dragon Lord: release invulnerability on the early dive collision transition.
+- Skeleton Lord: restore native aggression callback and repair invulnerability commands.
+- Ent: remove defeated entity when its staff reward appears.
+- Update DawnCraft health bars during NoAI/stuns; add missing Divine Guardian/Knight bars.
+- Preserve 1.2.2 sound protections and creative boss replacement/menu behavior.
+
+DIAGNOSTICS
+No boss runtime exceptions or failed tests remained in the passing run. Forge logged
+the recoverable first-run absence of server.properties before generating that file.
+The client also logs legacy custom animation instructions without handlers; native
+source combat and all 161 model/texture/animation/renderer checks still passed.
+
+Install the new Deep Night jar on both server and clients, replacing the prior jar.
+Keep only one Deep Night jar. The install ZIP also contains GeckoLib 4.8.4.

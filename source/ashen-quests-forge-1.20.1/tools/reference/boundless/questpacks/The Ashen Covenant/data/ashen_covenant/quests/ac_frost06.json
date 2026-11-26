@@ -1,0 +1,39 @@
+{
+  "id": "ac_frost06",
+  "name": "The Sentence without an End",
+  "icon": "minecraft:soul_lantern",
+  "description": "Maledictus has turned punishment into a kingdom. You cannot persuade a curse to apologize, but you can stop letting it govern the living.\n\nDefeat Cataclysm's Maledictus using the Frosted Prison encounter mechanics.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_frost05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:maledictus",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

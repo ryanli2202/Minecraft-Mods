@@ -1,0 +1,39 @@
+{
+  "id": "ac_desert01",
+  "name": "The Toll on an Empty Well",
+  "icon": "minecraft:sandstone",
+  "description": "A desert courier explains the new tax: nobody may draw water without swearing loyalty to a king who has been dead for centuries. A familiar bargain has found unfamiliar masters.\n\nAcquire Cataclysm's Desert Eye and 8 water buckets. Plan a desert expedition; the buckets are an inventory milestone, not a thirst mechanic.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_council08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:desert_eye",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:water_bucket",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

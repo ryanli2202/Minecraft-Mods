@@ -1,0 +1,7 @@
+{
+  "id": "ac_story",
+  "name": "Book I | The Ashen Covenant",
+  "icon": "minecraft:enchanted_book",
+  "order": 10,
+  "auto_complete": false
+}

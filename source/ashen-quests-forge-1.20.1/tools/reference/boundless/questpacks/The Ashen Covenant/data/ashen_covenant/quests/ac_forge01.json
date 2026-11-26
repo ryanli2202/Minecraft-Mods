@@ -1,0 +1,39 @@
+{
+  "id": "ac_forge01",
+  "name": "Apprentice of the Common Forge",
+  "icon": "minecraft:anvil",
+  "description": "Mara opens her workshop to apprentices from every village. Her first rule is that learning to mend a plough matters as much as forging a sword.\n\nDonate 24 iron ingots and 16 coal for the apprentice forge. This begins a six-quest optional craft fellowship.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_forge",
+  "dependencies": [
+    "ac_iron08"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:coal",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

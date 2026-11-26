@@ -1,0 +1,35 @@
+{
+  "id": "ac_contract04",
+  "name": "Glass for the Dispensary",
+  "icon": "minecraft:paper",
+  "description": "Tamsin has enough medicine for a week and bottles for an afternoon.\n\nDeliver the listed materials to the relief ledger through the quest book. This is optional repeatable support work, with a small payment per delivery.\n\nTurn-in: submitted items are consumed when you claim this quest.\n\nRepeatable contract: use Repeat in the quest book after claiming.",
+  "category": "ac_contracts",
+  "sub-category": "ac_board",
+  "dependencies": [
+    "ac_m06"
+  ],
+  "optional": true,
+  "repeatable": true,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:glass_bottle",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 10
+  }
+}

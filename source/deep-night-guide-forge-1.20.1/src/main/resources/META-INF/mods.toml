@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="deepnightguide"
+version="${file.jarVersion}"
+displayName="The Deep Night Guide"
+displayTest="IGNORE_ALL_VERSION"
+authors="Deep Night"
+description='''A searchable guide to your installed modpack, with recipes, creature and boss notes, a world-lore chronicle and dimension atlas, and personal taming, equipment and boss-defeat checklists. Press J in a world.'''
+[[dependencies.deepnightguide]]
+modId="forge"
+mandatory=true
+versionRange="[47.3.25,48)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.deepnightguide]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

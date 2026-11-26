@@ -1,0 +1,39 @@
+{
+  "id": "ac_coast02",
+  "name": "The Shipwright's Bargain",
+  "icon": "minecraft:prismarine",
+  "description": "The surviving shipwright offers passage for every delegate if Dawnstead supplies timber before asking for favors.\n\nDonate 48 spruce logs and 16 iron ingots for a common ferry. Exact spruce logs are requested.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_coast",
+  "dependencies": [
+    "ac_coast01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:spruce_log",
+        "count": 48
+      },
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

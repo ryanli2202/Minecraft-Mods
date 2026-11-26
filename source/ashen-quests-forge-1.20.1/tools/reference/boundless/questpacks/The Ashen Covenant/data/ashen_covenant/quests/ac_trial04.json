@@ -1,0 +1,39 @@
+{
+  "id": "ac_trial04",
+  "name": "Do Not Meet Her Eyes",
+  "icon": "minecraft:iron_sword",
+  "description": "Ysolde crosses out an entire page of brave advice and replaces it with one practical warning about the gorgon's gaze.\n\nDefeat an Ice and Fire gorgon. Consult the Bestiary and prepare its specific countermeasures before entering the temple.",
+  "category": "ac_trials",
+  "sub-category": "ac_hunttrials",
+  "dependencies": [
+    "ac_m30"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:gorgon",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

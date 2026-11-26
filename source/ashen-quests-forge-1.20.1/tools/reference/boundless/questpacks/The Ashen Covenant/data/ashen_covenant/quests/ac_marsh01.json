@@ -1,0 +1,39 @@
+{
+  "id": "ac_marsh01",
+  "name": "The Water Tastes of Iron",
+  "icon": "minecraft:lily_pad",
+  "description": "A caravan brings patients instead of goods. Tamsin discovers that each drank from streams near the ruined royal fishery. The captured ledger calls that place a research station.\n\nAcquire 12 glass bottles and 4 buckets for the investigation. You are preparing a field camp, not performing an automatic water-quality scan.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_m12"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:glass_bottle",
+        "count": 12
+      },
+      {
+        "collect": "minecraft:bucket",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

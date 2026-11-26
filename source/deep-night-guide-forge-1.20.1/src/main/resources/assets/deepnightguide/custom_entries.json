@@ -1,0 +1,3343 @@
+{
+  "entity:fantasycraft:ampithere": {
+    "sections": {
+      "Creature stats": [
+        "Health: 40. Attack: 6. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:crag_gardens, biomeswevegone:fragment_jungle, biomeswevegone:jacaranda_jungle, biomeswevegone:tropical_rainforest, minecraft:bamboo_jungle, minecraft:jungle, minecraft:sparse_jungle. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:ballybog": {
+    "sections": {
+      "Creature stats": [
+        "Health: 3. Attack: 4.5. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:bayou, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:white_mangrove_marshes, minecraft:mangrove_swamp, minecraft:swamp. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:banshee": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 0. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:basilisk": {
+    "sections": {
+      "Creature stats": [
+        "Health: 50. Attack: 5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:araucaria_savanna, biomeswevegone:baobab_savanna, minecraft:savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:bogeyman": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 0.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:brownie": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 0. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:cave_troll": {
+    "sections": {
+      "Creature stats": [
+        "Health: 85. Attack: 12.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: minecraft:dripstone_caves. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:centaur": {
+    "sections": {
+      "Creature stats": [
+        "Health: 22. Attack: 6. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:araucaria_savanna, biomeswevegone:baobab_savanna, biomeswevegone:ironwood_gour, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:cockatrice": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 3. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:cyclops": {
+    "sections": {
+      "Creature stats": [
+        "Health: 75. Attack: 12.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:araucaria_savanna, biomeswevegone:baobab_savanna, minecraft:savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:drake": {
+    "sections": {
+      "Creature stats": [
+        "Health: 400. Attack: 7.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:crimson_tundra, biomeswevegone:firecracker_chaparral, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:rose_fields, biomeswevegone:temperate_grove, minecraft:ice_spikes, minecraft:plains, minecraft:snowy_plains, minecraft:sunflower_plains. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:dwarf": {
+    "sections": {
+      "Creature stats": [
+        "Health: 19. Attack: 4.5. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: minecraft:deep_dark, minecraft:dripstone_caves, minecraft:lush_caves. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:elf": {
+    "sections": {
+      "Creature stats": [
+        "Health: 3. Attack: 4.5. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:skyris_vale, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:fairy": {
+    "sections": {
+      "Creature stats": [
+        "Health: 2. Attack: 2.5. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:black_forest, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:forgotten_forest, biomeswevegone:weeping_witch_forest, minecraft:dark_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:fairy_dragon": {
+    "sections": {
+      "Creature stats": [
+        "Health: 40. Attack: 4.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:black_forest, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:forgotten_forest, biomeswevegone:weeping_witch_forest, minecraft:dark_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:forest_troll": {
+    "sections": {
+      "Creature stats": [
+        "Health: 85. Attack: 12.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:skyris_vale, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:gargoyle": {
+    "sections": {
+      "Creature stats": [
+        "Health: 25. Attack: 65.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:gnome": {
+    "sections": {
+      "Creature stats": [
+        "Health: 19. Attack: 4.5. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:black_forest, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:forgotten_forest, biomeswevegone:weeping_witch_forest, minecraft:dark_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:goblin": {
+    "sections": {
+      "Creature stats": [
+        "Health: 15. Attack: 5.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:skyris_vale, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:gorgon": {
+    "sections": {
+      "Creature stats": [
+        "Health: 22. Attack: 5.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:araucaria_savanna, biomeswevegone:baobab_savanna, biomeswevegone:ironwood_gour, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:griffin": {
+    "sections": {
+      "Creature stats": [
+        "Health: 60. Attack: 7.5. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:araucaria_savanna, biomeswevegone:baobab_savanna, biomeswevegone:ironwood_gour, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:hill_troll": {
+    "sections": {
+      "Creature stats": [
+        "Health: 85. Attack: 12.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:canadian_shield, biomeswevegone:dacite_ridges, biomeswevegone:howling_peaks, biomeswevegone:red_rock_peaks, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:hippogriff": {
+    "sections": {
+      "Creature stats": [
+        "Health: 30. Attack: 7.5. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "No saddle is required. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:hobgoblin": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 0. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:black_forest, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:forgotten_forest, biomeswevegone:weeping_witch_forest, minecraft:dark_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:hydra_1": {
+    "sections": {
+      "Creature stats": [
+        "Health: 150. Attack: 13.0. Hostile."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:hydra_2": {
+    "sections": {
+      "Creature stats": [
+        "Health: 150. Attack: 13.0. Hostile."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:hydra_3": {
+    "sections": {
+      "Creature stats": [
+        "Health: 150. Attack: 13.0. Hostile."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:hydra_4": {
+    "sections": {
+      "Creature stats": [
+        "Health: 150. Attack: 13.0. Hostile."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:hydra_5": {
+    "sections": {
+      "Creature stats": [
+        "Health: 150. Attack: 13.0. Hostile."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:knight": {
+    "sections": {
+      "Creature stats": [
+        "Health: 55. Attack: 10.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:leprechaun": {
+    "sections": {
+      "Creature stats": [
+        "Health: 19. Attack: 4.5. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:aspen_boreal, minecraft:birch_forest, minecraft:old_growth_birch_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:lindwyrm": {
+    "sections": {
+      "Creature stats": [
+        "Health: 50. Attack: 6.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:coniferous_forest, biomeswevegone:eroded_borealis, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:maple_taiga, biomeswevegone:redwood_thicket, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:taiga. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:lung_dragon": {
+    "sections": {
+      "Creature stats": [
+        "Health: 125. Attack: 6. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:sakura_grove, minecraft:cherry_grove. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:mermaid": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:lush_stacks, minecraft:warm_ocean. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:minotaur": {
+    "sections": {
+      "Creature stats": [
+        "Health: 100. Attack: 12.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:ironwood_gour, minecraft:savanna_plateau, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:mokele": {
+    "sections": {
+      "Creature stats": [
+        "Health: 110. Attack: 9.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:crag_gardens, biomeswevegone:fragment_jungle, biomeswevegone:jacaranda_jungle, biomeswevegone:tropical_rainforest, minecraft:bamboo_jungle, minecraft:jungle, minecraft:sparse_jungle. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:azalea_leaves, minecraft:flowering_azalea_leaves, minecraft:cherry_leaves, minecraft:oak_leaves, minecraft:acacia_leaves, minecraft:mangrove_leaves, minecraft:beetroot, minecraft:carrot, minecraft:wheat, minecraft:potato, minecraft:glow_berries, minecraft:sweet_berries. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:azalea_leaves, minecraft:flowering_azalea_leaves, minecraft:cherry_leaves, minecraft:oak_leaves, minecraft:acacia_leaves, minecraft:mangrove_leaves, minecraft:beetroot, minecraft:carrot, minecraft:wheat, minecraft:potato, minecraft:glow_berries, minecraft:sweet_berries."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:ogre": {
+    "sections": {
+      "Creature stats": [
+        "Health: 75. Attack: 12.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:crimson_tundra, biomeswevegone:firecracker_chaparral, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:rose_fields, biomeswevegone:temperate_grove, minecraft:ice_spikes, minecraft:plains, minecraft:snowy_plains, minecraft:sunflower_plains. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:orc": {
+    "sections": {
+      "Creature stats": [
+        "Health: 22. Attack: 7.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:crimson_tundra, biomeswevegone:firecracker_chaparral, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:rose_fields, biomeswevegone:temperate_grove, minecraft:ice_spikes, minecraft:plains, minecraft:snowy_plains, minecraft:sunflower_plains. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:pegasus": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:wheat, minecraft:carrot, minecraft:apple, minecraft:beetroot, minecraft:sugar, minecraft:sugar_cane. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:wheat, minecraft:carrot, minecraft:apple, minecraft:beetroot, minecraft:sugar, minecraft:sugar_cane."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:phoenix": {
+    "sections": {
+      "Creature stats": [
+        "Health: 40. Attack: 6. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:araucaria_savanna, biomeswevegone:baobab_savanna, biomeswevegone:ironwood_gour, minecraft:savanna, minecraft:savanna_plateau, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:apple. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:apple."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:pixie": {
+    "sections": {
+      "Creature stats": [
+        "Health: 2. Attack: 2.5. Neutral / peaceful."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:black_forest, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:forgotten_forest, biomeswevegone:weeping_witch_forest, minecraft:dark_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:quetzalcoatl": {
+    "sections": {
+      "Creature stats": [
+        "Health: 75. Attack: 6. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:crag_gardens, biomeswevegone:fragment_jungle, biomeswevegone:jacaranda_jungle, biomeswevegone:tropical_rainforest, minecraft:bamboo_jungle, minecraft:jungle, minecraft:sparse_jungle. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:fire_wyvern": {
+    "sections": {
+      "Creature stats": [
+        "Health: 110. Attack: 10.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:greater_wyvern": {
+    "sections": {
+      "Creature stats": [
+        "Health: 130. Attack: 10.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:king_dragon": {
+    "sections": {
+      "Creature stats": [
+        "Health: 160. Attack: 11.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:lesser_wyvern": {
+    "sections": {
+      "Creature stats": [
+        "Health: 100. Attack: 10.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:manticore": {
+    "sections": {
+      "Creature stats": [
+        "Health: 70. Attack: 7.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:ironwood_gour, minecraft:savanna_plateau, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:salamander": {
+    "sections": {
+      "Creature stats": [
+        "Health: 120. Attack: 7.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:welsh_dragon": {
+    "sections": {
+      "Creature stats": [
+        "Health: 130. Attack: 10.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:cika_woods, biomeswevegone:crimson_tundra, biomeswevegone:firecracker_chaparral, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:rose_fields, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest, minecraft:ice_spikes, minecraft:plains, minecraft:snowy_plains, minecraft:sunflower_plains. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:wyvern": {
+    "sections": {
+      "Creature stats": [
+        "Health: 150. Attack: 10.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:redcap": {
+    "sections": {
+      "Creature stats": [
+        "Health: 10. Attack: 3.5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:black_forest, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:forgotten_forest, biomeswevegone:weeping_witch_forest, minecraft:dark_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:roc": {
+    "sections": {
+      "Creature stats": [
+        "Health: 60. Attack: 5.5. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:atacama_outback, biomeswevegone:mojave_desert, biomeswevegone:windswept_desert, minecraft:desert. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "No saddle is required. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:sasqet": {
+    "sections": {
+      "Creature stats": [
+        "Health: 22. Attack: 6. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:coniferous_forest, biomeswevegone:eroded_borealis, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:maple_taiga, biomeswevegone:redwood_thicket, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:taiga. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:sasquatch": {
+    "sections": {
+      "Creature stats": [
+        "Health: 33. Attack: 7.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:coniferous_forest, biomeswevegone:eroded_borealis, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:maple_taiga, biomeswevegone:redwood_thicket, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:taiga. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:sea_serpent": {
+    "sections": {
+      "Creature stats": [
+        "Health: 110. Attack: 5. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:seawyrm": {
+    "sections": {
+      "Creature stats": [
+        "Health: 50. Attack: 3. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: minecraft:deep_cold_ocean, minecraft:deep_frozen_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:shellycoat": {
+    "sections": {
+      "Creature stats": [
+        "Health: 15. Attack: 0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:bayou, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:white_mangrove_marshes, minecraft:mangrove_swamp, minecraft:swamp. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:simonside_dwarf": {
+    "sections": {
+      "Creature stats": [
+        "Health: 17. Attack: 5.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:canadian_shield, biomeswevegone:dacite_ridges, biomeswevegone:howling_peaks, biomeswevegone:red_rock_peaks, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:skywyrm": {
+    "sections": {
+      "Creature stats": [
+        "Health: 50. Attack: 6.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:crimson_tundra, biomeswevegone:firecracker_chaparral, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:rose_fields, biomeswevegone:temperate_grove, minecraft:ice_spikes, minecraft:plains, minecraft:snowy_plains, minecraft:sunflower_plains. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:surtr": {
+    "sections": {
+      "Creature stats": [
+        "Health: 300. Attack: 12.0. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: minecraft:basalt_deltas, minecraft:crimson_forest, minecraft:nether_wastes, minecraft:soul_sand_valley, minecraft:warped_forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:treefolk_1": {
+    "sections": {
+      "Creature stats": [
+        "Health: 45. Attack: 10.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:skyris_vale, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:treefolk_2": {
+    "sections": {
+      "Creature stats": [
+        "Health: 45. Attack: 10.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:skyris_vale, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:treefolk_3": {
+    "sections": {
+      "Creature stats": [
+        "Health: 45. Attack: 10.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:skyris_vale, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:treefolk_4": {
+    "sections": {
+      "Creature stats": [
+        "Health: 45. Attack: 10.0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:skyris_vale, biomeswevegone:zelkova_forest, minecraft:flower_forest, minecraft:forest. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:tsuchigumo": {
+    "sections": {
+      "Creature stats": [
+        "Health: 40. Attack: 4. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:sakura_grove, minecraft:cherry_grove. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:unicorn": {
+    "sections": {
+      "Creature stats": [
+        "Health: 20. Attack: 0. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:aspen_boreal, biomeswevegone:black_forest, biomeswevegone:cika_woods, biomeswevegone:coniferous_forest, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:forgotten_forest, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:redwood_thicket, biomeswevegone:skyris_vale, biomeswevegone:weeping_witch_forest, biomeswevegone:zelkova_forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:snowy_taiga, minecraft:taiga. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:wheat, minecraft:carrot, minecraft:apple, minecraft:beetroot, minecraft:sugar, minecraft:sugar_cane. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:wheat, minecraft:carrot, minecraft:apple, minecraft:beetroot, minecraft:sugar, minecraft:sugar_cane."
+      ],
+      "Riding": [
+        "No saddle is required. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:fenrir": {
+    "sections": {
+      "Creature stats": [
+        "Health: 60. Attack: 4.5. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:aspen_boreal, biomeswevegone:black_forest, biomeswevegone:cika_woods, biomeswevegone:coniferous_forest, biomeswevegone:crimson_tundra, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:weeping_witch_forest, biomeswevegone:zelkova_forest, minecraft:birch_forest, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:ice_spikes, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:snowy_plains, minecraft:snowy_taiga, minecraft:sunflower_plains, minecraft:taiga. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "Right-click with minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw. Each feeding has a 33% chance to tame. Hearts confirm success."
+      ],
+      "Companion care": [
+        "After taming, matching food heals 6 health or speeds up baby growth. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Breeding": [
+        "Feed two healthy, tamed adults of the same species: minecraft:chicken, minecraft:cooked_chicken, minecraft:beef, minecraft:cooked_beef, minecraft:mutton, minecraft:cooked_mutton, minecraft:porkchop, minecraft:cooked_porkchop, minecraft:rabbit, minecraft:cooked_rabbit, minecraft:rotten_flesh, fantasycraft:flesh_cooked, fantasycraft:flesh_raw, fantasycraft:meat_cooked, fantasycraft:meat_raw, fantasycraft:ribs_cooked, fantasycraft:ribs_raw."
+      ],
+      "Riding": [
+        "Equip a saddle first. Owner: empty-hand right-click a rideable adult. WASD to steer, Space to jump/ascend, X to descend, G to land, R for special attack, Shift to dismount. Keys are rebindable."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:fantasycraft:wizard": {
+    "sections": {
+      "Creature stats": [
+        "Health: 19. Attack: 7.5. Defender."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:canadian_shield, biomeswevegone:coconino_meadow, biomeswevegone:dacite_ridges, biomeswevegone:howling_peaks, biomeswevegone:red_rock_peaks, biomeswevegone:shattered_glacier, minecraft:frozen_peaks, minecraft:grove, minecraft:jagged_peaks, minecraft:meadow, minecraft:snowy_slopes, minecraft:stony_peaks, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:fantasycraft:wyrm": {
+    "sections": {
+      "Creature stats": [
+        "Health: 50. Attack: 4. Hostile."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:bayou, biomeswevegone:black_forest, biomeswevegone:canadian_shield, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crag_gardens, biomeswevegone:crimson_tundra, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_ridges, biomeswevegone:ebony_woods, biomeswevegone:enchanted_tangle, biomeswevegone:eroded_borealis, biomeswevegone:firecracker_chaparral, biomeswevegone:forgotten_forest, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:howling_peaks, biomeswevegone:ironwood_gour, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:red_rock_peaks, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, biomeswevegone:shattered_glacier, biomeswevegone:skyris_vale, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:weeping_witch_forest, biomeswevegone:white_mangrove_marshes, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:birch_forest, minecraft:cherry_grove, minecraft:dark_forest, minecraft:flower_forest, minecraft:forest, minecraft:frozen_peaks, minecraft:grove, minecraft:ice_spikes, minecraft:jagged_peaks, minecraft:jungle, minecraft:mangrove_swamp, minecraft:meadow, minecraft:old_growth_birch_forest, minecraft:old_growth_pine_taiga, minecraft:old_growth_spruce_taiga, minecraft:plains, minecraft:savanna, minecraft:savanna_plateau, minecraft:snowy_plains, minecraft:snowy_slopes, minecraft:snowy_taiga, minecraft:sparse_jungle, minecraft:stony_peaks, minecraft:sunflower_plains, minecraft:swamp, minecraft:taiga, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills, minecraft:windswept_savanna. Spawn caps, difficulty and configuration apply. BWG selections require BWG."
+      ],
+      "Taming": [
+        "This species cannot be tamed in the supplied FantasyCraft Java port."
+      ],
+      "Guide source": [
+        "FantasyCraft 1.0.1 species catalog and Java gameplay; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "item:fantasycraft:fiery_blade": {
+    "sections": {
+      "Use": [
+        "Surtr can drop Fiery Blades. Use the live crafting recipe to make a Flame Sword."
+      ]
+    }
+  },
+  "item:fantasycraft:minotaur_axe": {
+    "sections": {
+      "Use": [
+        "Minotaurs can drop this axe. Check the possible-drop notes and conditions."
+      ]
+    }
+  },
+  "item:fantasycraft:flame_sword": {
+    "sections": {
+      "Use": [
+        "Sets struck targets on fire."
+      ]
+    }
+  },
+  "item:fantasycraft:guide_scroll": {
+    "sections": {
+      "Use": [
+        "Given on first join when enabled; also craftable. Right-click to open the FantasyCraft guide."
+      ]
+    }
+  },
+  "entity:dragonfire:ace": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wind. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:amaranth_grassland, biomeswevegone:prairie, biomeswevegone:temperate_grove, minecraft:plains. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:ace_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby ace dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:ace_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult ace dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:ace_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby ace dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:bee": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: poison. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:coconino_meadow, biomeswevegone:orchard, biomeswevegone:rose_fields, minecraft:flower_forest. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:bee_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby bee dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:bee_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult bee dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:bee_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby bee dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:clang": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: earth. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:basalt_barrera, biomeswevegone:dacite_ridges, biomeswevegone:red_rock_peaks, minecraft:stony_peaks. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:clang_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby clang dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:clang_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult clang dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:clang_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby clang dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:cobra": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: poison. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:atacama_outback, biomeswevegone:mojave_desert, biomeswevegone:windswept_desert, minecraft:desert. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:cobra_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby cobra dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:cobra_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult cobra dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:cobra_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby cobra dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:dragula": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wither. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:ebony_woods, biomeswevegone:weeping_witch_forest, minecraft:dark_forest. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:dragula_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby dragula dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:dragula_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult dragula dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:dragula_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby dragula dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:elf": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wind. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:enchanted_tangle, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:zelkova_forest, minecraft:forest. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:elf_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby elf dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:elf_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult elf dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:elf_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby elf dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:endprowler": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wither. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:forgotten_forest, biomeswevegone:skyris_vale, minecraft:end_highlands. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:endprowler_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby endprowler dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:endprowler_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult endprowler dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:endprowler_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby endprowler dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:frogon": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: water. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:bayou, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, minecraft:swamp. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:frogon_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby frogon dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:frogon_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult frogon dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:frogon_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby frogon dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:gladius": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: earth. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:araucaria_savanna, biomeswevegone:baobab_savanna, biomeswevegone:ironwood_gour, minecraft:savanna. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:gladius_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby gladius dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:gladius_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult gladius dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:gladius_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby gladius dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:kitsune": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: soulfire. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:aspen_boreal, biomeswevegone:maple_taiga, biomeswevegone:sakura_grove, minecraft:taiga. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:kitsune_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby kitsune dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:kitsune_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult kitsune dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:kitsune_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby kitsune dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:maclaw": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wind. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:jacaranda_jungle, biomeswevegone:tropical_rainforest, minecraft:jungle. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:maclaw_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby maclaw dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:maclaw_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult maclaw dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:maclaw_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby maclaw dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:myth": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: earth. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:coconino_meadow, biomeswevegone:enchanted_tangle, biomeswevegone:temperate_grove, minecraft:meadow. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:myth_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby myth dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:myth_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult myth dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:myth_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby myth dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:nightlight": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: lightning. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:aspen_boreal, biomeswevegone:enchanted_tangle, biomeswevegone:rose_fields, minecraft:birch_forest. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:nightlight_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby nightlight dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:nightlight_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult nightlight dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:nightlight_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby nightlight dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:nightstalker": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wither. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:black_forest, biomeswevegone:ebony_woods, biomeswevegone:forgotten_forest, minecraft:dark_forest. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:nightstalker_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby nightstalker dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:nightstalker_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult nightstalker dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:nightstalker_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby nightstalker dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:pteryx": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wind. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:dacite_ridges, biomeswevegone:howling_peaks, biomeswevegone:red_rock_peaks, minecraft:windswept_hills. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:pteryx_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby pteryx dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:pteryx_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult pteryx dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:pteryx_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby pteryx dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:reindeer": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: ice. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:crimson_tundra, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, minecraft:snowy_taiga. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:reindeer_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby reindeer dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:reindeer_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult reindeer dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:reindeer_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby reindeer dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:rex": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: earth. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:red_rock_valley, biomeswevegone:rugged_badlands, biomeswevegone:sierra_badlands, minecraft:badlands. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:rex_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby rex dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:rex_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult rex dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:rex_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby rex dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:sakura": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wind. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:jacaranda_jungle, biomeswevegone:rose_fields, biomeswevegone:sakura_grove, minecraft:cherry_grove. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:sakura_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby sakura dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:sakura_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult sakura dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:sakura_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby sakura dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:samurai": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: earth. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:crag_gardens, biomeswevegone:fragment_jungle, biomeswevegone:sakura_grove, minecraft:bamboo_jungle. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:samurai_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby samurai dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:samurai_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult samurai dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:samurai_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby samurai dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:searclaw": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: fire. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:atacama_outback, biomeswevegone:firecracker_chaparral, biomeswevegone:mojave_desert, biomeswevegone:windswept_desert, minecraft:desert. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:searclaw_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby searclaw dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:searclaw_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult searclaw dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:searclaw_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby searclaw dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:snowflake": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: ice. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:eroded_borealis, biomeswevegone:frosted_taiga, biomeswevegone:shattered_glacier, minecraft:snowy_plains. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:snowflake_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby snowflake dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:snowflake_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult snowflake dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:snowflake_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby snowflake dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:solar": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: fire. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:baobab_savanna, biomeswevegone:firecracker_chaparral, biomeswevegone:ironwood_gour, minecraft:savanna_plateau. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:solar_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby solar dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:solar_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult solar dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:solar_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby solar dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:stormbolt": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: lightning. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:canadian_shield, biomeswevegone:dacite_ridges, biomeswevegone:howling_peaks, biomeswevegone:skyris_vale, minecraft:windswept_forest. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:stormbolt_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby stormbolt dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:stormbolt_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult stormbolt dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:stormbolt_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby stormbolt dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:tidewing": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: water. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:basalt_barrera, biomeswevegone:dacite_shore, biomeswevegone:lush_stacks, biomeswevegone:rainbow_beach, minecraft:beach. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:tidewing_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby tidewing dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:tidewing_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult tidewing dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:tidewing_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby tidewing dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:tigris": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: earth. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:crag_gardens, biomeswevegone:fragment_jungle, biomeswevegone:tropical_rainforest, minecraft:sparse_jungle. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:tigris_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby tigris dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:tigris_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult tigris dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:tigris_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby tigris dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:warden": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: soulfire. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cika_woods, biomeswevegone:coniferous_forest, biomeswevegone:overgrowth_woodlands, biomeswevegone:redwood_thicket, minecraft:old_growth_pine_taiga. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:warden_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby warden dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:warden_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult warden dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:warden_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby warden dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:dragonfire:zombie": {
+    "sections": {
+      "Taming": [
+        "Right-click a wild dragon with minecraft:beef, minecraft:chicken, minecraft:cod, minecraft:salmon, minecraft:porkchop, minecraft:mutton, minecraft:rabbit, dragonfire:blazequash, dragonfire:vitalipear, dragonfire:zephirberry. Each feeding has a 1-in-3 chance to tame."
+      ],
+      "Companion care": [
+        "Food heals 12 health. Feeding a baby advances growth by one minute; natural growth takes 20 minutes. Sneak + empty-hand right-click toggles stay/follow."
+      ],
+      "Riding": [
+        "Saddle an adult dragon, then empty-hand right-click to mount. WASD to move, Space to ascend/take off, X to descend, G to land, R for elemental breath, Shift to dismount. Keys are rebindable."
+      ],
+      "Breeding": [
+        "Feed two tamed adults of the same breed golden apples. A hatchling inherits one parent's owner."
+      ],
+      "Scales": [
+        "Use shears on your own adult dragon for 1-3 scales every five minutes."
+      ],
+      "Element": [
+        "Breath element: wither. Breath does not destroy terrain."
+      ],
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:cypress_swamplands, biomeswevegone:dead_sea, biomeswevegone:pumpkin_valley, biomeswevegone:white_mangrove_marshes, minecraft:mangrove_swamp. Rare spawn weight 2, group size 1; spawning conditions apply."
+      ],
+      "Guide source": [
+        "Dragonfire 1.0.1 DragonEntity and GuideBookItem; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:dragonfire:zombie_egg": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby zombie dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "item:dragonfire:zombie_scale": {
+    "sections": {
+      "Where to find": [
+        "Shear your own adult zombie dragon for 1-3 matching scales every five minutes. Check live recipes for scale blocks and equipment."
+      ]
+    }
+  },
+  "item:dragonfire:zombie_leggings": {
+    "sections": {
+      "Use": [
+        "Use on clear ground to hatch a tamed baby zombie dragon. Craft with a chicken egg surrounded by eight matching scales."
+      ]
+    }
+  },
+  "entity:ld_eb:air_elemental": {
+    "sections": {
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:crag_gardens, biomeswevegone:dacite_ridges, biomeswevegone:eroded_borealis, biomeswevegone:howling_peaks, biomeswevegone:shattered_glacier, biomeswevegone:windswept_desert, minecraft:frozen_peaks, minecraft:jagged_peaks, minecraft:meadow, minecraft:stony_peaks, minecraft:windswept_forest, minecraft:windswept_gravelly_hills, minecraft:windswept_hills. Monster caps and difficulty apply; no natural spawns in Peaceful."
+      ],
+      "Drops": [
+        "Defeat this elemental for 1-4 air essence; Looting may add more."
+      ],
+      "Taming": [
+        "Elementals are hostile and cannot be tamed in this Java port."
+      ],
+      "Creature stats": [
+        "50 health; 7 experience points. "
+      ],
+      "Guide source": [
+        "Elemental Staffs 1.0.1 source and gameplay guide; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "item:ld_eb:air_staff": {
+    "sections": {
+      "Use": [
+        "Right-click: Air Tornado. Sneak + right-click: Air Spikes. Right-click while airborne: Air Blow. Five-second cooldown shared by all weapons of this element; no essence or durability cost."
+      ],
+      "Progression": [
+        "Defeat matching elementals for essence. Craft the unenchanted weapon and its three ability tokens; combine all four in a crafting grid to unlock this weapon. Tokens are crafting ingredients, not independently castable spells."
+      ]
+    },
+    "categories": [
+      "WEAPONS"
+    ]
+  },
+  "item:ld_eb:air_essence": {
+    "sections": {
+      "Where to find": [
+        "Defeat air elementals. Used to craft the unenchanted weapon and ability tokens."
+      ]
+    }
+  },
+  "entity:ld_eb:earth_elemental": {
+    "sections": {
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:allium_shrubland, biomeswevegone:amaranth_grassland, biomeswevegone:araucaria_savanna, biomeswevegone:aspen_boreal, biomeswevegone:baobab_savanna, biomeswevegone:black_forest, biomeswevegone:cika_woods, biomeswevegone:coconino_meadow, biomeswevegone:coniferous_forest, biomeswevegone:crimson_tundra, biomeswevegone:ebony_woods, biomeswevegone:fragment_jungle, biomeswevegone:frosted_coniferous_forest, biomeswevegone:frosted_taiga, biomeswevegone:jacaranda_jungle, biomeswevegone:maple_taiga, biomeswevegone:orchard, biomeswevegone:overgrowth_woodlands, biomeswevegone:prairie, biomeswevegone:pumpkin_valley, biomeswevegone:redwood_thicket, biomeswevegone:rose_fields, biomeswevegone:temperate_grove, biomeswevegone:tropical_rainforest, biomeswevegone:zelkova_forest, minecraft:bamboo_jungle, minecraft:jungle, minecraft:plains, minecraft:sparse_jungle, minecraft:sunflower_plains. Monster caps and difficulty apply; no natural spawns in Peaceful."
+      ],
+      "Drops": [
+        "Defeat this elemental for 1-4 earth essence; Looting may add more."
+      ],
+      "Taming": [
+        "Elementals are hostile and cannot be tamed in this Java port."
+      ],
+      "Creature stats": [
+        "50 health; 7 experience points. "
+      ],
+      "Guide source": [
+        "Elemental Staffs 1.0.1 source and gameplay guide; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "item:ld_eb:earth_glove": {
+    "sections": {
+      "Use": [
+        "Right-click: Ground Wave. Sneak + right-click: Rock Punch. Right-click while airborne: Rock Wall. Five-second cooldown shared by all weapons of this element; no essence or durability cost."
+      ],
+      "Progression": [
+        "Defeat matching elementals for essence. Craft the unenchanted weapon and its three ability tokens; combine all four in a crafting grid to unlock this weapon. Tokens are crafting ingredients, not independently castable spells."
+      ]
+    },
+    "categories": [
+      "WEAPONS"
+    ]
+  },
+  "item:ld_eb:earth_essence": {
+    "sections": {
+      "Where to find": [
+        "Defeat earth elementals. Used to craft the unenchanted weapon and ability tokens."
+      ]
+    }
+  },
+  "entity:ld_eb:electricity_elemental": {
+    "sections": {
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:basalt_barrera, biomeswevegone:canadian_shield, biomeswevegone:ironwood_gour, minecraft:deep_dark. Monster caps and difficulty apply; no natural spawns in Peaceful."
+      ],
+      "Drops": [
+        "Defeat this elemental for 1-4 electricity essence; Looting may add more."
+      ],
+      "Taming": [
+        "Elementals are hostile and cannot be tamed in this Java port."
+      ],
+      "Creature stats": [
+        "50 health; 7 experience points. "
+      ],
+      "Guide source": [
+        "Elemental Staffs 1.0.1 source and gameplay guide; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "item:ld_eb:electricity_staff": {
+    "sections": {
+      "Use": [
+        "Right-click: Electric Shower. Sneak + right-click: Electric Beam. Right-click while airborne: Electric Outburst. Five-second cooldown shared by all weapons of this element; no essence or durability cost."
+      ],
+      "Progression": [
+        "Defeat matching elementals for essence. Craft the unenchanted weapon and its three ability tokens; combine all four in a crafting grid to unlock this weapon. Tokens are crafting ingredients, not independently castable spells."
+      ]
+    },
+    "categories": [
+      "WEAPONS"
+    ]
+  },
+  "item:ld_eb:electricity_essence": {
+    "sections": {
+      "Where to find": [
+        "Defeat electricity elementals. Used to craft the unenchanted weapon and ability tokens."
+      ]
+    }
+  },
+  "entity:ld_eb:fire_elemental": {
+    "sections": {
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:atacama_outback, biomeswevegone:firecracker_chaparral, biomeswevegone:mojave_desert, biomeswevegone:red_rock_peaks, biomeswevegone:red_rock_valley, biomeswevegone:rugged_badlands, biomeswevegone:sierra_badlands, minecraft:basalt_deltas, minecraft:crimson_forest, minecraft:nether_wastes, minecraft:soul_sand_valley, minecraft:warped_forest. Monster caps and difficulty apply; no natural spawns in Peaceful."
+      ],
+      "Drops": [
+        "Defeat this elemental for 1-4 fire essence; Looting may add more."
+      ],
+      "Taming": [
+        "Elementals are hostile and cannot be tamed in this Java port."
+      ],
+      "Creature stats": [
+        "50 health; 7 experience points. Fireproof."
+      ],
+      "Guide source": [
+        "Elemental Staffs 1.0.1 source and gameplay guide; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "item:ld_eb:fire_staff": {
+    "sections": {
+      "Use": [
+        "Right-click: Fire Whirlpool. Sneak + right-click: Fire Breath. Right-click while airborne: Fire Stun. Five-second cooldown shared by all weapons of this element; no essence or durability cost."
+      ],
+      "Progression": [
+        "Defeat matching elementals for essence. Craft the unenchanted weapon and its three ability tokens; combine all four in a crafting grid to unlock this weapon. Tokens are crafting ingredients, not independently castable spells."
+      ]
+    },
+    "categories": [
+      "WEAPONS"
+    ]
+  },
+  "item:ld_eb:fire_essence": {
+    "sections": {
+      "Where to find": [
+        "Defeat fire elementals. Used to craft the unenchanted weapon and ability tokens."
+      ]
+    }
+  },
+  "entity:ld_eb:spirit_elemental": {
+    "sections": {
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:enchanted_tangle, biomeswevegone:forgotten_forest, biomeswevegone:sakura_grove, biomeswevegone:skyris_vale, biomeswevegone:weeping_witch_forest, minecraft:cherry_grove. Monster caps and difficulty apply; no natural spawns in Peaceful."
+      ],
+      "Drops": [
+        "Defeat this elemental for 1-4 spirit essence; Looting may add more."
+      ],
+      "Taming": [
+        "Elementals are hostile and cannot be tamed in this Java port."
+      ],
+      "Creature stats": [
+        "50 health; 7 experience points. "
+      ],
+      "Guide source": [
+        "Elemental Staffs 1.0.1 source and gameplay guide; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "item:ld_eb:spirit_staff": {
+    "sections": {
+      "Use": [
+        "Right-click: Celestial Charge. Sneak + right-click: Ethereal Blades. Right-click while airborne: Nebula Vortex. Five-second cooldown shared by all weapons of this element; no essence or durability cost."
+      ],
+      "Progression": [
+        "Defeat matching elementals for essence. Craft the unenchanted weapon and its three ability tokens; combine all four in a crafting grid to unlock this weapon. Tokens are crafting ingredients, not independently castable spells."
+      ]
+    },
+    "categories": [
+      "WEAPONS"
+    ]
+  },
+  "item:ld_eb:spirit_essence": {
+    "sections": {
+      "Where to find": [
+        "Defeat spirit elementals. Used to craft the unenchanted weapon and ability tokens."
+      ]
+    }
+  },
+  "entity:ld_eb:water_elemental": {
+    "sections": {
+      "Where to find": [
+        "Natural spawn biome selections: biomeswevegone:bayou, biomeswevegone:cypress_swamplands, biomeswevegone:cypress_wetlands, biomeswevegone:dacite_shore, biomeswevegone:dead_sea, biomeswevegone:lush_stacks, biomeswevegone:rainbow_beach, biomeswevegone:white_mangrove_marshes, minecraft:beach, minecraft:cold_ocean, minecraft:deep_cold_ocean, minecraft:deep_lukewarm_ocean, minecraft:deep_ocean, minecraft:lukewarm_ocean, minecraft:mangrove_swamp, minecraft:ocean, minecraft:river, minecraft:swamp, minecraft:warm_ocean. Monster caps and difficulty apply; no natural spawns in Peaceful."
+      ],
+      "Drops": [
+        "Defeat this elemental for 1-4 water essence; Looting may add more."
+      ],
+      "Taming": [
+        "Elementals are hostile and cannot be tamed in this Java port."
+      ],
+      "Creature stats": [
+        "50 health; 7 experience points. Can breathe and move underwater."
+      ],
+      "Guide source": [
+        "Elemental Staffs 1.0.1 source and gameplay guide; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": false
+  },
+  "item:ld_eb:water_staff": {
+    "sections": {
+      "Use": [
+        "Right-click: Tsunami Wave Wall. Sneak + right-click: Whirlpool Formation. Right-click while airborne: Forming Water Bubble. Five-second cooldown shared by all weapons of this element; no essence or durability cost."
+      ],
+      "Progression": [
+        "Defeat matching elementals for essence. Craft the unenchanted weapon and its three ability tokens; combine all four in a crafting grid to unlock this weapon. Tokens are crafting ingredients, not independently castable spells."
+      ]
+    },
+    "categories": [
+      "WEAPONS"
+    ]
+  },
+  "item:ld_eb:water_essence": {
+    "sections": {
+      "Where to find": [
+        "Defeat water elementals. Used to craft the unenchanted weapon and ability tokens."
+      ]
+    }
+  },
+  "entity:villagersplus:artisan_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:brute_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 100. Attack: 10.0."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:dwarf_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:farmer_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:guardian_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 40. Attack: 10.0."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:healer_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 40. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:hunter_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 25. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:japanese_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Regular villagers cost one Iron Invitation."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:medieval_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Regular villagers cost one Iron Invitation."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:modern_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Regular villagers cost one Iron Invitation."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:neutral_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Regular villagers cost one Iron Invitation."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:ronin_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 45. Attack: 8.0."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:tanker_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 150. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:unknown_trader_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 20. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:villagersplus:wizard_villager": {
+    "sections": {
+      "Where to find": [
+        "Recruit through your Village Landmark. Specialists cost one Emerald Invitation; at most two of each specialist per village."
+      ],
+      "Taming": [
+        "Recruitment is this mod's companion ownership system. Place a Village Landmark on open solid ground, open its menu and invite this villager. Clear ground around the landmark and leave room under the population cap."
+      ],
+      "Companion care": [
+        "Use the villager menu to follow, stay, roam, recall and change appearance. Feed a downed villager any food when down recovery is enabled. Mark recruitment in this checklist manually."
+      ],
+      "Creature stats": [
+        "Health: 30. Attack: 2."
+      ],
+      "Guide source": [
+        "Villagers++ Java VillageActions and catalog; shipped custom port behavior. Server settings and datapacks may change it."
+      ]
+    },
+    "tameable": true
+  },
+  "item:villagersplus:village_landmark": {
+    "sections": {
+      "Use": [
+        "Select a design, then use on open solid ground to establish your village. Its menu recruits and manages villagers."
+      ]
+    }
+  },
+  "item:villagersplus:iron_invitation": {
+    "sections": {
+      "Use": [
+        "Spent at a Village Landmark to recruit one regular villager."
+      ]
+    }
+  },
+  "item:villagersplus:emerald_invitation": {
+    "sections": {
+      "Use": [
+        "Spent at a Village Landmark to recruit one specialist; each village allows at most two of that specialist."
+      ]
+    }
+  },
+  "entity:minecraft:wolf": {
+    "sections": {
+      "Taming": [
+        "Approach and right-click with bones until hearts appear."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:cat": {
+    "sections": {
+      "Taming": [
+        "Approach slowly while holding fish, let the cat come close, then feed it until hearts appear."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:parrot": {
+    "sections": {
+      "Taming": [
+        "Right-click with seeds until hearts appear. Do not feed cookies."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:horse": {
+    "sections": {
+      "Taming": [
+        "Repeatedly mount an adult with an empty hand until hearts appear; then equip a saddle to steer."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:donkey": {
+    "sections": {
+      "Taming": [
+        "Repeatedly mount an adult with an empty hand until hearts appear. A saddle enables steering; a chest adds storage."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:mule": {
+    "sections": {
+      "Taming": [
+        "Breed a horse and donkey to obtain a mule. Repeatedly mount an adult until tamed."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:llama": {
+    "sections": {
+      "Taming": [
+        "Repeatedly mount an adult until hearts appear. A chest adds storage and carpet changes decoration; a lead directs travel."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:trader_llama": {
+    "sections": {
+      "Taming": [
+        "After separating from its trader, repeatedly mount until tamed. A carpet decorates it; a lead directs travel."
+      ]
+    },
+    "tameable": true
+  },
+  "entity:minecraft:camel": {
+    "sections": {
+      "Taming": [
+        "Camels do not require taming. Equip a saddle to ride; they are not part of the taming checklist."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:minecraft:skeleton_horse": {
+    "sections": {
+      "Taming": [
+        "Skeleton trap horses can be ridden after their riders are defeated. This is not a feeding-based taming process."
+      ]
+    },
+    "tameable": false
+  },
+  "entity:minecraft:zombie_horse": {
+    "sections": {
+      "Taming": [
+        "Not naturally obtainable or tameable in ordinary Survival; commands can create a tamed one."
+      ]
+    },
+    "tameable": false
+  }
+}

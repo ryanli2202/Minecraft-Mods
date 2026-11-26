@@ -1,0 +1,39 @@
+{
+  "id": "ac_m23",
+  "name": "23 | The Ash Between the Letters",
+  "icon": "minecraft:obsidian",
+  "description": "In the dragon's heat the ledger reveals its hidden line: \"The furnace keeps the bodies. The crypt keeps the names.\" The monarchy was a machine for making death useful.\n\nGather 10 obsidian and a flint and steel for the descent. The fire dragon's heart is yours to use; no rare drop is consumed by the story.",
+  "category": "ac_story",
+  "sub-category": "ac_act4",
+  "dependencies": [
+    "ac_m22"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:obsidian",
+        "count": 10
+      },
+      {
+        "collect": "minecraft:flint_and_steel",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 90
+  }
+}

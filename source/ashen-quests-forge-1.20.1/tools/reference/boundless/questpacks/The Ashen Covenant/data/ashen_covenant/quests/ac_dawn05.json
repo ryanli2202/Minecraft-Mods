@@ -1,0 +1,39 @@
+{
+  "id": "ac_dawn05",
+  "name": "The Lady of the Closed Garden",
+  "icon": "minecraft:beacon",
+  "description": "Rosalyne answers the refusal. In the journal's telling, she guards the beautiful certainty the council has rejected. You fight for an imperfect future that remains open.\n\nUse the Dusk Key through Meet Your Fight's normal mechanics and defeat Rosalyne. Complete all phases so the final kill is credited.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_dawn",
+  "dependencies": [
+    "ac_dawn04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "meetyourfight:rosalyne",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

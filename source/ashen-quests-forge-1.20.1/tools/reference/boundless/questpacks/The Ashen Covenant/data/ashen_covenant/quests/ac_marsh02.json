@@ -1,0 +1,39 @@
+{
+  "id": "ac_marsh02",
+  "name": "The Kitchen Hospital",
+  "icon": "minecraft:lily_pad",
+  "description": "Tamsin turns the tavern kitchen into a dispensary. The cooks complain until she reminds them that every patient once bought their supper here.\n\nDonate 12 honey bottles and 16 cooked chicken. Establish bees or gather honey carefully; the relief shipment gives early farming a lasting purpose.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_marsh01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:honey_bottle",
+        "count": 12
+      },
+      {
+        "submit": "minecraft:cooked_chicken",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

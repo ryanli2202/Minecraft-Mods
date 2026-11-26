@@ -1,0 +1,39 @@
+{
+  "id": "ac_atlas03",
+  "name": "An Ocean Does Not End a Road",
+  "icon": "minecraft:compass",
+  "description": "Fen offers to teach Iona navigation. She agrees as long as he stops calling the coastline obvious.\n\nAcquire a recovery compass and a spyglass. The recovery compass needs echo shards; this optional milestone encourages careful ancient-city exploration.",
+  "category": "ac_guilds",
+  "sub-category": "ac_atlas",
+  "dependencies": [
+    "ac_atlas01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:recovery_compass",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:spyglass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

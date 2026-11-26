@@ -1,0 +1,35 @@
+{
+  "id": "ac_bell03",
+  "name": "A Bell without a Tower",
+  "icon": "minecraft:bell",
+  "description": "Sera finds an old funeral rite whose instrument was never meant to ring in daylight.\n\nAcquire Meet Your Fight's Haunted Bell. Its installed recipe uses gold ingots and cobbled deepslate; see JEI for the exact pattern.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_bell01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "meetyourfight:haunted_bell",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

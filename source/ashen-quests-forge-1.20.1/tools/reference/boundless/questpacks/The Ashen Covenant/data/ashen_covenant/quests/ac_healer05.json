@@ -1,0 +1,38 @@
+{
+  "id": "ac_healer05",
+  "name": "The Patient with No Name",
+  "icon": "minecraft:brewing_stand",
+  "description": "Everyone else calls the infected villager a monster. Tamsin leaves a blank line in her register and waits for a name.\n\nCure a zombie villager and earn Zombie Doctor. Protect the patient throughout the cure.",
+  "category": "ac_guilds",
+  "sub-category": "ac_healer",
+  "dependencies": [
+    "ac_healer04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:story/cure_zombie_villager"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 3
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

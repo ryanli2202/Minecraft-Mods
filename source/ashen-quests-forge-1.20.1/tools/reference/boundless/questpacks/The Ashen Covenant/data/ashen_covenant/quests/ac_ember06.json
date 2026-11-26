@@ -1,0 +1,39 @@
+{
+  "id": "ac_ember06",
+  "name": "The Knight Who Could Not Kneel",
+  "icon": "minecraft:blaze_powder",
+  "description": "Ignis stands beneath the arena's broken sun. Elian recognizes the posture of someone who has turned obedience into the last defense against grief.\n\nSummon and defeat Cataclysm's Ignis. This is a late campaign boss; finish optional equipment paths first if needed.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_ember05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:ignis",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

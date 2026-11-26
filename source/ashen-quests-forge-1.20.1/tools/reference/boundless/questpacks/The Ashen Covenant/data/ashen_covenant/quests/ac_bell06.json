@@ -1,0 +1,34 @@
+{
+  "id": "ac_bell06",
+  "name": "The Name after the Echo",
+  "icon": "minecraft:bell",
+  "description": "In the silence Sera hears one clear phrase: the accounts are balanced below. The Nether furnace is not a metaphor.\n\nComplete the vanilla Subspace Bubble advancement: travel far enough through the Nether to achieve its Overworld-distance requirement. Build a safe return route rather than rushing blind.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_bell05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:nether/fast_travel"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

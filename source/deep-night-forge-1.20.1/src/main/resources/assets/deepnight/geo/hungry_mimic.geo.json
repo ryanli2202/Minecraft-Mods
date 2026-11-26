@@ -1,0 +1,208 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.mimic",
+        "texture_width": 128,
+        "texture_height": 128,
+        "visible_bounds_width": 3,
+        "visible_bounds_height": 3.5,
+        "visible_bounds_offset": [
+          0,
+          1.25,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "chest",
+          "pivot": [
+            0,
+            0,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -6,
+                10,
+                -6
+              ],
+              "size": [
+                12,
+                3,
+                11
+              ],
+              "inflate": 0.1,
+              "uv": [
+                42,
+                0
+              ]
+            },
+            {
+              "origin": [
+                -7,
+                0,
+                -7
+              ],
+              "size": [
+                14,
+                10,
+                14
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            }
+          ]
+        },
+        {
+          "name": "tongue",
+          "parent": "chest",
+          "pivot": [
+            -1.83333,
+            11.02467,
+            2.33102
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -5,
+                9,
+                -9
+              ],
+              "size": [
+                7,
+                4,
+                11
+              ],
+              "uv": [
+                0,
+                44
+              ]
+            },
+            {
+              "origin": [
+                -5,
+                9,
+                -17
+              ],
+              "size": [
+                6,
+                2,
+                9
+              ],
+              "inflate": -0.1,
+              "pivot": [
+                -1.5,
+                11,
+                -9.5
+              ],
+              "rotation": [
+                60,
+                0,
+                0
+              ],
+              "uv": [
+                25,
+                44
+              ]
+            },
+            {
+              "origin": [
+                -4,
+                3.75,
+                -17.43301
+              ],
+              "size": [
+                4,
+                1,
+                5
+              ],
+              "pivot": [
+                -2,
+                4.38397,
+                -12.70096
+              ],
+              "rotation": [
+                95,
+                0,
+                0
+              ],
+              "uv": [
+                46,
+                44
+              ]
+            }
+          ]
+        },
+        {
+          "name": "door",
+          "parent": "chest",
+          "pivot": [
+            0,
+            9.5,
+            6.5
+          ],
+          "rotation": [
+            -72.5,
+            0,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -7,
+                10,
+                -7
+              ],
+              "size": [
+                14,
+                6,
+                14
+              ],
+              "uv": [
+                0,
+                24
+              ]
+            },
+            {
+              "origin": [
+                -6,
+                7,
+                -6
+              ],
+              "size": [
+                12,
+                3,
+                9
+              ],
+              "uv": [
+                42,
+                24
+              ]
+            },
+            {
+              "origin": [
+                -1,
+                9,
+                -8
+              ],
+              "size": [
+                2,
+                4,
+                1
+              ],
+              "uv": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

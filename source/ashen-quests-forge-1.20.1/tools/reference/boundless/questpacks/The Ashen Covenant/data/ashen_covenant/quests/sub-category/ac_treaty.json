@@ -1,0 +1,8 @@
+{
+  "id": "ac_treaty",
+  "category": "ac_story",
+  "name": "VI.b | The Company at the Last Gate",
+  "icon": "minecraft:writable_book",
+  "order": 130,
+  "default_open": true
+}

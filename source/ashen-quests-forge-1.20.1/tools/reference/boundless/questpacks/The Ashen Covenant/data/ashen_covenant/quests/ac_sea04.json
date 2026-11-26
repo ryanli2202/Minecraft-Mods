@@ -1,0 +1,39 @@
+{
+  "id": "ac_sea04",
+  "name": "The Keeper of the Drowned Vault",
+  "icon": "minecraft:fishing_rod",
+  "description": "The old monument blocks every safe approach to the southern trade route. Its guardian has no concept of a peace treaty.\n\nDefeat one elder guardian. Bring underwater survival equipment and a plan for Mining Fatigue.",
+  "category": "ac_guilds",
+  "sub-category": "ac_sea",
+  "dependencies": [
+    "ac_sea03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:elder_guardian",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:prismarine",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

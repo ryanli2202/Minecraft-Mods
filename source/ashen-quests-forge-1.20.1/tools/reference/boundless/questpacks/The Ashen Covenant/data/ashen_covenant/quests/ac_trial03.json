@@ -1,0 +1,39 @@
+{
+  "id": "ac_trial03",
+  "name": "A Shadow with Too Many Hands",
+  "icon": "minecraft:iron_sword",
+  "description": "Iona has been followed through three camps by the same impossible silhouette. This hunt requires more preparation than a traveler's campfire.\n\nDefeat a Mutant Monsters mutant enderman. Learn its full encounter and take healing and an escape plan.",
+  "category": "ac_trials",
+  "sub-category": "ac_hunttrials",
+  "dependencies": [
+    "ac_m30"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mutantmonsters:mutant_enderman",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

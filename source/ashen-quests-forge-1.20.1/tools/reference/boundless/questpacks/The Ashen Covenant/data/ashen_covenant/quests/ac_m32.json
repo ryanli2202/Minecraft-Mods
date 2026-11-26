@@ -1,0 +1,39 @@
+{
+  "id": "ac_m32",
+  "name": "32 | A Record of the Dead",
+  "icon": "minecraft:bookshelf",
+  "description": "The crypt's location appears in an account older than the current kingdom. Whoever sits inside has borrowed many names. Sera needs a working archive before she dares translate the oldest one.\n\nAcquire 12 bookshelves and 16 amethyst shards. Search Iron's Spellbooks catacombs during your wider expeditions; Explorer's Compass may help locate the structure.",
+  "category": "ac_story",
+  "sub-category": "ac_act6",
+  "dependencies": [
+    "ac_m31"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:bookshelf",
+        "count": 12
+      },
+      {
+        "collect": "minecraft:amethyst_shard",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

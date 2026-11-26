@@ -1,0 +1,38 @@
+{
+  "id": "ac_m24",
+  "name": "24 | The Cinder Gate",
+  "icon": "minecraft:netherrack",
+  "description": "Rowan gives you the camp's oldest lantern. \"Find a way back,\" the letter says. \"Winning is not enough if nobody comes home.\"\n\nEnter the Nether and complete We Need to Go Deeper. Mark your portal and bring spare supplies before proceeding.",
+  "category": "ac_story",
+  "sub-category": "ac_act4",
+  "dependencies": [
+    "ac_m23"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:story/enter_the_nether"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 16
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

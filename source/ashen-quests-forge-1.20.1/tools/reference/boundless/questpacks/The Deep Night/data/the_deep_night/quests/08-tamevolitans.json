@@ -1,0 +1,40 @@
+{
+  "id": "tamevolitans",
+  "name": "Drake of the Seas",
+  "icon": "saintsdragons:volitans_spine",
+  "description": "Defeat a mighty seafaring Volitans Dragon to earn the respect and loyalty of the ocean\u0027s apex predator.",
+  "category": "naturecalls",
+  "sub-category": "friendofbeasts",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "achieve": "saintsdragons:tame_volitans"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "born_in_chaos_v1:dark_metal_armor_helmet",
+        "count": 1
+      },
+      {
+        "item": "born_in_chaos_v1:dark_metal_armor_chestplate",
+        "count": 1
+      },
+      {
+        "item": "born_in_chaos_v1:dark_metal_armor_leggings",
+        "count": 1
+      },
+      {
+        "item": "born_in_chaos_v1:dark_metal_armor_boots",
+        "count": 1
+      }
+    ]
+  }
+}

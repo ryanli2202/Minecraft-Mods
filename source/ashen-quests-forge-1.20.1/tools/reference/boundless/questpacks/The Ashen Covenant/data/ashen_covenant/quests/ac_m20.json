@@ -1,0 +1,39 @@
+{
+  "id": "ac_m20",
+  "name": "20 | The Shepherd's Giant",
+  "icon": "minecraft:bow",
+  "description": "Ysolde will share her dragon research only after the road to her coastal camp is safe. A cyclops has made a larder of the pass.\n\nDefeat one Ice and Fire cyclops. Prepare range, escape routes, and healing before approaching its territory.",
+  "category": "ac_story",
+  "sub-category": "ac_act4",
+  "dependencies": [
+    "ac_m19"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:cyclops",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 12
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_frost08",
+  "name": "A Law That Binds Its Authors",
+  "icon": "minecraft:soul_lantern",
+  "description": "The northern delegate takes her seat with a proposal: every law must apply to the people who write it. The council argues until midnight and then signs.\n\nEnter \"the law binds its authors\" to ratify the agreement. The remaining war faction will answer with fire.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_frost07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "the law binds its authors",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

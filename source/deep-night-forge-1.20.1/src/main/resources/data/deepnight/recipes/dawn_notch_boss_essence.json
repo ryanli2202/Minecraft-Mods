@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "deepnight:dawn_notch_boss_sigil"
+    }
+  ],
+  "result": {
+    "item": "deepnight:night_essence",
+    "count": 16
+  }
+}

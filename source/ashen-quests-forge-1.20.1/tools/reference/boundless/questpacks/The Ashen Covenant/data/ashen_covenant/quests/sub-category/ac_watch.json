@@ -1,0 +1,8 @@
+{
+  "id": "ac_watch",
+  "category": "ac_guilds",
+  "name": "Elian | The Watch without a Throne",
+  "icon": "minecraft:shield",
+  "order": 107,
+  "default_open": true
+}

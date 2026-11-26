@@ -1,0 +1,129 @@
+{
+  "divine_dragon_ambient": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.divine_dragon_ambient",
+    "sounds": [
+      "mobosses:divine_dragon_ambient"
+    ]
+  },
+  "divine_dragon_growl": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.divine_dragon_growl",
+    "sounds": [
+      "mobosses:divine_dragon_growl"
+    ]
+  },
+  "divine_dragon_beam": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.divine_dragon_beam",
+    "sounds": [
+      "mobosses:divine_dragon_beam"
+    ]
+  },
+  "divine_dragon_music": {
+    "category": "record",
+    "subtitle": "subtitles.mobosses.divine_dragon_music",
+    "sounds": [
+      {
+        "name": "mobosses:divine_dragon_music",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "demon_king_music": {
+    "category": "record",
+    "subtitle": "subtitles.mobosses.demon_king_music",
+    "sounds": [
+      {
+        "name": "mobosses:demon_king_music",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "demon_king_growl": {
+    "subtitle": "subtitles.mobosses.demon_king_growl",
+    "sounds": [
+      "mobosses:demon_king_growl"
+    ]
+  },
+  "demon_king_hurt": {
+    "subtitle": "subtitles.mobosses.demon_king_hurt",
+    "sounds": [
+      "mobosses:demon_king_hurt"
+    ]
+  },
+  "nil_grunt": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_grunt",
+    "sounds": [
+      "mobosses:nil/grunt_1",
+      "mobosses:nil/grunt_2",
+      "mobosses:nil/grunt_3",
+      "mobosses:nil/grunt_4",
+      "mobosses:nil/grunt_5"
+    ]
+  },
+  "nil_grunt_big": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_grunt_big",
+    "sounds": [
+      "mobosses:nil/grunt_big_1",
+      "mobosses:nil/grunt_big_2",
+      "mobosses:nil/grunt_big_3"
+    ]
+  },
+  "nil_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_hurt",
+    "sounds": [
+      "mobosses:nil/hit_1",
+      "mobosses:nil/hit_2",
+      "mobosses:nil/hit_3",
+      "mobosses:nil/hit_4"
+    ]
+  },
+  "nil_death": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_death",
+    "sounds": [
+      "mobosses:nil/death"
+    ]
+  },
+  "nil_swing": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_swing",
+    "sounds": [
+      "mobosses:nil/swing_1",
+      "mobosses:nil/swing_2",
+      "mobosses:nil/sword_swing_1"
+    ]
+  },
+  "nil_sword_hit": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_sword_hit",
+    "sounds": [
+      "mobosses:nil/sword_hit_1",
+      "mobosses:nil/sword_hit_2",
+      "mobosses:nil/sword_hit_3",
+      "mobosses:nil/sword_hit_4"
+    ]
+  },
+  "nil_ground_break": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_ground_break",
+    "sounds": [
+      "mobosses:nil/ground_break_1",
+      "mobosses:nil/ground_break_2",
+      "mobosses:nil/ground_break_3"
+    ]
+  },
+  "nil_yell": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_yell",
+    "sounds": [
+      "mobosses:nil/yell"
+    ]
+  }
+}

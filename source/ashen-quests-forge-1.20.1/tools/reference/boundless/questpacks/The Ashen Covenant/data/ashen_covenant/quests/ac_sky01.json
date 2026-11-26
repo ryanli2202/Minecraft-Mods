@@ -1,0 +1,34 @@
+{
+  "id": "ac_sky01",
+  "name": "An Egg with a Future",
+  "icon": "saintsdragons:draconic_codex",
+  "description": "Ysolde brings an account of a Raevyx clutch and asks you to read every page before approaching it. Wonder is not a substitute for care.\n\nEarn Saints Dragons' acquire_raevyx_egg advancement. Follow the draconic codex's actual acquisition instructions.",
+  "category": "ac_guilds",
+  "sub-category": "ac_sky",
+  "dependencies": [
+    "ac_dragon05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "saintsdragons:acquire_raevyx_egg"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

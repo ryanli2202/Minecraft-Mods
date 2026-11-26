@@ -1,0 +1,37 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "idle": {
+      "loop": true,
+      "bones": {}
+    },
+    "walk": {
+      "loop": true,
+      "bones": {}
+    },
+    "attack": {
+      "loop": false,
+      "bones": {}
+    },
+    "death": {
+      "loop": false,
+      "bones": {}
+    },
+    "hurt": {
+      "loop": false,
+      "bones": {}
+    },
+    "sit": {
+      "loop": true,
+      "bones": {}
+    },
+    "fly": {
+      "loop": true,
+      "bones": {}
+    },
+    "spawn": {
+      "loop": false,
+      "bones": {}
+    }
+  }
+}

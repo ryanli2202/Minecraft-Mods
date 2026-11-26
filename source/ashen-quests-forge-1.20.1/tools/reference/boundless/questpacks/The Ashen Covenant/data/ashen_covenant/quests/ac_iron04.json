@@ -1,0 +1,40 @@
+{
+  "id": "ac_iron04",
+  "name": "The Men inside the Armor",
+  "icon": "minecraft:iron_helmet",
+  "description": "Bones still move through the abandoned tunnel. Elian reads their insignia aloud until he recognizes none of them. That frightens him more than recognition.\n\nReach 24 skeleton kills total. Carry healing and light; the tracked total includes your earlier encounters.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_iron02",
+    "ac_iron03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:skeleton",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

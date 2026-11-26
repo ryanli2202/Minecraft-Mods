@@ -1,0 +1,23 @@
+{
+  "root": {
+    "title": "Captain of the Free Watch",
+    "text": "Elian, Free Watch. You need not salute. Eldara coordinates the main campaign; I keep the watch's requests and the recovered Deep Night ledger. We clear roads so people can use them, then we come home.\n\nAn End portal frame already stands at the Spire. Earn its keys progressively through The Lost Eyes | NPC Trials. Start with Sera after Eldara's The First Hearth; follow each trial's named companion and story milestone. The first twelve trials award twelve different End Remastered eyes. Keep them for the Spire frame instead of throwing them to search for a stronghold.",
+    "children": [
+      "work",
+      "quests",
+      "eldara"
+    ]
+  },
+  "work": {
+    "title": "Your work",
+    "text": "A good order can survive a question. I learned that too late for some of my regiment. The new watch keeps blankets beside its weapons and counts the living before counting victories. Its charter, its border work, and the reports I once refused to finish are here when you are ready."
+  },
+  "quests": {
+    "title": "How can I help?",
+    "text": "Choose Covenant quests in our opening conversation to see my assignments. Accept one here before setting out, then return to me to turn it in and receive your emeralds. Use the minus key (-) to track its objectives while traveling. Some requests follow earlier work; your journal explains what must be finished first. If the Ashen Covenant quest mod is absent, I can still talk, but cannot offer its quests."
+  },
+  "eldara": {
+    "title": "The main chronicle",
+    "text": "Speak to Eldara and choose Main quests to continue the three books of the Ashen Covenant. She receives the expedition reports and gives the next main assignment. The rest of us have our own work, and we will ask for it in person."
+  }
+}

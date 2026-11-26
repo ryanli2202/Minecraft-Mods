@@ -1,0 +1,35 @@
+{
+  "id": "ac_sky04",
+  "name": "Trust beneath Thunder",
+  "icon": "saintsdragons:draconic_codex",
+  "description": "Ysolde waits outside the enclosure and lets you decide when to approach. Earning trust cannot be rushed by a quest title.\n\nEarn Saints Dragons' tame_raevyx advancement. This is a genuine taming milestone, not a kill or inventory proxy.",
+  "category": "ac_guilds",
+  "sub-category": "ac_sky",
+  "dependencies": [
+    "ac_sky02",
+    "ac_sky03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "saintsdragons:tame_raevyx"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

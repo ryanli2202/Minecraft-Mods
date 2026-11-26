@@ -1,0 +1,25 @@
+{
+  "id": "cyclops",
+  "name": "The Cyclops",
+  "icon": "iceandfire:cyclops_skull",
+  "description": "Slay a towering cyclops and prove that even giants can fall.",
+  "category": "naturecalls",
+  "sub-category": "monstersofmyth",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:cyclops",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "exp": "levels",
+    "count": 3
+  }
+}

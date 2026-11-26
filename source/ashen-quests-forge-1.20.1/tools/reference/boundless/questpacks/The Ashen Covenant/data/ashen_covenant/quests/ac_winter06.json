@@ -1,0 +1,39 @@
+{
+  "id": "ac_winter06",
+  "name": "The Dragon over the Scriptorium",
+  "icon": "minecraft:snowball",
+  "description": "An ice dragon has claimed the librarians' final refuge. The old contract lies somewhere under its territory, beyond the reach of ordinary couriers.\n\nDefeat one Ice and Fire ice dragon. Prepare cold-resistant tactics appropriate to your installed equipment and the encounter.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_winter05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:ice_dragon",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

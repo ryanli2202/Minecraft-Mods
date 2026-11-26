@@ -1,0 +1,36 @@
+{
+  "id": "ac_treaty04",
+  "name": "The Council beneath Stone",
+  "icon": "minecraft:writable_book",
+  "description": "The supply officers are ready. Sera now asks the company to make one agreement: nothing found beyond the portal grants ownership of the people left behind.\n\nEnter \"we return as equals\" in the text field. This is a fixed story commitment rather than a branching faction choice.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_treaty02",
+    "ac_treaty03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "we return as equals",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

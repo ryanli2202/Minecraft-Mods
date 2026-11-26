@@ -1,0 +1,35 @@
+{
+  "id": "ac_border03",
+  "name": "The Wizard behind the Levy",
+  "icon": "minecraft:crossbow",
+  "description": "An evoker has been selling both sides protection from a war he helped arrange. Elian asks you to cancel the arrangement.\n\nDefeat 2 evokers total. Woodland mansions and raids are possible sources; plan for their summoned attackers.",
+  "category": "ac_guilds",
+  "sub-category": "ac_border",
+  "dependencies": [
+    "ac_border02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:evoker",
+        "count": 2
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 90
+  }
+}

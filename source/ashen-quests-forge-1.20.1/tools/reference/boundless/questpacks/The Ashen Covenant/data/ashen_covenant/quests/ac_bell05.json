@@ -1,0 +1,39 @@
+{
+  "id": "ac_bell05",
+  "name": "The Bellringer's Answer",
+  "icon": "minecraft:bell",
+  "description": "The Bellringer arrives as if it has been expected for centuries. Every stroke sounds like a tally mark closing over a name.\n\nUse the Haunted Bell through Meet Your Fight's normal summoning mechanics and defeat the Bellringer.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_bell04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "meetyourfight:bellringer",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

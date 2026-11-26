@@ -1,0 +1,67 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.35'
+}
+version = '1.4.0'
+group = 'dev.travellerscompanions'
+base.archivesName = 'travellers-companions-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    copyIdeResources = true
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+            property 'forge.logging.console.level', 'info'
+            property 'mixin.env.remapRefMap', 'true'
+            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+            mods { travellerscompanions { source sourceSets.main } }
+        }
+        client {
+            if (project.hasProperty('smokeTest') || project.hasProperty('parkourSmoke')) {
+                property 'travellerscompanions.smokeTest', 'true'
+                if (project.hasProperty('parkourSmoke')) property 'travellerscompanions.parkourSmoke', 'true'
+                args '--width', '1440', '--height', '1000'
+            }
+        }
+        server { args '--nogui' }
+        gameTestServer {
+            // Reusing a world can load old mobs into a new projectile test after arena cleanup.
+            workingDirectory project.file("run/gametest-${System.currentTimeMillis()}")
+            property 'forge.enabledGameTestNamespaces', 'travellerscompanions'
+        }
+    }
+}
+repositories { flatDir { dirs 'libs' }; maven { url 'https://api.modrinth.com/maven' } }
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.20.1-47.4.10'
+    compileOnly fg.deobf('local.companions:ParCool:1.20.1-3.4.3.3')
+    if (project.hasProperty('parkourTest')) {
+        runtimeOnly fg.deobf('local.companions:ParCool:1.20.1-3.4.3.3')
+        runtimeOnly fg.deobf('local.companions:seriousplayeranimations:1.1.1')
+    }
+    implementation fg.deobf('local.companions:bettercombat-forge:1.9.0+1.20.1')
+    implementation fg.deobf('local.companions:player-animation-lib-forge:1.0.2-rc1+1.20')
+    runtimeOnly fg.deobf('local.companions:cloth-config:11.1.136:forge')
+    implementation fg.deobf('local.companions:irons_spellbooks:1.20.1-3.16.1')
+    implementation fg.deobf('local.companions:common_weapons:0.2.2-forge-1.20.1')
+    implementation fg.deobf('local.companions:geckolib-forge:1.20.1-4.8.4')
+    runtimeOnly fg.deobf('local.companions:irons_lib:1.20.1-1.1.0')
+    runtimeOnly fg.deobf('local.companions:curios-forge:5.14.1+1.20.1')
+    runtimeOnly fg.deobf('local.companions:caelus-forge:3.2.0+1.20.1')
+    runtimeOnly fg.deobf('local.companions:simplyswords-forge:1.56.0-1.20.1')
+    runtimeOnly fg.deobf('local.companions:architectury:9.2.14:forge')
+    if (project.hasProperty('epicTest')) {
+        runtimeOnly fg.deobf('local.companions:epic-knights:1.20.1-forge-10.11')
+        runtimeOnly fg.deobf('local.companions:epic-knights-addon:1.20.x-forge-2.6')
+        runtimeOnly files('libs/Epic-Knights-x-Better-Combat.jar')
+    }
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+jar {
+    exclude 'dev/travellerscompanions/qa/**'
+    exclude 'data/travellerscompanions/structures/empty.nbt'
+    from('ASSET-NOTES.txt')
+    manifest.attributes('Implementation-Title': "Traveller's Companions", 'Implementation-Version': project.version)
+    finalizedBy 'reobfJar'
+}

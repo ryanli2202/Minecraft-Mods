@@ -1,0 +1,35 @@
+{
+  "id": "ac_m15",
+  "name": "15 | Dust That Remembers",
+  "icon": "irons_spellbooks:arcane_essence",
+  "description": "The ink in the ledger moves near arcane essence. Sera believes the scribes recorded their memories in magic before the archive burned.\n\nCollect 12 Arcane Essence from Iron's Spells 'n Spellbooks. Explore, loot, or use available recipes shown in JEI. Keep it for your own spellcraft afterward.",
+  "category": "ac_story",
+  "sub-category": "ac_act3",
+  "dependencies": [
+    "ac_m13"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "irons_spellbooks:arcane_essence",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 65
+  }
+}

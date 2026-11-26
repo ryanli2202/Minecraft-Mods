@@ -1,0 +1,38 @@
+{
+  "id": "ac_trial10",
+  "name": "The Distance between Two Breaths",
+  "icon": "minecraft:compass",
+  "description": "Elian asks his finest archers to learn patience before power. A long shot is a lesson in waiting for the right moment.\n\nEarn Sniper Duel using the vanilla skeleton-distance and projectile conditions.",
+  "category": "ac_trials",
+  "sub-category": "ac_mastertrials",
+  "dependencies": [
+    "ac_ranger05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:adventure/sniper_duel"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 160
+  }
+}

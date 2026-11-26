@@ -1,0 +1,39 @@
+{
+  "id": "ac_harbor02",
+  "name": "The Harbor Apothecary",
+  "icon": "minecraft:nautilus_shell",
+  "description": "Tamsin demands a stocked infirmary on every relief vessel. Fen discovers that being captain includes learning where bandages are kept.\n\nAcquire 8 honey bottles and 8 golden carrots for your own shipboard kit.",
+  "category": "ac_guilds",
+  "sub-category": "ac_harbor",
+  "dependencies": [
+    "ac_harbor01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:honey_bottle",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

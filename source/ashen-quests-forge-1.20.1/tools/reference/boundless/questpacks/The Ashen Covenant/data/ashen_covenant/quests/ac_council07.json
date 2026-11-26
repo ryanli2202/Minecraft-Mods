@@ -1,0 +1,39 @@
+{
+  "id": "ac_council07",
+  "name": "Three Provinces, One Table",
+  "icon": "minecraft:redstone_block",
+  "description": "The desert delegation claims its trade route is oldest. The coast claims it is most important. Rowan orders a larger table rather than choosing a winner.\n\nAcquire 8 lecterns and 16 lanterns for the provincial hall. Build a council chamber if you enjoy settlement design; the quest tracks supplies.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_council06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:lectern",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:lantern",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

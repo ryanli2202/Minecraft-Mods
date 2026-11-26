@@ -1,0 +1,40 @@
+{
+  "id": "ac_road04",
+  "name": "The Lantern Ferry",
+  "icon": "minecraft:lantern",
+  "description": "With provisions loaded and a scout ready, the caravan reaches a broken crossing. Fen offers boats if Dawnstead will help repair his landing.\n\nDonate 24 oak planks and 8 iron ingots for the ferry. Design a crossing in your own world if you wish; the turn-in checks supplies only.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_road02",
+    "ac_road03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:oak_planks",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

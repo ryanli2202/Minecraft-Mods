@@ -1,0 +1,8 @@
+{
+  "id": "nationsofman",
+  "category": "paragonofday",
+  "name": "Nations of Man",
+  "icon": "valarian_conquest:barathian_citizenship",
+  "order": 0,
+  "default_open": true
+}

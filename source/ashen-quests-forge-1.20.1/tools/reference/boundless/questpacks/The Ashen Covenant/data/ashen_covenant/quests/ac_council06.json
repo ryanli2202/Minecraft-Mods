@@ -1,0 +1,39 @@
+{
+  "id": "ac_council06",
+  "name": "The Foundry Belongs to Everyone",
+  "icon": "minecraft:redstone_block",
+  "description": "Mara proposes melting the royal seals into standardized tools. The delegates would prefer their own crests. She invites them to forge those themselves.\n\nDonate 24 iron ingots and 16 copper ingots for a civilian tool reserve. The factory's fictional political control changes in the story only.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_council05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:copper_ingot",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

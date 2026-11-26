@@ -1,0 +1,39 @@
+{
+  "id": "ac_frost05",
+  "name": "The Executioner's Hall",
+  "icon": "minecraft:soul_lantern",
+  "description": "An Aptrgangr keeps the passage to the prison's master. Sera finds no record of its trials, only a list of sentences.\n\nDefeat one Cataclysm Aptrgangr. Learn the encounter and clear a recovery route before pressing deeper.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_frost04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:aptrgangr",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

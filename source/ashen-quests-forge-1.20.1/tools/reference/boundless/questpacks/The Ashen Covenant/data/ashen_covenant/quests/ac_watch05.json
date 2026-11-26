@@ -1,0 +1,39 @@
+{
+  "id": "ac_watch05",
+  "name": "A Watchtower Is Also a Shelter",
+  "icon": "minecraft:shield",
+  "description": "Rowan asks that every watch post keep blankets for travelers. Elian adds the request to the standing orders instead of calling it charity.\n\nDonate 16 white wool and 16 bread for public shelter stores.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_watch",
+  "dependencies": [
+    "ac_watch04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:white_wool",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:bread",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

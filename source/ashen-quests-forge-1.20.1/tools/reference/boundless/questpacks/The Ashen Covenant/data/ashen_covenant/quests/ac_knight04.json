@@ -1,0 +1,35 @@
+{
+  "id": "ac_knight04",
+  "name": "The Hollow Champion",
+  "icon": "minecraft:iron_sword",
+  "description": "A mutant skeleton wears the fragments of several fallen soldiers. Elian asks that you put all of them to rest.\n\nDefeat one Mutant Monsters mutant skeleton. This optional hunt can wait until you have strong equipment.",
+  "category": "ac_guilds",
+  "sub-category": "ac_knight",
+  "dependencies": [
+    "ac_knight03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mutantmonsters:mutant_skeleton",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

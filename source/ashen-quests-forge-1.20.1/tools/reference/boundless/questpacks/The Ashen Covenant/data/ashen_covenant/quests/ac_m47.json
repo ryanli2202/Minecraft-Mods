@@ -1,0 +1,35 @@
+{
+  "id": "ac_m47",
+  "name": "47 | A Crown for No One",
+  "icon": "minecraft:book",
+  "description": "Elian lays down his commission. Sera seals the old contract in the archive. Rowan refuses a throne, and Mara melts its last fitting into a door hinge. You decide that the new realm will belong to the people who keep it alive.\n\nEnter \"the dawn belongs to everyone\" to sign Dawnstead's charter. This closes the main conflict and opens the final celebration.",
+  "category": "ac_story",
+  "sub-category": "ac_act8",
+  "dependencies": [
+    "ac_m46"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "the dawn belongs to everyone",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 24
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

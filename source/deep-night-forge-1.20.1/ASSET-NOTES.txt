@@ -1,0 +1,46 @@
+THE DEEP NIGHT 1.3.2 - SOURCE AND ASSET NOTES
+
+DawnCraft boss code/assets: supplied dawncraft_mobs-1.18-1.3.9a, originally
+Forge 1.18.2, net.mcreator.simplemobs. Retained source is relocated under
+dev.deepnight.source.dawn. Mo'Bosses code/assets: supplied mobosses-1.0.7,
+originally NeoForge 1.21.1, net.hell.mobosses, relocated under
+dev.deepnight.source.mobosses. Metadata is retained in import-provenance.
+
+Boss combat is ported source code, not the previous common attack generator.
+Minecraft/Forge APIs, GeckoLib 3/4 APIs, render signatures, source entity IDs,
+damage types and tick callbacks have been adapted for Forge 1.20.1.
+Native DawnCraft boss bars update independently of AI, including during
+source attack phases that temporarily set NoAI and during local stuns.
+Divine Guardian and Divine Knight use the campaign bar because their source
+classes have no native bar. Source advancement JSONs are restored and award
+calls guard missing IDs. The original retained target-change callback is
+adapted to LivingChangeTargetEvent. Skeleton Lord command quoting, Dragon
+Lord's early dive immunity release and Ent's corpse cleanup are repaired.
+The source attribute values and entity dimensions are retained; Minecraft's
+normal attribute limits still apply (including the 1024 maximum-health cap).
+
+Epic Fight animation-driven mobs are omitted. The retained bosses use their
+own GeckoLib clips. Epic Fight hit metadata is implemented by local stun,
+freeze, tremor, impact and armor-negation handlers. Local stun durations are
+8/24/20/40/60 ticks by category plus a bounded impact contribution; these
+are a substitute, not an emulation of Epic Fight's complete combat system.
+Epic Fight's two ground-break helper visuals emit vanilla block debris;
+their original source helper placement and lifetime remain. Source custom
+particle providers, beam/glow renderers and projectile models are retained.
+
+Five malformed '-' animation coordinates in Fire Giant/Herobrine were
+repaired to zero. The absent Lightning Dragon attack5 clip is recovered
+from the supplied shared dragon rig. Missing Sentinel unblock uses the
+source shieldoff clip; Cave Dweller's missing dodge uses its source walk
+clip. Flame Ball's absent secondary reset clip stops that controller while
+its source base animation continues. No replacement boss attack is invented.
+Source boss drop identifiers remain; eight DawnCraft drop items are plain
+items, without the original mod's separate player weapon/armor systems.
+
+Non-boss Deep Night artwork/audio remains from the user's supplied world,
+souls, aerlunerpg, bosses+ and boxxexpansion packs. Existing Ember/Tide Drake
+resources originate in the supplied Dragonfire assets. Existing weapon
+artwork is from the supplied weapon packs. These are not dependencies.
+
+Original code/artwork/audio authors retain their rights. No third-party
+ownership or redistribution license is created by this local adaptation.

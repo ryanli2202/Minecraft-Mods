@@ -1,0 +1,38 @@
+{
+  "id": "ac_dragon04",
+  "name": "Trust Is Not a Trophy",
+  "icon": "saintsdragons:draconic_codex",
+  "description": "Ysolde asks you to record the difference between defeating a creature and earning its trust. The blank page is harder than a hunting ledger.\n\nEarn Saints Dragons' tame_cindervane advancement. This is a taming objective, not a kill.",
+  "category": "ac_guilds",
+  "sub-category": "ac_dragon",
+  "dependencies": [
+    "ac_dragon03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "saintsdragons:tame_cindervane"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 10
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

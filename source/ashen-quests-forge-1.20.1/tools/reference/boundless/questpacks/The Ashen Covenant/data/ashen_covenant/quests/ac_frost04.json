@@ -1,0 +1,44 @@
+{
+  "id": "ac_frost04",
+  "name": "The Prison Still Has Guards",
+  "icon": "minecraft:soul_lantern",
+  "description": "The outer defenses still enforce a sentence on everyone who approaches. Elian does not expect them to recognize the council's authority.\n\nDefeat 8 Cataclysm draugr and 3 elite draugr while exploring the northern structures.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_frost02",
+    "ac_frost03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:draugr",
+        "count": 8
+      },
+      {
+        "kill": "cataclysm:elite_draugr",
+        "count": 3
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

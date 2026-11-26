@@ -1,0 +1,38 @@
+{
+  "id": "ac_colony03",
+  "name": "A Roof with a Name",
+  "icon": "minecraft:oak_door",
+  "description": "The first permanent resident asks whether the room is truly theirs. Rowan gives them the key instead of an answer.\n\nComplete the MineColonies build citizen residence advancement.",
+  "category": "ac_guilds",
+  "sub-category": "ac_colony",
+  "dependencies": [
+    "ac_colony02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecolonies:minecolonies/build_citizen"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:glass",
+        "count": 32
+      },
+      {
+        "item": "minecraft:lantern",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 90
+  }
+}

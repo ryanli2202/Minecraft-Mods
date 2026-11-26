@@ -1,0 +1,36 @@
+{
+  "id": "ac_m28",
+  "name": "28 | The Furnace's Eye",
+  "icon": "cataclysm:monstrous_eye",
+  "description": "The last page of Ysolde's map carries a circle of molten iron. Within it waits the engine that armed a century of wars.\n\nAcquire Cataclysm's Monstrous Eye. Consult its recipe in JEI and use it to seek the Soul Black Smith. Prepare a strong loadout before entering.",
+  "category": "ac_story",
+  "sub-category": "ac_act5",
+  "dependencies": [
+    "ac_m26",
+    "ac_m27"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:monstrous_eye",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

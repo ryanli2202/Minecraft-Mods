@@ -1,0 +1,23 @@
+{
+  "root": {
+    "title": "Boatkeeper of the Common Harbor",
+    "text": "Fen, boatkeeper. There is room aboard if you need passage, and there is work if you can spare the time. Eldara has the main expedition orders; the harbor's requests come through me.\n\nAn End portal frame already stands at the Spire. Earn its keys progressively through The Lost Eyes | NPC Trials. Start with Sera after Eldara's The First Hearth; follow each trial's named companion and story milestone. The first twelve trials award twelve different End Remastered eyes. Keep them for the Spire frame instead of throwing them to search for a stronghold.",
+    "children": [
+      "work",
+      "quests",
+      "eldara"
+    ]
+  },
+  "work": {
+    "title": "Your work",
+    "text": "A good fleet has spare provisions, repairable hulls, and no captain too proud to return before a storm. I keep the coastal routes, relief boats, and common pantry moving. We name no flagship here. Every vessel has to bring its whole crew home."
+  },
+  "quests": {
+    "title": "How can I help?",
+    "text": "Choose Covenant quests in our opening conversation to see my assignments. Accept one here before setting out, then return to me to turn it in and receive your emeralds. Use the minus key (-) to track its objectives while traveling. Some requests follow earlier work; your journal explains what must be finished first. If the Ashen Covenant quest mod is absent, I can still talk, but cannot offer its quests."
+  },
+  "eldara": {
+    "title": "The main chronicle",
+    "text": "Speak to Eldara and choose Main quests to continue the three books of the Ashen Covenant. She receives the expedition reports and gives the next main assignment. The rest of us have our own work, and we will ask for it in person."
+  }
+}

@@ -1,0 +1,48 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.35'
+}
+version = '1.0.0'
+group = 'dev.transmogify'
+base.archivesName = 'transmogify-armour-forge-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+            property 'forge.logging.console.level', 'info'
+            property 'mixin.env.remapRefMap', 'true'
+            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+            args '-mixin.config=transmogifyarmour.mixins.json'
+            mods { transmogifyarmour { source sourceSets.main } }
+        }
+        client {
+            if (project.hasProperty('smokeTest')) {
+                property 'transmogifyarmour.smokeTest', 'true'
+                args '--width', '1280', '--height', '800'
+            }
+        }
+        server { args '--nogui' }
+        gameTestServer {
+            workingDirectory project.file('run-tests')
+            property 'forge.enabledGameTestNamespaces', 'transmogifyarmour'
+        }
+    }
+}
+repositories { mavenCentral(); flatDir { dirs 'compat-mods' } }
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.20.1-47.4.10'
+    if (project.hasProperty('compat')) {
+        fileTree('compat-mods').matching { include '*.jar' }.files.each { jar ->
+            runtimeOnly fg.deobf("local.transmogify:${jar.name.substring(0,jar.name.length()-4)}:1.0")
+        }
+    }
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+jar {
+    exclude 'dev/transmogify/qa/**'
+    exclude 'data/transmogifyarmour/structures/empty.nbt'
+    manifest.attributes('MixinConfigs': 'transmogifyarmour.mixins.json', 'Implementation-Version': project.version)
+    finalizedBy 'reobfJar'
+}

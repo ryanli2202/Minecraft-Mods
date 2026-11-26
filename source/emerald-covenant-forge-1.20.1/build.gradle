@@ -1,0 +1,53 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.35'
+}
+version = '1.1.1'
+group = 'dev.emeraldcovenant'
+base.archivesName = 'emerald-covenant-forge-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+            property 'forge.logging.console.level', 'info'
+            property 'mixin.env.remapRefMap', 'true'
+            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+            mods { emeraldcovenant { source sourceSets.main } }
+        }
+        client {
+            if (project.hasProperty('smokeTest')) {
+                property 'emeraldcovenant.smokeTest', 'true'
+                args '--width', '1440', '--height', '1000'
+            }
+        }
+        server {
+            args '--nogui'
+            if (project.hasProperty('serverTest')) { property 'emeraldcovenant.serverTest', 'true' }
+        }
+        gameTestServer {
+            workingDirectory project.file('run-server-tests')
+            property 'forge.enabledGameTestNamespaces', 'emeraldcovenant'
+        }
+    }
+}
+repositories {
+    mavenCentral()
+    if (project.hasProperty('compatDir')) { flatDir { dirs project.property('compatDir') } }
+}
+dependencies {
+    minecraft "net.minecraftforge:forge:1.20.1-${findProperty('forgeVersion') ?: '47.4.10'}"
+    if (project.hasProperty('compatDir')) {
+        fileTree(project.property('compatDir')).matching { include '*.jar' }.files.each { jar ->
+            runtimeOnly fg.deobf("local.covenant:${jar.name.substring(0, jar.name.length()-4)}:1.0")
+        }
+    }
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+jar {
+    exclude 'dev/emeraldcovenant/qa/**'
+    exclude 'data/emeraldcovenant/structures/empty.nbt'
+    manifest.attributes('Implementation-Title': 'The Emerald Covenant', 'Implementation-Version': project.version)
+    finalizedBy 'reobfJar'
+}

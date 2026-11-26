@@ -1,0 +1,39 @@
+{
+  "id": "ac_m43",
+  "name": "43 | The Last Debt",
+  "icon": "minecraft:wither_skeleton_skull",
+  "description": "Sera discovers a final clause: destroying the wardens releases the covenant's gathered death. It needs a vessel before it can be dispersed. The ritual is represented by a Wither battle, not a scripted world event.\n\nGather 3 wither skeleton skulls and 4 soul sand. Prepare a distant, controlled arena before summoning the Wither; keep it away from Dawnstead and any colony.",
+  "category": "ac_story",
+  "sub-category": "ac_act8",
+  "dependencies": [
+    "ac_m42"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:wither_skeleton_skull",
+        "count": 3
+      },
+      {
+        "collect": "minecraft:soul_sand",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

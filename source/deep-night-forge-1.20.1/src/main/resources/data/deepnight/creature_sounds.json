@@ -1,0 +1,275 @@
+{
+  "ember_drake": {
+    "ambient": "ember_drake.ambient",
+    "attack": "ember_drake.attack"
+  },
+  "tide_drake": {
+    "ambient": "tide_drake.ambient",
+    "attack": "tide_drake.attack"
+  },
+  "dusk_drake": {},
+  "dire_boar": {
+    "hurt": "dire_boar.hurt"
+  },
+  "moon_stag": {
+    "hurt": "moon_stag.hurt"
+  },
+  "star_unicorn": {},
+  "meadow_butterfly": {},
+  "forest_butterfly": {},
+  "ocean_whale": {},
+  "silver_whale": {},
+  "candy_bear": {},
+  "great_boar": {},
+  "moon_butterfly": {},
+  "sapling_ent": {},
+  "woodland_rabbit": {},
+  "fluffy_hound": {},
+  "tiny_bat": {},
+  "luminous_beetle": {},
+  "frost_golem": {},
+  "woodland_squirrel": {},
+  "honey_bear": {},
+  "pond_frog": {},
+  "city_pigeon": {},
+  "dune_scorpion": {},
+  "sea_turtle": {
+    "ambient": "sea_turtle.ambient",
+    "attack": "sea_turtle.attack",
+    "step": "sea_turtle.step"
+  },
+  "seagull": {
+    "ambient": "seagull.ambient",
+    "death": "seagull.death",
+    "step": "seagull.step"
+  },
+  "coastal_gull": {},
+  "pelican": {},
+  "jungle_snake": {
+    "ambient": "jungle_snake.ambient",
+    "death": "jungle_snake.death",
+    "attack": "jungle_snake.attack",
+    "spawn": "jungle_snake.spawn",
+    "step": "jungle_snake.step",
+    "music": "jungle_snake.music"
+  },
+  "young_kong": {},
+  "inferno_wyvern": {},
+  "night_goblin": {
+    "hurt": "night_goblin.hurt"
+  },
+  "grave_ghoul": {
+    "ambient": "grave_ghoul.ambient"
+  },
+  "serpent_guard": {
+    "ambient": "serpent_guard.ambient",
+    "hurt": "serpent_guard.hurt"
+  },
+  "dusk_assassin": {
+    "hurt": "dusk_assassin.hurt",
+    "death": "dusk_assassin.death"
+  },
+  "bone_soldier": {
+    "hurt": "bone_soldier.hurt",
+    "death": "bone_soldier.death"
+  },
+  "hungry_mimic": {},
+  "lost_shade": {
+    "hurt": "lost_shade.hurt",
+    "death": "lost_shade.death"
+  },
+  "voidling": {},
+  "cave_bat": {},
+  "centaur_ranger": {
+    "ambient": "centaur_ranger.ambient"
+  },
+  "woodland_dryad": {},
+  "verdant_dryad": {},
+  "blossom_dryad": {},
+  "ghost_guardian": {
+    "ambient": "ghost_guardian.ambient",
+    "hurt": "ghost_guardian.hurt",
+    "death": "ghost_guardian.death"
+  },
+  "goblin_swordsman": {
+    "hurt": "goblin_swordsman.hurt"
+  },
+  "goblin_shaman": {
+    "hurt": "goblin_shaman.hurt"
+  },
+  "gravedigger": {
+    "ambient": "gravedigger.ambient"
+  },
+  "kraken_tentacle": {},
+  "river_nymph": {},
+  "old_wizard": {},
+  "winged_eye": {
+    "ambient": "winged_eye.ambient"
+  },
+  "cave_cyclops": {},
+  "vampire_noble": {},
+  "vampire_duelist": {},
+  "vampire_stalker": {},
+  "balder_knight": {},
+  "ashen_blacksmith": {},
+  "soul_channeler": {},
+  "undead_merchant": {},
+  "giant_bedbug": {},
+  "cannon_gnome": {},
+  "cookie_mimic": {},
+  "cookie_swarm": {},
+  "the_crowd": {},
+  "cursed_stag": {},
+  "tallwood_stalker": {},
+  "donut_mimic": {},
+  "evergreen_watcher": {},
+  "bomb_gnome": {},
+  "forest_gnome": {},
+  "spear_gnome": {},
+  "shield_gnome": {},
+  "eye_beetle": {},
+  "gingerbread_brute": {},
+  "gingerbread_man": {},
+  "cursed_gingerbread": {},
+  "crimson_gingerbread": {},
+  "house_gnome": {
+    "hurt": "house_gnome.hurt"
+  },
+  "woodland_sage": {},
+  "clockwork_gnome": {},
+  "abyssal_shoggoth": {},
+  "frozen_watchman": {},
+  "frozen_sentinel": {},
+  "frostbound_revenant": {},
+  "snowbound_guard": {},
+  "living_stump": {},
+  "ancient_stump": {},
+  "burrowing_worm": {},
+  "forest_husk": {},
+  "spectral_husk": {},
+  "little_knight": {
+    "death": "little_knight.death",
+    "attack": "little_knight.attack",
+    "spawn": "little_knight.spawn"
+  },
+  "poison_cactus": {},
+  "goblin_barbarian": {},
+  "fire_goblin": {},
+  "cave_goblin": {},
+  "piranha": {
+    "death": "piranha.death",
+    "attack": "piranha.attack"
+  },
+  "desert_skeleton": {},
+  "ice_skeleton": {},
+  "iron_skeleton": {},
+  "lost_skeleton": {},
+  "desert_spearman": {},
+  "desert_bladeguard": {},
+  "desert_revenant": {},
+  "travelling_adventure": {},
+  "travelling_archeologist": {},
+  "travelling_arena_keeper": {},
+  "travelling_blacksmith": {},
+  "travelling_dragon_computer": {},
+  "travelling_dragon_hunter": {},
+  "travelling_electricist": {},
+  "travelling_experienced_miner": {},
+  "travelling_farmer": {},
+  "travelling_female_farmer": {},
+  "travelling_goblin_computer": {},
+  "travelling_gost": {},
+  "travelling_jeweler": {},
+  "travelling_kingkong_computer": {},
+  "travelling_knight_computer": {},
+  "travelling_laboratory_scientis": {},
+  "travelling_librarian": {},
+  "travelling_lizard_computer": {},
+  "travelling_lumberjack": {},
+  "travelling_mecha_computer": {},
+  "travelling_miner_old": {},
+  "travelling_pirate": {},
+  "travelling_port_sailor": {},
+  "travelling_robot": {},
+  "travelling_sea_snake_computer": {},
+  "travelling_sensei": {},
+  "travelling_thunder_lord_computer": {},
+  "travelling_weapons_seller": {},
+  "travelling_witch": {},
+  "travelling_yeti_computer": {},
+  "phantom_ghost": {
+    "ambient": "phantom_ghost.ambient"
+  },
+  "sculkpion_minion": {
+    "ambient": "sculkpion_minion.ambient"
+  },
+  "dawn_gryphon": {
+    "death": "dawn.gryphon.death"
+  },
+  "dawn_cave_blockhead": {
+    "hurt": "dawn.cave_blockhead.hurt"
+  },
+  "dawn_cave_dweller": {
+    "death": "dawn.cavedwellerdeath"
+  },
+  "dawn_cave_golem": {
+    "hurt": "dawn.cave_golem.hurt"
+  },
+  "dawn_darkwerewolf": {
+    "hurt": "dawn.werewolf.hurt",
+    "death": "dawn.werewolf.death"
+  },
+  "dawn_giant": {
+    "death": "dawn.giantdeath"
+  },
+  "dawn_graywerewolf": {
+    "hurt": "dawn.werewolf.hurt",
+    "death": "dawn.werewolf.death"
+  },
+  "dawn_imp_melee": {
+    "hurt": "dawn.cave_blockhead.hurt"
+  },
+  "dawn_imp_range": {
+    "hurt": "dawn.cave_blockhead.hurt"
+  },
+  "dawn_ogre": {
+    "death": "dawn.ogre_death"
+  },
+  "dawn_patronwerewolf": {
+    "hurt": "dawn.werewolf.hurt",
+    "death": "dawn.werewolf.death"
+  },
+  "dawn_rat_mid": {
+    "ambient": "dawn.rat",
+    "hurt": "dawn.rat_hurt",
+    "death": "dawn.rat_death"
+  },
+  "dawn_rat_small": {
+    "ambient": "dawn.rat",
+    "hurt": "dawn.rat_hurt",
+    "death": "dawn.rat_death"
+  },
+  "dawn_sand_wyrm": {
+    "ambient": "dawn.sand_wyrm_living",
+    "hurt": "dawn.sand_wyrm_hurt",
+    "death": "dawn.sand_wyrm_death"
+  },
+  "dawn_weak_ogre": {
+    "death": "dawn.ogre_death"
+  },
+  "mobosses_demon_king": {
+    "ambient": "mobosses.demon_king_growl",
+    "hurt": "mobosses.demon_king_hurt",
+    "death": "mobosses.demon_king_hurt",
+    "music": "mobosses.demon_king_music"
+  },
+  "mobosses_divine_dragon": {
+    "music": "mobosses.divine_dragon_music"
+  },
+  "mobosses_nil": {
+    "ambient": "mobosses.nil_grunt",
+    "hurt": "mobosses.nil_hurt",
+    "death": "mobosses.nil_death",
+    "attack": "mobosses.nil_swing"
+  }
+}

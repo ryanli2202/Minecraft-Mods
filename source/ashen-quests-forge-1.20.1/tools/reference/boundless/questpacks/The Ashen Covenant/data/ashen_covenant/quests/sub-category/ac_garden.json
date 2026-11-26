@@ -1,0 +1,8 @@
+{
+  "id": "ac_garden",
+  "category": "ac_guilds",
+  "name": "Tamsin | The Garden after the War",
+  "icon": "minecraft:honey_bottle",
+  "order": 105,
+  "default_open": true
+}

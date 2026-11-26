@@ -1,0 +1,34 @@
+{
+  "id": "ac_m39",
+  "name": "39 | Islands of Exile",
+  "icon": "minecraft:purpur_block",
+  "description": "Beyond the gateway stand cities built for people who never came home. Their empty towers offer a warning: survival is not the same as a life.\n\nFind an End city and complete The City at the End of the Game. Explore the outer islands carefully; this quest does not require a ship or Elytra drop.",
+  "category": "ac_story",
+  "sub-category": "ac_act7",
+  "dependencies": [
+    "ac_m38"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:end/find_end_city"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:shulker_shell",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

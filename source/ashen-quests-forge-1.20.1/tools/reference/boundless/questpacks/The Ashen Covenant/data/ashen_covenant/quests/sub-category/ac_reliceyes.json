@@ -1,0 +1,8 @@
+{
+  "id": "ac_reliceyes",
+  "category": "ac_eyes",
+  "name": "Sixteen Witnesses",
+  "icon": "minecraft:ender_eye",
+  "order": 1,
+  "default_open": true
+}

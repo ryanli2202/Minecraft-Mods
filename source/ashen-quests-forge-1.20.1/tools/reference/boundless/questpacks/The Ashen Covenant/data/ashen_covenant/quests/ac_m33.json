@@ -1,0 +1,39 @@
+{
+  "id": "ac_m33",
+  "name": "33 | The King Who Would Not Die",
+  "icon": "minecraft:golden_helmet",
+  "description": "The Dead King calls you an ungrateful subject. He says every life he took bought one more year of peace. Rowan's reply is short: \"Then the debt ends with you.\"\n\nDefeat the Dead King from Iron's Spells 'n Spellbooks in the catacombs. Resolve the encounter fully so the boss death is credited.",
+  "category": "ac_story",
+  "sub-category": "ac_act6",
+  "dependencies": [
+    "ac_m32"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "irons_spellbooks:dead_king",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 4
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 280
+  }
+}

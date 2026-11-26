@@ -1,0 +1,39 @@
+{
+  "id": "ac_m42",
+  "name": "42 | Letters from Home",
+  "icon": "minecraft:writable_book",
+  "description": "Rowan's newest letter contains no requests. A child has drawn Dawnstead beneath a yellow sun. For the first time, the page looks forward rather than back.\n\nDonate 16 paper and 4 books to preserve the names recovered from the covenant. Return to your refuge before continuing if you want to close the journey there.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_act7",
+  "dependencies": [
+    "ac_m41"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:paper",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:book",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

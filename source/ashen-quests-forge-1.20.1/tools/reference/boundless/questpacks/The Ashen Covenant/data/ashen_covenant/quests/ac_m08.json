@@ -1,0 +1,39 @@
+{
+  "id": "ac_m08",
+  "name": "08 | Break the Roadblock",
+  "icon": "minecraft:crossbow",
+  "description": "Captain Elian's surviving scouts refuse to abandon the road. They do not need a glorious charge. They need the crossbows to stop firing.\n\nDefeat 8 pillagers. Patrols, outposts, and suitable modded raider structures can provide targets; ordinary pillagers are the tracked enemy.",
+  "category": "ac_story",
+  "sub-category": "ac_act2",
+  "dependencies": [
+    "ac_m07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:pillager",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:arrow",
+        "count": 32
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}

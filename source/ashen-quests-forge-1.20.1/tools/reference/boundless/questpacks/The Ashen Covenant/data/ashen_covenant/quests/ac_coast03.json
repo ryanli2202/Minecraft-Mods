@@ -1,0 +1,39 @@
+{
+  "id": "ac_coast03",
+  "name": "The Healer below the Waterline",
+  "icon": "minecraft:prismarine",
+  "description": "Tamsin refuses to trust a single breathing potion to an entire expedition. She wants a tested fallback before anyone swims into a ruin.\n\nGain Water Breathing and acquire a turtle helmet. The helmet is an equipment milestone; use your strongest actual diving setup.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_coast",
+  "dependencies": [
+    "ac_coast01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "effect": "minecraft:water_breathing",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:turtle_helmet",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

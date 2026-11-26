@@ -1,0 +1,8 @@
+{
+  "id": "ac_act1",
+  "category": "ac_story",
+  "name": "I. A Fire in the Ashes",
+  "icon": "minecraft:campfire",
+  "order": 20,
+  "default_open": true
+}

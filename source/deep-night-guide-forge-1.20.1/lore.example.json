@@ -1,0 +1,22 @@
+{
+  "chapters": {
+    "your_settlement": {
+      "title": "Our Settlement",
+      "icon": "minecraft:campfire",
+      "sections": {
+        "Our beginning": ["Replace this paragraph with your settlement's story."],
+        "People and places": ["Record the people, landmarks and events you want remembered."]
+      }
+    }
+  },
+  "dimensions": {
+    "minecraft:overworld": {
+      "title": "The Overworld | Our Home",
+      "icon": "minecraft:grass_block",
+      "sections": {
+        "Chronicle": ["Replace this with your version of the Overworld's history."],
+        "Field notes": ["Keep gameplay information here accurate for your pack."]
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_winter02",
+  "name": "The Mountain Rescue Fund",
+  "icon": "minecraft:snowball",
+  "description": "Rowan sends food ahead of the expedition. The northern settlements should not have to choose between feeding you and feeding themselves.\n\nDonate 24 baked potatoes and 12 honey bottles to the relief fund.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_winter01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:baked_potato",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:honey_bottle",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

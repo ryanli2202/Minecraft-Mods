@@ -1,0 +1,39 @@
+{
+  "id": "ac_mage02",
+  "name": "A Desk for Impossible Things",
+  "icon": "minecraft:enchanted_book",
+  "description": "The old college demanded marble towers. Sera begins with a desk and enough light to read by.\n\nAcquire an inscription table and 4 common ink. These remain yours to use.",
+  "category": "ac_guilds",
+  "sub-category": "ac_mage",
+  "dependencies": [
+    "ac_mage01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "irons_spellbooks:inscription_table",
+        "count": 1
+      },
+      {
+        "collect": "irons_spellbooks:common_ink",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 70
+  }
+}

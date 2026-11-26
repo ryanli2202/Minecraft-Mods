@@ -1,0 +1,8 @@
+{
+  "id": "fiends",
+  "category": "wardenofthenight",
+  "name": "Fiends of Night",
+  "icon": "minecraft:zombie_head",
+  "order": 4,
+  "default_open": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ravage",
+  "name": "Ending the Ravage",
+  "icon": "minecraft:iron_sword",
+  "description": "Bring down a fearsome ravager whose unstoppable charge leaves devastation in its wake.",
+  "category": "paragonofday",
+  "sub-category": "thepillagers",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:ravager",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "irons_spellbooks:greater_healing_potion",
+        "count": 1
+      }
+    ]
+  }
+}

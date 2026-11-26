@@ -1,0 +1,39 @@
+{
+  "id": "ac_knight03",
+  "name": "An Oath at the Crossroads",
+  "icon": "minecraft:iron_sword",
+  "description": "A village cannot afford a garrison. The Unsworn promise to make the raiders fear the road instead.\n\nDefeat 16 pillagers total. Previous kills count toward this milestone.",
+  "category": "ac_guilds",
+  "sub-category": "ac_knight",
+  "dependencies": [
+    "ac_knight02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:pillager",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 90
+  }
+}

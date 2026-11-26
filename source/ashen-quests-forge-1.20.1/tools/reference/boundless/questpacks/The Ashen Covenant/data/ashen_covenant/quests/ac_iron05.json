@@ -1,0 +1,39 @@
+{
+  "id": "ac_iron05",
+  "name": "The Smith's Apology",
+  "icon": "minecraft:iron_helmet",
+  "description": "Mara admits that she forged weapons for the same campaign. Neither she nor Elian knew what the king planned to do with the dead. Neither accepts ignorance as absolution.\n\nAcquire 12 gold ingots and 16 lapis lazuli for reinforced equipment and enchantment work. Prepare before the next boss expedition.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_iron04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:gold_ingot",
+        "count": 12
+      },
+      {
+        "collect": "minecraft:lapis_lazuli",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

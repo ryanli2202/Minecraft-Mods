@@ -1,0 +1,43 @@
+{
+  "id": "ac_mage05",
+  "name": "A College with Open Doors",
+  "icon": "minecraft:enchanted_book",
+  "description": "Sera hangs your annotated spellbook in the library beside the charter: knowledge may be dangerous, but ignorance is no defense.\n\nAcquire a gold spell book and an arcane anvil. Build your preferred spell loadout; the quest does not require particular spells or spell NBT.",
+  "category": "ac_guilds",
+  "sub-category": "ac_mage",
+  "dependencies": [
+    "ac_mage04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "irons_spellbooks:gold_spell_book",
+        "count": 1
+      },
+      {
+        "collect": "irons_spellbooks:arcane_anvil",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

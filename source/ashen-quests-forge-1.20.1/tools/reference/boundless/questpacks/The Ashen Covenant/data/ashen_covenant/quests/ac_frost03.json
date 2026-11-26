@@ -1,0 +1,39 @@
+{
+  "id": "ac_frost03",
+  "name": "The Law in Plain Words",
+  "icon": "minecraft:soul_lantern",
+  "description": "Sera translates the prison charter. Its elaborate language conceals a simple rule: the ruler is never wrong. She prepares a public copy in words a child can understand.\n\nDonate 12 books and 16 ink sacs for translations. This can be completed alongside the supply mission.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_frost01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:book",
+        "count": 12
+      },
+      {
+        "submit": "minecraft:ink_sac",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

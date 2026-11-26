@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="ashenquests"
+version="${file.jarVersion}"
+displayName="The Ashen Covenant: Chronicles"
+authors="Ryan"
+description='''An NPC-driven story and quest journal for the fantasycraft modpack. Press - to follow the Ash Road, build the free provinces, and earn emeralds for every quest. Includes the original Ashen Covenant and Deep Night quests plus new chronicles, faction standing and repeatable contracts.'''
+[[dependencies.ashenquests]]
+modId="forge"
+mandatory=true
+versionRange="[47.3,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.ashenquests]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.ashenquests]]
+modId="thedeepnightnpcs"
+mandatory=true
+versionRange="[1.4.0,2.0.0)"
+ordering="AFTER"
+side="BOTH"

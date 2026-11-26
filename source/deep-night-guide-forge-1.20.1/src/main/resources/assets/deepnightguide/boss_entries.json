@@ -1,0 +1,264 @@
+{
+  "entity:minecraft:ender_dragon": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ],
+      "Encounter": [
+        "The End's central-island dragon encounter. Follow your pack's End-portal progression. The fight is separate from taming any modded dragon."
+      ]
+    }
+  },
+  "entity:minecraft:wither": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ],
+      "Encounter": [
+        "Under vanilla rules, build a T of soul sand or soul soil and place three wither skeleton skulls across its top. Choose an isolated arena: the Wither can destroy terrain. Pack rules may change summoning."
+      ]
+    }
+  },
+  "entity:cataclysm:ignis": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:cataclysm:netherite_monstrosity": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:cataclysm:ender_guardian": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:cataclysm:the_harbinger": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:cataclysm:the_leviathan": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:cataclysm:ancient_remnant": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:cataclysm:maledictus": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:cataclysm:scylla": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:bosses_of_mass_destruction:lich": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:bosses_of_mass_destruction:obsidilith": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:bosses_of_mass_destruction:gauntlet": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:bosses_of_mass_destruction:void_blossom": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:meetyourfight:bellringer": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:meetyourfight:dame_fortuna": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:meetyourfight:swampjaw": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:meetyourfight:rosalyne": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:irons_spellbooks:dead_king": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:irons_spellbooks:fire_boss": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:mowziesmobs:ferrous_wroughtnaut": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:mowziesmobs:frostmaw": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:mowziesmobs:umvuthi": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:alexsmobs:void_worm": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:pale_monarch:pale_monarch": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "Included in the Deep Night boss ledger. Your credited kills and manual checkbox track defeat separately from taming."
+      ]
+    }
+  },
+  "entity:fantasycraft:king_dragon": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "A major FantasyCraft encounter selected for the Deep Night boss ledger. This is the guide's encounter grouping; the port does not give every listed creature a boss health bar. Read its existing habitat, combat and loot notes below."
+      ]
+    }
+  },
+  "entity:fantasycraft:surtr": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "A major FantasyCraft encounter selected for the Deep Night boss ledger. This is the guide's encounter grouping; the port does not give every listed creature a boss health bar. Read its existing habitat, combat and loot notes below."
+      ]
+    }
+  },
+  "entity:fantasycraft:hydra_1": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "A major FantasyCraft encounter selected for the Deep Night boss ledger. This is the guide's encounter grouping; the port does not give every listed creature a boss health bar. Read its existing habitat, combat and loot notes below."
+      ]
+    }
+  },
+  "entity:fantasycraft:hydra_2": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "A major FantasyCraft encounter selected for the Deep Night boss ledger. This is the guide's encounter grouping; the port does not give every listed creature a boss health bar. Read its existing habitat, combat and loot notes below."
+      ]
+    }
+  },
+  "entity:fantasycraft:hydra_3": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "A major FantasyCraft encounter selected for the Deep Night boss ledger. This is the guide's encounter grouping; the port does not give every listed creature a boss health bar. Read its existing habitat, combat and loot notes below."
+      ]
+    }
+  },
+  "entity:fantasycraft:hydra_4": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "A major FantasyCraft encounter selected for the Deep Night boss ledger. This is the guide's encounter grouping; the port does not give every listed creature a boss health bar. Read its existing habitat, combat and loot notes below."
+      ]
+    }
+  },
+  "entity:fantasycraft:hydra_5": {
+    "boss": true,
+    "sections": {
+      "Boss record": [
+        "A major FantasyCraft encounter selected for the Deep Night boss ledger. This is the guide's encounter grouping; the port does not give every listed creature a boss health bar. Read its existing habitat, combat and loot notes below."
+      ]
+    }
+  }
+}

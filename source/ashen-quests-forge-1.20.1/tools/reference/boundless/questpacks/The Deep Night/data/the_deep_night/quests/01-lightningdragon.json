@@ -1,0 +1,29 @@
+{
+  "id": "lightningdragon",
+  "name": "The Dragon of Storms",
+  "icon": "iceandfire:lightning_dragon_heart",
+  "description": "Hunt down a lightning dragon and survive the fury of the storm to claim victory.",
+  "category": "naturecalls",
+  "sub-category": "monstersofmyth",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:lightning_dragon",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "dungeons_and_combat:dragon_greatsword_lightning",
+        "count": 1
+      }
+    ]
+  }
+}

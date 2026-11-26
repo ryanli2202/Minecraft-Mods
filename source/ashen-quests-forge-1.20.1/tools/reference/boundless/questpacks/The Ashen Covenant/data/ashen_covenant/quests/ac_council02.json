@@ -1,0 +1,43 @@
+{
+  "id": "ac_council02",
+  "name": "The Granaries of a Free Realm",
+  "icon": "minecraft:redstone_block",
+  "description": "The first delegate asks for soldiers. Tamsin asks how many people the province can feed this winter. Nobody enjoys the answer.\n\nDonate 32 bread, 32 carrots, and 16 cooked beef to the interprovincial relief fund. Renewable food production will support the longer campaign.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_council01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:bread",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:carrot",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:cooked_beef",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

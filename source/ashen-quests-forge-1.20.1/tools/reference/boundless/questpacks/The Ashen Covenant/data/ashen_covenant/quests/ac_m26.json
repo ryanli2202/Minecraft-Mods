@@ -1,0 +1,39 @@
+{
+  "id": "ac_m26",
+  "name": "26 | Fuel for a Dead Kingdom",
+  "icon": "minecraft:blaze_rod",
+  "description": "Sera's sketches show blaze rods turning the royal furnace. Every delivery to the crypt had a matching entry here. Sever the supply and take what you need to survive the next descent.\n\nCollect 8 blaze rods and 16 nether wart. Preserve enough to brew your own expedition supplies.",
+  "category": "ac_story",
+  "sub-category": "ac_act5",
+  "dependencies": [
+    "ac_m25"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:blaze_rod",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:nether_wart",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

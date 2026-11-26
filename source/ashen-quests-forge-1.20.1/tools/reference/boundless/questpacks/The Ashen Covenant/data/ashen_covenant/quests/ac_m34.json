@@ -1,0 +1,35 @@
+{
+  "id": "ac_m34",
+  "name": "34 | What the Crown Could Not Keep",
+  "icon": "minecraft:paper",
+  "description": "There is no lost heir to rescue, no rightful claimant in hiding. The throne is empty. Sera proposes that it remain that way until the people who paid for it can decide its fate.\n\nEnter \"the debt ends\" in the text field to record the council's decision. Finish any preparations and relic-eye expeditions you need before approaching the stronghold.",
+  "category": "ac_story",
+  "sub-category": "ac_act6",
+  "dependencies": [
+    "ac_m33"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "the debt ends",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

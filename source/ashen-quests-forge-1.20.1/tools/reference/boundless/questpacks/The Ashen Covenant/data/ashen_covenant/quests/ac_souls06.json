@@ -1,0 +1,43 @@
+{
+  "id": "ac_souls06",
+  "name": "A Promise Allowed to End",
+  "icon": "minecraft:soul_torch",
+  "description": "Sera adds one final line to the covenant archive: a good oath must contain a way to be released. Elian reads it longer than anyone else.\n\nDonate 8 soul lanterns and 16 paper to build a memorial to the released. This closes the optional Pale Road story.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_souls",
+  "dependencies": [
+    "ac_souls05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:soul_lantern",
+        "count": 8
+      },
+      {
+        "submit": "minecraft:paper",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

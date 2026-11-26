@@ -1,0 +1,8 @@
+{
+  "id": "ac_ranger",
+  "category": "ac_guilds",
+  "name": "The Far Lanterns | Ranger",
+  "icon": "minecraft:bow",
+  "order": 9,
+  "default_open": true
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ac_coast",
+  "category": "ac_reckoning",
+  "name": "XI | The Drowned Republic",
+  "icon": "minecraft:prismarine",
+  "order": 30,
+  "default_open": true
+}

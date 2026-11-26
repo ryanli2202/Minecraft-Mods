@@ -1,0 +1,39 @@
+{
+  "id": "ac_winter08",
+  "name": "The King's True Address",
+  "icon": "minecraft:snowball",
+  "description": "The witnesses agree on one detail: the king stopped aging when he moved his court into the crypt. Sera closes the atlas at the catacombs, and Rowan asks you to finish the accounting.\n\nEnter \"no name will be erased\" to commit the testimony to the public archive. The journey to the Dead King resumes.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_winter07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "no name will be erased",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

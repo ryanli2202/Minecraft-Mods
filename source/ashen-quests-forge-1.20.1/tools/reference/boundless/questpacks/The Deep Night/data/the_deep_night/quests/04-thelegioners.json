@@ -1,0 +1,29 @@
+{
+  "id": "thelegioners",
+  "name": "Ending the Legion",
+  "icon": "minecraft:iron_sword",
+  "description": "Storm pillager fortresses and defeat 20 seasoned legioners guarding their strongholds.",
+  "category": "paragonofday",
+  "sub-category": "thepillagers",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "takesapillage:legioner",
+        "count": 20
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "soulsweapons:crucible_sword",
+        "count": 1
+      }
+    ]
+  }
+}

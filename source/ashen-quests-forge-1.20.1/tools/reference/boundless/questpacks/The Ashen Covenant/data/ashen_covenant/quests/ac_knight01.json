@@ -1,0 +1,35 @@
+{
+  "id": "ac_knight01",
+  "name": "A Blade without a Master",
+  "icon": "minecraft:iron_sword",
+  "description": "Elian offers you a place among the Unsworn, knights who protect roads rather than bloodlines.\n\nAcquire a Simply Swords iron longsword. You may still use another weapon in combat.",
+  "category": "ac_guilds",
+  "sub-category": "ac_knight",
+  "dependencies": [
+    "ac_m06"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "simplyswords:iron_longsword",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}

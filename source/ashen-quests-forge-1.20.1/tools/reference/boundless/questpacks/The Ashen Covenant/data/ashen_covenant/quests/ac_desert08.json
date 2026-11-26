@@ -1,0 +1,43 @@
+{
+  "id": "ac_desert08",
+  "name": "The March Chooses Its Delegate",
+  "icon": "minecraft:sandstone",
+  "description": "The oasis keepers send a water carrier to the council. He arrives without a crown, carrying an accurate list of what his neighbors need.\n\nAcquire a decorated pot and 8 emeralds for the March's charter gift. Finish the coast chapter as well to convene the next council.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_desert07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:decorated_pot",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:emerald",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

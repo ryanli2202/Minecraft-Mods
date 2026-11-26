@@ -1,0 +1,249 @@
+{
+  "aod_chaos_butterfly": {
+    "signature": "33fe20c1ea3b9c38b4c3cb55c8df15c5bf8d030863832ca4607a51a366f51de3",
+    "bounds": [
+      -1.5625,
+      0.7200136,
+      -2.8555865,
+      5.1856766,
+      3.263617,
+      1.7026619
+    ],
+    "previous_height_ratio": 1.1350305220883532,
+    "previous_floor_offset": 1.5009656
+  },
+  "aod_kyros_king_of_thorns": {
+    "signature": "85a4084f1ed809e5a8fa0bbdcc2dd091eadab82f78b994518f541e1dfef9c5df",
+    "bounds": [
+      -0.6313554,
+      -0.015625,
+      -0.2017445,
+      1.288815,
+      3.3251572,
+      3.9361715
+    ],
+    "previous_height_ratio": 0.9285108949416343,
+    "previous_floor_offset": 1.131742
+  },
+  "aod_order_butterfly": {
+    "signature": "9915e936a583fc5e9c47d6db9422a067d8cfc779069a4f5f11b752a0a52ab010",
+    "bounds": [
+      -1.6039491,
+      0.7147329,
+      -2.8648944,
+      5.185764,
+      3.191284,
+      1.7021736
+    ],
+    "previous_height_ratio": 1.1051098170459617,
+    "previous_floor_offset": 1.4956849
+  },
+  "aod_rare_dragon_earth_grecko": {
+    "signature": "4434b7112a394e66ab96db4e011abaee2b64f1811b6d9ec11df616ce589bb327",
+    "bounds": [
+      -7.0581627,
+      -1.3516998,
+      -3.3896122,
+      7.1628065,
+      4.5369368,
+      6.372198
+    ],
+    "previous_height_ratio": 2.325685860979463,
+    "previous_floor_offset": -1.3762678
+  },
+  "aod_rare_dragon_water_valarien": {
+    "signature": "2ef6e953c8b866e1208dffbbbb4e0e87caacb3d800c726346b0ad74e736ecc9d",
+    "bounds": [
+      -1.3611786,
+      0.012054384,
+      -3.3727803,
+      1.3299285,
+      2.0938249,
+      7.8125
+    ],
+    "previous_height_ratio": 0.9714281455902941,
+    "previous_floor_offset": 0.9183793840000001
+  },
+  "aod_rare_dragon_wind_rejin": {
+    "signature": "1896d24450e5317757f5cba52f0c3bf8872dc5a3bb1fa4c02837ab44917053c3",
+    "bounds": [
+      -7.893892,
+      -0.64072245,
+      -3.4086003,
+      7.893892,
+      2.473392,
+      8.896109
+    ],
+    "previous_height_ratio": 0.2424109730932,
+    "previous_floor_offset": 1.7518940515446
+  },
+  "aod_rare_dragon_earth_grecko_player": {
+    "signature": "b253a99cc9c4a7f2838a651719bac1ec7a606ed1f67d61570d54d37f55628281",
+    "bounds": [
+      -7.0595455,
+      -1.3516998,
+      -3.3896444,
+      7.1641254,
+      4.534425,
+      6.3719525
+    ],
+    "previous_height_ratio": 2.32511818289664,
+    "previous_floor_offset": -1.3591223238916001
+  },
+  "aod_uncommon_dragon_fire_bloodhound_player": {
+    "signature": "9909d540ce420acc66aa13d2809570c135897be0f48aeddd9640ccd99052f765",
+    "bounds": [
+      -3.5391798,
+      -4.6248817,
+      -2.365677,
+      3.5391736,
+      2.1952717,
+      4.071964
+    ],
+    "previous_height_ratio": 3.320425219084713,
+    "previous_floor_offset": -4.6561377
+  },
+  "aod_uncommon_dragon_fire_electrode_player": {
+    "signature": "e4640705a0ea5a41476ac3095638b5453653907f5c9bb1b769fefc22830c7bab",
+    "bounds": [
+      -4.865393,
+      -1.2526587,
+      -3.0618644,
+      4.9406624,
+      2.660661,
+      3.6148174
+    ],
+    "previous_height_ratio": 0.61498914815016,
+    "previous_floor_offset": -0.5336780553734001
+  },
+  "aod_uncommon_dragon_fire_bloodhound": {
+    "signature": "b23c04740c6c982797e38de3c936434114df464a6174a4f0802026fdfcfed629",
+    "bounds": [
+      -3.5391798,
+      -4.6248817,
+      -2.365677,
+      3.5391736,
+      2.1952717,
+      4.071964
+    ],
+    "previous_height_ratio": 3.320425219084713,
+    "previous_floor_offset": -4.6561377
+  },
+  "aod_uncommon_dragon_fire_electrode": {
+    "signature": "db2c326964f10882c9eb96d9bef41e98d21122f301b5f75da8c04e91631fdb02",
+    "bounds": [
+      -4.865393,
+      -1.252659,
+      -3.0618644,
+      4.9406624,
+      2.6606612,
+      3.6148174
+    ],
+    "previous_height_ratio": 0.61498922672656,
+    "previous_floor_offset": -0.533678173238
+  },
+  "dawn_fire_giant": {
+    "signature": "33c0d1e455d76146810815ca2cce2f8ce96e7b12e8dddab2aa624c82f940a0e6",
+    "bounds": [
+      -6.8296003,
+      -0.2170731,
+      -3.511772,
+      6.3952866,
+      15.351155,
+      3.045494
+    ],
+    "previous_height_ratio": 0.7112466093703556,
+    "previous_floor_offset": 1.1320988096634
+  },
+  "dawn_darkwerewolf": {
+    "signature": "deabc1690e9cae2c9b4a9323cc0ab5cf1cf7685be1cf5512604900febf9f9c44",
+    "bounds": [
+      -1.5887357,
+      -0.042221345,
+      -1.5652659,
+      1.3857327,
+      3.8909035,
+      1.9028379
+    ],
+    "previous_height_ratio": 0.792655236012354,
+    "previous_floor_offset": 0.7846734930846151
+  },
+  "dawn_graywerewolf": {
+    "signature": "deabc1690e9cae2c9b4a9323cc0ab5cf1cf7685be1cf5512604900febf9f9c44",
+    "bounds": [
+      -1.587956,
+      -0.042221345,
+      -1.5656886,
+      1.3858165,
+      3.890702,
+      1.9026784
+    ],
+    "previous_height_ratio": 0.792614627072554,
+    "previous_floor_offset": 0.7846734930846151
+  },
+  "dawn_half_wither_demon": {
+    "signature": "3c954aa4cb53ae2bc278608398676b8be39c03739b3d5090d9b14a968c8fe284",
+    "bounds": [
+      -1.1878266,
+      -0.01844949,
+      -1.1183558,
+      1.2322764,
+      3.154023,
+      0.5636926
+    ],
+    "previous_height_ratio": 0.947448757226532,
+    "previous_floor_offset": 1.45397729712467
+  },
+  "dawn_patronwerewolf": {
+    "signature": "10caaa722dd0c578fbbb5d4e408ea0bff3dfefae61e86a769ba482f9673c5779",
+    "bounds": [
+      -1.5882158,
+      -0.042221345,
+      -1.5655476,
+      1.3857878,
+      3.8907688,
+      1.9027314
+    ],
+    "previous_height_ratio": 0.792628089490314,
+    "previous_floor_offset": 0.7846734930846151
+  },
+  "dawn_skeleton_demon": {
+    "signature": "26e867ba663423c10690865c1c00eb75ef0645bd2d728478f2a5ca022b9ec759",
+    "bounds": [
+      -1.241363,
+      -0.01844949,
+      -1.1835178,
+      1.1878452,
+      3.1648521,
+      0.55286586
+    ],
+    "previous_height_ratio": 0.967225814991324,
+    "previous_floor_offset": 1.45358660135059
+  },
+  "dawn_wither_demon": {
+    "signature": "81b318b6ed76a04df596fab908a13450b1c46772b6741d50c1918b1a101fbd46",
+    "bounds": [
+      -1.3341751,
+      -0.01844949,
+      -1.4219451,
+      0.8928408,
+      3.0708132,
+      0.54361576
+    ],
+    "previous_height_ratio": 0.95716479481884,
+    "previous_floor_offset": 1.3296362095409
+  },
+  "mobosses_demon_king_minion": {
+    "signature": "9c0d95c8ce078532e70c7715146098ff2bbfac7505f5edd5df022873ccc6b652",
+    "bounds": [
+      -2.0218964,
+      1.0544616,
+      -1.1169252,
+      2.0218964,
+      3.4533036,
+      0.6931308
+    ],
+    "previous_height_ratio": 0.8898916999823999,
+    "previous_floor_offset": -1.5187663318512001
+  }
+}

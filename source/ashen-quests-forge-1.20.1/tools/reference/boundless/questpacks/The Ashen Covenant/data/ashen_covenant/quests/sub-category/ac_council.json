@@ -1,0 +1,8 @@
+{
+  "id": "ac_council",
+  "category": "ac_reckoning",
+  "name": "IX | The Price of the Dawn",
+  "icon": "minecraft:redstone_block",
+  "order": 10,
+  "default_open": true
+}

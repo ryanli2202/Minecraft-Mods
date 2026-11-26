@@ -1,0 +1,43 @@
+{
+  "id": "ac_road08",
+  "name": "The First Free Road",
+  "icon": "minecraft:lantern",
+  "description": "The first answer arrives: three villages have agreed to exchange supplies through Dawnstead. Elian unfolds a captured raider banner beside the letters. Someone will object to this new freedom.\n\nDonate 8 leather and 16 paper for the road compact. This completes the regional prologue and returns you to The Broken Banner.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_road07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:leather",
+        "count": 8
+      },
+      {
+        "submit": "minecraft:paper",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

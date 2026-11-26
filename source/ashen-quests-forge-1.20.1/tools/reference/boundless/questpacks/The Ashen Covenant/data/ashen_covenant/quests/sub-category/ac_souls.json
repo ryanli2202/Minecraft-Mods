@@ -1,0 +1,8 @@
+{
+  "id": "ac_souls",
+  "category": "ac_guilds",
+  "name": "The Pale Road | Oaths beyond Death",
+  "icon": "minecraft:soul_torch",
+  "order": 108,
+  "default_open": true
+}

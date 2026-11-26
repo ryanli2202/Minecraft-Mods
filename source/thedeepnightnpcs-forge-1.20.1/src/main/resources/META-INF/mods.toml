@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+[[mods]]
+modId="thedeepnightnpcs"
+version="1.4.0"
+displayName="The Deep Night NPCs"
+authors="The Deep Night"
+description='''Eldara the Eternal Sage, Caelen the Monster Hunter, Jorge the Armskeeper, the Spire Guard, and eight Ashen Covenant companions. Radial dialogue, hunting contracts, rotating ingot and enchantment trades, and enchanting services. No natural spawning.'''
+[[dependencies.thedeepnightnpcs]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,48)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.thedeepnightnpcs]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.thedeepnightnpcs]]
+modId="ashenquests"
+mandatory=false
+versionRange="[1.2.0,2.0.0)"
+ordering="NONE"
+side="BOTH"

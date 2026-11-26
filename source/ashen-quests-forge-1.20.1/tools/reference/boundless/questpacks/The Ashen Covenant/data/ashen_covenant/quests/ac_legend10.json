@@ -1,0 +1,47 @@
+{
+  "id": "ac_legend10",
+  "name": "The Atlas Has No Last Page - Legacy Commendation",
+  "icon": "minecraft:writable_book",
+  "description": "Sera binds nine legendary expedition records into a volume beside the longer provincial chronicle. Some of these victories also serve Book II; the ledger honors them without demanding a second kill.\n\nComplete the nine legacy records, then enter \"leave a page for tomorrow\". This is an optional commendation. The expanded main ending is The Unwritten Kingdoms in Book II.",
+  "category": "ac_legends",
+  "sub-category": "ac_afterdawn",
+  "dependencies": [
+    "ac_legend01",
+    "ac_legend02",
+    "ac_legend03",
+    "ac_legend04",
+    "ac_legend05",
+    "ac_legend06",
+    "ac_legend07",
+    "ac_legend08",
+    "ac_legend09"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "leave a page for tomorrow",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:netherite_ingot",
+        "count": 2
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 32
+      }
+    ],
+    "exp": "points",
+    "count": 500
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_atlas01",
+  "name": "A Blank Map Is an Invitation",
+  "icon": "minecraft:compass",
+  "description": "Iona opens a fresh atlas with no royal borders printed in it. For now, the rivers are allowed to go wherever they actually go.\n\nAcquire 8 maps and a cartography table. Expand or fill them during your journeys; the objective checks supplies.",
+  "category": "ac_guilds",
+  "sub-category": "ac_atlas",
+  "dependencies": [
+    "ac_ranger05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:map",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:cartography_table",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

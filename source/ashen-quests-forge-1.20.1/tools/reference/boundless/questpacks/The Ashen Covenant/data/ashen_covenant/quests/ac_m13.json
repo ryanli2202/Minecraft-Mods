@@ -1,0 +1,35 @@
+{
+  "id": "ac_m13",
+  "name": "13 | The Archive Beneath the Archive",
+  "icon": "minecraft:enchanting_table",
+  "description": "Sera deciphers the margins. The royal seal is not a crest but a diagram: fire below, death within, a star beyond. The king bound the realm to three wardens and called the bargain peace.\n\nAcquire an enchanting table. Enchanting is useful for every combat style; the story does not require you to become a mage.",
+  "category": "ac_story",
+  "sub-category": "ac_act3",
+  "dependencies": [
+    "ac_marsh08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:enchanting_table",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:lapis_lazuli",
+        "count": 24
+      }
+    ],
+    "exp": "points",
+    "count": 65
+  }
+}

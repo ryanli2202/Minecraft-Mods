@@ -1,0 +1,8 @@
+{
+  "id": "ac_act2",
+  "category": "ac_story",
+  "name": "II. The Broken Banner",
+  "icon": "minecraft:crossbow",
+  "order": 40,
+  "default_open": true
+}

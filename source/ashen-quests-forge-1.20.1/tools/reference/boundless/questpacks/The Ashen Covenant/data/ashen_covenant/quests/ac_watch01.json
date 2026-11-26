@@ -1,0 +1,39 @@
+{
+  "id": "ac_watch01",
+  "name": "The Watch Writes Its Own Rules",
+  "icon": "minecraft:shield",
+  "description": "Elian asks each recruit to name an order they would refuse. It is the strangest drill the former soldiers have ever attended.\n\nDonate 8 books and 16 paper for the watch charter and training manuals.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_watch",
+  "dependencies": [
+    "ac_border05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:book",
+        "count": 8
+      },
+      {
+        "submit": "minecraft:paper",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

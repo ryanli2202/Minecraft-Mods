@@ -1,0 +1,8 @@
+{
+  "id": "ac_college",
+  "category": "ac_guilds",
+  "name": "Sera | The Uncensored Library",
+  "icon": "minecraft:enchanted_book",
+  "order": 101,
+  "default_open": true
+}

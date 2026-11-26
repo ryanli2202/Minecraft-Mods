@@ -1,0 +1,34 @@
+{
+  "id": "ac_road06",
+  "name": "The Bell Nobody Rings",
+  "icon": "minecraft:lantern",
+  "description": "At the next village the bell is wrapped in cloth. The residents fear that sound will attract the raiders. Rowan asks you to give them a reason to uncover it.\n\nComplete the vanilla What a Deal! advancement by trading with a villager. Establish a trading contact and leave the village better protected than you found it.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_road05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:adventure/trade"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

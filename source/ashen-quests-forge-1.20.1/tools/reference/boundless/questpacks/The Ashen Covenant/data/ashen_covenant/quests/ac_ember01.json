@@ -1,0 +1,39 @@
+{
+  "id": "ac_ember01",
+  "name": "A Crown Offered Twice",
+  "icon": "minecraft:blaze_powder",
+  "description": "A loyalist messenger offers Elian command of a restored royal army. Elian sends the commission to the public archive unopened. The messenger burns the council's reply.\n\nAcquire Cataclysm's Flame Eye and 16 gold ingots for an expedition to the Burning Arena.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_frost08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:flame_eye",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:gold_ingot",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

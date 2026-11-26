@@ -1,0 +1,39 @@
+{
+  "id": "ac_dawn02",
+  "name": "Sera's Unfinished Book",
+  "icon": "minecraft:beacon",
+  "description": "Sera asks every delegate to contribute one failure to the official history. A realm that cannot admit a mistake will eventually repeat the old king's bargain.\n\nDonate 16 books and 24 paper for the public history. This work can proceed alongside the council's beacon project.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_dawn",
+  "dependencies": [
+    "ac_dawn01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:book",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:paper",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_ranger01",
+  "name": "A String and a Promise",
+  "icon": "minecraft:bow",
+  "description": "Scout Iona leaves a bowstring in your supplies. \"The road is longer than your sword,\" her note says.\n\nAcquire a bow and 32 arrows. Practice from a position with a clear retreat before taking them into a ruin.",
+  "category": "ac_guilds",
+  "sub-category": "ac_ranger",
+  "dependencies": [
+    "ac_m06"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:bow",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:arrow",
+        "count": 32
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}

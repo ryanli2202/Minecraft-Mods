@@ -1,0 +1,47 @@
+{
+  "id": "ac_relic05",
+  "name": "The Museum of Small Things",
+  "icon": "minecraft:brush",
+  "description": "Sera declines a statue of the king. She requests a room of things people actually used, and a door anyone can open.\n\nGather 8 item frames, 2 lecterns, and a painting for a museum. The quest checks the supplies; design and build the display in your own style.",
+  "category": "ac_guilds",
+  "sub-category": "ac_relic",
+  "dependencies": [
+    "ac_relic04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:item_frame",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:lectern",
+        "count": 2
+      },
+      {
+        "collect": "minecraft:painting",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 16
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

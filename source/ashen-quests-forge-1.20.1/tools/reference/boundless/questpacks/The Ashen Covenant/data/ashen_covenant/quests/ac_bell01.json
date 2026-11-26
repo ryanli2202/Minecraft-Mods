@@ -1,0 +1,39 @@
+{
+  "id": "ac_bell01",
+  "name": "A Sound through the Portal",
+  "icon": "minecraft:bell",
+  "description": "The portal brings back more than heat. At sunset a bell sounds in Sera's dreams, followed by names she has never read. She thinks the furnace has a ledger of its own.\n\nAcquire 16 quartz and 8 glowstone dust to study the resonance. Gather them during cautious Nether exploration.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_m24"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:quartz",
+        "count": 16
+      },
+      {
+        "collect": "minecraft:glowstone_dust",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

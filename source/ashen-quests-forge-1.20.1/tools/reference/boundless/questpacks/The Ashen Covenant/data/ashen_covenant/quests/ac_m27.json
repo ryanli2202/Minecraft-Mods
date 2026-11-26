@@ -1,0 +1,35 @@
+{
+  "id": "ac_m27",
+  "name": "27 | Iron That Refuses to Die",
+  "icon": "minecraft:ancient_debris",
+  "description": "Mara studies a sliver of ancient debris. \"Even the king could not make iron immortal,\" she writes. \"But he found something close.\" The forge's guardian is built from it.\n\nAcquire 2 ancient debris. This material study can be completed alongside the fortress supply mission.",
+  "category": "ac_story",
+  "sub-category": "ac_act5",
+  "dependencies": [
+    "ac_m25"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:ancient_debris",
+        "count": 2
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

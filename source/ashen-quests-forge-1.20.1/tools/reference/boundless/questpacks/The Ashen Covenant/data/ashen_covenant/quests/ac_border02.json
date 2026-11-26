@@ -1,0 +1,39 @@
+{
+  "id": "ac_border02",
+  "name": "A Meal before the Treaty",
+  "icon": "minecraft:crossbow",
+  "description": "Two villages agree to meet only if neither must bring the food. Rowan volunteers Dawnstead's granary before checking how much is left.\n\nDonate 24 bread and 16 baked potatoes for the negotiations.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_border",
+  "dependencies": [
+    "ac_border01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:bread",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:baked_potato",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 10
+      }
+    ],
+    "exp": "points",
+    "count": 70
+  }
+}

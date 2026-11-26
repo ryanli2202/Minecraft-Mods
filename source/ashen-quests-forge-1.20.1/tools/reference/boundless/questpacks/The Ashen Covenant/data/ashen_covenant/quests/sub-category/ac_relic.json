@@ -1,0 +1,8 @@
+{
+  "id": "ac_relic",
+  "category": "ac_guilds",
+  "name": "The Things We Keep | Archaeology",
+  "icon": "minecraft:brush",
+  "order": 13,
+  "default_open": true
+}

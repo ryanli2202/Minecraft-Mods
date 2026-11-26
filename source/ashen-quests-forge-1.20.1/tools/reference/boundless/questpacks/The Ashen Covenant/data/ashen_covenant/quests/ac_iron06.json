@@ -1,0 +1,39 @@
+{
+  "id": "ac_iron06",
+  "name": "The Guard at the Wrong Door",
+  "icon": "minecraft:iron_helmet",
+  "description": "The Ferrous Wroughtnaut stands before a chamber emptied long ago. Elian sees a soldier who was never told that the orders had ended.\n\nFind and defeat Mowzie's Mobs' Ferrous Wroughtnaut. Learn its openings rather than expecting every attack to deal damage.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_iron05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mowziesmobs:ferrous_wroughtnaut",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

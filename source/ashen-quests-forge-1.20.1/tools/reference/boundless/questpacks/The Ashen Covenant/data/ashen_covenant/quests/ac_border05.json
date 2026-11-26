@@ -1,0 +1,43 @@
+{
+  "id": "ac_border05",
+  "name": "A Border Drawn in Bridges",
+  "icon": "minecraft:crossbow",
+  "description": "The villages ask for a wall. Rowan proposes two bridges and a shared storehouse. Elian supports the plan before anyone can ask for his tactical opinion.\n\nDonate 32 oak logs and 32 stone bricks to the reconstruction fund. Build a bridge as an optional personal memorial to the compact.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_border",
+  "dependencies": [
+    "ac_border04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:oak_log",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:stone_bricks",
+        "count": 32
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 20
+      },
+      {
+        "item": "minecraft:lantern",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

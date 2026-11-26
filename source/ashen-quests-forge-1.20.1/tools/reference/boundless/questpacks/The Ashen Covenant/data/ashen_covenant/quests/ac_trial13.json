@@ -1,0 +1,38 @@
+{
+  "id": "ac_trial13",
+  "name": "The Patient Keeper",
+  "icon": "minecraft:compass",
+  "description": "Ysolde's sanctuary proposal contains more feed budgets than heroic illustrations. She says that is how you know it is sincere.\n\nEarn Two by Two by breeding the animals required by the vanilla advancement. Modded species are not automatically added to that requirement.",
+  "category": "ac_trials",
+  "sub-category": "ac_mastertrials",
+  "dependencies": [
+    "ac_sky06"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:husbandry/bred_all_animals"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 160
+  }
+}

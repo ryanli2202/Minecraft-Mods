@@ -1,0 +1,35 @@
+{
+  "id": "ac_treaty01",
+  "name": "The Last Camp in the World",
+  "icon": "minecraft:writable_book",
+  "description": "The stronghold is found, but the council refuses to send another expedition without a return plan. Elian asks each companion to name something worth surviving for.\n\nAcquire 2 ender chests so you can build a supply link on both sides of the journey. Keep the chests; placement is up to you.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_m35"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:ender_chest",
+        "count": 2
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

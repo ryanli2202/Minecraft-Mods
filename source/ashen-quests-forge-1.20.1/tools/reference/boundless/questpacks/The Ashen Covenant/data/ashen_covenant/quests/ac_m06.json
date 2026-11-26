@@ -1,0 +1,47 @@
+{
+  "id": "ac_m06",
+  "name": "06 | The First Hearth",
+  "icon": "minecraft:campfire",
+  "description": "You name the refuge Dawnstead. It may be a cottage, a fortified camp, or the first street of a future city. Rowan records its founding with a single line: \"We stayed.\"\n\nAcquire a campfire, a chest, and 16 oak planks. Set up your own refuge afterward. The quest checks these supplies, not a building layout. Your first guild commissions are now within reach.",
+  "category": "ac_story",
+  "sub-category": "ac_act1",
+  "dependencies": [
+    "ac_m05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:campfire",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:chest",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:oak_planks",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 4
+      },
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

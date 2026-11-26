@@ -1,0 +1,39 @@
+{
+  "id": "ac_winter01",
+  "name": "The Archive That Would Not Burn",
+  "icon": "minecraft:snowball",
+  "description": "Among the furnace records is a payment to a northern monastery. Its librarians stored the king's first contract in ice because parchment could no longer be trusted.\n\nAcquire 16 leather and 16 white wool for a northern expedition. These are supply milestones, not a simulated temperature system.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_m30"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:leather",
+        "count": 16
+      },
+      {
+        "collect": "minecraft:white_wool",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

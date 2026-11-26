@@ -1,0 +1,39 @@
+{
+  "id": "ac_frost07",
+  "name": "The Doors Open Outward",
+  "icon": "minecraft:soul_lantern",
+  "description": "Mara insists that the new court's doors must open from the inside without a key. The northern envoy writes the requirement into the building plan.\n\nDonate 16 oak doors and 16 lanterns for civic rebuilding. Their placement is an optional building project; the quest checks the donation.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_frost06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:oak_door",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:lantern",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

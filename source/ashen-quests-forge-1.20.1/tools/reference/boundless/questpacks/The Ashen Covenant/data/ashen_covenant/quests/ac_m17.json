@@ -1,0 +1,39 @@
+{
+  "id": "ac_m17",
+  "name": "17 | The Threefold Seal",
+  "icon": "minecraft:diamond_chestplate",
+  "description": "The necromancer's notes reveal a weakness. Dragonfire can expose the covenant, a furnace beneath the Nether can break its iron, and the outer darkness holds its final witness. Sera will not let you mistake knowledge for invulnerability.\n\nAcquire a diamond chestplate and 8 obsidian. You may fight in any armor you prefer; these are milestones, not a required loadout.",
+  "category": "ac_story",
+  "sub-category": "ac_act3",
+  "dependencies": [
+    "ac_m16"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:diamond_chestplate",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:obsidian",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 75
+  }
+}

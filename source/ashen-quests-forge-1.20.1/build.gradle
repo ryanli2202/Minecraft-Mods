@@ -1,0 +1,49 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.35'
+}
+version = '1.3.0'
+group = 'dev.ashenquests'
+base.archivesName = 'ashen-quests-forge-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+evaluationDependsOn(':npcs')
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+            property 'forge.logging.console.level', 'info'
+            mods {
+                ashenquests { source sourceSets.main }
+                thedeepnightnpcs { source project(':npcs').sourceSets.main }
+            }
+        }
+        client {
+            if (project.hasProperty('smokeTest')) {
+                property 'ashenquests.smokeTest', 'true'
+                args '--width', '1440', '--height', '1000'
+            }
+        }
+        server { args '--nogui' }
+        gameTestServer {
+            workingDirectory project.file('run-tests')
+            property 'forge.enabledGameTestNamespaces', 'ashenquests'
+        }
+    }
+}
+repositories { mavenCentral() }
+dependencies { minecraft 'net.minecraftforge:forge:1.20.1-47.4.10' }
+dependencies { implementation project(':npcs') }
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+jar {
+    exclude 'dev/ashenquests/qa/**'
+    exclude 'data/ashenquests/structures/empty.nbt'
+    manifest.attributes('Implementation-Title': 'The Ashen Covenant: Chronicles', 'Implementation-Version': project.version)
+    finalizedBy 'reobfJar'
+}
+
+// Optional local compatibility fixture; never bundled in the release jar.
+if (project.hasProperty('testEndRemastered')) {
+    repositories { flatDir { dirs 'compat-mods' } }
+    dependencies { runtimeOnly fg.deobf('local.eyeqa:endrem-forge:5.3.3') }
+}

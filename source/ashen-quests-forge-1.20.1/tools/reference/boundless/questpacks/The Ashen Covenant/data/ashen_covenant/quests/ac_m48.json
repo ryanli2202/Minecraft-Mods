@@ -1,0 +1,43 @@
+{
+  "id": "ac_m48",
+  "name": "48 | The First Ordinary Morning - Book I Finale",
+  "icon": "minecraft:cake",
+  "description": "No army appears at sunrise. There is bread, a quarrel over a fence, and a child asking about the next festival. You have won the right to an ordinary morning. BOOK I COMPLETE. The neighboring provinces, however, still need roads, food, and a place in the new peace. Rowan has received their first delegation.\n\nDonate one cake for the celebration and claim this reward. Continue in Book II: The Unwritten Kingdoms, starting with The Second Ledger. Optional factions remain open.\n\nTurn-in: the cake is consumed on claim.",
+  "category": "ac_story",
+  "sub-category": "ac_act8",
+  "dependencies": [
+    "ac_m47"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:cake",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:netherite_ingot",
+        "count": 2
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 32
+      },
+      {
+        "item": "minecraft:golden_apple",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 400
+  }
+}

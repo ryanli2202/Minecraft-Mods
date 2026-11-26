@@ -1,0 +1,38 @@
+{
+  "id": "ac_m35",
+  "name": "35 | The Stair beneath the World",
+  "icon": "minecraft:stone_bricks",
+  "description": "The assembled relics point down. Elian leaves a route marker at the surface, a small practical kindness in a story full of kings who forgot the way home.\n\nEnter a stronghold and complete Eye Spy. Gather the distinct End Remastered eyes required by your portal. The campaign does not force one particular eye selection or consume those keys.",
+  "category": "ac_story",
+  "sub-category": "ac_act6",
+  "dependencies": [
+    "ac_m34"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:story/follow_ender_eye"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:ender_pearl",
+        "count": 4
+      },
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ac_garden01",
+  "name": "Medicine Begins in the Soil",
+  "icon": "minecraft:honey_bottle",
+  "description": "Tamsin inventories the herbs and discovers that the dispensary depends on three exhausted foragers. She asks for a garden instead of another expedition.\n\nAcquire a composter, a beehive, and 16 wheat seeds. Plant a working garden in your own design; the quest checks supplies.",
+  "category": "ac_guilds",
+  "sub-category": "ac_garden",
+  "dependencies": [
+    "ac_healer05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:composter",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:beehive",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:wheat_seeds",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

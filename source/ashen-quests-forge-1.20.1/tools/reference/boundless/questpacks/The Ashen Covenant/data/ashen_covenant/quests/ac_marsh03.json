@@ -1,0 +1,35 @@
+{
+  "id": "ac_marsh03",
+  "name": "What Sleeps in the Bait",
+  "icon": "minecraft:lily_pad",
+  "description": "Fen remembers fishermen using rotten bait to lure something they refused to name. He draws the recipe with a shaking hand.\n\nAcquire Meet Your Fight's Fossil Bait. Its installed recipe uses bones, rotten flesh, and spider eyes; verify the full pattern in JEI.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_marsh01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "meetyourfight:fossil_bait",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "ac_dawn06",
+  "name": "The Last Emergency Ledger",
+  "icon": "minecraft:beacon",
+  "description": "Tamsin closes the campaign hospital's book. She leaves it within reach; a free world will still contain accidents, winters, and people who need help.\n\nDonate 16 bread, 16 honey bottles, and 8 golden carrots for a permanent public dispensary.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_dawn",
+  "dependencies": [
+    "ac_dawn05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:bread",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:honey_bottle",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

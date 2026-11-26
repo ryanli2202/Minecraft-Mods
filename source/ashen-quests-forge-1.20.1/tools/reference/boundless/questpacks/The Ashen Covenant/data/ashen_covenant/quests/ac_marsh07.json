@@ -1,0 +1,39 @@
+{
+  "id": "ac_marsh07",
+  "name": "The Fishery's Last Invoice",
+  "icon": "minecraft:lily_pad",
+  "description": "Inside the accounts Sera finds a charge for arcane reagents signed by a royal necromancer. The disease was a consequence of an experiment the court considered successful.\n\nGather 8 amethyst shards and 8 redstone for Sera's examination. The analysis is told in the journal; these items remain yours.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_marsh06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:amethyst_shard",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:redstone",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

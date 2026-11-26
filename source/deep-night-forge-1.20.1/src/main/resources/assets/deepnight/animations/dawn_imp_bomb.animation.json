@@ -1,0 +1,54 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "idle": {
+      "animation_length": 1,
+      "bones": {},
+      "loop": true
+    },
+    "walk": {
+      "animation_length": 1,
+      "loop": true,
+      "bones": {}
+    },
+    "fly": {
+      "animation_length": 1,
+      "bones": {},
+      "loop": true
+    },
+    "attack": {
+      "animation_length": 1.0,
+      "bones": {},
+      "loop": false
+    },
+    "sit": {
+      "animation_length": 1,
+      "bones": {},
+      "loop": true
+    },
+    "death": {
+      "animation_length": 1.0,
+      "bones": {},
+      "loop": false
+    },
+    "hurt": {
+      "animation_length": 1.0,
+      "bones": {},
+      "loop": false
+    },
+    "spawn": {
+      "animation_length": 1,
+      "bones": {},
+      "loop": false
+    },
+    "source.idle": {
+      "animation_length": 1,
+      "bones": {}
+    },
+    "source.walk": {
+      "animation_length": 1,
+      "loop": true,
+      "bones": {}
+    }
+  }
+}

@@ -1,0 +1,139 @@
+THE DEEP NIGHT UI 1.1.1 - MODPACK UI AUDIT
+Source: ../modpack-mod-list.txt, all eight screenshot sections reviewed.
+The list is a transcription, with truncated filenames; it is not an installed-instance scan.
+The in-game F7 > Detected UI Mods page checks the actual running Forge mod list.
+
+DEDICATED INTEGRATIONS
+Iron's Spells 'n Spellbooks 1.20.1-3.16.1
+  E > SPELLS opens a separate inscription tab. An equipped Curios spellbook
+  appears automatically; another book can be placed in BOOK. Select a spell,
+  take its EXTRACT scroll, put a replacement in SCROLL, then select the empty
+  spell slot and press INSCRIBE SCROLL. This consumes a real scroll. Locked
+  spells remain locked. There are eight visible spell buttons per page, with
+  arrows for larger books. Native duplicate-spell rules and InscribeSpellEvent
+  cancellation hooks remain in force, including hooks used by skill addons.
+  Unspent scrolls return on close, and the equipped book stays in Curios.
+  The portable tab is enabled by default. Server owners can turn it off or
+  require a nearby inscription table in <world>/serverconfig/nordui-server.toml.
+  Native spell selection, spell wheel, cooldowns, cast progress, recasts,
+  targeting, screen effects, keys and addon spells are not replaced.
+  The default Hotbar-anchored spell cluster docks to the left-center while
+  Deep Night owns the HUD. Its original renderer, fading, selection and
+  cooldown shading are retained. Custom anchors stay untouched; F7 can
+  turn docking off. This avoids overlapping the themed mana and XP bars.
+  Optional themed mana uses Iron's synchronized mana and max-mana attribute,
+  and respects Iron's Always / Contextual / Never display setting.
+
+Curios 5.14.1+1.20.1
+  Native accessory screen, live equipment previews and return button retained.
+  No accessory slot definitions, tags or equipment validators are changed.
+
+TrashSlot 15.1.5 / Balm 7.3.38
+  Registered layouts for inventory, vault and spell screens. The trash slot
+  sits beside the panel and uses TrashSlot's own deletion, undo, dragging,
+  keybind and JEI exclusion behavior. Existing user positions remain intact.
+  TrashSlot must also be on the server for its normal functionality.
+
+JEI 15.20.0.132
+  Inventory and vault automatically use their compact layouts, leaving room
+  for recipe sidebars. All are real AbstractContainerScreens with accurate
+  dimensions and native slots/tooltips. Toggle reserveJeiSpace to restore the
+  large layouts. RECIPES / MODS (R in compact mode) opens the original recipe
+  book and other mods' InventoryScreen-only buttons. JEI owns its controls.
+
+RPG-HUD 3.13
+  AUTO detects mod ID rpghud and yields health, food, XP, armor, air, mount,
+  jump, compass and hotbar rendering to it. Deep Night's inventory/vault remain usable.
+  For the full Deep Night HUD, disable RPG-HUD's rendering in its own settings
+  and choose DEEP_NIGHT in F7. OTHER_MOD leaves original overlay events intact.
+
+Jade 11.13.2
+  Native tooltips remain enabled. The compass stays 12 GUI pixels from the
+  top, without the previous 64-pixel Jade and 24-pixel Iron's offsets.
+  F7 > Compass height still adjusts its position for custom overlay layouts.
+
+ParCool 3.4.3.3
+  Automatic spacing lifts survival bars above the default stamina area.
+  ParCool continues to render its own stamina and action indicators. Hunger
+  remains food; it is never presented as ParCool stamina. Extra lift and
+  hotbar offsets are available for custom ParCool layouts.
+
+PRESERVED UI PATHS FROM THE LIST
+These use compatibility safeguards rather than a mod-specific adapter. Their
+individual versions have not all been runtime-tested together.
+
+Tooltips and progress:
+  EquipmentCompare 1.3.7, Iceberg 1.1.13, whatdurability 1.3,
+  weaponleveling 3.0.1, toolleveling 2.0.0, rpg_attribute_system 3.4.1,
+  puffish_attributes 0.8.2, AttributeFix 21.0.5.
+  Native item rendering, decoration and tooltip events are retained. HUD
+  offsets, original-hotbar switch and OTHER_MOD HUD ownership are available.
+
+Skill, spell and ability screens:
+  puffish_skills 0.18.0, default_skill_trees 1.1,
+  irons_spells_dynamic_skilltree 1.1.0, pufferfish_unofficial_additions,
+  EverlastingAbilities 2.3.1, transmog 1.3.0, iss_magicfromtheeast 1.1.3.
+  Third-party screens retain their own background/buttons. Iron's registered
+  addon spells flow through its native spell containers and event hooks.
+  Use RECIPES / MODS for inventory-injected buttons or the mod's normal key.
+  This does not introduce a new spell-learning or skill-progression bypass.
+
+Maps, navigation, announcements and combat overlays:
+  xaeroworldmap 1.41.2, xaeros_waystones_compatibility, waystones 14.1.20,
+  ExplorersCompass 1.4.0, TravelersTitles 4.0.2, immersivemessages 1.0.18,
+  immersivedamageindicators, bettercombat 1.9.0, BetterThirdPerson 1.9.0,
+  seriousplayeranimations 1.1.1, weaponmaster_ydm 4.2.3, just_parry 2.5,
+  SwordBlockingMechanics, expanded_combat, soulslike-weaponry, Terramity.
+  The mod does not cancel their overlays, custom screens or crosshair events.
+  Boss health bars and effects used by Cataclysm, DailyBoss, Mowzie's Mobs,
+  BOMD and the other boss/content mods remain enabled. Custom placements may
+  need the F7 offsets or the other mod's own settings.
+
+Quests, books, dialogue, shops and colony screens:
+  Boundless 9.1, Patchouli 85, bookofdragons 1.31, hedges_bestiary 1.0.7,
+  easy_npc 7.13.1, CustomNPCs unofficial port, sdm_ui_lib 1.8.3,
+  sdmcore 2001.4.0, sdm_economy 1.7.2, sdm_pay 1.1.1,
+  sdmshoprework 6.11-pre, FTB Library, minecolonies 1.1.1125,
+  blockui 1.0.193, structurize 1.0.816.
+  Global backgrounds and button skins now skip mod-owned screen classes by
+  default, retaining their artwork, controls and navigation. Opt-in global
+  theming is available under F7 > Original mod screens (turn OFF).
+
+Containers, crafting and recipe tools:
+  simple_bag_of_holding, lootr, lootbags, ironchests 5.0.2,
+  ironfurnaces 4.1.8, EasyMagic 8.0.1, EasyAnvils 8.0.2,
+  easydisenchanting 1.0.0, easy-villagers 1.1.39, crafting+ 1.1,
+  recipe-book-is-pain 0.9.0, easy-recipes 1.4.0.
+  Only exact vanilla chest/barrel, shulker, hopper and dispenser screen
+  classes receive container skins. Custom machine/container subclasses
+  retain their rendering. Native recipe inventory remains one click away.
+
+Menu/config/render support:
+  smoothgui 1.1.1, ForgeConfigScreens 8.0.2, Cloth Config 11.1.136,
+  Fzzy Config 0.7.6, YACL 3.6.6, Konkrete 1.8.0, Melody 1.0.3,
+  Oculus 1.8.0, Embeddium 0.3.31, ModernFix 5.27.51.
+  Custom screens and config pages are protected. Inventory and title
+  replacement can be switched independently. No rendering-engine integration
+  or shader-specific guarantee is claimed. FancyMenu itself is not in the
+  provided list; only its possible libraries are present.
+
+The remaining listed worldgen, structures, creatures, equipment and libraries
+have no dedicated UI adapter here. Their tooltips/overlays and custom screens
+use the same preserved paths. Unknown or truncated filenames are not treated
+as confirmed APIs. This UI update does not repair loader/version mismatches or
+the duplicate FTB Library versions visible in the screenshot list.
+
+OPTIONS AND INSTALLATION
+F7 in game, the inventory UI button, or Mods > The Deep Night > Config.
+Client options are saved in config/nordui-client.toml. Iron's own overlay
+positions remain editable in its config. No other mod's config is overwritten.
+Install the same 1.1.1 jar on client and server; remove the older Deep Night jar.
+Optional mods are not bundled, and the mod still runs without any of them.
+See verification/VERIFICATION.txt for the exact executed test profiles.
+
+API/reference sources:
+https://iron.wiki/progression/
+https://github.com/iron431/Irons-Spells-n-Spellbooks
+https://github.com/TwelveIterationMods/TrashSlot
+https://github.com/mezz/JustEnoughItems
+https://docs.illusivesoulworks.com/curios/

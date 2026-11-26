@@ -1,0 +1,35 @@
+{
+  "id": "ac_m21",
+  "name": "21 | A Pact with the Flame",
+  "icon": "minecraft:magma_cream",
+  "description": "Sera burns a test page from the covenant. The letters survive ordinary fire. Dragonfire will burn hotter, and you must live long enough to see what it reveals.\n\nGain the Fire Resistance effect before your hunt. Potions or another valid source of minecraft:fire_resistance count. This quest does not promise protection from every modded attack.",
+  "category": "ac_story",
+  "sub-category": "ac_act4",
+  "dependencies": [
+    "ac_m20"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "effect": "minecraft:fire_resistance",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

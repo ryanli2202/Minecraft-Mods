@@ -1,0 +1,39 @@
+{
+  "id": "ac_mage03",
+  "name": "The Margin between Worlds",
+  "icon": "minecraft:enchanted_book",
+  "description": "Your notes begin to contradict the official histories. Sera encourages you to keep the contradictions; they are where discovery lives.\n\nAcquire 2 uncommon ink and 24 arcane essence.",
+  "category": "ac_guilds",
+  "sub-category": "ac_mage",
+  "dependencies": [
+    "ac_mage02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "irons_spellbooks:uncommon_ink",
+        "count": 2
+      },
+      {
+        "collect": "irons_spellbooks:arcane_essence",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 90
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_harbor01",
+  "name": "The Shipwright's First Argument",
+  "icon": "minecraft:nautilus_shell",
+  "description": "Fen wants a fast ship. The carpenter wants a repairable one. Rowan asks which can bring more people home and ends the argument.\n\nDonate 48 oak logs and 24 iron ingots to the common fleet fund. This is a supply quest; it does not spawn a ship.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_harbor",
+  "dependencies": [
+    "ac_sea05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:oak_log",
+        "count": 48
+      },
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

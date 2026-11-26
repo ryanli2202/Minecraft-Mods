@@ -1,0 +1,43 @@
+{
+  "id": "ac_forge02",
+  "name": "The Heat You Can Measure",
+  "icon": "minecraft:anvil",
+  "description": "An apprentice wants to heat the furnace until the metal glows white. Mara asks for instruments before enthusiasm burns down the workshop.\n\nAcquire a blast furnace, a smithing table, and a grindstone. Build your own workshop with the retained equipment.",
+  "category": "ac_guilds",
+  "sub-category": "ac_forge",
+  "dependencies": [
+    "ac_forge01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:blast_furnace",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:smithing_table",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:grindstone",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_relic01",
+  "name": "A Gentler Tool",
+  "icon": "minecraft:brush",
+  "description": "Sera asks you to stop breaking every old thing you find. Some truths need a brush rather than a pickaxe.\n\nAcquire a brush and 16 torches. Search suspicious blocks using the normal archaeology mechanics.",
+  "category": "ac_guilds",
+  "sub-category": "ac_relic",
+  "dependencies": [
+    "ac_m07"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:brush",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:torch",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:copper_ingot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}

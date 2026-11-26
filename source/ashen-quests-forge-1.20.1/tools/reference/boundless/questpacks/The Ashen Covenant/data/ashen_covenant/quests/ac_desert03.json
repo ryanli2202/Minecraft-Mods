@@ -1,0 +1,39 @@
+{
+  "id": "ac_desert03",
+  "name": "The Script beneath the Sand",
+  "icon": "minecraft:sandstone",
+  "description": "Sera finds the old court's seal in a much older desert inscription. Your king copied his covenant; he did not invent it.\n\nAcquire 4 brushes and 16 paper for an archaeological survey. Keep the tools; explore the desert's ruins as your world generates them.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_desert01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:brush",
+        "count": 4
+      },
+      {
+        "collect": "minecraft:paper",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

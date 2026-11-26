@@ -1,0 +1,5 @@
+{
+  "ember_drake": {"width": 3.75, "height": 3.75, "scale": 0.4766, "lift": 1.34075},
+  "tide_drake": {"width": 3.75, "height": 3.75, "scale": 0.45895, "lift": 1.291},
+  "dusk_drake": {"width": 4.0, "height": 4.5, "scale": 3.375, "lift": 0.0}
+}

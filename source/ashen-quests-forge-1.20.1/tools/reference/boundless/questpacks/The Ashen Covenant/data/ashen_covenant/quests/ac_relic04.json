@@ -1,0 +1,35 @@
+{
+  "id": "ac_relic04",
+  "name": "A Second Way Home",
+  "icon": "minecraft:brush",
+  "description": "Iona remembers every expedition that lost its route back. A waystone could make that list shorter.\n\nAcquire a Waystones waystone. Placing and activating your network remains normal mod gameplay.",
+  "category": "ac_guilds",
+  "sub-category": "ac_relic",
+  "dependencies": [
+    "ac_relic03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "waystones:waystone",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:ender_pearl",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

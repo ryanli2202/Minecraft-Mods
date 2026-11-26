@@ -1,0 +1,39 @@
+{
+  "id": "ac_treaty06",
+  "name": "The Last Watch",
+  "icon": "minecraft:writable_book",
+  "description": "The stronghold's tunnels fill with silverfish as the work continues. Elian asks you to clear a safe corridor before the exhausted builders make a mistake.\n\nDefeat 12 silverfish total. Use stronghold encounters and be careful when disturbing infested blocks.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_treaty05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:silverfish",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

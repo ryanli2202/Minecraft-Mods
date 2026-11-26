@@ -1,0 +1,37 @@
+{
+  "id": "ac_m01",
+  "name": "01 | The Letter in the Ashes",
+  "icon": "minecraft:crafting_table",
+  "description": "You find a letter sealed with a broken sun. \"If anyone still walks the Ash Road, bring a light. We are not all dead.\" It is signed Rowan, keeper of a village that no map remembers. This journal tells a story through letters; Rowan and the other named characters are narrators, not spawned NPCs.\n\nKeep a crafting table in your inventory, then claim this entry. Pin your next quest. Claiming each story reward unlocks the next entry. Explore at your own pace; side stories never block the main ending.",
+  "category": "ac_story",
+  "sub-category": "ac_act1",
+  "dependencies": [],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:crafting_table",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:bread",
+        "count": 6
+      },
+      {
+        "item": "minecraft:torch",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 10
+  }
+}

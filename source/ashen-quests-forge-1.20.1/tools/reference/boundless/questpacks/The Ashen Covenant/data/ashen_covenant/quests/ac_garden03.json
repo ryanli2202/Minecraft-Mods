@@ -1,0 +1,39 @@
+{
+  "id": "ac_garden03",
+  "name": "The Healer Tests Her Own Advice",
+  "icon": "minecraft:honey_bottle",
+  "description": "A new draught claims to make heavy work easier. Tamsin refuses to prescribe anything the dispensary has not tested honestly.\n\nGain the Strength and Swiftness effects through legitimate sources. The effects are separate tracked milestones; they need not be simultaneous.",
+  "category": "ac_guilds",
+  "sub-category": "ac_garden",
+  "dependencies": [
+    "ac_garden01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "effect": "minecraft:strength",
+        "count": 1
+      },
+      {
+        "effect": "minecraft:speed",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

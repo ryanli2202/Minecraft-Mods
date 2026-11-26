@@ -1,0 +1,39 @@
+{
+  "id": "ac_ranger02",
+  "name": "Eyes on the Ridge",
+  "icon": "minecraft:bow",
+  "description": "Iona maps dangers before she maps destinations. Learning what not to approach is half her profession.\n\nAcquire a spyglass and a compass. Use them to survey the next expedition route.",
+  "category": "ac_guilds",
+  "sub-category": "ac_ranger",
+  "dependencies": [
+    "ac_ranger01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:spyglass",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:compass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:leather",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 70
+  }
+}

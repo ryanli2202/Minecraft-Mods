@@ -1,0 +1,8 @@
+{
+  "id": "ac_iron",
+  "category": "ac_story",
+  "name": "III.b | The Unburied Regiment",
+  "icon": "minecraft:iron_helmet",
+  "order": 70,
+  "default_open": true
+}

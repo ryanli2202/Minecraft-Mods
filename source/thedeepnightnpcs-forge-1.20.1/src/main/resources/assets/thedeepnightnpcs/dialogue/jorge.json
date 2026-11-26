@@ -1,0 +1,38 @@
+{
+  "root": {
+    "title": "Welcome to the counter",
+    "text": "Jorge, armskeeper. I keep the metal moving, the shelves stocked, and the tools ready for the next road. Emeralds buy ingots or inscribed books; your experience and lapis pay for work at the enchanting bench.\n\nBrowse before you commit. My stock changes when the next shipment arrives, and I can put fresh offers on either counter when you ask. What are you working on?",
+    "children": [
+      "chapter_1_1",
+      "chapter_1_2",
+      "chapter_1_3",
+      "chapter_1_4",
+      "chapter_1_5"
+    ]
+  },
+  "chapter_1_1": {
+    "title": "Who is Jorge?",
+    "text": "An armskeeper is the person who remembers what everyone else borrowed just before an emergency. I look after the metal, the inscriptions, and the tools that make brave plans practical.\n\nEldara keeps the long memory of the Spire. Caelen keeps the hunting ledger. I keep asking whether either of them has considered how many ingots their latest idea will require. Someone has to do the arithmetic.",
+    "children": []
+  },
+  "chapter_1_2": {
+    "title": "Stock and prices",
+    "text": "The ingot counter offers three randomly chosen metals when enough are available. The book shelf offers up to five different enchantments at random levels. Each counter has its own stock and sixty-second shipment interval.\n\nAfter the interval, ask me to refresh that counter for free. It replaces the offers and refills their uses. Your stock is personal and remembered when you leave; another customer cannot empty your shelf, and visiting another armskeeper does not reset it.",
+    "children": []
+  },
+  "chapter_1_3": {
+    "title": "The enchanting bench",
+    "text": "Choose Enchant gear to use my enchanting service. Place an eligible tool, weapon, armour piece, or plain book in the item slot, supply lapis lazuli, and choose one of the three offers. The normal experience and lapis costs apply.\n\nBookshelves around my standing position raise the available power using normal enchanting-table spacing: leave the ring immediately around me clear, with shelves two blocks away. Up to fifteen effective shelves provide the usual level-thirty offer. I do not charge emeralds for enchanting.",
+    "children": []
+  },
+  "chapter_1_4": {
+    "title": "Choosing a book",
+    "text": "An enchanted book gives you a known enchantment at the level shown. The emerald price covers the book as well as its inscription; you do not need to bring a blank one. Treasure enchantments and modded enchantments can appear if their own rules permit trading.\n\nApply a purchased book with an anvil, following the normal compatibility and experience rules. Read before buying, especially when a book carries a curse. My enchanting bench does not combine books with already enchanted equipment.",
+    "children": []
+  },
+  "chapter_1_5": {
+    "title": "Caring for gear",
+    "text": "A damaged tool is still useful until the moment it is not. Check durability before the expedition, learn your repair options, and keep the ingredients somewhere you can find while tired.\n\nI can supply materials and enchanting services, but I am not an automatic repair station. Some tools obey specialised rules from their own makers. If an unfamiliar alloy or enchantment has a guide, read that as well as the price on my shelf.",
+    "children": []
+  }
+}

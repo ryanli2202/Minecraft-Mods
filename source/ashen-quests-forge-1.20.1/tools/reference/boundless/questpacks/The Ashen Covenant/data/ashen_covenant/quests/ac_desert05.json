@@ -1,0 +1,39 @@
+{
+  "id": "ac_desert05",
+  "name": "The Sandstone Champion",
+  "icon": "minecraft:sandstone",
+  "description": "A Kobolediator guards the deeper route. The envoy's broken spear lies within sight of its post. Elian asks you to recover a passage rather than avenge a symbol.\n\nDefeat one Cataclysm Kobolediator. Prepare for the pyramid's other defenders before starting the encounter.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_desert04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:kobolediator",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

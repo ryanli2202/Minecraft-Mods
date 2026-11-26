@@ -1,0 +1,48 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.35'
+}
+version = '1.4.0'
+group = 'dev.thedeepnightnpcs'
+base.archivesName = 'thedeepnightnpcs-forge-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+            property 'forge.logging.console.level', 'info'
+            mods { thedeepnightnpcs { source sourceSets.main } }
+        }
+        client {
+            if (project.hasProperty('jorgeTest')) {
+                property 'thedeepnightnpcs.jorgeTest', 'true'
+                args '--width', '1440', '--height', '900'
+            }
+            if (project.hasProperty('smokeTest')) {
+                property 'thedeepnightnpcs.smokeTest', 'true'
+                args '--width', '1440', '--height', '900'
+            }
+        }
+        server {
+            workingDirectory project.file('run-server')
+            args '--nogui'
+            if (project.hasProperty('serverTest')) { property 'thedeepnightnpcs.serverTest', 'true' }
+        }
+    }
+}
+repositories { mavenCentral() }
+dependencies { minecraft 'net.minecraftforge:forge:1.20.1-47.4.10' }
+if (project.hasProperty('testDeepNight')) {
+    repositories { flatDir { dirs '../deep-night-forge-1.20.1/build/libs', '../emerald-covenant-forge-1.20.1/compat-mods' } }
+    dependencies {
+        runtimeOnly fg.deobf('local.npcqa:deep-night-forge-1.20.1:1.0.3')
+        runtimeOnly fg.deobf('local.npcqa:geckolib-forge-1.20.1-4.8.4:1.0')
+    }
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+jar {
+    exclude 'dev/thedeepnightnpcs/qa/**'
+    manifest.attributes('Implementation-Title': 'The Deep Night NPCs', 'Implementation-Version': project.version)
+    finalizedBy 'reobfJar'
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ac_act5",
+  "category": "ac_story",
+  "name": "V. Beneath the Cinder Gate",
+  "icon": "minecraft:blaze_rod",
+  "order": 100,
+  "default_open": true
+}

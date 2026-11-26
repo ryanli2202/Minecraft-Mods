@@ -1,0 +1,29 @@
+{
+  "id": "vindication",
+  "name": "Vindication",
+  "icon": "minecraft:iron_sword",
+  "description": "Hunt down and defeat a ruthless vindicator to prove your strength against the illagers\u0027 elite.",
+  "category": "paragonofday",
+  "sub-category": "thepillagers",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:vindicator",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "dungeons_and_combat:molten_dark_steel_axe_ii",
+        "count": 1
+      }
+    ]
+  }
+}

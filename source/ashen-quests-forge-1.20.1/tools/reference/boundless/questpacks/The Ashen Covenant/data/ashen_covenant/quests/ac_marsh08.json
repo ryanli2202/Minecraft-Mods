@@ -1,0 +1,39 @@
+{
+  "id": "ac_marsh08",
+  "name": "A Name for the Illness",
+  "icon": "minecraft:lily_pad",
+  "description": "Tamsin records the recovered patients. Sera names the cause: the covenant is not just a contract but an extraction process. The archive beneath the archive may tell you how it works.\n\nEnter \"the living are not fuel\" in the text field to publish the findings. The next story chapter opens the magical investigation.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_marsh07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "the living are not fuel",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

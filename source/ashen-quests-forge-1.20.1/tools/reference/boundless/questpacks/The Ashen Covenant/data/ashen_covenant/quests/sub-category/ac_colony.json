@@ -1,0 +1,8 @@
+{
+  "id": "ac_colony",
+  "category": "ac_guilds",
+  "name": "A Place to Stay | MineColonies",
+  "icon": "minecraft:oak_door",
+  "order": 12,
+  "default_open": true
+}

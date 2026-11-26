@@ -1,0 +1,43 @@
+{
+  "id": "ac_m12",
+  "name": "12 | A Debt Written in Ink",
+  "icon": "minecraft:book",
+  "description": "Among the captured accounts, archivist Sera finds payments to the royal crypt. \"The king did not lose his crown,\" she writes. \"He mortgaged it. We must learn what he bought.\"\n\nBring 4 books and 8 ink sacs for Sera's reconstruction of the ledger. The archive opens the next chapter and several scholarly side stories.",
+  "category": "ac_story",
+  "sub-category": "ac_act2",
+  "dependencies": [
+    "ac_m11"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:book",
+        "count": 4
+      },
+      {
+        "collect": "minecraft:ink_sac",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:lapis_lazuli",
+        "count": 16
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 55
+  }
+}

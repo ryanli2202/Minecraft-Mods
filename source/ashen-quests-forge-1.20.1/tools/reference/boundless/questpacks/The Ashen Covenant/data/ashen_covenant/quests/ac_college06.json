@@ -1,0 +1,43 @@
+{
+  "id": "ac_college06",
+  "name": "Keeper of Questions",
+  "icon": "minecraft:enchanted_book",
+  "description": "The library's new oath promises no final answer. It promises that nobody will be punished merely for asking the next question.\n\nDonate 12 books and 8 amethyst shards to endow independent research. The Keeper title records your fellowship completion.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_college",
+  "dependencies": [
+    "ac_college05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:book",
+        "count": 12
+      },
+      {
+        "submit": "minecraft:amethyst_shard",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

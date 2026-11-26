@@ -1,0 +1,39 @@
+{
+  "id": "ac_trial01",
+  "name": "The Grave That Broke Open",
+  "icon": "minecraft:iron_sword",
+  "description": "Tamsin has received a report of a mutant zombie that keeps rising after its apparent defeat. She asks for certainty before she reopens the cemetery road.\n\nDefeat a Mutant Monsters mutant zombie completely, including its revival mechanics.",
+  "category": "ac_trials",
+  "sub-category": "ac_hunttrials",
+  "dependencies": [
+    "ac_m30"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mutantmonsters:mutant_zombie",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_ember08",
+  "name": "The Invitation in Violet",
+  "icon": "minecraft:blaze_powder",
+  "description": "At the next council meeting a violet flower appears inside a sealed book. Sera recognizes the crest of a court that existed before the first covenant. Someone has been watching the new realm learn to govern itself.\n\nAcquire Meet Your Fight's Dusk Key. The installed recipe uses blackstone, amethyst, diamond, and an allium; consult JEI for the pattern.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_ember07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "meetyourfight:dusk_key",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

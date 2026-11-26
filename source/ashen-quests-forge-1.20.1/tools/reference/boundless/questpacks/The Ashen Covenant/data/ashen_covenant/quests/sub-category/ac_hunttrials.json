@@ -1,0 +1,8 @@
+{
+  "id": "ac_hunttrials",
+  "category": "ac_trials",
+  "name": "Eight Unfinished Hunts",
+  "icon": "minecraft:iron_sword",
+  "order": 1,
+  "default_open": true
+}

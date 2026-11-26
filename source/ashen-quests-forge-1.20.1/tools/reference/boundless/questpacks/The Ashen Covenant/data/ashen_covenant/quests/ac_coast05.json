@@ -1,0 +1,35 @@
+{
+  "id": "ac_coast05",
+  "name": "The Offering Nobody Wanted",
+  "icon": "minecraft:prismarine",
+  "description": "The old city kept a ritual offering against the day its guardian woke hungry. Sera asks that you learn the ritual before choosing to awaken it.\n\nAcquire Cataclysm's Abyssal Sacrifice. Check its installed recipe and altar use in JEI and the mod's guide; retain it for the encounter.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_coast",
+  "dependencies": [
+    "ac_coast04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:abyssal_sacrifice",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

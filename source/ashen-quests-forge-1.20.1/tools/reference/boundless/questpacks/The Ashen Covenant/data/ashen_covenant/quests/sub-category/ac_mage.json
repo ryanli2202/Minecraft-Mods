@@ -1,0 +1,8 @@
+{
+  "id": "ac_mage",
+  "category": "ac_guilds",
+  "name": "The Unbound College | Spellcraft",
+  "icon": "minecraft:enchanted_book",
+  "order": 10,
+  "default_open": true
+}

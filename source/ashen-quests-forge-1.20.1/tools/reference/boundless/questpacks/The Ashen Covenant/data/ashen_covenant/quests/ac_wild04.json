@@ -1,0 +1,39 @@
+{
+  "id": "ac_wild04",
+  "name": "The Forest That Would Not Heal",
+  "icon": "minecraft:iron_axe",
+  "description": "Ysolde warns that the hydra turns every reckless blow into another mouth. Learn its behavior before making the forest worse.\n\nDefeat an Ice and Fire hydra. Research its regeneration mechanics through the mod's guide before fighting.",
+  "category": "ac_guilds",
+  "sub-category": "ac_wild",
+  "dependencies": [
+    "ac_wild03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "iceandfire:hydra",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 3
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 10
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

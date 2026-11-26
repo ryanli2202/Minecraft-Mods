@@ -1,0 +1,39 @@
+{
+  "id": "ac_iron08",
+  "name": "A Captain without a Crown",
+  "icon": "minecraft:iron_helmet",
+  "description": "The remaining scouts ask Elian to stay. This time he accepts their trust instead of a royal commission. Ysolde's map arrives with news of a dragon that remembers the covenant's beginning.\n\nEnter \"no orders beyond conscience\" to record the new company oath and open the dragon expedition.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_iron07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "no orders beyond conscience",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

@@ -1,0 +1,59 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.35'
+}
+version = '1.2.0'
+group = 'dev.deepnightguide'
+base.archivesName = 'the-deep-night-guide-forge-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+            property 'forge.logging.console.level', 'info'
+            property 'mixin.env.remapRefMap', 'true'
+            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+            mods { deepnightguide { source sourceSets.main } }
+        }
+        client {
+            if (project.hasProperty('smokeTest')) {
+                property 'deepnightguide.smokeTest', 'true'
+                if (project.hasProperty('packMods')) { property 'deepnightguide.packMods', project.property('packMods') }
+                args '--width', '1440', '--height', '1000'
+            }
+        }
+        server { args '--nogui' }
+    }
+}
+repositories { mavenCentral(); maven { url = 'https://maven.blamejared.com/' } }
+if (project.hasProperty('testContent') || project.hasProperty('testDeepNight')) {
+    repositories {
+        flatDir { dirs '../dragonfire-forge-1.20.1/build/libs', '../fantasycraft-forge-1.20.1/build/libs', '../elemental-staffs-forge-1.20.1/build/libs', '../deep-night-forge-1.20.1/build/libs', '../fantasy-races-forge-1.20.1/compat-mods', project.property('packMods') }
+        maven { url = 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/' }
+    }
+}
+dependencies {
+    minecraft "net.minecraftforge:forge:1.20.1-${project.findProperty('forgeVersion') ?: '47.3.25'}"
+    if (project.hasProperty('jeiJar')) { compileOnly files(project.property('jeiJar')) }
+    else { compileOnly 'mezz.jei:jei-1.20.1-common-api:15.20.0.132' }
+    if (project.hasProperty('testContent') || project.hasProperty('testDeepNight')) {
+        if (project.hasProperty('gecko484')) { runtimeOnly fg.deobf('local.fantasyraces:geckolib-forge-1.20.1-4.8.4:1.0') }
+        else { runtimeOnly fg.deobf('software.bernie.geckolib:geckolib-forge-1.20.1:4.4.7') }
+    }
+    if (project.hasProperty('testDeepNight')) {
+        runtimeOnly fg.deobf('local.deepnight:deep-night-forge-1.20.1:1.0.1')
+    }
+    if (project.hasProperty('testContent')) {
+        runtimeOnly fg.deobf('local.deepnight:dragonfire-1.20.1:1.0.1')
+        runtimeOnly fg.deobf('local.deepnight:fantasycraft-1.20.1:1.0.1')
+        runtimeOnly fg.deobf('local.deepnight:elemental-staffs-1.20.1:1.0.1')
+        runtimeOnly fg.deobf('local.deepnight:jei-1.20.1-forge:15.20.0.132')
+    }
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+jar {
+    exclude 'dev/deepnightguide/qa/**'
+    manifest.attributes('Implementation-Title': 'The Deep Night Guide', 'Implementation-Version': project.version)
+    finalizedBy 'reobfJar'
+}

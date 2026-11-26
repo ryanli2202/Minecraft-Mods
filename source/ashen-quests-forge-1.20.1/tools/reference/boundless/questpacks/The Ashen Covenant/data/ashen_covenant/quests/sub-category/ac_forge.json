@@ -1,0 +1,8 @@
+{
+  "id": "ac_forge",
+  "category": "ac_guilds",
+  "name": "Mara | The Work of Many Hands",
+  "icon": "minecraft:anvil",
+  "order": 100,
+  "default_open": true
+}

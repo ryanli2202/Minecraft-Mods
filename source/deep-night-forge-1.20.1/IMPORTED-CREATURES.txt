@@ -1,0 +1,28 @@
+THE DEEP NIGHT 1.2.0 - FINAL BOSS ROSTER
+
+Order | Name | Registry ID | Source health | Main collision width x height
+ 1 | Corrupted Ogre | deepnight:dawn_corrupted_ogre | 240.0 | 1.2f x 4.0f
+ 2 | Dragon Lord | deepnight:dawn_dragon_lord | 2000.0 | 1.0f x 12.0f
+ 3 | Elemental Deity | deepnight:dawn_elemental_deity | 450.0 | 1.0f x 4.0f
+ 4 | Ent | deepnight:dawn_ent | 340.0 | 1.6f x 3.5f
+ 5 | Fire Dragon | deepnight:dawn_fire_dragon | 400.0 | 0.5f x 9.0f
+ 6 | Fire Giant | deepnight:dawn_fire_giant | 850.0 | 0.8f x 15.0f
+ 7 | DawnCraft Herobrine | deepnight:dawn_herobrine | 1100.0 | 0.8f x 2.2f
+ 8 | Ice Dragon | deepnight:dawn_ice_dragon | 500.0 | 0.6f x 12.0f
+ 9 | Lightning Dragon | deepnight:dawn_lightning_dragon | 400.0 | 0.5f x 9.0f
+10 | Martian | deepnight:dawn_martian | 300.0 | 1.6f x 6.0f
+11 | Moss Golem | deepnight:dawn_moss_golem | 1000.0 | 1.5f x 5.5f
+12 | Nine Tails | deepnight:dawn_nine_tails | 300.0 | 0.6f x 1.8f
+13 | Notch | deepnight:dawn_notch_boss | 800.0 | 0.7f x 2.0f
+14 | Sentinel Knight | deepnight:dawn_sentinel_knight | 300.0 | 0.8f x 3.5f
+15 | Lord of Sorcery, the Skeleton Overlord | deepnight:dawn_skeletonlord | 400.0 | 1.0f x 4.0f
+16 | Demon King | deepnight:mobosses_demon_king | 800.0 | 2.0f x 4.0f
+17 | Divine Dragon | deepnight:mobosses_divine_dragon | 600.0 | 5.0f x 5.0f
+18 | Forest Guardian | deepnight:mobosses_forest_guardian | 500.0 | 2.0f x 4.0f
+19 | Mo’Bosses Herobrine | deepnight:mobosses_herobrine | 1000.0 | 0.6f x 1.95f
+20 | Orc Champion | deepnight:mobosses_nil | 700.0 | 1.2f x 2.6f
+21 | Divine Guardian | deepnight:mobosses_royal_guardian | 100.0 | 2.0f x 4.0f
+22 | Divine Knight | deepnight:mobosses_royal_knight | 40.0 | 1.0f x 2.0f
+
+15 DawnCraft bosses; 7 Mo'Bosses. Source multipart hitboxes and attack
+volumes are additional to the main collision dimensions above.

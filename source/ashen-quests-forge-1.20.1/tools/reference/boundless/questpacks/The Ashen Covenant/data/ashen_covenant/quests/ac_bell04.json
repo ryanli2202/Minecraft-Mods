@@ -1,0 +1,40 @@
+{
+  "id": "ac_bell04",
+  "name": "The Dead Air between Notes",
+  "icon": "minecraft:bell",
+  "description": "Fen listens to the receiver and asks that you never turn it on near the hospital. You choose an isolated place where the answering presence cannot reach the refuge.\n\nAcquire a shield and 16 golden carrots for the encounter. Choosing a safe arena is your responsibility; this quest checks equipment and food.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_bell02",
+    "ac_bell03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:shield",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:golden_carrot",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_m29",
+  "name": "29 | Break the Royal Engine",
+  "icon": "minecraft:netherite_scrap",
+  "description": "The Netherite Monstrosity rises from the furnace. Its metal bears the old sun seal, hammered so many times it has become a wound. Break the thing that kept the king's bargain supplied.\n\nDefeat Cataclysm's Netherite Monstrosity. Bring fire protection, healing, and a planned retreat. The quest tracks the boss kill, not a particular weapon.",
+  "category": "ac_story",
+  "sub-category": "ac_act5",
+  "dependencies": [
+    "ac_m28"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:netherite_monstrosity",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:netherite_ingot",
+        "count": 1
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 250
+  }
+}

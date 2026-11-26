@@ -1,0 +1,35 @@
+{
+  "id": "ac_m44",
+  "name": "44 | The Shape of All Our Sorrows",
+  "icon": "minecraft:nether_star",
+  "description": "Three voices become one scream. The old debt finally has a body, and a body can be defeated. This time you know exactly what you are fighting for.\n\nDefeat one Wither. Your modpack may alter this encounter; prepare accordingly. The tracked entity is minecraft:wither.",
+  "category": "ac_story",
+  "sub-category": "ac_act8",
+  "dependencies": [
+    "ac_m43"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:wither",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 300
+  }
+}

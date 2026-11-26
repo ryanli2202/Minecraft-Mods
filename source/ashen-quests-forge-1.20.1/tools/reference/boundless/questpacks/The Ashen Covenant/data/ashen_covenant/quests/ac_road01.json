@@ -1,0 +1,39 @@
+{
+  "id": "ac_road01",
+  "name": "The Names beyond the Gate",
+  "icon": "minecraft:lantern",
+  "description": "Rowan opens a second ledger. The first records people who reached Dawnstead; the second records settlements that have stopped answering. You cannot call this a refuge while its neighbors vanish.\n\nAcquire a writable book and a compass for the missing settlements survey. The named settlements are journal fiction; choose real villages in your world as their counterparts.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_m06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:writable_book",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:compass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

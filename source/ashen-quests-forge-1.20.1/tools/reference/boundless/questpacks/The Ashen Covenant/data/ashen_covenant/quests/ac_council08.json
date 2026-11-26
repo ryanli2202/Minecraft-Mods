@@ -1,0 +1,39 @@
+{
+  "id": "ac_council08",
+  "name": "A Charter with Empty Seats",
+  "icon": "minecraft:redstone_block",
+  "description": "Two seats remain empty: the Sunken Coast and the Glass March. Their envoys never arrived. Elian offers two expedition plans and asks you which road you want to take first.\n\nEnter \"no province left unheard\". The desert and ocean chapters now open in parallel; both must be resolved before the northern council.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_council07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "no province left unheard",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

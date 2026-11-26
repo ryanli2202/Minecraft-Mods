@@ -1,0 +1,29 @@
+{
+  "id": "stormthegates",
+  "name": "Storm The Gates",
+  "icon": "minecolonies:gate_wood",
+  "description": "Shatter the wooden gate of a Kingdom of Man and lead the assault into enemy territory.",
+  "category": "paragonofday",
+  "sub-category": "nationsofman",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "valarian_conquest:wooden_gate",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "conquest_armory:crusaders_heater_shield",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "ac_dragon",
+  "category": "ac_guilds",
+  "name": "More Than Monsters | Dragon Fellowship",
+  "icon": "saintsdragons:draconic_codex",
+  "order": 14,
+  "default_open": true
+}

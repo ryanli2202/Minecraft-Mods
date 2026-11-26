@@ -1,0 +1,34 @@
+{
+  "id": "ac_road03",
+  "name": "An Empty Saddle",
+  "icon": "minecraft:lantern",
+  "description": "Iona finds a courier's abandoned equipment. The next dispatch will travel with someone who knows how to care for a companion instead of treating it as expendable.\n\nTame an animal and earn Best Friends Forever. A horse is a useful travel choice, but any animal satisfying the advancement counts.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_road01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:husbandry/tame_an_animal"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

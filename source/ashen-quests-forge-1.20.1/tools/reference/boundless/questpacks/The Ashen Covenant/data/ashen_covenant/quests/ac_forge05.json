@@ -1,0 +1,39 @@
+{
+  "id": "ac_forge05",
+  "name": "The Weight of a Promise",
+  "icon": "minecraft:anvil",
+  "description": "The apprentices make their first serious protective equipment. Mara asks you to test the workmanship, then reminds you that wearing armor does not excuse starting fights.\n\nAcquire netherite leggings and a netherite helmet. This is an optional high-investment crafting milestone.",
+  "category": "ac_guilds",
+  "sub-category": "ac_forge",
+  "dependencies": [
+    "ac_forge04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:netherite_leggings",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:netherite_helmet",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

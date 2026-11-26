@@ -1,0 +1,8 @@
+{
+  "id": "ac_border",
+  "category": "ac_guilds",
+  "name": "The Border Compact | War and Relief",
+  "icon": "minecraft:crossbow",
+  "order": 17,
+  "default_open": true
+}

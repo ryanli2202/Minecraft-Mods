@@ -1,0 +1,40 @@
+{
+  "id": "ac_garden04",
+  "name": "The Pharmacist's Missing Labels",
+  "icon": "minecraft:honey_bottle",
+  "description": "An illager alchemist has been selling deliberately mislabeled medicine along the border. Tamsin is angrier about the fraud than the price.\n\nDefeat 2 Illager Invasion alchemists. The exact registered entity is illagerinvasion:alchemist.",
+  "category": "ac_guilds",
+  "sub-category": "ac_garden",
+  "dependencies": [
+    "ac_garden02",
+    "ac_garden03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "illagerinvasion:alchemist",
+        "count": 2
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

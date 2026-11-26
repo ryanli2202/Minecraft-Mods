@@ -1,0 +1,40 @@
+{
+  "id": "ac_m16",
+  "name": "16 | The Man Who Counted Graves",
+  "icon": "minecraft:bone",
+  "description": "The restored memory names a necromancer who supplied bodies to the court. Sera asks you to end his work before he supplies Dawnstead with its own dead.\n\nDefeat one Iron's Spellbooks necromancer. Search that mod's hostile wizard encounters and structures; the exact tracked entity is irons_spellbooks:necromancer.",
+  "category": "ac_story",
+  "sub-category": "ac_act3",
+  "dependencies": [
+    "ac_m14",
+    "ac_m15"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "irons_spellbooks:necromancer",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:golden_apple",
+        "count": 1
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

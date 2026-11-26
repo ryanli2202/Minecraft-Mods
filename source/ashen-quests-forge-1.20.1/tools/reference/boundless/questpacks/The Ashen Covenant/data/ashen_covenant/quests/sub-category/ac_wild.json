@@ -1,0 +1,8 @@
+{
+  "id": "ac_wild",
+  "category": "ac_guilds",
+  "name": "The Wilder Oaths | Monster Hunter",
+  "icon": "minecraft:iron_axe",
+  "order": 16,
+  "default_open": true
+}

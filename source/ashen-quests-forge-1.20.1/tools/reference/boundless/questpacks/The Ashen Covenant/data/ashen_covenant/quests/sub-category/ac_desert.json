@@ -1,0 +1,8 @@
+{
+  "id": "ac_desert",
+  "category": "ac_reckoning",
+  "name": "X | The Glass March",
+  "icon": "minecraft:sandstone",
+  "order": 20,
+  "default_open": true
+}

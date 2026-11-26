@@ -1,0 +1,39 @@
+{
+  "id": "ac_ember03",
+  "name": "The Armor That Outlasts Orders",
+  "icon": "minecraft:blaze_powder",
+  "description": "Mara studies the guardian fragments and offers one more practical lesson: a good breastplate cannot decide whether the person inside serves a good cause.\n\nAcquire a netherite chestplate and 4 golden apples. Use your preferred modded armor during the actual fight if it serves you better.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_ember01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:netherite_chestplate",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:golden_apple",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ac_college05",
+  "name": "The Manuscript with No Author",
+  "icon": "minecraft:enchanted_book",
+  "description": "A recovered text seems to describe events that have not happened. Sera insists on cataloguing it without declaring it prophecy.\n\nAcquire an Eldritch Manuscript from Iron's Spellbooks. Use the installed mod's acquisition route; this optional research can wait for late exploration.",
+  "category": "ac_guilds",
+  "sub-category": "ac_college",
+  "dependencies": [
+    "ac_college04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "irons_spellbooks:eldritch_manuscript",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

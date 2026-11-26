@@ -1,0 +1,43 @@
+{
+  "id": "ac_coast08",
+  "name": "The Republic Sends a Boat",
+  "icon": "minecraft:prismarine",
+  "description": "The coast elects a navigator to the council. Her first act is to offer passage to the desert delegate, who has never seen an ocean.\n\nAcquire a sea lantern and a compass for the shared navigation hall. Complete the Glass March too; both delegations are needed for the next chapter.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_coast",
+  "dependencies": [
+    "ac_coast07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:sea_lantern",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:compass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

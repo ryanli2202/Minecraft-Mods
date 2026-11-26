@@ -1,0 +1,39 @@
+{
+  "id": "ac_m41",
+  "name": "41 | The Warden of the Empty Throne",
+  "icon": "minecraft:ender_eye",
+  "description": "The Ender Guardian moves as the citadel crumbles. You do not fight for a throne. You fight for everyone who was never asked to sign the covenant.\n\nDefeat Cataclysm's Ender Guardian. Clear enough of the approach to recover safely if you fall.",
+  "category": "ac_story",
+  "sub-category": "ac_act7",
+  "dependencies": [
+    "ac_m40"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:ender_guardian",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:netherite_ingot",
+        "count": 1
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 350
+  }
+}

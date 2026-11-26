@@ -1,0 +1,43 @@
+{
+  "id": "ac_garden02",
+  "name": "A Crop Nobody Can Eat Alone",
+  "icon": "minecraft:honey_bottle",
+  "description": "Rowan suggests storing seed separately from supper. Tamsin labels the seed chest more aggressively than any poison bottle.\n\nDonate 32 wheat seeds, 16 carrots, and 16 potatoes to the public seed reserve.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_garden",
+  "dependencies": [
+    "ac_garden01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:wheat_seeds",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:carrot",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:potato",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

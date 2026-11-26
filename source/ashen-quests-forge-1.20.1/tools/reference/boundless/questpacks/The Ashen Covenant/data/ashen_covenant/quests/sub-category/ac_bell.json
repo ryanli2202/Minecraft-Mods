@@ -1,0 +1,8 @@
+{
+  "id": "ac_bell",
+  "category": "ac_story",
+  "name": "IV.b | The Toll of the Nameless",
+  "icon": "minecraft:bell",
+  "order": 90,
+  "default_open": true
+}

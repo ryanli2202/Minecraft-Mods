@@ -1,0 +1,39 @@
+{
+  "id": "ac_council01",
+  "name": "The Second Ledger",
+  "icon": "minecraft:redstone_block",
+  "description": "The festival ends with an unexpected delegation. Neighboring provinces used the king's roads, granaries, and defenses. Breaking his covenant freed them from tribute, but also left them exposed. Rowan asks what responsibility freedom carries.\n\nAcquire 8 writable books and 16 emeralds to prepare the provincial council. You keep these supplies; the council is narrated through the journal.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_m48"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:writable_book",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:emerald",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

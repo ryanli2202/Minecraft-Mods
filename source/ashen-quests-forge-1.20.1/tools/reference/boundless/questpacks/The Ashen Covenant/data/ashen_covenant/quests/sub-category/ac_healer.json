@@ -1,0 +1,8 @@
+{
+  "id": "ac_healer",
+  "category": "ac_guilds",
+  "name": "The Green Vial | Apothecary",
+  "icon": "minecraft:brewing_stand",
+  "order": 11,
+  "default_open": true
+}

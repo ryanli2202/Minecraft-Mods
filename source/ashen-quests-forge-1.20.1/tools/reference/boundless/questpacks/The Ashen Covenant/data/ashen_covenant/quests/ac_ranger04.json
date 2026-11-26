@@ -1,0 +1,38 @@
+{
+  "id": "ac_ranger04",
+  "name": "Nobody Walks Alone",
+  "icon": "minecraft:bow",
+  "description": "The scout admits that the best listener in her company has four legs. A road companion need not speak to keep you grounded.\n\nTame an animal and earn Best Friends Forever. Keep it safe during boss expeditions.",
+  "category": "ac_guilds",
+  "sub-category": "ac_ranger",
+  "dependencies": [
+    "ac_ranger03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:husbandry/tame_an_animal"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:lead",
+        "count": 2
+      },
+      {
+        "item": "minecraft:name_tag",
+        "count": 1
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

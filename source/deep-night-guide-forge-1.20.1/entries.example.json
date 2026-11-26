@@ -1,0 +1,23 @@
+{
+  "entity:examplemod:your_creature": {
+    "tameable": true,
+    "sections": {
+      "Where to find": ["Replace this with verified biome, dimension or structure information."],
+      "Taming": ["Replace this with the correct item, interaction and prerequisites for this creature."],
+      "Companion care": ["Replace this with verified feeding, riding or breeding instructions."]
+    }
+  },
+  "entity:examplemod:your_boss": {
+    "boss": true,
+    "sections": {
+      "Encounter": ["Replace this with verified location, summoning and preparation instructions."]
+    }
+  },
+  "item:examplemod:your_weapon": {
+    "categories": ["WEAPONS"],
+    "sections": {
+      "Where to find": ["Replace this with verified acquisition instructions."],
+      "Use": ["Replace this with the weapon's controls and special effects."]
+    }
+  }
+}

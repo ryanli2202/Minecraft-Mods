@@ -1,0 +1,39 @@
+{
+  "id": "ac_souls03",
+  "name": "Provision a Road with No Inns",
+  "icon": "minecraft:soul_torch",
+  "description": "Tamsin cannot accompany you into every tomb. She can make sure you stop treating an empty food pouch as a brave choice.\n\nAcquire 16 golden carrots and 8 honey bottles before the deeper expeditions.",
+  "category": "ac_guilds",
+  "sub-category": "ac_souls",
+  "dependencies": [
+    "ac_souls01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:golden_carrot",
+        "count": 16
+      },
+      {
+        "collect": "minecraft:honey_bottle",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

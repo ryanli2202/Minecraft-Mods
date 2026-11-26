@@ -1,0 +1,35 @@
+{
+  "id": "ac_m38",
+  "name": "38 | The Breath of an Old Oath",
+  "icon": "minecraft:dragon_breath",
+  "description": "Sera warned you that killing a witness does not erase a bargain. Its last breath holds the wording she needs to break it.\n\nHold 4 bottles of dragon breath. The bottles are kept. If you missed them, use the normal Ender Dragon resummoning process and collect its lingering breath.",
+  "category": "ac_story",
+  "sub-category": "ac_act7",
+  "dependencies": [
+    "ac_m37"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:dragon_breath",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 130
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ransackers",
+  "name": "Ransackers",
+  "icon": "minecraft:iron_sword",
+  "description": "Thin the ranks of the raiding forces by slaying 20 pillagers threatening the realm.",
+  "category": "paragonofday",
+  "sub-category": "thepillagers",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:pillager",
+        "count": 20
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "irons_spellbooks:emerald_stoneplate_ring",
+        "count": 1
+      }
+    ]
+  }
+}

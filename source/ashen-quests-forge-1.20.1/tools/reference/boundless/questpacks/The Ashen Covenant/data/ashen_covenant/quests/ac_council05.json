@@ -1,0 +1,39 @@
+{
+  "id": "ac_council05",
+  "name": "The Warrant That Never Expired",
+  "icon": "minecraft:redstone_block",
+  "description": "The Harbinger presents an authorization older than Dawnstead. It recognizes every kingdom that has died and none of the people who are still alive.\n\nActivate and defeat Cataclysm's Harbinger using the installed encounter rules. Bring its required activation material and prepare for ranged attacks.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_council04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:the_harbinger",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

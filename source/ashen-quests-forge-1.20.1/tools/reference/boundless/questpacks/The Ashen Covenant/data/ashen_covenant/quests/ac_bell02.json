@@ -1,0 +1,35 @@
+{
+  "id": "ac_bell02",
+  "name": "The Foundry Listening Post",
+  "icon": "minecraft:bell",
+  "description": "Mara sketches a receiver that owes as much to superstition as engineering. She promises only that it will survive the experiment.\n\nAcquire a lodestone. The netherite investment makes this a substantial preparation milestone; keep it for navigation afterward.",
+  "category": "ac_story",
+  "sub-category": "ac_bell",
+  "dependencies": [
+    "ac_bell01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:lodestone",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "root": {
+    "title": "A hunter returns",
+    "text": "You have the look of someone deciding whether a road is worth the danger. I am Caelen. I keep the hunting board and pay for completed work.\n\nRead a report before accepting it. One contract at a time, no deadline, and your own credited kills after acceptance. Return here to claim payment. If a target is beyond your reach, abandon the contract and choose another.",
+    "children": [
+      "chapter_1_1",
+      "chapter_1_2",
+      "chapter_1_3",
+      "chapter_1_4",
+      "chapter_1_5",
+      "chapter_1_6"
+    ]
+  },
+  "chapter_1_1": {
+    "title": "How hunts work",
+    "text": "Open Available hunts and choose a report. Read its target, required kills, and payment, then accept if you are ready. You can carry one active contract at a time.\n\nOnly kills credited to you after acceptance count. Return here, open My contract, and claim the reward when the tally is complete. There is no time limit, and leaving the world does not erase your progress.",
+    "children": []
+  },
+  "chapter_1_2": {
+    "title": "Who is Caelen?",
+    "text": "A hunter who learned to keep records. When I was younger, every expedition sounded simple from the tavern doorway. Then I started noticing how many fine stories ended before anyone explained the return journey.\n\nNow I prefer a clear target, an honest payment, and someone coming back alive to collect it. You do the work in the field. I keep the ledger from inventing victories or forgetting the ones you earned.",
+    "children": []
+  },
+  "chapter_1_3": {
+    "title": "Finding a target",
+    "text": "The report names an exact creature type from the installed world. Its registry identifier helps distinguish similar names. I do not summon the quarry, and I do not pretend to know its coordinates.\n\nLook for the habitats, structures, or encounter conditions described by its own mod. If the target is unavailable or beyond your reach, abandon that report and choose another. A sensible hunter is allowed to revise a plan.",
+    "children": []
+  },
+  "chapter_1_4": {
+    "title": "Payment and progress",
+    "text": "Emeralds and experience are listed before you accept. Your ledger survives death, relogging, and ordinary server restarts. Partial kills are not a completed contract, and one completed contract earns one payment.\n\nMake room in your pack before collecting. If the emeralds will not fit, they fall beside you. New offers are personal to you; another hunter cannot take your report or spend your progress.",
+    "children": []
+  },
+  "chapter_1_5": {
+    "title": "Hunting advice",
+    "text": "Study the ground first. Find cover, leave a retreat, and carry supplies for a journey longer than you expect. Test an unfamiliar attack on something manageable before betting your equipment on it.\n\nCheck your tally after the first target falls. Some modded weapons and companions credit kills differently. Guard kills and uncredited accidents do not belong in your personal contract. Better to learn that at the beginning than after a night of work.",
+    "children": []
+  },
+  "chapter_1_6": {
+    "title": "Eldara and the watch",
+    "text": "Eldara can give a broken stone enough history to fill a winter. I can tell you whether the thing sleeping beside it has teeth. Both answers have their place.\n\nThe guards keep the nearby ground safe and stay close to their posts. If you need a story or a direction in life, speak to the sage. If you need a named target and a price, you have found the right ledger.",
+    "children": []
+  }
+}

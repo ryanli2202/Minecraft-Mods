@@ -1,0 +1,39 @@
+{
+  "id": "ac_healer01",
+  "name": "Something Other than a Sword",
+  "icon": "minecraft:brewing_stand",
+  "description": "Healer Tamsin counts victories in people who return to work. She asks you to begin a proper field dispensary.\n\nAcquire a brewing stand and 12 glass bottles. Keep a separate chest for ingredients so the dispensary is ready before an expedition.",
+  "category": "ac_guilds",
+  "sub-category": "ac_healer",
+  "dependencies": [
+    "ac_m12"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:brewing_stand",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:glass_bottle",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:redstone",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}

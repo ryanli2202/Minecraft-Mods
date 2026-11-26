@@ -1,0 +1,38 @@
+{
+  "id": "ac_sky06",
+  "name": "Warden of the Living Sky",
+  "icon": "saintsdragons:draconic_codex",
+  "description": "Ysolde closes her oldest hunting ledger and begins a husbandry journal. The first entry records the day she stopped thinking of every wing as a threat.\n\nEarn Saints Dragons' tame_varasuchus advancement. Raise and care for the creature through the codex's normal progression; your fellowship is now complete.",
+  "category": "ac_guilds",
+  "sub-category": "ac_sky",
+  "dependencies": [
+    "ac_sky05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "saintsdragons:tame_varasuchus"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

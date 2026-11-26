@@ -1,0 +1,8 @@
+{
+  "id": "ac_ember",
+  "category": "ac_reckoning",
+  "name": "XIII | The Last Loyalist",
+  "icon": "minecraft:blaze_powder",
+  "order": 50,
+  "default_open": true
+}

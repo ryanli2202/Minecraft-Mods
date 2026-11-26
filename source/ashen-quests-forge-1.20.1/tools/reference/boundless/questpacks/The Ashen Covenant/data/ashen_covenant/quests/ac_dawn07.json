@@ -1,0 +1,39 @@
+{
+  "id": "ac_dawn07",
+  "name": "The Seats Stay Empty",
+  "icon": "minecraft:beacon",
+  "description": "The council reserves chairs for settlements it has not yet met. Fen offers ships, Iona offers maps, and Sera leaves room in the charter for corrections.\n\nAcquire 8 maps and 8 compasses for the next generation of envoys. These are blank maps; choose the regions you want to chart yourself.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_dawn",
+  "dependencies": [
+    "ac_dawn06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:map",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:compass",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

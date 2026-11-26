@@ -1,0 +1,39 @@
+{
+  "id": "ac_desert06",
+  "name": "The King Who Was a Monument",
+  "icon": "minecraft:sandstone",
+  "description": "The Ancient Remnant rises in a court built entirely to remember its power. The people outside remember only the price of water.\n\nDefeat Cataclysm's Ancient Remnant. Use the installed pyramid encounter mechanics and prepare for the full boss fight.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_desert05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:ancient_remnant",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

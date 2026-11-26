@@ -1,0 +1,35 @@
+{
+  "id": "ac_healer04",
+  "name": "Breath for the Drowned Road",
+  "icon": "minecraft:brewing_stand",
+  "description": "The old coastal road lies underwater. Tamsin can give its travelers time, if you can prove the preparation works.\n\nGain Water Breathing. Test it somewhere safe before using it on a deep expedition.",
+  "category": "ac_guilds",
+  "sub-category": "ac_healer",
+  "dependencies": [
+    "ac_healer03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "effect": "minecraft:water_breathing",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:prismarine_shard",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

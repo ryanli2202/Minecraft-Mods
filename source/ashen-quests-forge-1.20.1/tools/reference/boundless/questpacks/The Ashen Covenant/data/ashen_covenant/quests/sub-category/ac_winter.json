@@ -1,0 +1,8 @@
+{
+  "id": "ac_winter",
+  "category": "ac_story",
+  "name": "V.b | The Winter Archive",
+  "icon": "minecraft:snowball",
+  "order": 110,
+  "default_open": true
+}

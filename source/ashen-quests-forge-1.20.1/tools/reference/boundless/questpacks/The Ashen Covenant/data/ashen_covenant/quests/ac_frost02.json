@@ -1,0 +1,39 @@
+{
+  "id": "ac_frost02",
+  "name": "A Winter without Hostages",
+  "icon": "minecraft:soul_lantern",
+  "description": "Rowan discovers that families are held responsible for each other's debts. The council begins with the practical work of feeding those who escape.\n\nDonate 32 baked potatoes and 24 white wool to the northern relief stations.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_frost01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:baked_potato",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:white_wool",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

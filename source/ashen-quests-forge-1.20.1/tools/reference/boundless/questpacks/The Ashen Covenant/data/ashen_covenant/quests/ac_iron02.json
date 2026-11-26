@@ -1,0 +1,39 @@
+{
+  "id": "ac_iron02",
+  "name": "Weapons for Survivors",
+  "icon": "minecraft:iron_helmet",
+  "description": "Mara cannot bring back the soldiers. She can make sure the people searching for them are properly equipped.\n\nAcquire a Simply Swords iron greatsword alternative: specifically the iron claymore, plus a shield. You may use any combat loadout after the collection check.",
+  "category": "ac_story",
+  "sub-category": "ac_iron",
+  "dependencies": [
+    "ac_iron01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "simplyswords:iron_claymore",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:shield",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

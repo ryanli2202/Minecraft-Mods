@@ -1,0 +1,39 @@
+{
+  "id": "ac_m03",
+  "name": "03 | The Empty Granary",
+  "icon": "minecraft:book",
+  "description": "The relief ledger has a column for swords and another for mouths. The second is longer. Rowan asks for bread before banners.\n\nDonate 8 bread to the relief stores. Keep a separate ration for yourself.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_act1",
+  "dependencies": [
+    "ac_m02"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:bread",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:leather",
+        "count": 4
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 20
+  }
+}

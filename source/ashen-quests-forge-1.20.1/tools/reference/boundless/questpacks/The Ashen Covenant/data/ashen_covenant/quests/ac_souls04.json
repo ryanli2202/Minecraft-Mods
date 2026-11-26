@@ -1,0 +1,40 @@
+{
+  "id": "ac_souls04",
+  "name": "The King beneath the Cairn",
+  "icon": "minecraft:soul_torch",
+  "description": "A Draugr still guards the border of a realm that survives only in grave goods. Sera records its name so victory does not erase it a second time.\n\nDefeat Soulslike Weaponry's Draugr boss, soulsweapons:draugr_boss. Use the installed boss guide for location and activation.",
+  "category": "ac_guilds",
+  "sub-category": "ac_souls",
+  "dependencies": [
+    "ac_souls02",
+    "ac_souls03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "soulsweapons:draugr_boss",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

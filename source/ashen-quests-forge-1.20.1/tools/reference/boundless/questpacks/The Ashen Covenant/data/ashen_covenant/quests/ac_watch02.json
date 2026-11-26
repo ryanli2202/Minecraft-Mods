@@ -1,0 +1,39 @@
+{
+  "id": "ac_watch02",
+  "name": "A Quartermaster's Definition of Courage",
+  "icon": "minecraft:shield",
+  "description": "The quartermaster refuses to issue heroic speeches in place of spare equipment. Elian backs her immediately.\n\nDonate 4 shields and 32 arrows for trainee equipment.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_watch",
+  "dependencies": [
+    "ac_watch01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:shield",
+        "count": 4
+      },
+      {
+        "submit": "minecraft:arrow",
+        "count": 32
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

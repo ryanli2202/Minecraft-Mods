@@ -1,0 +1,998 @@
+{
+  "root": {
+    "title": "Where shall we begin?",
+    "text": "Come closer, traveller. I am Eldara, called the Eternal Sage by people who mistake surviving a century for understanding it. I keep the histories of the Deep Night, and I help those who must live through its next chapter.\n\nAsk about your first steps, the Spire, the fallen covenant, the worlds beyond this one, or something that weighs upon you. There is no examination here. We can return to any subject as often as you wish.\n\nChoose a spoke of the wheel. More subjects wait on the next pages.\n\nAn End portal frame already stands at the Spire. Earn its keys progressively through The Lost Eyes | NPC Trials. Start with Sera after Eldara's The First Hearth; follow each trial's named companion and story milestone. The first twelve trials award twelve different End Remastered eyes. Keep them for the Spire frame instead of throwing them to search for a stronghold.",
+    "children": [
+      "chapter_1",
+      "chapter_2",
+      "chapter_3",
+      "chapter_4",
+      "chapter_5",
+      "chapter_6",
+      "chapter_7",
+      "chapter_8",
+      "chapter_9",
+      "chapter_10",
+      "chapter_11",
+      "chapter_12",
+      "chapter_13",
+      "chapter_14",
+      "chapter_15",
+      "chapter_16",
+      "chapter_17",
+      "chapter_18"
+    ]
+  },
+  "chapter_1": {
+    "title": "First steps",
+    "text": "Let us begin with what can keep you alive today. The histories will still be here tomorrow. A dry bed, a full stomach, and a way home are achievements worth defending.\n\nChoose the concern nearest to you. A small preparation made at the right time is worth more than a splendid rescue attempted too late.",
+    "children": [
+      "chapter_1_1",
+      "chapter_1_2",
+      "chapter_1_3",
+      "chapter_1_4",
+      "chapter_1_5",
+      "chapter_1_6",
+      "chapter_1_7",
+      "chapter_1_8"
+    ]
+  },
+  "chapter_1_1": {
+    "title": "I am new here",
+    "text": "Then you owe this world nothing yet. Begin by learning what is near you: water, wood, stone, food, and a place the rain cannot enter. You do not need to prove your courage before you have somewhere to put your belongings.\n\nMake tools, gather a dependable meal, and secure a shelter. Keep the first route short enough that you can return before exhaustion decides for you. A beginning is allowed to be ordinary.",
+    "children": []
+  },
+  "chapter_1_2": {
+    "title": "My first night",
+    "text": "A lantern is reassuring; walls and a closed entrance are practical. Light your shelter and its approaches, watch for openings overhead, and do not trust a picturesque ruin simply because it already has a roof.\n\nThe creatures in this world follow many different rules. Some dangers ignore the habits you learned elsewhere. Observe before you settle beside anything unfamiliar. Your first night is for learning what approaches the door, not for welcoming it inside.",
+    "children": []
+  },
+  "chapter_1_3": {
+    "title": "What comes next?",
+    "text": "Choose one useful improvement: better food, safer storage, stronger tools, or a clearer route. Finish it before collecting six more ambitions. The Deep Night is remarkably good at persuading travellers that everything must be done immediately.\n\nWhen the basics feel dependable, try a short expedition. Bring back knowledge as well as materials. A cave you can navigate twice is more valuable than a treasure room you cannot find again.",
+    "children": []
+  },
+  "chapter_1_4": {
+    "title": "What should I carry?",
+    "text": "Food, light, spare tools, useful blocks, and a means of returning deserve places before trophies do. Leave room for discoveries. A crowded pack encourages foolish bargaining with yourself about what you can afford to lose.\n\nPrepare for the journey you are actually taking. Underground travel, open water, and a hostile fortress ask different things of you. There is no single perfect inventory; there is only one packed with enough thought to survive a surprise.",
+    "children": []
+  },
+  "chapter_1_5": {
+    "title": "Choosing a home",
+    "text": "Look at a place in bad weather before you love it in sunshine. Consider approaches, nearby threats, room to grow food, and the distance to resources you will use repeatedly. A spectacular cliff becomes less romantic on the fiftieth climb.\n\nBuild a home you can understand under pressure. Mark its entrances and leave clear routes between storage, shelter, and the road. Beauty comes more easily when you are no longer searching for the door in a panic.",
+    "children": []
+  },
+  "chapter_1_6": {
+    "title": "Finding my way",
+    "text": "Write coordinates if you use them, place recognisable markers, and notice the landscape behind you. Many explorers memorise the journey outward and discover that the return journey presents an entirely different face.\n\nAt a fork, mark which branch leads home. At a portal, record which side you entered from. Do not rely on a dropped possession or a temporary particle of light as your only signpost. The world is under no obligation to preserve your clues.",
+    "children": []
+  },
+  "chapter_1_7": {
+    "title": "When I lose gear",
+    "text": "First, stop and remember what killed you. Returning immediately with less protection can turn one loss into a collection of losses. Recover what you can from a safe approach, and bring help when the route demands it.\n\nDeath and recovery rules depend on this world's settings and installed systems. Learn them before risking your finest equipment. A spare kit at home is an act of kindness toward the person you will be after a difficult expedition.",
+    "children": []
+  },
+  "chapter_1_8": {
+    "title": "Am I falling behind?",
+    "text": "Behind whom? The dead kings, perhaps; they were terribly punctual. Your world has room for a traveller who farms before fighting, who maps before mining, or who spends an evening making a bridge pleasant to cross.\n\nProgress should give you more choices, not fewer. If every improvement makes your life more anxious, pause and ask what you wanted it for. You are permitted to build a life here rather than merely complete a list.",
+    "children": []
+  },
+  "chapter_2": {
+    "title": "The Deep Night",
+    "text": "The Deep Night is the name we give an age of broken roads and unfinished promises. It is not a claim that the sun has ceased to rise.\n\nThe danger is that people begin to treat abandonment as a natural law. I keep these accounts because a law invented by despair can be challenged by evidence.",
+    "children": [
+      "chapter_2_1",
+      "chapter_2_2",
+      "chapter_2_3",
+      "chapter_2_4",
+      "chapter_2_5",
+      "chapter_2_6",
+      "chapter_2_7",
+      "chapter_2_8"
+    ]
+  },
+  "chapter_2_1": {
+    "title": "Why that name?",
+    "text": "Dawn still touches the fields. Children still complain about getting up early. The darkness in our name describes a world whose connections have failed: roads unguarded, letters unanswered, villages omitted from the next map.\n\nA thousand little absences can feel like an endless night. Yet each repaired crossing argues against the name. If enough people make that argument, one day the phrase will belong to historians instead of everyone else.",
+    "children": []
+  },
+  "chapter_2_2": {
+    "title": "When did it begin?",
+    "text": "There is no honest date that suits every valley. One village names the winter its watch never returned. Another remembers a tax collector with orders nobody recognised. A third remained safe for years and thought the others were exaggerating.\n\nThat is how an age changes. Its beginning is scattered among people who do not yet know they are living through the same event. Beware histories that make everyone hear the same bell at the same moment.",
+    "children": []
+  },
+  "chapter_2_3": {
+    "title": "Is there a curse?",
+    "text": "There are curses in the old accounts, but calling everything a curse lets too many people escape responsibility. Some doors were opened by ambition. Some roads were left undefended because their keepers were hungry. Some bargains were signed with perfectly ordinary ink.\n\nTreat a specific enchantment as a specific problem. Treat cruelty and neglect as choices people can stop making. An explanation that combines every sorrow into one spell rarely tells you where to begin repairing anything.",
+    "children": []
+  },
+  "chapter_2_4": {
+    "title": "Can dawn return?",
+    "text": "I believe it can. I do not believe it arrives as a prize for defeating one sufficiently impressive enemy. A tyrant can be killed in an afternoon; trust may require several winters to grow back.\n\nMake roads usable. Keep promises small enough to honour. Share knowledge that helps a neighbour survive. Those acts are neither glamorous nor final. They are also the only dawn I have ever seen remain after the cheering ended.",
+    "children": []
+  },
+  "chapter_2_5": {
+    "title": "Are the stories true?",
+    "text": "Some are witnessed, some inherited, and some polished until the person inside them becomes impossible. I try to tell you which sort you are hearing. My memory is long; that does not make it infallible.\n\nAsk who wrote an account, what they could have seen, and what they hoped the reader would believe. Two witnesses can disagree honestly. A beautifully consistent archive may only mean somebody burned the awkward pages.",
+    "children": []
+  },
+  "chapter_2_6": {
+    "title": "The silent roads",
+    "text": "An abandoned road is more than unused stone. It means a healer cannot arrive, a harvest cannot be traded, and a rumour cannot be checked. Fear grows quickly where nobody can travel far enough to contradict it.\n\nWhen you clear a route, remember to make it understandable as well as passable. Light the turns. Repair the crossing. Leave signs for strangers. A road that only its maker can follow is still very close to being lost.",
+    "children": []
+  },
+  "chapter_2_7": {
+    "title": "Ordinary survivors",
+    "text": "The chronicles tend to remember the person who held the gate and forget the person who carried water to them. I keep both names when I can. Survival is almost always a collaboration disguised afterward as a legend.\n\nLook for the cooks, carpenters, messengers, and patient neighbours in every tale of deliverance. They explain how the hero was able to stand up that morning. Without them, the grandest speech would have been delivered to an empty courtyard.",
+    "children": []
+  },
+  "chapter_2_8": {
+    "title": "Your place in it",
+    "text": "You did not sign the first bargain, and you do not inherit its guilt simply by arriving. You do inherit a world shaped by it. That distinction matters: responsibility can guide you without becoming a sentence you were never allowed to contest.\n\nChoose what you will protect and what promises you will make. Let your deeds be answerable to living people. The night has enough followers of ancient commands who have forgotten why those commands existed.",
+    "children": []
+  },
+  "chapter_3": {
+    "title": "The Spire",
+    "text": "The Spire, in the watch's tradition, is a place where the road and the archive meet. Its meaning travels with those who keep it, whether they stand in a grand tower or a modest hall you build yourself.\n\nThese histories do not conjure a hidden city or promise fixed coordinates. The refuge becomes real through the place you give it.",
+    "children": [
+      "chapter_3_1",
+      "chapter_3_2",
+      "chapter_3_3",
+      "chapter_3_4",
+      "chapter_3_5",
+      "chapter_3_6",
+      "chapter_3_7",
+      "chapter_3_8"
+    ]
+  },
+  "chapter_3_1": {
+    "title": "What is the Spire?",
+    "text": "The oldest watchword says, 'A light high enough for strangers.' I prefer that to descriptions of the masonry. A tower can be magnificent and still be useless to a person left shivering outside its gate.\n\nWhen I speak of the Spire, I mean a refuge, a record, and a promise of welcome under watch. Its stones may differ from one telling to another. The obligation should remain recognisable.",
+    "children": []
+  },
+  "chapter_3_2": {
+    "title": "Why a tower?",
+    "text": "Height carries a beacon farther and lets a lookout see trouble sooner. It also tempts leaders to believe that distance is wisdom. Several disastrous councils were held in rooms with exceptional views.\n\nBuild high if you wish, but keep the stairs open to the people who bring news from below. A watchtower earns its height by paying attention to the ground. Otherwise it is merely an expensive place to be surprised.",
+    "children": []
+  },
+  "chapter_3_3": {
+    "title": "The beacon",
+    "text": "In one account the beacon was a great fire; in another, a crystal reflecting dawn. The versions agree on the purpose: tell travellers that someone was still awake and that the road ended somewhere inhabited.\n\nA light also draws attention from things you would rather avoid. Welcome requires a watch, not a blind invitation. Prepare the approaches and decide how guests will enter safely before making your signal visible across the valley.",
+    "children": []
+  },
+  "chapter_3_4": {
+    "title": "The lower halls",
+    "text": "The stories linger over the archive at the summit. I remember the lower halls: wet boots, soup, spare blankets, and a notice asking visitors not to sharpen swords on the steps. Institutions survive through such unromantic details.\n\nIf you build a refuge, give ordinary needs enough room. A weary traveller will appreciate a dry corner long before they admire the ceremonial chamber. Hospitality is easier to trust when it has somewhere to put a chair.",
+    "children": []
+  },
+  "chapter_3_5": {
+    "title": "Who belongs here?",
+    "text": "The watch's answer is anyone willing to respect the people sheltering here. Origin is not an oath, appearance is not evidence, and a frightened stranger need not perform gratitude before receiving directions.\n\nWelcome does not require carelessness. Keep weapons away from crowded rooms, listen to warnings, and intervene when someone threatens a guest. A refuge protects its openness by taking the safety of the people inside it seriously.",
+    "children": []
+  },
+  "chapter_3_6": {
+    "title": "The archive rules",
+    "text": "Keep flame away from paper. Return a volume to its place. If you find an error, record it with evidence rather than scratching out the old words. Future readers deserve to know how the correction was made.\n\nThe most important rule is less tidy: do not let a catalogue become more valuable than a life. If the roof falls, help the reader before rescuing the shelf. We can begin an archive again with a witness.",
+    "children": []
+  },
+  "chapter_3_7": {
+    "title": "A Spire of my own",
+    "text": "Start with a safe meeting place and a clear approach. Add storage, provisions, and room for whatever work your settlement actually does. Leave space for travellers who were not part of your first design.\n\nYou may place us in that refuge with spawn eggs or commands. Our presence does not require a particular structure. A name becomes meaningful through use; you do not need permission from an ancient floor plan.",
+    "children": []
+  },
+  "chapter_3_8": {
+    "title": "Its hidden chambers",
+    "text": "Every tower acquires rumours of a locked chamber containing the answer to everything. Mine usually contained broken furniture that nobody wanted to carry down the stairs. Mystery can be a dignified form of procrastination.\n\nThere are secrets in the Spire's tales, but these conversations describe lore, not concealed blocks or a generated dungeon. If you build a secret room, place something worth discovering inside it. The world already contains enough empty promises.",
+    "children": []
+  },
+  "chapter_4": {
+    "title": "Eldara's past",
+    "text": "You may ask about me. A lorekeeper who demands everyone else's testimony should be willing to offer some of her own.\n\nI will tell you what I remember, what I regret, and where memory becomes uncertain. Eternity is a grand word for waking up once more and finding the kettle cold.",
+    "children": [
+      "chapter_4_1",
+      "chapter_4_2",
+      "chapter_4_3",
+      "chapter_4_4",
+      "chapter_4_5",
+      "chapter_4_6",
+      "chapter_4_7",
+      "chapter_4_8"
+    ]
+  },
+  "chapter_4_1": {
+    "title": "The Eternal Sage",
+    "text": "The title began with a child who thought I had always been old. A poet heard it and improved the metre. By the time I objected, somebody had carved it into a lintel.\n\nI have lived far longer than I expected. I have not lived outside change. 'Eternal' is a name people give me, not a promise I can make about tomorrow. Please judge my advice by its usefulness rather than the ambition of my introduction.",
+    "children": []
+  },
+  "chapter_4_2": {
+    "title": "Your first memory",
+    "text": "Rain on a slate roof, a blue cup, and someone patiently showing me how to tie a bundle of herbs. There may have been mountains beyond the window. I cannot swear to that part.\n\nPeople expect an ancient sage to begin with a comet or a prophecy. Most lives begin with someone helping us do a small thing badly until we can do it ourselves. I find that a more hopeful foundation for history.",
+    "children": []
+  },
+  "chapter_4_3": {
+    "title": "Your teacher",
+    "text": "Her name was Ilyra. She taught me to copy a sentence exactly before trying to improve it. 'First understand the person who said it,' she would insist, usually while I was preparing an ingenious correction.\n\nI resented the exercise until I found an old account I had misunderstood completely. A patient reading saved me from building a magnificent argument upon the opposite of what its author meant. Ilyra deserved several apologies she never received.",
+    "children": []
+  },
+  "chapter_4_4": {
+    "title": "Why remain here?",
+    "text": "A traveller needs to know where a guide can be found. I spent enough years following rumours across ruined countries to appreciate a person who stays beside a dependable light.\n\nStillness can be work. I compare accounts, answer questions, and remember the names that arrive with the next visitor. You carry the world to me; I try to help you carry it more wisely when you leave.",
+    "children": []
+  },
+  "chapter_4_5": {
+    "title": "Your greatest error",
+    "text": "I once mistook a well-kept archive for a just government. Its clerks were courteous, its dates precise, its shelves immaculate. The people missing from its records had no way to spoil that impression.\n\nI learned too late to ask who was not being counted. Now, when a history appears perfectly orderly, I listen for the lives it cannot explain. A record can be accurate about everything it chooses to mention and still be profoundly dishonest.",
+    "children": []
+  },
+  "chapter_4_6": {
+    "title": "What do you fear?",
+    "text": "Forgetting a kindness and remembering only the debt that followed it. Long memory can become a room with all the windows closed. I fear turning into someone who uses the past to prevent the living from trying anything new.\n\nThat is why I ask travellers questions. Your discoveries remind me that the world is still producing evidence. A sage who no longer expects to learn has become furniture, however impressive the chair.",
+    "children": []
+  },
+  "chapter_4_7": {
+    "title": "Do you miss anyone?",
+    "text": "Yes. There are names I say often because silence makes them feel farther away. There are others I keep privately because repeating them in every conversation would turn a person into a lesson.\n\nGrief changes its weight, though I do not think it always becomes lighter. Some days it is a stone; some days it is a tool that helps me recognise another person's pain. Neither form makes the love a mistake.",
+    "children": []
+  },
+  "chapter_4_8": {
+    "title": "What brings you joy?",
+    "text": "A visitor returning with a correction. A guard humming while the weather clears. A repaired book opening without a crack. Someone saying they have eaten, slept, and decided to try again tomorrow.\n\nGreat happiness is welcome, but it is a poor thing to demand on schedule. I have learned to notice the smaller kind when it passes. It often arrives carrying bread and apologising for interrupting.",
+    "children": []
+  },
+  "chapter_5": {
+    "title": "The fallen covenant",
+    "text": "The surviving accounts describe a royal bargain with powers below the earth and beyond the familiar sky. They disagree about the exact words and agree about the cost.\n\nWe can study that history without pretending every rumour is a map or every metaphor a mechanism. Ask about the bargain, the collapse, or those who refused to let it be the final chapter.",
+    "children": [
+      "chapter_5_1",
+      "chapter_5_2",
+      "chapter_5_3",
+      "chapter_5_4",
+      "chapter_5_5",
+      "chapter_5_6",
+      "chapter_5_7",
+      "chapter_5_8"
+    ]
+  },
+  "chapter_5_1": {
+    "title": "The king's bargain",
+    "text": "A king promised peace through an agreement with three wardens: a furnace beneath the world, a sovereign beyond death, and a witness past the last star. So the oldest surviving chronicle says.\n\nFor a while, the borders held and the granaries filled. That early prosperity is part of the danger in the story. A bargain need not announce its cruelty at the beginning. Sometimes it first teaches everyone to depend upon it.",
+    "children": []
+  },
+  "chapter_5_2": {
+    "title": "The three wardens",
+    "text": "The furnace demanded continuation, the undying sovereign demanded obedience, and the distant witness demanded that the agreement be remembered. Those are a scholar's shorthand, not names you can use to command them.\n\nThe tales may preserve real powers, allegories, or several encounters compressed into one account. Do not mistake my interpretation for instructions to summon a boss. A good archive distinguishes what a story means from what a traveller can safely test.",
+    "children": []
+  },
+  "chapter_5_3": {
+    "title": "The first payment",
+    "text": "The early ledgers list ore, fuel, and crafted goods. Later entries replace quantities with symbols. Later still, villages appear as accounting units. Bureaucracy can make a terrible change look like a minor adjustment in notation.\n\nOne scribe wrote a person's name in the margin beside a number. That small refusal is why we know what some of those figures meant. When the official language grows abstract, look for somebody insisting upon the particulars.",
+    "children": []
+  },
+  "chapter_5_4": {
+    "title": "Why people agreed",
+    "text": "Some believed the bargain had ended a war. Some feared what would happen if it failed. Others benefited and preferred not to ask where the payment came from. A few resisted from the beginning and were called unreasonable.\n\nNever flatten those people into one foolish crowd. Their choices differed, and so did the dangers they faced. Understanding how consent was obtained tells us more than congratulating ourselves on how obvious the answer looks afterward.",
+    "children": []
+  },
+  "chapter_5_5": {
+    "title": "The broken seal",
+    "text": "The royal seal was a sun split by a narrow line. After the court fell, survivors used the broken sun as a warning and, eventually, a sign of solidarity. Symbols acquire meanings their makers cannot control.\n\nA seal can establish who issued an order; it cannot establish whether the order deserves obedience. The watch learned that distinction painfully. Several old fortresses had beautiful authority and no remaining reason to use it.",
+    "children": []
+  },
+  "chapter_5_6": {
+    "title": "Orders after death",
+    "text": "The king died. The mechanisms of his bargain continued. Fortresses collected tribute, tombs demanded submission, and distant powers waited for payments nobody living understood. Ending a ruler did not end the routines built around him.\n\nWhen you confront an old danger, ask what sustains it. Sometimes a guardian is the problem. Sometimes it is merely the most visible part of a command that needs to be understood before it can finally stop.",
+    "children": []
+  },
+  "chapter_5_7": {
+    "title": "The Ashen answer",
+    "text": "The Ashen Covenant is the survivors' answer in the later chronicle: preserve testimony, reopen roads, and refuse any peace purchased with another vanished village. It is an undertaking people choose, not a debt attached to their birth.\n\nIf you follow the related quest stories, let them give shape to your travels. If you make a different history, the question remains useful: who becomes safer because of the power you are gathering?",
+    "children": []
+  },
+  "chapter_5_8": {
+    "title": "What remains unknown?",
+    "text": "The original agreement has not survived in a form I trust completely. We have copies, arguments about copies, and suspiciously convenient quotations preserved by people who wanted something. Certainty would be pleasant; it would also be dishonest.\n\nLeave space in your account for uncertainty. A missing answer is an invitation to investigate. An invented answer can trap generations into defending a mistake simply because someone wrote it with enough confidence.",
+    "children": []
+  },
+  "chapter_6": {
+    "title": "Peoples and refuges",
+    "text": "A world is made of more than its rulers and monsters. The people who repair it deserve names, disagreements, and room to be something other than symbols.\n\nSome figures in these stories belong to the written chronicle. Speaking of them does not place them in your world. You decide how their example shapes the communities you build.",
+    "children": [
+      "chapter_6_1",
+      "chapter_6_2",
+      "chapter_6_3",
+      "chapter_6_4",
+      "chapter_6_5",
+      "chapter_6_6",
+      "chapter_6_7",
+      "chapter_6_8"
+    ]
+  },
+  "chapter_6_1": {
+    "title": "Dawnstead",
+    "text": "Dawnstead is the chronicle's name for a refuge that chooses to remain. It might become a village by a river, a keep on a hill, or a ring of homes around one stubborn fire. No map can decide that for you.\n\nIts importance is the decision behind it: people will prepare for another season together. A settlement begins long before its walls look impressive and survives only if ordinary life can continue inside them.",
+    "children": []
+  },
+  "chapter_6_2": {
+    "title": "Rowan's ledger",
+    "text": "Rowan records provisions and requests for help. In the letters, he crosses out the heading 'debts' and writes 'needs' above it. The distinction causes arguments that last much longer than the ink takes to dry.\n\nThere must still be an account of what a refuge has and what it lacks. Rowan's lesson is not to abandon planning. It is to remember that a hungry person is not merely a negative number waiting to be corrected.",
+    "children": []
+  },
+  "chapter_6_3": {
+    "title": "Mara's workshop",
+    "text": "Mara repairs the tools nobody puts in ballads. She asks whether a splendid plan includes nails, spare handles, and somewhere dry to keep the grain. The heroes in the letters find this irritating until something breaks.\n\nI value her questions. A promise becomes more credible when someone can describe the work required to keep it. If your refuge has room for a throne and no room for a workshop, reconsider its priorities.",
+    "children": []
+  },
+  "chapter_6_4": {
+    "title": "Sera's library",
+    "text": "Sera keeps ordinary recipes beside forbidden histories. She argues that a library which explains how a kingdom fell should also explain how to bake bread while deciding what comes next.\n\nKnowledge acquires strange hierarchies. People will guard a ritual they cannot use while losing the instructions for repairing their water supply. Sera's shelves make an unfashionable claim: usefulness and wonder need not compete for the same small room.",
+    "children": []
+  },
+  "chapter_6_5": {
+    "title": "Elian's watch",
+    "text": "Elian teaches the watch to learn a traveller's name before demanding their business. Suspicion is sometimes useful, he writes, but a guard who sees only threats will eventually find a way to make everyone one.\n\nHis kindness is disciplined. The gate is inspected, relief arrives on time, and warnings are investigated. Welcome works best when it rests on preparation. Exhausted, neglected guards are poor foundations for anyone's safety.",
+    "children": []
+  },
+  "chapter_6_6": {
+    "title": "Tamsin and Fen",
+    "text": "Tamsin counts medicine before an expedition. Fen counts the passengers on his boat twice. Neither considers this a sign of cowardice, and neither is impressed by a speech explaining why this particular journey needs no precautions.\n\nThe letters give them fewer dramatic moments than the warriors. I suspect that is evidence of how well they do their work. Many successful rescues are stories that never become emergencies in the first place.",
+    "children": []
+  },
+  "chapter_6_7": {
+    "title": "Strangers at the gate",
+    "text": "Offer clear directions, enough light to see by, and an explanation of the refuge's rules. A stranger who knows what is expected can choose how to behave; a stranger confronted only with hostility must first guess what went wrong.\n\nTrust can grow gradually. Share a task, keep a small promise, and observe the result. You do not need to offer every key in order to offer a person a place out of the rain.",
+    "children": []
+  },
+  "chapter_6_8": {
+    "title": "Building community",
+    "text": "Put useful places within reach of one another. Make food, tools, storage, and safe paths part of your design. If you play with companions, agree on shared supplies before the chest is empty and everyone remembers a different arrangement.\n\nA community needs more than proximity. It needs habits that prevent small frustrations from becoming permanent arguments. Label things. Repair what you borrow. Explain changes. These are modest spells with remarkably reliable results.",
+    "children": []
+  },
+  "chapter_7": {
+    "title": "The Spire Watch",
+    "text": "A guard's duty begins before the enemy arrives and continues after the cheering stops. Equipment matters; patience, relief, and a clear purpose matter as well.\n\nThe guards here carry swords and shields, watch their immediate surroundings, and patrol a small area around where they were placed. Speak to them if you need a quick direction.",
+    "children": [
+      "chapter_7_1",
+      "chapter_7_2",
+      "chapter_7_3",
+      "chapter_7_4",
+      "chapter_7_5",
+      "chapter_7_6",
+      "chapter_7_7",
+      "chapter_7_8"
+    ]
+  },
+  "chapter_7_1": {
+    "title": "The guard's oath",
+    "text": "The traditional oath begins, 'I will leave a place for the living.' It says nothing about looking impressive in armour. Later clauses concern warnings, shelter, and remembering why the gate exists.\n\nAn oath should help a person choose when orders become confused. If it merely instructs them to obey the next voice with a louder title, it has surrendered the very judgment that difficult times require.",
+    "children": []
+  },
+  "chapter_7_2": {
+    "title": "Why a short patrol?",
+    "text": "A watch assigned everywhere is reliably present nowhere. These guards stay within about five blocks of their post, so a person seeking help knows where to look and a doorway is not abandoned for an exciting chase.\n\nPlace several posts if your refuge is large. A gate, a courtyard, and an archive entrance ask for different lines of sight. The size of the promise should match the ground a guard can actually keep under observation.",
+    "children": []
+  },
+  "chapter_7_3": {
+    "title": "Sword and shield",
+    "text": "The sword discourages a threat from approaching; the shield helps a guard endure long enough to protect someone else. The combination expresses a useful priority: remain present rather than wager everything on the first strike.\n\nWatch the space around the wielder. Corners, narrow doors, and crowded paths change a fight. Equipment that looks splendid on a stand becomes useful only when its owner has room and time to use it.",
+    "children": []
+  },
+  "chapter_7_4": {
+    "title": "When guards fight",
+    "text": "A Spire Guard will engage nearby hostile creatures within the patrol area. They do not follow an enemy across the world or turn a traveller's contract into an automatic expedition.\n\nKeep their post accessible and avoid placing them where every path leads over a dangerous edge. A guard's presence helps a refuge feel occupied, but walls, lighting, and sensible construction are still worth your attention.",
+    "children": []
+  },
+  "chapter_7_5": {
+    "title": "The night watch",
+    "text": "In the chronicles, each watch records what it actually saw, not what it thinks the next watch expects. A distant sound, an unlit road, a missing courier: details become useful when someone resists improving them into a story.\n\nThe most dangerous report is often 'nothing unusual' written by a person too tired to look. Honour routine work. A relieved guard who can sleep is part of the next shift's equipment.",
+    "children": []
+  },
+  "chapter_7_6": {
+    "title": "The guest's duties",
+    "text": "Do not threaten the people sheltering here. Keep the paths clear, tell the watch about nearby dangers, and avoid leading trouble through the gate simply because you have reached the end of your own patience.\n\nA refuge is a shared achievement. Even a very capable traveller can make it fragile through thoughtlessness. The watch's rules should protect the people using the place, and guests should be able to understand that purpose.",
+    "children": []
+  },
+  "chapter_7_7": {
+    "title": "The bell that rang",
+    "text": "One story says a young guard rang the alarm after mistaking deer for an approaching force. The commander made everyone practice the response, thanked the guard for reporting uncertainty, and then improved the observation post.\n\nPunishing every false warning teaches people to wait until danger is undeniable. By then, a warning has become a description. Better tools and better judgment serve a watch more faithfully than the humiliation of someone who spoke too soon.",
+    "children": []
+  },
+  "chapter_7_8": {
+    "title": "Courage at a gate",
+    "text": "The dramatic part is holding firm when something terrible arrives. The harder part may be opening the gate afterward, when fear has made every stranger resemble the last threat.\n\nCourage does not require forgetting what happened. It requires making the next judgment with evidence rather than surrendering it entirely to pain. A guard who can protect a refuge and still recognise a guest has learned something more difficult than swordplay.",
+    "children": []
+  },
+  "chapter_8": {
+    "title": "Caelen's hunts",
+    "text": "Caelen keeps practical accounts: a target, a number, a payment, and a hunter willing to return. His contracts can draw from hostile creatures registered by the installed mods.\n\nA report is a choice, not a prophecy. Read it, decide whether you can reach the target, and choose another if the journey is not right for you.",
+    "children": [
+      "chapter_8_1",
+      "chapter_8_2",
+      "chapter_8_3",
+      "chapter_8_4",
+      "chapter_8_5",
+      "chapter_8_6",
+      "chapter_8_7",
+      "chapter_8_8"
+    ]
+  },
+  "chapter_8_1": {
+    "title": "How contracts work",
+    "text": "Speak to Caelen, open Available hunts, and inspect a report. Accepting it begins one active contract. The ledger records your credited kills of that exact creature type from that point onward.\n\nWhen the required count is reached, return to Caelen and claim your reward. Looking at the report does not accept it, and finishing the count does not pay automatically. The conversation is where the work is agreed and settled.",
+    "children": []
+  },
+  "chapter_8_2": {
+    "title": "Which creatures count?",
+    "text": "The ledger uses the target's registered entity type, not a nickname or a broad resemblance. A husk and a zombie may share family traits, but a contract for one does not silently become a contract for both.\n\nThe report includes the registry identifier so unfamiliar modded creatures can be distinguished. If a translation is unclear, that identifier is the most precise name to compare with the tools and information available in your pack.",
+    "children": []
+  },
+  "chapter_8_3": {
+    "title": "Modded monsters",
+    "text": "Caelen's target list is built from the installed entity registry. Standard monster categories and hostile entity markers are recognised, so many different mods can contribute hunts without a fixed list of names.\n\nSome mods classify unusual creatures differently. The world's keeper can add or exclude entity IDs through the NPC configuration or entity-type tags. That allows local judgment where a creature's implementation cannot fully explain its role in the world.",
+    "children": []
+  },
+  "chapter_8_4": {
+    "title": "The killing blow",
+    "text": "The contract listens for a death credited directly to you, including ordinary projectiles whose damage is credited to their player owner. A nearby death alone is not evidence that you did the work.\n\nGuard kills and uncredited environmental deaths do not advance your ledger. Some modded attacks attribute damage differently; observe your progress after an early kill before committing to a long hunt with an unfamiliar weapon or companion.",
+    "children": []
+  },
+  "chapter_8_5": {
+    "title": "Can I change hunts?",
+    "text": "Yes. Abandon the current contract through your ledger, confirm the choice, and then read another report. You lose its partial progress and receive no payment, but there is no additional punishment for changing your mind.\n\nA target may live somewhere you cannot yet reach, require an encounter you have already exhausted, or simply be more dangerous than you expected. The ability to reconsider is part of preparation, not an admission that you do not belong.",
+    "children": []
+  },
+  "chapter_8_6": {
+    "title": "New reports",
+    "text": "Caelen can offer a new selection after a short scouting interval. The board holds up to three distinct targets when enough eligible creatures exist, and it belongs to you rather than to everyone standing nearby.\n\nRefreshing the board does not erase your active hunt. Finish that work or abandon it deliberately. A flood of fresh possibilities should not quietly rewrite a promise you have already agreed to keep.",
+    "children": []
+  },
+  "chapter_8_7": {
+    "title": "Rewards and records",
+    "text": "Payment is listed before you accept: emeralds and experience. More durable creatures tend to produce harder reports with different counts and rewards. Caelen records completed contracts and refuses to pay the same completion twice.\n\nKeep a little room in your inventory when collecting. Overflow emeralds are dropped beside you if they cannot fit. Your contract belongs to your player record in this world and survives ordinary death, departure, and server restarts.",
+    "children": []
+  },
+  "chapter_8_8": {
+    "title": "A hunter's limits",
+    "text": "A bounty does not make a creature reachable, and a registry entry does not guarantee a convenient natural spawn. Some enemies belong to rare structures, special summons, or one-time encounters controlled by their own mods.\n\nConsult the creature's actual mod information and choose accordingly. Caelen offers work; he does not create a quarry for you. If a report is unsuitable for your world, abandoning it is sensible, and the world's keeper can exclude it from later boards.",
+    "children": []
+  },
+  "chapter_9": {
+    "title": "Fieldcraft",
+    "text": "A good expedition gives thought to the return journey before the outward journey becomes exciting. Equipment, terrain, and attention are all part of the same preparation.\n\nI can offer principles that travel well. The exact behaviour of an unfamiliar creature still deserves observation; your installed mods may teach lessons no old manual contains.",
+    "children": [
+      "chapter_9_1",
+      "chapter_9_2",
+      "chapter_9_3",
+      "chapter_9_4",
+      "chapter_9_5",
+      "chapter_9_6",
+      "chapter_9_7",
+      "chapter_9_8"
+    ]
+  },
+  "chapter_9_1": {
+    "title": "Read the ground",
+    "text": "Before entering a fight, look for edges, water, overhead gaps, and the route behind you. Ask where you will move if the first plan fails. A strong weapon cannot make a cliff less deep.\n\nClear a retreat when you can do so safely. Mark it before the encounter begins. Under pressure, an ordinary doorway may become difficult to recognise, particularly if smoke, darkness, or another creature has changed the view.",
+    "children": []
+  },
+  "chapter_9_2": {
+    "title": "Choose one threat",
+    "text": "Several weak enemies can be more dangerous than one powerful one because they divide your attention and movement. Watch the approaches, avoid entering crowded rooms blindly, and retreat before you are surrounded.\n\nDrawing a manageable threat toward prepared ground is often wiser than rushing to where all the threats already are. There is no honour in making your opponent's best arrangement more convenient for them.",
+    "children": []
+  },
+  "chapter_9_3": {
+    "title": "Read an attack",
+    "text": "Watch how a creature moves before it strikes and what it does afterward. The useful moment may be a recovery, a turn, a reload, or a pause that is easy to miss while attacking continuously.\n\nDo not assume every enemy follows a familiar rhythm. Mods can add new abilities, resistances, and movement. A short observation made from safety can prevent an expensive lesson delivered directly through your armour.",
+    "children": []
+  },
+  "chapter_9_4": {
+    "title": "Know when to leave",
+    "text": "Decide what would make you retreat while you are still calm: dwindling food, damaged equipment, a blocked route, or an enemy you do not understand. Then honour the decision when pride starts renegotiating it.\n\nLeaving an encounter does not erase the knowledge you gained. You may return with a better approach, more help, or no interest in fighting it at all. Survival keeps those choices available.",
+    "children": []
+  },
+  "chapter_9_5": {
+    "title": "Fight beside friends",
+    "text": "Agree on the target, the approach, and a signal to withdraw. Notice whether your weapons or spells can harm one another, and avoid discovering the answer in the narrowest part of the room.\n\nLeave each other space to move. A companion standing in your retreat can become a wall at precisely the wrong moment. Afterward, compare what each of you saw; no single person notices the entire fight.",
+    "children": []
+  },
+  "chapter_9_6": {
+    "title": "Prepare a return kit",
+    "text": "Keep a modest set of tools, food, light, and protection in a place you can reach after a loss. It need not match your finest equipment. Its purpose is to let you make a deliberate decision rather than an immediate desperate one.\n\nRecord the route to difficult places. The person recovering your belongings will be you, but perhaps tired, annoyed, and less well supplied. Give that person clear instructions and a little kindness.",
+    "children": []
+  },
+  "chapter_9_7": {
+    "title": "Do not waste healing",
+    "text": "Learn when your food, potions, or other recovery tools can be used safely. Waiting until you have no room to stop moving may turn useful supplies into decorations in your pack.\n\nTreat recovery as part of the encounter's rhythm. Create distance, use cover, and replenish before the next commitment when possible. The exact tools differ across packs; the need to make time for them rarely does.",
+    "children": []
+  },
+  "chapter_9_8": {
+    "title": "After the hunt",
+    "text": "Check your supplies, equipment, route, and companions before beginning another encounter. Victory encourages people to overlook the damage that made it expensive. The next threat will not be impressed by the previous one.\n\nIf the hunt was for Caelen, inspect the ledger and return when the count is complete. If it was your own expedition, write down what worked. Experience becomes more useful when memory has something concrete to hold.",
+    "children": []
+  },
+  "chapter_10": {
+    "title": "Magic and craft",
+    "text": "Power is easier to admire than to maintain. I encourage students to ask how a tool is made, how it is sustained, and what happens when it fails.\n\nThe stories in this archive give magic meaning. Actual recipes, resource costs, and controls belong to the installed mods and their instructions; my metaphors do not add new mechanics.",
+    "children": [
+      "chapter_10_1",
+      "chapter_10_2",
+      "chapter_10_3",
+      "chapter_10_4",
+      "chapter_10_5",
+      "chapter_10_6",
+      "chapter_10_7",
+      "chapter_10_8"
+    ]
+  },
+  "chapter_10_1": {
+    "title": "The six voices",
+    "text": "The college's tradition gives each element a kind of memory: fire remembers motion, earth remembers weight, water remembers shapes, and air remembers spaces. Lightning remembers division; spirit remembers the question left afterward.\n\nIt is a teaching story, not a universal damage chart. Use it to imagine how a mage thinks, then consult the actual spell or weapon before deciding what it can do. Poetry is a poor substitute for reading a cooldown.",
+    "children": []
+  },
+  "chapter_10_2": {
+    "title": "Fire's lesson",
+    "text": "Fire rewards attention and punishes assumption. In the college stories it is the element of change that does not ask whether the old arrangement was still useful. Students learn quickly why a controlled flame deserves more respect than a large one.\n\nConsider the surroundings before using a fiery tool. Different mods handle fire, area effects, and damage in different ways. A demonstration beside your storehouse is an unnecessarily expensive way to discover the details.",
+    "children": []
+  },
+  "chapter_10_3": {
+    "title": "Earth's lesson",
+    "text": "Earth teaches that strength includes carrying weight without making a spectacle of it. Foundations, walls, paths, and ordinary blocks enable the adventures that receive all the songs.\n\nA clever placement can create cover, secure a crossing, or mark a route. Check what a place permits before relying upon that plan; protected structures and unusual dimensions may have their own rules. Preparation should understand its materials rather than merely count them.",
+    "children": []
+  },
+  "chapter_10_4": {
+    "title": "Water and air",
+    "text": "Water remembers that a route can change shape. Air reminds us that an empty space may be as useful as a solid wall. Together they make poor teachers for anyone determined to solve every problem by pushing harder.\n\nIn practice, study movement and breathing requirements before travelling through unfamiliar environments. Do not assume a spell's name grants protection from every hazard associated with its element. The fine print often matters most when there is no floor beneath you.",
+    "children": []
+  },
+  "chapter_10_5": {
+    "title": "Lightning and spirit",
+    "text": "Lightning is the moment a separation becomes a connection; spirit is the part of the college's stories that asks what the connection means. Their students argue endlessly about which should be understood first.\n\nI suggest learning where your attack will land before debating its philosophy. Afterward, the philosophy may help you decide where it ought to land. Capability and purpose are different questions, and a responsible mage makes time for both.",
+    "children": []
+  },
+  "chapter_10_6": {
+    "title": "Learning a spell",
+    "text": "Read the description, identify its resource cost, and test it somewhere a mistake will not ruin your refuge. Learn the range and recovery time before placing your confidence in it.\n\nIf the pack supplies a guide or recipe viewer, consult that alongside your experiments. Systems change with versions and configuration. A story about what a spell once did is useful history; it is not proof of what the one in your hand will do now.",
+    "children": []
+  },
+  "chapter_10_7": {
+    "title": "Tools before trophies",
+    "text": "A better tool can shorten repeated work and make every later plan more realistic. A remarkable trophy may make one wall more impressive. Both can bring pleasure; only you can decide which your current situation needs.\n\nNotice what you do often. Improving a common task may give you more freedom than acquiring something rare for its own sake. Crafting is not merely the road to adventure; sometimes it is the means of making room for one.",
+    "children": []
+  },
+  "chapter_10_8": {
+    "title": "Repair and replace",
+    "text": "Learn whether your equipment can be repaired, what that costs, and when a replacement is sensible. Do this while it still works. A broken weapon is an impatient teacher with little interest in your preferred schedule.\n\nKeep the required materials within reach when possible. If a tool depends on a difficult supply, let that fact shape how casually you use it. Reliability is a quality worth considering alongside the largest number in its description.",
+    "children": []
+  },
+  "chapter_11": {
+    "title": "Beasts and bonds",
+    "text": "Caelen's ledger and the companion's journal are different books. A creature may be dangerous, tameable, territorial, peaceful, or several of these things in different circumstances.\n\nDo not let a dramatic appearance answer every question for you. Observe, consult the creature's own instructions, and treat a bond as something more interesting than a trophy that follows you.",
+    "children": [
+      "chapter_11_1",
+      "chapter_11_2",
+      "chapter_11_3",
+      "chapter_11_4",
+      "chapter_11_5",
+      "chapter_11_6",
+      "chapter_11_7",
+      "chapter_11_8"
+    ]
+  },
+  "chapter_11_1": {
+    "title": "Monster or neighbour?",
+    "text": "Look at behaviour and context. A creature defending its young, a hunter pursuing prey, and an enemy that attacks every traveller may all present sharp teeth. The teeth alone do not complete the account.\n\nThe game systems still need categories, and Caelen uses the hostile markers available to him. Your world's keeper can adjust that list. A registry is useful for bookkeeping; judgment is useful for deciding what the bookkeeping should represent.",
+    "children": []
+  },
+  "chapter_11_2": {
+    "title": "Earning trust",
+    "text": "Different creatures accept different items, conditions, and approaches. There is no honest universal recipe for friendship across all the mods in this world. Learn the actual process before offering a valuable resource to an uninterested mouth.\n\nPatience also means preparing a safe place for the creature afterward. A successful interaction is the beginning of responsibility, especially when your new companion is large enough to make a doorway suddenly seem much smaller.",
+    "children": []
+  },
+  "chapter_11_3": {
+    "title": "Dragons",
+    "text": "A dragon may be a threat, a companion, a young animal, or an ancient power. The word collects too many lives to serve as complete instructions. Identify the creature and the mod that provides it before deciding how to approach.\n\nSome stories celebrate killing dragons; others celebrate returning beside one. Neither story authorises you to assume that every winged creature shares the same abilities or wishes to participate in your preferred ending.",
+    "children": []
+  },
+  "chapter_11_4": {
+    "title": "A home for companions",
+    "text": "Consider space, hazards, access, and whatever needs the creature's own system imposes. An impressive enclosure is not useful if your companion cannot enter it or if its behaviour makes the surrounding rooms unsafe.\n\nTest paths and commands in a calm setting. Learn how following, staying, riding, and ownership work for that specific creature. The first emergency is a poor time to discover that a command meant something different from what you expected.",
+    "children": []
+  },
+  "chapter_11_5": {
+    "title": "Travelling together",
+    "text": "Know whether a companion can cross the terrain, use the route, or travel between dimensions. Mods differ, and appearances can mislead. A creature that flies beautifully in one place may still have restrictions at a portal.\n\nBefore departing, learn how to call it back or find it if separated. Keep a record of where you last saw it. Affection benefits from preparation just as much as an expedition does.",
+    "children": []
+  },
+  "chapter_11_6": {
+    "title": "Caelen and companions",
+    "text": "Caelen pays for your credited kills of the target type. A companion's independent attack may be attributed to the companion rather than to you, so do not assume every victory beside a friend advances your personal contract.\n\nWatch the ledger during the first encounter. If your strategy relies upon a modded companion, verify how that system credits damage. A clear understanding early in the hunt prevents an argument with the ledger after a long journey.",
+    "children": []
+  },
+  "chapter_11_7": {
+    "title": "Ysolde's two books",
+    "text": "The dragon hunter Ysolde kept one book for threats to the roads and another for creatures that returned beside an expedition. She refused to bind them together. 'Victory and trust,' she wrote, 'are not interchangeable evidence.'\n\nI keep that line above the bestiary. A creature should not become a villain merely because we have no convenient place to record a more complicated relationship. Good records allow the world to surprise them.",
+    "children": []
+  },
+  "chapter_11_8": {
+    "title": "When a bond ends",
+    "text": "Sometimes a companion is lost. Sometimes a mod's rules allow recovery, and sometimes they do not. Learn what is possible without making promises to yourself that the world cannot keep.\n\nYou may remember the journey even when the creature cannot return. Build something, write its name, or tell someone about the ridiculous moment when it blocked the stairs. A bond mattered because of what was shared, not because it came with a guarantee of permanence.",
+    "children": []
+  },
+  "chapter_12": {
+    "title": "Roads between worlds",
+    "text": "The early atlas drew the worlds as floors of a tower. Then explorers found doors that made the diagram impossible. The newer atlas resembles a knot, and even that may be too orderly.\n\nTreat each crossing as a practical question. How do you enter, what must you carry, and how do you leave when the beautiful view becomes a problem?",
+    "children": [
+      "chapter_12_1",
+      "chapter_12_2",
+      "chapter_12_3",
+      "chapter_12_4",
+      "chapter_12_5",
+      "chapter_12_6",
+      "chapter_12_7",
+      "chapter_12_8"
+    ]
+  },
+  "chapter_12_1": {
+    "title": "The Overworld",
+    "text": "Familiar skies encourage carelessness. The Overworld contains ordinary needs and extraordinary hazards in the same landscape: a useful forest beside a dangerous ruin, a peaceful shore above a very unfriendly cave.\n\nLearn your surroundings by revisiting them. Seasons, time, weather, and installed systems may change what you encounter. Home is not the place where nothing can happen; it is the place whose possibilities you have begun to understand.",
+    "children": []
+  },
+  "chapter_12_2": {
+    "title": "The Nether",
+    "text": "Heat, exposed drops, limited room, and unfamiliar routes can punish an unplanned visit. Prepare a secure arrival and mark the way back before pursuing a distant glow. In an emergency, many similar tunnels look remarkably alike.\n\nThe Nether's stories call it a furnace beneath the world. That metaphor will not tell you which creature is approaching or what equipment your pack changes. Observation remains more useful than assuming every detail matches a remembered journey elsewhere.",
+    "children": []
+  },
+  "chapter_12_3": {
+    "title": "The End",
+    "text": "The End asks a traveller to take empty space seriously. A narrow path can become the entire difference between an expedition and a lesson in gravity. Carry a plan for crossings and a way to recognise the return route.\n\nIts islands have inspired scholars to discuss the nature of absence for centuries. You may join the debate after checking where you are standing. Philosophy becomes needlessly urgent when the floor is missing.",
+    "children": []
+  },
+  "chapter_12_4": {
+    "title": "Unfamiliar realms",
+    "text": "A registered dimension may be a vast landscape, a specialised arena, a temporary chamber, or a technical space with no ordinary Survival entrance. Its existence alone does not supply a portal recipe.\n\nUse the guide for the mod that owns the realm. If your pack includes the Deep Night Guide, its atlas can help identify installed dimensions, but the owning system decides access. A catalogue is a starting point for research, not a promise that every door is open.",
+    "children": []
+  },
+  "chapter_12_5": {
+    "title": "Before a crossing",
+    "text": "Leave a clear marker, record the threshold, and carry enough supplies to establish a safe position on the other side. Tell companions which side should wait if something goes wrong.\n\nCheck whether essential tools, mounts, and return methods work across that boundary. A journey can become difficult without a single enemy if the mechanism you relied upon belongs only to the world you just left.",
+    "children": []
+  },
+  "chapter_12_6": {
+    "title": "Making an atlas",
+    "text": "Record observations separately from guesses. 'A gate stands here' is different from 'this gate leads home.' Mark who tested the claim and under what conditions. Worlds altered by mods and configuration reward that precision.\n\nKeep useful practical details: approach, hazards, supplies, and return route. Decorative names have their place, but a traveller arriving in the rain will appreciate an accurate bridge more than a beautifully lettered uncertainty.",
+    "children": []
+  },
+  "chapter_12_7": {
+    "title": "Lost beyond home",
+    "text": "Stop moving long enough to gather reliable facts. Identify landmarks, check your records, and consider retracing the last route you know rather than beginning a more ambitious search in every direction.\n\nIf the realm has unusual travel rules, consult them before improvising. Panic makes every doorway look like an answer. The first task is to reduce uncertainty; distance covered without a plan can make that task harder.",
+    "children": []
+  },
+  "chapter_12_8": {
+    "title": "The wrong diagram",
+    "text": "Sera once drew all the worlds as a stack of rooms. A new doorway opened where her desk should have been. She stared at the diagram for a long time, then used its blank reverse side to record the discovery.\n\nI admire that response. She did not insist that the doorway apologise to the paper. Let your maps be revised by the places they describe. A model that cannot change has stopped helping you see.",
+    "children": []
+  },
+  "chapter_13": {
+    "title": "Ruins and relics",
+    "text": "A ruin is a place where somebody's ordinary day ended. Its treasures deserve attention, but so do its kitchens, repairs, and passages worn by people who never expected to become history.\n\nExplore with curiosity and a retreat in mind. The things that survived may include machinery, guardians, and instructions whose purpose has become much harder to recognise.",
+    "children": [
+      "chapter_13_1",
+      "chapter_13_2",
+      "chapter_13_3",
+      "chapter_13_4",
+      "chapter_13_5",
+      "chapter_13_6",
+      "chapter_13_7",
+      "chapter_13_8"
+    ]
+  },
+  "chapter_13_1": {
+    "title": "Reading a ruin",
+    "text": "Look for additions, blocked doorways, and changes in materials. A building tells more than one story when you notice where later inhabitants disagreed with the first design. Damage may record accident, neglect, or deliberate destruction.\n\nDo not let the first dramatic explanation silence quieter possibilities. A room without treasure may have been a storeroom whose contents were useful enough to carry away. Sometimes the absence is evidence of a successful departure.",
+    "children": []
+  },
+  "chapter_13_2": {
+    "title": "The tempting chest",
+    "text": "Notice the room before the container. Approaches, sight lines, creatures, and possible exits will matter more than whatever you hope is inside if the moment becomes dangerous.\n\nThe pack's structures and loot systems set their own rules. Some places contain traps, guarded rewards, or mechanics you will not recognise immediately. Curiosity is valuable; haste is merely curiosity that has refused to bring its equipment.",
+    "children": []
+  },
+  "chapter_13_3": {
+    "title": "An old inscription",
+    "text": "Copy what you see before interpreting it. Preserve gaps as gaps. The desire to complete a damaged sentence has produced more confident nonsense than many deliberate lies.\n\nRecord the location and surrounding symbols as well. A warning above a doorway may be quoted differently on a monument celebrating the people who ignored it. Words travel badly when we remove the evidence of why someone placed them there.",
+    "children": []
+  },
+  "chapter_13_4": {
+    "title": "Who owns a relic?",
+    "text": "The answer may involve the people who made it, the people who still use the place, and the rules you have agreed upon with other players. Discovery alone is not a complete account of every claim.\n\nIn a shared world, ask before emptying another person's build or a communal store. In the stories, whole feuds begin because a traveller considers 'I found it' more persuasive than the names already written beside the object.",
+    "children": []
+  },
+  "chapter_13_5": {
+    "title": "A broken crown",
+    "text": "Crowns are useful evidence of what a court wanted people to believe about it. They are less reliable evidence of whether its wearer governed well. An expensive object can survive the collapse of the promises that paid for it.\n\nIf you find a royal relic, ask what work sustained its splendour. Somewhere behind the gold are miners, smiths, carriers, and a decision about who could afford to eat while it was being made.",
+    "children": []
+  },
+  "chapter_13_6": {
+    "title": "A guardian's purpose",
+    "text": "A guardian may still defend a threshold whose visitors stopped coming centuries ago. Understanding the original purpose can make an encounter more interesting, even when the game's mechanics still require a direct fight.\n\nDo not invent a peaceful solution merely because the story would please you. Investigate what the actual creature supports. Sympathy and observation belong together; either becomes unreliable when it refuses to acknowledge the evidence of the other.",
+    "children": []
+  },
+  "chapter_13_7": {
+    "title": "Bringing knowledge home",
+    "text": "A successful expedition returns something useful: materials, a route, a warning, a tested idea, or a record another traveller can follow. A pack filled with objects is only one form of success.\n\nSort the findings before memory fades. Note what you know and what you intend to verify. An archive grows through those small acts of care, not through the dramatic moment when somebody announces they have discovered everything.",
+    "children": []
+  },
+  "chapter_13_8": {
+    "title": "Leave a useful mark",
+    "text": "A sign that says 'danger' is better than nothing. A sign explaining the danger and pointing toward a safer route is better still. Write for the person who has not shared your entire experience.\n\nAvoid ambiguous marks that could mean treasure, home, or a private joke. The best message at a difficult crossing is clear enough to understand while tired. Someone may owe their safe return to your willingness to be unpoetic.",
+    "children": []
+  },
+  "chapter_14": {
+    "title": "Great threats",
+    "text": "Some creatures become the centre of an expedition because of their power, their rewards, or the place they occupy in a story. Calling them bosses does not make their surroundings less important.\n\nPrepare for the particular encounter. Your installed mods decide its actual rules; I can help you ask the questions that ought to be answered before you commit.",
+    "children": [
+      "chapter_14_1",
+      "chapter_14_2",
+      "chapter_14_3",
+      "chapter_14_4",
+      "chapter_14_5",
+      "chapter_14_6",
+      "chapter_14_7",
+      "chapter_14_8"
+    ]
+  },
+  "chapter_14_1": {
+    "title": "Before a great fight",
+    "text": "Find out how the encounter begins, whether it can be attempted again, and what the arena requires. Gather appropriate equipment and supplies, establish a retreat where possible, and tell companions the plan.\n\nDo not use every rare item simply to discover that a doorway locks behind you. Some lessons can only be learned in the encounter, but many can be learned from the owning mod's instructions or from a careful look at the approach.",
+    "children": []
+  },
+  "chapter_14_2": {
+    "title": "The arena matters",
+    "text": "Space, cover, hazards, and escape routes shape a battle as much as a weapon's strength. A creature may control the ground, destroy cover, summon allies, or make a previously safe position unreliable.\n\nObserve how the space changes. Standing where the first phase was comfortable is not a strategy for every later moment. If the encounter teaches you that your position is wrong, believe it before your supplies have to make the argument again.",
+    "children": []
+  },
+  "chapter_14_3": {
+    "title": "Do not trust size",
+    "text": "A large creature is easy to notice. That does not mean it is the greatest threat in the room. Small summoned enemies, persistent hazards, and difficult terrain can decide a fight while everyone watches the impressive silhouette.\n\nPrioritise what prevents you from acting safely. Sometimes that means clearing support enemies or moving away from the main target. A battle is not a contest to see who can stare at the biggest opponent longest.",
+    "children": []
+  },
+  "chapter_14_4": {
+    "title": "The undying sovereign",
+    "text": "In the covenant's history, the sovereign is the terror of authority that outlives consent. Its subjects are expected to continue serving because death has failed to release the ruler from power.\n\nThat is lore about a recurring idea, not a promise that every installed undead boss shares one identity. Read the encounter in front of you. The story may enrich the fight without replacing the creature's own name and mechanics.",
+    "children": []
+  },
+  "chapter_14_5": {
+    "title": "The buried furnace",
+    "text": "The furnace in the old accounts never considers its appetite unusual. It receives a payment, performs its function, and expects another payment. The horror lies in a system continuing exactly as designed.\n\nThere are many fiery engines and guardians in the worlds travellers describe. Resist combining them carelessly. A useful comparison can reveal a theme; an unsupported identification can send an expedition to the wrong ruin carrying the wrong tools.",
+    "children": []
+  },
+  "chapter_14_6": {
+    "title": "The distant witness",
+    "text": "The third warden appears in the accounts as a witness beyond the last star. It remembers promises with perfect precision and very little sympathy for those who inherited the consequences.\n\nI do not know whether that description records a single being or the survivors' fear that no appeal could reach it. The uncertainty is part of the story. Some of the most powerful images in an archive survive because nobody can finally settle them.",
+    "children": []
+  },
+  "chapter_14_7": {
+    "title": "After victory",
+    "text": "Account for your companions, collect what you can safely recover, and make sure the area is actually stable. A celebration beside a remaining hazard can become a particularly embarrassing second chapter.\n\nThen decide what the victory makes possible. Does it open a route, remove a threat, or merely add a trophy? The answer need not be grand, but asking it helps keep power connected to the life you wanted to build.",
+    "children": []
+  },
+  "chapter_14_8": {
+    "title": "When victory waits",
+    "text": "An unfinished encounter can remain unfinished. Improve your equipment, learn another system, recruit help, or turn toward a different goal. You do not need to feed the same mistake until it begins to resemble determination.\n\nWrite down what stopped you while the memory is clear. A later attempt should benefit from the earlier one. Persistence becomes wisdom when it changes its method in response to evidence.",
+    "children": []
+  },
+  "chapter_15": {
+    "title": "Tales by lanternlight",
+    "text": "These are small stories I return to when an argument needs a human shape. They do not unlock secret powers or place hidden treasures. Their rewards, if any, are quieter.\n\nChoose one, and I will tell it as I remember it. Another witness might correct a detail; I would be glad to hear from them.",
+    "children": [
+      "chapter_15_1",
+      "chapter_15_2",
+      "chapter_15_3",
+      "chapter_15_4",
+      "chapter_15_5",
+      "chapter_15_6",
+      "chapter_15_7",
+      "chapter_15_8"
+    ]
+  },
+  "chapter_15_1": {
+    "title": "The empty lantern",
+    "text": "A courier reached a village carrying an unlit lantern. Asked why he had carried it all that way, he said it was proof that he expected somewhere with oil and a person willing to share it.\n\nThe village filled it. Years later, their account of the night spent more ink on the argument about payment than on the gift itself. I prefer to remember the moment before the argument, when somebody simply reached for the oil.",
+    "children": []
+  },
+  "chapter_15_2": {
+    "title": "The mapmaker's door",
+    "text": "A mapmaker drew an elegant door on every copy of her own house. Visitors could never find it because she had marked the entrance she intended to build rather than the one that existed.\n\nWhen challenged, she said the maps represented a better future. Her apprentice quietly added the present doorway in another colour. Hope is useful, but a wet traveller should not have to wait for your renovation before knowing where to knock.",
+    "children": []
+  },
+  "chapter_15_3": {
+    "title": "Seven bowls",
+    "text": "After a difficult winter, a household set seven bowls at supper though only six people remained. A guest offered to remove the extra bowl. The youngest child said it was not a mistake; it was how they remembered to speak the missing person's name.\n\nThe custom changed over time. Eventually the seventh bowl was used for visitors. Grief did not disappear. It made a place where someone else could be welcomed.",
+    "children": []
+  },
+  "chapter_15_4": {
+    "title": "The patient mason",
+    "text": "A mason spent three days repairing a low wall while warriors argued about the most important battle of the age. A storm arrived, the river rose, and the repaired wall directed the water away from the grain store.\n\nThe warriors helped carry sandbags and later claimed the rescue as a collective achievement. The mason agreed. She was pleased they had finally found a useful task and saw no reason to begin another argument about importance.",
+    "children": []
+  },
+  "chapter_15_5": {
+    "title": "A king's signature",
+    "text": "A village received an order bearing a flawless royal signature. Its keeper compared the requested tribute with the winter supplies and refused. Asked how he dared question the seal, he answered that a genuine signature could still authorise a disastrous idea.\n\nThe tale's endings differ. Some give him punishment, others vindication. The line survives in all of them, which tells me the people repeating it needed permission to ask the same question.",
+    "children": []
+  },
+  "chapter_15_6": {
+    "title": "The borrowed sword",
+    "text": "A hunter borrowed a sword and returned with a splendid account of his courage. The owner listened, then asked whether he had cleaned the blade. Offended, the hunter said she was ignoring the scale of his achievement.\n\n'I am considering the next person who needs it,' she replied. He cleaned it badly, learned, and cleaned it again. In the version I like best, the story ends there. Not every lesson requires a duel.",
+    "children": []
+  },
+  "chapter_15_7": {
+    "title": "The last seed",
+    "text": "Two travellers found a single packet of seed in an abandoned store. One wanted to preserve it as evidence of the lost settlement. The other wanted to plant it. They argued until a third suggested dividing the packet.\n\nThe harvest was modest. The record remained incomplete. Both were better than the perfect solution each had demanded alone. Cooperation sometimes begins when people accept that an imperfect shared answer can preserve more than either solitary certainty.",
+    "children": []
+  },
+  "chapter_15_8": {
+    "title": "The guard's song",
+    "text": "A guard sang very softly through a long watch. A visitor complained that the tune ruined the solemn atmosphere. The guard apologised and stopped. Later, three frightened children asked why the familiar song had gone.\n\nThe visitor learned something useful about atmosphere. From the courtyard, the song sounded undignified; from a dark room, it meant someone was awake. Before removing a small comfort, ask who relies upon it.",
+    "children": []
+  },
+  "chapter_16": {
+    "title": "Questions of conscience",
+    "text": "Power makes choices possible. It does not relieve us of making them carefully. These questions have no wheel spoke labelled 'become wise immediately.'\n\nWe can examine a decision from several sides, notice the people affected, and admit what we do not know. That is already a more useful beginning than pretending the answer carries no cost.",
+    "children": [
+      "chapter_16_1",
+      "chapter_16_2",
+      "chapter_16_3",
+      "chapter_16_4",
+      "chapter_16_5",
+      "chapter_16_6",
+      "chapter_16_7",
+      "chapter_16_8"
+    ]
+  },
+  "chapter_16_1": {
+    "title": "Mercy and caution",
+    "text": "Mercy need not mean placing others at risk without their consent. Caution need not mean treating every unknown person as guilty. The difficult work lies in arranging a response that preserves as much of both as the situation allows.\n\nAsk what evidence you have, what harm is immediate, and what choices remain reversible. Slow a decision when you can. An action taken under pressure may be necessary, but pressure alone does not make it wise.",
+    "children": []
+  },
+  "chapter_16_2": {
+    "title": "Keeping a promise",
+    "text": "Make promises about actions you can attempt honestly, not outcomes you cannot control. 'I will look for them' is different from 'I will certainly bring them home.' The first offers commitment; the second may offer comfort by borrowing against a future you do not own.\n\nWhen circumstances change, explain the change. A promise deserves effort and truth. Defending the original words after they have become impossible can betray the purpose for which they were spoken.",
+    "children": []
+  },
+  "chapter_16_3": {
+    "title": "Who deserves help?",
+    "text": "A refuge cannot solve every hardship at once. It can still avoid inventing reasons why the people it cannot help must have deserved their suffering. Limits are real; contempt is optional.\n\nBe clear about what you can offer. Food, directions, a warning, or help with one task may matter even when the whole problem exceeds you. Honest partial assistance is kinder than a grand assurance that disappears when tested.",
+    "children": []
+  },
+  "chapter_16_4": {
+    "title": "Anger after loss",
+    "text": "Anger can reveal that something important was harmed. It is less reliable as a complete plan for what should happen next. Let it tell you where the wound is without granting it every key in the house.\n\nFind a way to pause before making a permanent decision when possible. Speak to someone who can listen without turning your pain into an opportunity for their own quarrel. You deserve more than becoming the instrument of another person's revenge.",
+    "children": []
+  },
+  "chapter_16_5": {
+    "title": "The price of power",
+    "text": "Ask not only what a tool costs to obtain, but what habits it encourages once you have it. A power that solves every inconvenience through destruction can gradually make inconvenience the only thing you notice about other people.\n\nChoose boundaries before the moment they become difficult to keep. Strength is more trustworthy when its owner can explain when they will refuse to use it. Otherwise everyone nearby must rely upon the quality of your next mood.",
+    "children": []
+  },
+  "chapter_16_6": {
+    "title": "A necessary doubt",
+    "text": "Doubt is useful when it leads you to examine evidence, test an assumption, or ask a better question. It becomes a prison when it forbids every action because perfect certainty is unavailable.\n\nChoose proportionate steps. Test a route before committing an expedition. Try a small design before rebuilding a settlement. You can take uncertainty seriously while still moving; indeed, movement made carefully is often how the uncertainty becomes smaller.",
+    "children": []
+  },
+  "chapter_16_7": {
+    "title": "Being remembered",
+    "text": "Most of us cannot control the story told afterward. We can give the people near us better evidence to work with. Repair something, keep a promise, or make a difficult day less lonely for someone else.\n\nA grand monument may preserve a name and lose the person entirely. I would rather leave a useful habit that survives without a signature than a thousand inscriptions explaining how indispensable I considered myself.",
+    "children": []
+  },
+  "chapter_16_8": {
+    "title": "Enough for today",
+    "text": "If you have reached the point where every task feels like another accusation, put one down. Check what truly needs attention now and what can wait. A refuge should shelter its builders as well as its guests.\n\nYou do not owe the night a demonstration of endless endurance. Eat, organise what you need for tomorrow, and rest when you can. Continuing is easier when you permit yourself to have an ending to the day.",
+    "children": []
+  },
+  "chapter_17": {
+    "title": "Practical guidance",
+    "text": "A guide should be able to discuss both ancient covenants and the button that closes a conversation. Useful knowledge has no obligation to look impressive.\n\nThese answers describe this NPC mod directly. For other systems in your pack, consult their actual recipes, controls, and guides rather than assuming my stories silently change them.",
+    "children": [
+      "chapter_17_1",
+      "chapter_17_2",
+      "chapter_17_3",
+      "chapter_17_4",
+      "chapter_17_5",
+      "chapter_17_6",
+      "chapter_17_7",
+      "chapter_17_8"
+    ]
+  },
+  "chapter_17_1": {
+    "title": "Using this wheel",
+    "text": "Point to a spoke and click, or press its number from one to eight. When a subject has more than eight choices, use the page controls or the left and right arrow keys to see the rest.\n\nBackspace, the Back button, or a right mouse click returns to the previous subject. Topics returns to the beginning. Scroll over the reading panel to read long answers, and use Farewell or Escape when you are ready to leave.",
+    "children": []
+  },
+  "chapter_17_2": {
+    "title": "Finding us again",
+    "text": "Eldara and Caelen stay where they are placed and turn toward nearby players. Spire Guards remain close to their assigned post. None of us appears through natural spawning; a builder or administrator places us with eggs or commands.\n\nGive each of us an accessible position with room for visitors. You should be able to approach and speak without climbing into furniture, crossing a hazard, or guessing which wall conceals the person you came to find.",
+    "children": []
+  },
+  "chapter_17_3": {
+    "title": "Placing a guard",
+    "text": "The guard's patrol is centred on its original placement and remains within about five blocks horizontally. Choose a clear floor and useful sight lines. A guard boxed inside decoration cannot make the space more convenient by wishing.\n\nIf you need a different post, place another guard at the desired location and remove the old one with an appropriate administrator command. Do not expect the patrol to expand simply because the surrounding settlement has grown.",
+    "children": []
+  },
+  "chapter_17_4": {
+    "title": "Can you be harmed?",
+    "text": "These NPCs are protected from ordinary damage and do not despawn with distance. That lets a carefully arranged refuge keep its guide, hunter, and watch without a stray attack ending the conversations permanently.\n\nAdministrators can still remove an NPC with the kill command. Protection is a practical choice for these placed characters; it is not evidence that every person in the stories is invulnerable or that every inhabitant of your world follows our rules.",
+    "children": []
+  },
+  "chapter_17_5": {
+    "title": "The guide book",
+    "text": "If your pack includes the Deep Night Guide, use it for its installed content index and supported recipes, notes, or checklists. My role is conversation, context, and broad guidance; its catalogue serves a different need.\n\nWhere another mod provides its own manual, keep that close as well. The most trustworthy instructions are those that match the version and configuration you are actually playing, particularly for portals, companions, and specialised crafting systems.",
+    "children": []
+  },
+  "chapter_17_6": {
+    "title": "Recipes and controls",
+    "text": "Use the recipe viewer and the controls menu available in your pack. Keybindings can overlap, recipes can be changed, and a familiar item can behave differently under another configuration.\n\nTest important tools before relying upon them in danger. If a guide's claim and the actual game disagree, preserve the observation and investigate. The purpose of instructions is to help you act, not to win an argument against what you can plainly see.",
+    "children": []
+  },
+  "chapter_17_7": {
+    "title": "Speaking with others",
+    "text": "Each player has their own contract offers, active hunt, and progress. Several travellers can speak to Caelen without taking one another's work. Conversation does not pause the world, so choose a safe place to stand.\n\nRemain nearby while speaking. Leaving the NPC's vicinity closes the conversation. If you return later, the lore is still available and your saved hunting ledger remains tied to your player in that world.",
+    "children": []
+  },
+  "chapter_17_8": {
+    "title": "Changing the archive",
+    "text": "A resource pack can replace these dialogue files, allowing the world's keeper to adapt the stories to a particular settlement. Keep the node links valid so every wheel choice leads somewhere useful.\n\nCaelen's target inclusion and exclusion rules belong to server configuration and entity-type tags. That distinction lets the text tell your world's story while the server continues to decide which hunts exist and when they are complete.",
+    "children": []
+  },
+  "chapter_18": {
+    "title": "The open chronicle",
+    "text": "There is always room for one more question, one more account, and one more correction. The purpose of an archive is not to end the world's conversation with itself.\n\nBefore you go, consider what you will carry away and what you might bring back. A guide can point toward a road; a traveller discovers what the road has become.",
+    "children": [
+      "chapter_18_1",
+      "chapter_18_2",
+      "chapter_18_3",
+      "chapter_18_4",
+      "chapter_18_5",
+      "chapter_18_6",
+      "chapter_18_7",
+      "chapter_18_8"
+    ]
+  },
+  "chapter_18_1": {
+    "title": "What should I seek?",
+    "text": "Seek something your life here needs: a safer route, a useful material, a better understanding, or a place that makes you want to return. Let that purpose guide the expedition before rarity begins shouting over it.\n\nWonder is also a reason. You are allowed to explore because a distant shape is beautiful or a valley asks a question. Bring enough preparation that curiosity has a fair chance of bringing you home.",
+    "children": []
+  },
+  "chapter_18_2": {
+    "title": "What should I record?",
+    "text": "Write down the things you would be glad to know before repeating the journey: where you went, what changed your plan, what supplies mattered, and which assumptions failed. Include the uneventful route home.\n\nDo not wait for an extraordinary discovery to deserve a page. Reliable ordinary observations are the foundations beneath extraordinary conclusions. A hundred careful notes can do work that one spectacular but unsupported claim cannot.",
+    "children": []
+  },
+  "chapter_18_3": {
+    "title": "A question for you",
+    "text": "When you imagine your refuge a season from now, what do you hope people will be able to do there that they cannot do today? Eat safely, learn a craft, cross a river, meet a friend, or simply sleep?\n\nYou need not answer me aloud. Let the answer choose one of your next tasks. It may make a large and confusing project small enough to begin without making its purpose any less important.",
+    "children": []
+  },
+  "chapter_18_4": {
+    "title": "If you find an error",
+    "text": "Bring the evidence. Tell me where the account failed and what you observed instead. A correction is a gift when it helps the next traveller avoid repeating the same mistake.\n\nI may ask questions; that is part of understanding, not a refusal to listen. We should examine the new claim with the same care as the old one. The archive improves when neither age nor novelty is mistaken for proof.",
+    "children": []
+  },
+  "chapter_18_5": {
+    "title": "A blessing for the road",
+    "text": "May your lamp last until you find another light. May your companions speak before their courage becomes silence. May you recognise a safe retreat while it is still available.\n\nAnd when you return, may you have a story that includes the ordinary kindnesses as well as the danger. Those are the parts most likely to help someone else decide that the journey is worth attempting.",
+    "children": []
+  },
+  "chapter_18_6": {
+    "title": "Come back unchanged?",
+    "text": "You need not return as the person who left. Learning would be a peculiar endeavour if its highest achievement were preserving every old opinion exactly. Bring your changed mind as readily as your changed equipment.\n\nWhat I hope remains is your willingness to examine what the journey has taught you. Experience can widen a life or harden it. The difference often lies in whether we continue asking questions after receiving a painful answer.",
+    "children": []
+  },
+  "chapter_18_7": {
+    "title": "One final counsel",
+    "text": "Do not organise your whole life around being ready for the worst moment. Prepare for danger, certainly, but also build places for the days when danger does not arrive. Put a bench where the view is pleasant.\n\nThe Deep Night becomes smaller when people can do more than endure it. A safe evening shared with someone you like is not a distraction from saving the world. It is part of what makes the world worth saving.",
+    "children": []
+  },
+  "chapter_18_8": {
+    "title": "Until we speak again",
+    "text": "Go carefully, traveller. I will remain here with the books, the imperfect kettle, and whatever questions the next visitor brings. You may return to any subject; there is no penalty for needing to hear something twice.\n\nIf the road is kind, enjoy it without apologising. If it is difficult, bring back what you learned and let us consider the next step together. Even a long night is made of moments, and moments can change.",
+    "children": []
+  }
+}

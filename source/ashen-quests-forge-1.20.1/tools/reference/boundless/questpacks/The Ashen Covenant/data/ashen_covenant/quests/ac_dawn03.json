@@ -1,0 +1,34 @@
+{
+  "id": "ac_dawn03",
+  "name": "A Light Seen from Every Road",
+  "icon": "minecraft:beacon",
+  "description": "The provinces agree to expand Dawnstead's beacon. Each insists that its workers should help build it. For once their competition produces something generous.\n\nBuild a full-size beacon pyramid and earn Beaconator. Use any valid mixture of beacon-base blocks; this is a substantial communal construction milestone.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_dawn",
+  "dependencies": [
+    "ac_dawn01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:nether/create_full_beacon"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

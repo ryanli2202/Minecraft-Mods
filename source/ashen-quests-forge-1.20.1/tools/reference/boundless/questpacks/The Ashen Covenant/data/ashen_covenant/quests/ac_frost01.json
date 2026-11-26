@@ -1,0 +1,40 @@
+{
+  "id": "ac_frost01",
+  "name": "The Envoy in Chains",
+  "icon": "minecraft:soul_lantern",
+  "description": "With the coast and desert seated, the council receives a northern envoy carrying his own arrest warrant. His province's laws still treat departure as desertion.\n\nAcquire Cataclysm's Cursed Eye and 16 leather to prepare for the Frosted Prison expedition.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_frost",
+  "dependencies": [
+    "ac_desert08",
+    "ac_coast08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:cursed_eye",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:leather",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

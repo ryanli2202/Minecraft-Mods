@@ -1,0 +1,35 @@
+{
+  "id": "ac_relic02",
+  "name": "A Vessel without a King",
+  "icon": "minecraft:brush",
+  "description": "An ordinary pot survives where royal proclamations did not. Sera thinks the pot tells the more useful story.\n\nAcquire a decorated pot. A brick-crafted pot counts; rare sherd collection is your own optional pursuit.",
+  "category": "ac_guilds",
+  "sub-category": "ac_relic",
+  "dependencies": [
+    "ac_relic01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:decorated_pot",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 70
+  }
+}

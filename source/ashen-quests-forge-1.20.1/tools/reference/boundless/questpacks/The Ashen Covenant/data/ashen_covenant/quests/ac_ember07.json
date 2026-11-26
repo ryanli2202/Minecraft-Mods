@@ -1,0 +1,39 @@
+{
+  "id": "ac_ember07",
+  "name": "An Armory for the Unarmed",
+  "icon": "minecraft:blaze_powder",
+  "description": "Elian refuses to inherit the loyalist ranks. Mara turns the expedition's profits toward tools, hinges, and wagon fittings.\n\nDonate 32 iron ingots and 16 copper ingots to the civilian workshops. The victory should leave something useful behind.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_ember",
+  "dependencies": [
+    "ac_ember06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:copper_ingot",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

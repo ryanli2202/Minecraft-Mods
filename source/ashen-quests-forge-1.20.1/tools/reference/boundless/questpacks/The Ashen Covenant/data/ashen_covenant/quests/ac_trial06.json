@@ -1,0 +1,39 @@
+{
+  "id": "ac_trial06",
+  "name": "The Sun Court",
+  "icon": "minecraft:iron_sword",
+  "description": "The scouts report a powerful guardian beneath an unfamiliar sun emblem. Sera asks you to learn the encounter rather than assuming every crowned figure fights alike.\n\nDefeat Mowzie's Mobs' Umvuthi. Prepare for the encounter mechanics and surrounding followers.",
+  "category": "ac_trials",
+  "sub-category": "ac_hunttrials",
+  "dependencies": [
+    "ac_m48"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mowziesmobs:umvuthi",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

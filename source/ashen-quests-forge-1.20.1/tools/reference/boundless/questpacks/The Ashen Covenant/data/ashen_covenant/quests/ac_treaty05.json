@@ -1,0 +1,43 @@
+{
+  "id": "ac_treaty05",
+  "name": "A Room for the Returned",
+  "icon": "minecraft:writable_book",
+  "description": "Rowan prepares beds in the infirmary and refuses to discuss whether all of them will be needed.\n\nDonate 16 white wool, 16 glass bottles, and 16 bread to the return station.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_treaty04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:white_wool",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:glass_bottle",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:bread",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

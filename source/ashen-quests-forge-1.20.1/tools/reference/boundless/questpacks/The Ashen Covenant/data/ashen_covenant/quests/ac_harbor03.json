@@ -1,0 +1,35 @@
+{
+  "id": "ac_harbor03",
+  "name": "The Light in the Current",
+  "icon": "minecraft:nautilus_shell",
+  "description": "A second underwater landmark would let damaged vessels approach the harbor without relying on a single light.\n\nAcquire 16 sea lanterns for a harbor approach. Build the lighted route in your chosen waters; placement is not tracked.",
+  "category": "ac_guilds",
+  "sub-category": "ac_harbor",
+  "dependencies": [
+    "ac_harbor01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:sea_lantern",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

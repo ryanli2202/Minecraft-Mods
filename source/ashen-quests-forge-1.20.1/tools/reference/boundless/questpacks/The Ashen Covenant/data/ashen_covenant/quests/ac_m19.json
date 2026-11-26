@@ -1,0 +1,35 @@
+{
+  "id": "ac_m19",
+  "name": "19 | The Cartographer of Bones",
+  "icon": "explorerscompass:explorerscompass",
+  "description": "A dragon hunter named Ysolde sends a map with all the safe routes crossed out. \"The map is accurate,\" she writes. \"It is the world that has become unreasonable.\"\n\nAcquire an Explorer's Compass. Use its available structure search to plan expeditions; Ice and Fire dragon roosts may still require ordinary exploration.",
+  "category": "ac_story",
+  "sub-category": "ac_act4",
+  "dependencies": [
+    "ac_iron08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "explorerscompass:explorerscompass",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:arrow",
+        "count": 48
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

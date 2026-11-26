@@ -1,0 +1,38 @@
+{
+  "id": "ac_trial11",
+  "name": "One Shot, Two Lessons",
+  "icon": "minecraft:compass",
+  "description": "The quartermaster would prefer that every training exercise used fewer arrows. Iona takes the suggestion more seriously than intended.\n\nEarn Two Birds, One Arrow through the vanilla Piercing crossbow and phantom conditions.",
+  "category": "ac_trials",
+  "sub-category": "ac_mastertrials",
+  "dependencies": [
+    "ac_ranger05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:adventure/two_birds_one_arrow"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 160
+  }
+}

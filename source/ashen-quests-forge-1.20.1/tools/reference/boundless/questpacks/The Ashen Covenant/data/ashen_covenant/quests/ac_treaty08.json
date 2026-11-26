@@ -1,0 +1,43 @@
+{
+  "id": "ac_treaty08",
+  "name": "Leave the Lantern Burning",
+  "icon": "minecraft:writable_book",
+  "description": "Fen volunteers for the last watch outside the portal. His instructions are to wait, not to follow. For once, a heroic story has given somebody permission to stay safe.\n\nAcquire 4 ender pearls and a water bucket for your final readiness check, then proceed to A Sky without Dawn.",
+  "category": "ac_story",
+  "sub-category": "ac_treaty",
+  "dependencies": [
+    "ac_treaty07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:ender_pearl",
+        "count": 4
+      },
+      {
+        "collect": "minecraft:water_bucket",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

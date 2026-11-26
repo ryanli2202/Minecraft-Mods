@@ -1,0 +1,39 @@
+{
+  "id": "ac_souls02",
+  "name": "The Knight Still on Duty",
+  "icon": "minecraft:soul_torch",
+  "description": "A Returning Knight guards a charge whose name has been lost. Elian asks you to give it the one order no monarch bothered to send: rest.\n\nDefeat Soulslike Weaponry's Returning Knight. The legacy legendary quest may share credit for this exact target.",
+  "category": "ac_guilds",
+  "sub-category": "ac_souls",
+  "dependencies": [
+    "ac_souls01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "soulsweapons:returning_knight",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

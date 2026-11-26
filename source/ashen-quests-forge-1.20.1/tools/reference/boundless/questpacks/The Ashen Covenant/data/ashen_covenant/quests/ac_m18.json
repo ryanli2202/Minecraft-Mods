@@ -1,0 +1,39 @@
+{
+  "id": "ac_m18",
+  "name": "18 | No More Borrowed Peace",
+  "icon": "minecraft:book",
+  "description": "Elian asks whether exposing the bargain will bring another war. Rowan answers: \"A peace that eats our children is already a war.\" You commit to breaking the covenant rather than inheriting it.\n\nRead the oath and enter \"no borrowed peace\" in the quest's text field. This is a story acknowledgement, not a hidden password puzzle.",
+  "category": "ac_story",
+  "sub-category": "ac_act3",
+  "dependencies": [
+    "ac_m17"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "no borrowed peace",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:cooked_beef",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 50
+  }
+}

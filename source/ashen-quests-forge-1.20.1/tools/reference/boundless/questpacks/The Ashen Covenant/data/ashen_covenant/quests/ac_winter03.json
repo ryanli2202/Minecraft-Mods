@@ -1,0 +1,39 @@
+{
+  "id": "ac_winter03",
+  "name": "A Map of White Places",
+  "icon": "minecraft:snowball",
+  "description": "Iona cannot guarantee a short route. She can guarantee that every safe stopping place will be recorded before the company moves on.\n\nAcquire a Waystones warp stone and 16 ender pearls. Use the travel network available in your instance; owning these does not activate a waypoint automatically.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_winter01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "waystones:warp_stone",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:ender_pearl",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

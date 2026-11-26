@@ -1,0 +1,39 @@
+{
+  "id": "ac_m30",
+  "name": "30 | The Names in the Cinders",
+  "icon": "minecraft:book",
+  "description": "When the furnace falls silent, Sera finds names in its accounts: soldiers, debtors, children. Among them is Rowan's missing brother. The dead king did not forget his people. He inventoried them.\n\nReturn your attention to the living: donate 24 bread and 8 gold ingots to Dawnstead's relief fund. Make the journey home when you are ready; the turn-in itself can be claimed anywhere.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_act5",
+  "dependencies": [
+    "ac_m29"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:bread",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:gold_ingot",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 120
+  }
+}

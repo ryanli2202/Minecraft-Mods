@@ -1,0 +1,8 @@
+{
+  "id": "ac_harbor",
+  "category": "ac_guilds",
+  "name": "Fen | A Fleet for Everyone",
+  "icon": "minecraft:nautilus_shell",
+  "order": 104,
+  "default_open": true
+}

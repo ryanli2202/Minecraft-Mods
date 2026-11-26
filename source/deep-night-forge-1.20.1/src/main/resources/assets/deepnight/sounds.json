@@ -1,0 +1,695 @@
+{
+  "ember_drake.ambient": {
+    "subtitle": "subtitles.deepnight.ember_drake.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.dragonfire.searclaw_adult_idle",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.dragonfire.ss.df.dragon.idle.ss_df.searclaw_adult_idle",
+        "type": "event"
+      }
+    ]
+  },
+  "ember_drake.attack": {
+    "subtitle": "subtitles.deepnight.ember_drake.attack",
+    "sounds": [
+      {
+        "name": "deepnight:source.dragonfire.breath_fire",
+        "type": "event"
+      }
+    ]
+  },
+  "tide_drake.ambient": {
+    "subtitle": "subtitles.deepnight.tide_drake.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.dragonfire.tidewing_adult_idle",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.dragonfire.ss.df.dragon.idle.ss_df.tidewing_adult_idle",
+        "type": "event"
+      }
+    ]
+  },
+  "tide_drake.attack": {
+    "subtitle": "subtitles.deepnight.tide_drake.attack",
+    "sounds": [
+      {
+        "name": "deepnight:source.dragonfire.breath_fire",
+        "type": "event"
+      }
+    ]
+  },
+  "dire_boar.hurt": {
+    "subtitle": "subtitles.deepnight.dire_boar.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.demonhit",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:source.aerlunerpg.demonhit2",
+        "type": "event"
+      }
+    ]
+  },
+  "moon_stag.hurt": {
+    "subtitle": "subtitles.deepnight.moon_stag.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.deerhit",
+        "type": "event"
+      }
+    ]
+  },
+  "sea_turtle.ambient": {
+    "subtitle": "subtitles.deepnight.sea_turtle.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.sea_turtle.damage",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.sea_turtle.swim1",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.sea_turtle.swim2",
+        "type": "event"
+      }
+    ]
+  },
+  "sea_turtle.attack": {
+    "subtitle": "subtitles.deepnight.sea_turtle.attack",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.sea_turtle.attack",
+        "type": "event"
+      }
+    ]
+  },
+  "sea_turtle.step": {
+    "subtitle": "subtitles.deepnight.sea_turtle.step",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.sea_turtle.swim1",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.sea_turtle.swim2",
+        "type": "event"
+      }
+    ]
+  },
+  "seagull.ambient": {
+    "subtitle": "subtitles.deepnight.seagull.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.random.intro_seagulls",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.seagull.damage",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.seagull.fly1",
+        "type": "event"
+      }
+    ]
+  },
+  "seagull.death": {
+    "subtitle": "subtitles.deepnight.seagull.death",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.seagull.death_fall",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.seagull.death_ground",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.seagull.death_land",
+        "type": "event"
+      }
+    ]
+  },
+  "seagull.step": {
+    "subtitle": "subtitles.deepnight.seagull.step",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.seagull.fly1",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.seagull.fly2",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.seagull.fly3",
+        "type": "event"
+      }
+    ]
+  },
+  "jungle_snake.ambient": {
+    "subtitle": "subtitles.deepnight.jungle_snake.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.npc.arena_seasnake1",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.npc.arena_seasnake2",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.npc.arena_seasnake3",
+        "type": "event"
+      }
+    ]
+  },
+  "jungle_snake.death": {
+    "subtitle": "subtitles.deepnight.jungle_snake.death",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.random.sea_snake.death",
+        "type": "event"
+      }
+    ]
+  },
+  "jungle_snake.attack": {
+    "subtitle": "subtitles.deepnight.jungle_snake.attack",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.snake.attack",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.random.sea_snake.attack_onwater",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.random.sea_snake.attack_underwater",
+        "type": "event"
+      }
+    ]
+  },
+  "jungle_snake.spawn": {
+    "subtitle": "subtitles.deepnight.jungle_snake.spawn",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.random.sea_snake.spawn",
+        "type": "event"
+      }
+    ]
+  },
+  "jungle_snake.step": {
+    "subtitle": "subtitles.deepnight.jungle_snake.step",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.snake.walk1",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.snake.walk2",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.snake.walk3",
+        "type": "event"
+      }
+    ]
+  },
+  "jungle_snake.music": {
+    "subtitle": "subtitles.deepnight.jungle_snake.music",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.music.start.seasnake_start",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.boxx.music.theme.seasnake_theme",
+        "type": "event"
+      }
+    ]
+  },
+  "night_goblin.hurt": {
+    "subtitle": "subtitles.deepnight.night_goblin.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.gnomehit",
+        "type": "event"
+      }
+    ]
+  },
+  "grave_ghoul.ambient": {
+    "subtitle": "subtitles.deepnight.grave_ghoul.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.world.ghoul",
+        "type": "event"
+      }
+    ]
+  },
+  "serpent_guard.ambient": {
+    "subtitle": "subtitles.deepnight.serpent_guard.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.souls.serpent_man_ambient",
+        "type": "event"
+      }
+    ]
+  },
+  "serpent_guard.hurt": {
+    "subtitle": "subtitles.deepnight.serpent_guard.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.souls.serpent_man_hurt",
+        "type": "event"
+      }
+    ]
+  },
+  "dusk_assassin.hurt": {
+    "subtitle": "subtitles.deepnight.dusk_assassin.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.souls.undead_hurt",
+        "type": "event"
+      }
+    ]
+  },
+  "dusk_assassin.death": {
+    "subtitle": "subtitles.deepnight.dusk_assassin.death",
+    "sounds": [
+      {
+        "name": "deepnight:source.souls.undead_death",
+        "type": "event"
+      }
+    ]
+  },
+  "bone_soldier.hurt": {
+    "subtitle": "subtitles.deepnight.bone_soldier.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.souls.undead_hurt",
+        "type": "event"
+      }
+    ]
+  },
+  "bone_soldier.death": {
+    "subtitle": "subtitles.deepnight.bone_soldier.death",
+    "sounds": [
+      {
+        "name": "deepnight:source.souls.undead_death",
+        "type": "event"
+      }
+    ]
+  },
+  "lost_shade.hurt": {
+    "subtitle": "subtitles.deepnight.lost_shade.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.ghosthit",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.aerlunerpg.ghost_hit",
+        "type": "event"
+      }
+    ]
+  },
+  "lost_shade.death": {
+    "subtitle": "subtitles.deepnight.lost_shade.death",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.ghostdie",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.aerlunerpg.ghost_die",
+        "type": "event"
+      }
+    ]
+  },
+  "centaur_ranger.ambient": {
+    "subtitle": "subtitles.deepnight.centaur_ranger.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.world.centaur_text",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:source.world.centaur2",
+        "type": "event"
+      }
+    ]
+  },
+  "ghost_guardian.ambient": {
+    "subtitle": "subtitles.deepnight.ghost_guardian.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.world.ghost_idle1",
+        "type": "event"
+      }
+    ]
+  },
+  "ghost_guardian.hurt": {
+    "subtitle": "subtitles.deepnight.ghost_guardian.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.world.ghost_hit1",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.world.ghost_hit",
+        "type": "event"
+      }
+    ]
+  },
+  "ghost_guardian.death": {
+    "subtitle": "subtitles.deepnight.ghost_guardian.death",
+    "sounds": [
+      {
+        "name": "deepnight:source.world.ghost_die",
+        "type": "event"
+      }
+    ]
+  },
+  "goblin_swordsman.hurt": {
+    "subtitle": "subtitles.deepnight.goblin_swordsman.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.gnomehit",
+        "type": "event"
+      }
+    ]
+  },
+  "goblin_shaman.hurt": {
+    "subtitle": "subtitles.deepnight.goblin_shaman.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.gnomehit",
+        "type": "event"
+      }
+    ]
+  },
+  "gravedigger.ambient": {
+    "subtitle": "subtitles.deepnight.gravedigger.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.world.gravedigger",
+        "type": "event"
+      }
+    ]
+  },
+  "winged_eye.ambient": {
+    "subtitle": "subtitles.deepnight.winged_eye.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.world.buzzing",
+        "type": "event"
+      }
+    ]
+  },
+  "house_gnome.hurt": {
+    "subtitle": "subtitles.deepnight.house_gnome.hurt",
+    "sounds": [
+      {
+        "name": "deepnight:source.aerlunerpg.gnomehit",
+        "type": "event"
+      }
+    ]
+  },
+  "little_knight.death": {
+    "subtitle": "subtitles.deepnight.little_knight.death",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.mob.little_knight.death",
+        "type": "event"
+      }
+    ]
+  },
+  "little_knight.attack": {
+    "subtitle": "subtitles.deepnight.little_knight.attack",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.mob.little_knight.attack",
+        "type": "event"
+      }
+    ]
+  },
+  "little_knight.spawn": {
+    "subtitle": "subtitles.deepnight.little_knight.spawn",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.mob.little_knight.spawn",
+        "type": "event"
+      }
+    ]
+  },
+  "piranha.death": {
+    "subtitle": "subtitles.deepnight.piranha.death",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.random.piranha.death",
+        "type": "event"
+      }
+    ]
+  },
+  "piranha.attack": {
+    "subtitle": "subtitles.deepnight.piranha.attack",
+    "sounds": [
+      {
+        "name": "deepnight:imported.boxx.random.piranha.attack",
+        "type": "event"
+      }
+    ]
+  },
+  "phantom_ghost.ambient": {
+    "subtitle": "subtitles.deepnight.phantom_ghost.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.bosses_plus.shapescape_mb.phantom_ghost.start",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:source.bosses_plus.shapescape_mb.phantom_ghost.fail",
+        "type": "event"
+      }
+    ]
+  },
+  "sculkpion_minion.ambient": {
+    "subtitle": "subtitles.deepnight.sculkpion_minion.ambient",
+    "sounds": [
+      {
+        "name": "deepnight:source.bosses_plus.shapescape_mb.sculkpion_minion.hatch",
+        "type": "event"
+      },
+      {
+        "name": "deepnight:imported.bosses_plus.shapescape.mb.sculkpion_minion.hatch",
+        "type": "event"
+      }
+    ]
+  },
+  "dawn.giantdeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/giant.death",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.cavedwellerdeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/cavedweller.death",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.sand_wyrm_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/sand_wyrm_living",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.sand_wyrm_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/sand_wyrm_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.sand_wyrm_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/sand_wyrm_death",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.ogre_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/ogre_death",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.werewolf.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/werewolf.death",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.werewolf.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/werewolf.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.cave_golem.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/cave_golem.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.cave_blockhead.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/cave_blockhead.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.gryphon.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/gryphon.death",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.rat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/rat",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.rat_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/rat_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "dawn.rat_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "deepnight:imports/dawn/rat_death",
+        "stream": false
+      }
+    ]
+  },
+  "mobosses.divine_dragon_music": {
+    "category": "record",
+    "subtitle": "subtitles.mobosses.divine_dragon_music",
+    "sounds": [
+      {
+        "name": "deepnight:imports/mobosses/divine_dragon_music",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "mobosses.demon_king_music": {
+    "category": "record",
+    "subtitle": "subtitles.mobosses.demon_king_music",
+    "sounds": [
+      {
+        "name": "deepnight:imports/mobosses/demon_king_music",
+        "stream": true,
+        "volume": 1.0
+      }
+    ]
+  },
+  "mobosses.demon_king_growl": {
+    "subtitle": "subtitles.mobosses.demon_king_growl",
+    "sounds": [
+      "deepnight:imports/mobosses/demon_king_growl"
+    ]
+  },
+  "mobosses.demon_king_hurt": {
+    "subtitle": "subtitles.mobosses.demon_king_hurt",
+    "sounds": [
+      "deepnight:imports/mobosses/demon_king_hurt"
+    ]
+  },
+  "mobosses.nil_grunt": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_grunt",
+    "sounds": [
+      "deepnight:imports/mobosses/nil/grunt_1",
+      "deepnight:imports/mobosses/nil/grunt_2",
+      "deepnight:imports/mobosses/nil/grunt_3",
+      "deepnight:imports/mobosses/nil/grunt_4",
+      "deepnight:imports/mobosses/nil/grunt_5"
+    ]
+  },
+  "mobosses.nil_hurt": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_hurt",
+    "sounds": [
+      "deepnight:imports/mobosses/nil/hit_1",
+      "deepnight:imports/mobosses/nil/hit_2",
+      "deepnight:imports/mobosses/nil/hit_3",
+      "deepnight:imports/mobosses/nil/hit_4"
+    ]
+  },
+  "mobosses.nil_death": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_death",
+    "sounds": [
+      "deepnight:imports/mobosses/nil/death"
+    ]
+  },
+  "mobosses.nil_swing": {
+    "category": "hostile",
+    "subtitle": "subtitles.mobosses.nil_swing",
+    "sounds": [
+      "deepnight:imports/mobosses/nil/swing_1",
+      "deepnight:imports/mobosses/nil/swing_2",
+      "deepnight:imports/mobosses/nil/sword_swing_1"
+    ]
+  }
+}

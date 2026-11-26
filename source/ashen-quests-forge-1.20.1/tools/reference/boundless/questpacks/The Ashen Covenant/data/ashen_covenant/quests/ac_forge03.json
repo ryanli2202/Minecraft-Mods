@@ -1,0 +1,39 @@
+{
+  "id": "ac_forge03",
+  "name": "Metal without a Coat of Arms",
+  "icon": "minecraft:anvil",
+  "description": "A border village sends broken royal armor. Mara accepts the metal and refuses the crest stamped into it.\n\nDonate 16 copper ingots and 8 gold ingots for civilian alloy experiments. These commissions do not add new recipes.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_guilds",
+  "sub-category": "ac_forge",
+  "dependencies": [
+    "ac_forge01"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:copper_ingot",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:gold_ingot",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

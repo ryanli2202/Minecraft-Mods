@@ -1,0 +1,39 @@
+{
+  "id": "ac_coast01",
+  "name": "The Harbor That Sank Twice",
+  "icon": "minecraft:prismarine",
+  "description": "Fen once traded in the Sunken Coast. The sea took its walls first; isolation took its government afterward. The survivors now live by salvage and contradictory maps.\n\nAcquire Cataclysm's Abyss Eye and a conduit. Use the locator to plan a Sunken City expedition and prepare reliable underwater survival.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_coast",
+  "dependencies": [
+    "ac_council08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "cataclysm:abyss_eye",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:conduit",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

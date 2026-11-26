@@ -1,0 +1,39 @@
+{
+  "id": "ac_m02",
+  "name": "02 | A Light on the Road",
+  "icon": "minecraft:torch",
+  "description": "Rowan writes that refugees follow torchlight, even when they no longer trust voices. You cannot bring back the old road, but you can mark a safe stretch of the new one.\n\nGather 16 torches and 16 cobblestone. Choose a campsite near food and timber. Placing lights is encouraged; the journal checks supplies held.",
+  "category": "ac_story",
+  "sub-category": "ac_act1",
+  "dependencies": [
+    "ac_m01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:torch",
+        "count": 16
+      },
+      {
+        "collect": "minecraft:cobblestone",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:coal",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 15
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_souls05",
+  "name": "The Moon Has No Subjects",
+  "icon": "minecraft:soul_torch",
+  "description": "The Moonknight's oath names the sky itself as sovereign. Ysolde wonders whether the sky ever agreed to accept its service.\n\nComplete the Soulslike Weaponry Moonknight encounter and receive kill credit for soulsweapons:moonknight. Prepare for its full encounter phases.",
+  "category": "ac_guilds",
+  "sub-category": "ac_souls",
+  "dependencies": [
+    "ac_souls04"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "soulsweapons:moonknight",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

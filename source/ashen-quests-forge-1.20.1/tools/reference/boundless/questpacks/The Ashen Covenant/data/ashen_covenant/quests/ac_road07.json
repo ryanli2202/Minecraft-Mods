@@ -1,0 +1,39 @@
+{
+  "id": "ac_road07",
+  "name": "A Workshop on Wheels",
+  "icon": "minecraft:lantern",
+  "description": "Mara packs repair tools in a cart. \"A road is not open because you walked it once,\" she says. \"Someone must keep walking it.\"\n\nAcquire an anvil and 16 rails for a mobile workshop supply cache. You keep both; build the workshop wherever it serves your journey.",
+  "category": "ac_story",
+  "sub-category": "ac_road",
+  "dependencies": [
+    "ac_road06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:anvil",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:rail",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ac_watch06",
+  "name": "Marshal by Consent",
+  "icon": "minecraft:shield",
+  "description": "The watch offers Elian a lifetime commission. He declines and proposes a term that can be renewed, or ended, by the people they protect.\n\nEnter \"service can be withdrawn\" to sign the watch charter. The title is a story milestone; it does not spawn guards or grant command permissions.",
+  "category": "ac_guilds",
+  "sub-category": "ac_watch",
+  "dependencies": [
+    "ac_watch05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "service can be withdrawn",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

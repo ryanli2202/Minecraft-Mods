@@ -1,0 +1,39 @@
+{
+  "id": "ac_m11",
+  "name": "11 | The Siege Beast",
+  "icon": "minecraft:saddle",
+  "description": "A ravager tears through the old toll gate. Its harness bears the same broken sun as Rowan's letter. The king's own quartermasters once armed these beasts.\n\nDefeat one ravager. Prepare a controlled battlefield and protect villagers if you choose to obtain the fight through a raid.",
+  "category": "ac_story",
+  "sub-category": "ac_act2",
+  "dependencies": [
+    "ac_m10"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:ravager",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      },
+      {
+        "item": "minecraft:golden_apple",
+        "count": 1
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

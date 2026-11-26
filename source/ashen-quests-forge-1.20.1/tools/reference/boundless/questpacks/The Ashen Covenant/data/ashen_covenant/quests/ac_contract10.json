@@ -1,0 +1,39 @@
+{
+  "id": "ac_contract10",
+  "name": "A Roof before the Rain",
+  "icon": "minecraft:paper",
+  "description": "Fen reports three leaking waystations. Mara sends specifications and invites you to supply the timber.\n\nDonate the listed materials through the quest book. This optional provincial contract consumes supplies each time; repeat only when you want the work.\n\nTurn-in: submitted items are consumed when you claim this quest.\n\nRepeatable contract: use Repeat in the quest book after claiming.",
+  "category": "ac_contracts",
+  "sub-category": "ac_board",
+  "dependencies": [
+    "ac_council08"
+  ],
+  "optional": true,
+  "repeatable": true,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:spruce_planks",
+        "count": 48
+      },
+      {
+        "submit": "minecraft:glass",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 15
+  }
+}

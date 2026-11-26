@@ -1,0 +1,39 @@
+{
+  "id": "ac_marsh06",
+  "name": "No One Left in the Reeds",
+  "icon": "minecraft:lily_pad",
+  "description": "With the creature gone, Fen can reach the stranded boats. The passengers have endured enough dark nights to stop believing in rescue.\n\nDonate 16 cooked cod and 16 white wool for food and bedding. White wool is the exact requested item; other colors do not satisfy this shipment.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_marsh05"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:cooked_cod",
+        "count": 16
+      },
+      {
+        "submit": "minecraft:white_wool",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 40
+  }
+}

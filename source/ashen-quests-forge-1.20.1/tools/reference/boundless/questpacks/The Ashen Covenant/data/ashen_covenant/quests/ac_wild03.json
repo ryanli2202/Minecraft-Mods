@@ -1,0 +1,35 @@
+{
+  "id": "ac_wild03",
+  "name": "The White Silence",
+  "icon": "minecraft:iron_axe",
+  "description": "A Frostmaw sleeps across the mountain pass. The merchants have begun calculating the cost of abandoning the north entirely.\n\nDefeat Mowzie's Mobs' Frostmaw. Treat this as a boss expedition and prepare for cold and heavy damage.",
+  "category": "ac_guilds",
+  "sub-category": "ac_wild",
+  "dependencies": [
+    "ac_wild02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mowziesmobs:frostmaw",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      }
+    ],
+    "exp": "points",
+    "count": 90
+  }
+}

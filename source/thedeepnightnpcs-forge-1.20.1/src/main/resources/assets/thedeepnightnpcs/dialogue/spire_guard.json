@@ -1,0 +1,56 @@
+{
+  "root": {
+    "title": "Hold a moment, traveller",
+    "text": "Easy there. You are welcome beneath the Spire so long as you keep your blade sheathed around our guests. I keep watch here; Eldara keeps the stories, and Caelen keeps the hunting ledger.\n\nWhat do you need?\n\nAn End portal frame already stands at the Spire. Earn its keys progressively through The Lost Eyes | NPC Trials. Start with Sera after Eldara's The First Hearth; follow each trial's named companion and story milestone. The first twelve trials award twelve different End Remastered eyes. Keep them for the Spire frame instead of throwing them to search for a stronghold.\n\nWhen Eldara assigns The Portal at the Spire, choose Discuss a quest with me to confirm your preparations.",
+    "children": [
+      "chapter_1_1",
+      "chapter_1_2",
+      "chapter_1_3",
+      "chapter_1_4",
+      "chapter_1_5",
+      "chapter_1_6",
+      "chapter_1_7",
+      "chapter_1_8"
+    ]
+  },
+  "chapter_1_1": {
+    "title": "Any trouble?",
+    "text": "Nothing I cannot keep an eye on from this post. That is not a promise about the entire road. Watch the dark approaches and do not mistake an empty path for a safe one.\n\nIf you bring danger back with you, leave room for people to move. A doorway full of panicked travellers is a poor place to swing a sword.",
+    "children": []
+  },
+  "chapter_1_2": {
+    "title": "Where is Eldara?",
+    "text": "Look for Eldara the Eternal Sage wherever the keeper of this refuge has placed her. She stands at her post and will turn to face you when you approach.\n\nRight-click to speak. She has enough stories for a long stay and enough practical advice to make that stay optional. Ask about the Spire if you want to know what our watch is meant to protect.",
+    "children": []
+  },
+  "chapter_1_3": {
+    "title": "Where is Caelen?",
+    "text": "Caelen the Monster Hunter keeps the contract board at his post. Speak to him, choose Available hunts, and read a report before accepting it.\n\nHe pays in emeralds and experience for completed hunts. He also insists on your own credited kills, so do not expect my sword to do your bookkeeping for you.",
+    "children": []
+  },
+  "chapter_1_4": {
+    "title": "Your patrol?",
+    "text": "About five blocks from where I was stationed. Close enough to keep the post in sight, far enough to stretch my legs and notice someone trying to come around the side.\n\nIf the settlement grows, it will need another post. I cannot guard three gates by promising to run faster between them.",
+    "children": []
+  },
+  "chapter_1_5": {
+    "title": "That shield?",
+    "text": "It gives a person behind me another moment to get through the door. The sword is useful, but I would rather finish a watch with everyone present than with an impressive account of how far I chased something.\n\nStay clear of the swing if trouble comes close. I will deal with nearby hostiles within my post, then return to watching the ground I was given.",
+    "children": []
+  },
+  "chapter_1_6": {
+    "title": "The Spire's rules?",
+    "text": "Respect the guests, keep the approaches clear, and do not start fights beside the people trying to rest. If you see danger, give a useful warning rather than a dramatic one.\n\nBeyond that, ask when you are uncertain. Most of us would rather explain a rule than discover how creatively someone misunderstood it.",
+    "children": []
+  },
+  "chapter_1_7": {
+    "title": "How is the watch?",
+    "text": "Quiet enough to hear my armour complain. The sage says that is a blessing. She has never worn this buckle through an entire evening.\n\nStill, a quiet watch means somebody has time to eat, sleep, or mend something. I try to remember that when I begin wishing for an interesting story.",
+    "children": []
+  },
+  "chapter_1_8": {
+    "title": "A word for the road",
+    "text": "Keep your provisions close and your return route clearer than your boast. If the expedition goes badly, coming home is still an achievement.\n\nWe will be here when you return. Tell Caelen about the hunt, tell Eldara what you learned, and tell me if something followed you.",
+    "children": []
+  }
+}

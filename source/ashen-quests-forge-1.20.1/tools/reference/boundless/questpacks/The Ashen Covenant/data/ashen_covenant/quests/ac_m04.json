@@ -1,0 +1,39 @@
+{
+  "id": "ac_m04",
+  "name": "04 | The Smith Without a Forge",
+  "icon": "minecraft:shield",
+  "description": "Mara, once the royal smith, survived by mending cooking pots. She offers the same lesson to every would-be hero: a shield is worth more than a grand epitaph.\n\nAcquire a shield and 8 iron ingots. Bring the shield into your main inventory for the collection check before equipping it.",
+  "category": "ac_story",
+  "sub-category": "ac_act1",
+  "dependencies": [
+    "ac_m03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:shield",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:iron_ingot",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:arrow",
+        "count": 24
+      }
+    ],
+    "exp": "points",
+    "count": 25
+  }
+}

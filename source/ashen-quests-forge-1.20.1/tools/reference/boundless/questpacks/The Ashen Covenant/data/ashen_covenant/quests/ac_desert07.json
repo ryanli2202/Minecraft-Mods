@@ -1,0 +1,39 @@
+{
+  "id": "ac_desert07",
+  "name": "The Wells Open at Dawn",
+  "icon": "minecraft:sandstone",
+  "description": "The oasis keepers remove the royal seal from the well. For a moment nobody steps forward; freedom is an unfamiliar rule.\n\nDonate 32 sandstone and 16 iron ingots for well repairs. The story opens the wells; this pack does not alter generated structures automatically.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_desert06"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:sandstone",
+        "count": 32
+      },
+      {
+        "submit": "minecraft:iron_ingot",
+        "count": 16
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

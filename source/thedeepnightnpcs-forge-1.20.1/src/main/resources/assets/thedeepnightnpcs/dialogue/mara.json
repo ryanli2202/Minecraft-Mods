@@ -1,0 +1,23 @@
+{
+  "root": {
+    "title": "Hearthwright of Dawnstead",
+    "text": "If that tool is broken, set it on the bench. If it is not, you can help mend someone else's. I am Mara. Eldara will brief you on the wider campaign; I need hands for the workshop and supplies for the apprentices.\n\nAn End portal frame already stands at the Spire. Earn its keys progressively through The Lost Eyes | NPC Trials. Start with Sera after Eldara's The First Hearth; follow each trial's named companion and story milestone. The first twelve trials award twelve different End Remastered eyes. Keep them for the Spire frame instead of throwing them to search for a stronghold.",
+    "children": [
+      "work",
+      "quests",
+      "eldara"
+    ]
+  },
+  "work": {
+    "title": "Your work",
+    "text": "A forge that makes only swords will never rebuild a province. We teach hinges, ploughs, sound roofs, and armor that brings its wearer home. Every apprentice earns a mark of their own. Speak to me about the work of many hands, and the name an apprentice is ready to put on it."
+  },
+  "quests": {
+    "title": "How can I help?",
+    "text": "Choose Covenant quests in our opening conversation to see my assignments. Accept one here before setting out, then return to me to turn it in and receive your emeralds. Use the minus key (-) to track its objectives while traveling. Some requests follow earlier work; your journal explains what must be finished first. If the Ashen Covenant quest mod is absent, I can still talk, but cannot offer its quests."
+  },
+  "eldara": {
+    "title": "The main chronicle",
+    "text": "Speak to Eldara and choose Main quests to continue the three books of the Ashen Covenant. She receives the expedition reports and gives the next main assignment. The rest of us have our own work, and we will ask for it in person."
+  }
+}

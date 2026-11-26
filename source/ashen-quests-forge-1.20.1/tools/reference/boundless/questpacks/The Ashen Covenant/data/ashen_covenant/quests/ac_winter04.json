@@ -1,0 +1,40 @@
+{
+  "id": "ac_winter04",
+  "name": "The Silence in the Pass",
+  "icon": "minecraft:snowball",
+  "description": "The monastery's approach lies in Frostmaw territory. Ysolde advises patience: the northern silence is sometimes asleep rather than empty.\n\nDefeat Mowzie's Mobs' Frostmaw. Your earlier optional victory counts if it was tracked.",
+  "category": "ac_story",
+  "sub-category": "ac_winter",
+  "dependencies": [
+    "ac_winter02",
+    "ac_winter03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mowziesmobs:frostmaw",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

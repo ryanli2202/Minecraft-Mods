@@ -1,0 +1,41 @@
+{
+  "id": "eradication",
+  "name": "Eradication",
+  "icon": "dungeons_and_combat:skull_head",
+  "description": "Hunt down the horrors that roam after dusk and survive the terrors of the Deep Night.",
+  "category": "wardenofthenight",
+  "sub-category": "fiends",
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "completion": {
+    "complete": [
+      {
+        "kill": "minecraft:zombie",
+        "count": 20
+      },
+      {
+        "kill": "minecraft:skeleton",
+        "count": 20
+      },
+      {
+        "kill": "minecraft:creeper",
+        "count": 10
+      },
+      {
+        "kill": "threateningly_mobs:elite_zombie_warrior",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "soulsweapons:lich_bane",
+        "count": 1
+      }
+    ]
+  }
+}

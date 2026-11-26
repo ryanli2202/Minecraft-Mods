@@ -1,0 +1,39 @@
+{
+  "id": "ac_marsh05",
+  "name": "The Blackwater Teeth",
+  "icon": "minecraft:lily_pad",
+  "description": "Swampjaw rises where the fishery once dumped its refuse. Sera refuses to call the creature evil. That does not make its hunger survivable.\n\nUse Fossil Bait according to Meet Your Fight's mechanics and defeat Swampjaw. Prepare an open combat area away from villagers and your base.",
+  "category": "ac_story",
+  "sub-category": "ac_marsh",
+  "dependencies": [
+    "ac_marsh04"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "meetyourfight:swampjaw",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 3
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 80
+  }
+}

@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Custom; supplied artwork retains its original ownership. See ASSET-NOTES.txt"
+[[mods]]
+modId="deepnight"
+version="1.4.1"
+displayName="The Deep Night"
+authors="Deep Night project"
+description='''A post-dragon boss campaign, bonded dragons and beasts, roaming horrors, weapons and vanilla-table enchantments.'''
+[[dependencies.deepnight]]
+modId="forge"
+mandatory=true
+versionRange="[47.4,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.deepnight]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.deepnight]]
+modId="geckolib"
+mandatory=true
+versionRange="[4.8.4,5)"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.deepnight]]
+modId="bettercombat"
+mandatory=false
+versionRange="[1.9,2)"
+ordering="AFTER"
+side="BOTH"

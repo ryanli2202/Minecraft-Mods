@@ -1,0 +1,40 @@
+{
+  "id": "ac_council04",
+  "name": "No More Automatic Wars",
+  "icon": "minecraft:redstone_block",
+  "description": "The delegates agree to a shared armory, but only if someone removes the machine that decides which towns deserve weapons. Elian refuses to let another decision be made by an inherited order.\n\nDefeat 4 Cataclysm Watchers in the factory expedition. These are the_watcher entities, not projectiles or decorative machines.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_council",
+  "dependencies": [
+    "ac_council02",
+    "ac_council03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:the_watcher",
+        "count": 4
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

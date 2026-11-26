@@ -1,0 +1,39 @@
+{
+  "id": "ac_trial02",
+  "name": "The Thunder in the Quarry",
+  "icon": "minecraft:iron_sword",
+  "description": "Mara evacuates the quarry after a green silhouette appears above the blasting face. Nobody is paid enough to test whether it is an ordinary creeper.\n\nDefeat a Mutant Monsters mutant creeper in an area where explosions will not destroy your home.",
+  "category": "ac_trials",
+  "sub-category": "ac_hunttrials",
+  "dependencies": [
+    "ac_m30"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "mutantmonsters:mutant_creeper",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 8
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ],
+    "exp": "points",
+    "count": 150
+  }
+}

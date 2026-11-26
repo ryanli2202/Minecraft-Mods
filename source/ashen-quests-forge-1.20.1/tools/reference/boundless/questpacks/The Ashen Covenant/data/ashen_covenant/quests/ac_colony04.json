@@ -1,0 +1,38 @@
+{
+  "id": "ac_colony04",
+  "name": "The Watch Comes Home",
+  "icon": "minecraft:oak_door",
+  "description": "Elian orders the guards to learn the residents' names before they learn parade drills. This is a place to defend, not occupy.\n\nComplete the MineColonies build guard tower advancement.",
+  "category": "ac_guilds",
+  "sub-category": "ac_colony",
+  "dependencies": [
+    "ac_colony03"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecolonies:minecolonies/build_guard_tower"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 16
+      },
+      {
+        "item": "minecraft:bread",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 110
+  }
+}

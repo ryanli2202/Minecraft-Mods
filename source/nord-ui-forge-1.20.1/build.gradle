@@ -1,0 +1,65 @@
+plugins {
+    id 'java'
+    id 'net.minecraftforge.gradle' version '6.0.35'
+}
+version = '1.1.1'
+group = 'dev.nordui'
+base.archivesName = 'the-deep-night-ui-forge-1.20.1'
+java.toolchain.languageVersion = JavaLanguageVersion.of(17)
+minecraft {
+    mappings channel: 'official', version: '1.20.1'
+    accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg')
+    runs {
+        configureEach {
+            workingDirectory project.file('run')
+            property 'forge.logging.console.level', 'info'
+            property 'mixin.env.remapRefMap', 'true'
+            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+            args '-mixin.config=nordui.mixins.json'
+            mods { nordui { source sourceSets.main } }
+        }
+        client {
+            if (project.hasProperty('smokeTest')) {
+                property 'nordui.smokeTest', 'true'
+                args '--width', '1280', '--height', '800'
+            }
+        }
+        server { args '--nogui' }
+        gameTestServer {
+            workingDirectory project.file(project.hasProperty('irons') ? 'run-tests-irons' : 'run-tests-core')
+            property 'forge.enabledGameTestNamespaces', 'nordui'
+        }
+    }
+}
+repositories { mavenCentral(); flatDir { dirs 'libs' } }
+dependencies {
+    minecraft 'net.minecraftforge:forge:1.20.1-47.4.10'
+    compileOnly fg.deobf('local.nordui:curios-forge:5.14.1+1.20.1')
+    compileOnly fg.deobf('local.companions:irons_spellbooks:1.20.1-3.16.1')
+    compileOnly fg.deobf('local.companions:geckolib-forge:1.20.1-4.8.4')
+    compileOnly fg.deobf('local.nordui:trashslot-forge:1.20.1-15.1.5')
+    if(project.hasProperty('curios') || project.hasProperty('irons')) runtimeOnly fg.deobf('local.nordui:curios-forge:5.14.1+1.20.1')
+    if(project.hasProperty('irons')) {
+        runtimeOnly fg.deobf('local.companions:irons_spellbooks:1.20.1-3.16.1')
+        runtimeOnly fg.deobf('local.companions:irons_lib:1.20.1-1.1.0')
+        runtimeOnly fg.deobf('local.companions:geckolib-forge:1.20.1-4.8.4')
+        runtimeOnly fg.deobf('local.companions:caelus-forge:3.2.0+1.20.1')
+        runtimeOnly fg.deobf('local.companions:player-animation-lib-forge:1.0.2-rc1+1.20')
+    }
+    if(project.hasProperty('uiMods')) {
+        runtimeOnly fg.deobf('local.deepnight:jei-1.20.1-forge:15.20.0.132')
+        runtimeOnly fg.deobf('local.nordui:Jade:1.20.1-Forge-11.13.2')
+        runtimeOnly fg.deobf('local.companions:ParCool:1.20.1-3.4.3.3')
+        runtimeOnly fg.deobf('local.nordui:trashslot-forge:1.20.1-15.1.5')
+        runtimeOnly fg.deobf('local.nordui:balm-forge:1.20.1-7.3.38-all')
+    }
+    if(project.hasProperty('rpgHud')) runtimeOnly fg.deobf('local.nordui:rpg-hud:3.13')
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+jar {
+    exclude 'dev/nordui/qa/**'
+    exclude 'data/nordui/structures/empty.nbt'
+    exclude 'data/curios/**' // Test-only emerald ring tag; never change a user's accessory rules.
+    manifest.attributes('MixinConfigs': 'nordui.mixins.json', 'Implementation-Version': project.version)
+    finalizedBy 'reobfJar'
+}

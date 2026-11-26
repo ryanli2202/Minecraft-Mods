@@ -1,0 +1,43 @@
+{
+  "id": "ac_harbor06",
+  "name": "Harbormaster of the Open Coast",
+  "icon": "minecraft:nautilus_shell",
+  "description": "Fen names no flagship. Every captain receives the same charter: carry people who need passage, and come back with the whole crew.\n\nAcquire a bell and 8 lanterns for the public pier. Your Harbormaster title marks the completed fleet story.",
+  "category": "ac_guilds",
+  "sub-category": "ac_harbor",
+  "dependencies": [
+    "ac_harbor05"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:bell",
+        "count": 1
+      },
+      {
+        "collect": "minecraft:lantern",
+        "count": 8
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 12
+      },
+      {
+        "item": "minecraft:experience_bottle",
+        "count": 12
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

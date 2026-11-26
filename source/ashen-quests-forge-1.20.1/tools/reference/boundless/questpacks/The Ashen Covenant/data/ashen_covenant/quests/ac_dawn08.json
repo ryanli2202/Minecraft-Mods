@@ -1,0 +1,43 @@
+{
+  "id": "ac_dawn08",
+  "name": "The Unwritten Kingdoms",
+  "icon": "minecraft:beacon",
+  "description": "Rowan finds your first relief letter in the archive. The seal is broken and the paper smoke-stained. Beneath the plea for a light, a new hand has added: \"We kept it burning.\" THE ASHEN COVENANT II: COMPLETE. The roads, companions, and unfinished discoveries now belong to you.\n\nEnter \"we kept it burning\" to sign the final chronicle. Both books of the main campaign are complete. Optional factions, mastery trials, and contracts remain available.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_dawn",
+  "dependencies": [
+    "ac_dawn07"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "field": "we kept it burning",
+        "field_text": "Enter the words shown in the journal."
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:netherite_ingot",
+        "count": 2
+      },
+      {
+        "item": "minecraft:emerald",
+        "count": 32
+      },
+      {
+        "item": "minecraft:golden_apple",
+        "count": 4
+      }
+    ],
+    "exp": "points",
+    "count": 400
+  }
+}

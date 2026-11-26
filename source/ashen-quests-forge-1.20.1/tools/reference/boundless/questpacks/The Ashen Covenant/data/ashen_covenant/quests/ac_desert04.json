@@ -1,0 +1,40 @@
+{
+  "id": "ac_desert04",
+  "name": "The Guards of a Buried Border",
+  "icon": "minecraft:sandstone",
+  "description": "The Cursed Pyramid still treats travelers as trespassers. Its soldiers have no orders for recognizing a foreign council.\n\nDefeat 12 Cataclysm koboletons during the pyramid expedition. Their exact registered target is cataclysm:koboleton.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_desert02",
+    "ac_desert03"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "kill": "cataclysm:koboleton",
+        "count": 12
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 8
+      }
+    ],
+    "exp": "points",
+    "count": 140
+  }
+}

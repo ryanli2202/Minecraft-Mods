@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga"
+  ],
+  "spawners": {
+    "type": "deepnight:frozen_sentinel",
+    "weight": 2,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

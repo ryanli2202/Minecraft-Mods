@@ -1,0 +1,39 @@
+{
+  "id": "ac_sea03",
+  "name": "A Harbor under the Harbor",
+  "icon": "minecraft:fishing_rod",
+  "description": "Fen's grandmother spoke of a beacon that works beneath the sea. Its fragments still wash ashore after storms.\n\nGather 8 nautilus shells and one Heart of the Sea. Keep them to make a conduit.",
+  "category": "ac_guilds",
+  "sub-category": "ac_sea",
+  "dependencies": [
+    "ac_sea02"
+  ],
+  "optional": true,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": false,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "collect": "minecraft:nautilus_shell",
+        "count": 8
+      },
+      {
+        "collect": "minecraft:heart_of_the_sea",
+        "count": 1
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:prismarine",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 90
+  }
+}

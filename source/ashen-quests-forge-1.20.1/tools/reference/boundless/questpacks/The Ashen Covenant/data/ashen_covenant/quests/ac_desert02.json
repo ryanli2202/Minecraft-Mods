@@ -1,0 +1,39 @@
+{
+  "id": "ac_desert02",
+  "name": "Water for the Unsworn",
+  "icon": "minecraft:sandstone",
+  "description": "The oasis keepers will guide you if you first help families who refused the oath. Rowan sends the supplies without demanding loyalty in return.\n\nDonate 24 glass bottles and 24 melon slices to the displaced families.\n\nTurn-in: submitted items are consumed when you claim this quest.",
+  "category": "ac_reckoning",
+  "sub-category": "ac_desert",
+  "dependencies": [
+    "ac_desert01"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "submit": "minecraft:glass_bottle",
+        "count": 24
+      },
+      {
+        "submit": "minecraft:melon_slice",
+        "count": 24
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      }
+    ],
+    "exp": "points",
+    "count": 100
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "ENE",
+    " A "
+  ],
+  "key": {
+    "S": {
+      "item": "deepnight:dawn_skeletonlord_sigil"
+    },
+    "E": {
+      "item": "deepnight:night_essence"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "deepnight:dragonfists"
+  }
+}

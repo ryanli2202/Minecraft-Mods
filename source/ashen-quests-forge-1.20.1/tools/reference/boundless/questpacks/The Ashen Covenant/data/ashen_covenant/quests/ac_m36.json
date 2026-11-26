@@ -1,0 +1,38 @@
+{
+  "id": "ac_m36",
+  "name": "36 | A Sky without Dawn",
+  "icon": "minecraft:end_stone",
+  "description": "The portal answers. On the other side there is no sunrise to promise you a second chance. You carry the letters from Dawnstead in a dry pocket.\n\nOpen the End portal using End Remastered's rules and enter the End. Earn The End? Bring empty bottles for dragon breath, building blocks, ranged attacks, and a way to handle falls.",
+  "category": "ac_story",
+  "sub-category": "ac_act6",
+  "dependencies": [
+    "ac_treaty08"
+  ],
+  "optional": false,
+  "repeatable": false,
+  "auto_complete": false,
+  "hiddenUnderDependency": true,
+  "lock_after_dependency": false,
+  "type": "collection",
+  "completion": {
+    "complete": [
+      {
+        "achieve": "minecraft:story/enter_the_end"
+      }
+    ]
+  },
+  "reward": {
+    "items": [
+      {
+        "item": "minecraft:glass_bottle",
+        "count": 8
+      },
+      {
+        "item": "minecraft:golden_carrot",
+        "count": 16
+      }
+    ],
+    "exp": "points",
+    "count": 160
+  }
+}

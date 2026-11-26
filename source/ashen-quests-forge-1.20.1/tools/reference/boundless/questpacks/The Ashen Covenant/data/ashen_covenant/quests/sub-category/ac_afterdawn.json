@@ -1,0 +1,8 @@
+{
+  "id": "ac_afterdawn",
+  "category": "ac_legends",
+  "name": "The Unfinished Atlas",
+  "icon": "minecraft:nether_star",
+  "order": 1,
+  "default_open": true
+}
